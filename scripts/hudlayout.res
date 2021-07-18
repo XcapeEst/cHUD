@@ -3,6 +3,22 @@
 
 "Resource/HudLayout.res"
 {
+	TransparentViewmodelMask
+	{
+		//alpha doesn't work for this, you need to change the texture's alpha
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TransparentViewmodelMask"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-100"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/REFRACTnormal_transparent"
+		"scaleImage"	"1"
+	}
+
 	HudPlayerStatus
 	{
 		"fieldName"		"HudPlayerStatus"
@@ -71,10 +87,10 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c66"	[$WIN32]
-		"ypos"			"r183"	[$WIN32]
-		"wide"			"320"
-		"tall"			"120"
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
+		"wide"			"854"
+		"tall"			"480"
 	}
 	
 	HudDemomanCharge
@@ -463,8 +479,8 @@
 		"fieldName" 			"HudDeathNotice"
 		"visible" 				"1"
 		"enabled" 				"1"
-		"xpos"   				"r606" [$WIN32]
-		"ypos"   				"66"   [$WIN32]
+		"xpos"   				"r607" [$WIN32]
+		"ypos"   				"4"   [$WIN32]
 		"wide"   				"600"
 		"tall"  				"600"
 

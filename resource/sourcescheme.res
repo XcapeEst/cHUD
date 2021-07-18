@@ -456,10 +456,10 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
-				"tall"			"15"
+				"name"			"Lucida Console"
+				"tall"			"12"
 				"weight"		"0"
-				"antialias"		"1"
+				"antialias"		"0"
 			}
 		}
 

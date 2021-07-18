@@ -13,7 +13,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"HealthBonusPosAdj"			"32"
-		"HealthDeathWarning"		".49"
+		"HealthDeathWarning"		".75"
 		"HealthDeathWarningColor"	"200 52 52 255"
 	}
 	
