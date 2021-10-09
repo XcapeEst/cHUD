@@ -18,10 +18,10 @@
 	{
 		"ControlName"	"CEventPlayListEntry"
 		"fieldName"		"EventEntry"
-		"xpos"			"r620"
-		"ypos"			"4"
+		"xpos"			"0"
+		"ypos"			"32"
 		"zpos"			"3"
-		"tall"			"66"
+		"tall"			"16"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -33,10 +33,10 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CasualEntry"
-		"xpos"			"r496"
-		"ypos"			"4"
+		"xpos"			"0"
+		"ypos"			"64"
 		"zpos"			"3"
-		"tall"			"66"
+		"tall"			"16"
 		"wide"			"120"
 		"proportionaltoparent"	"0"
 
@@ -51,10 +51,10 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CompetitiveEntry"
-		"xpos"			"r372"
-		"ypos"			"4"
+		"xpos"			"0"
+		"ypos"			"80"
 		"zpos"			"3"
-		"tall"			"66"
+		"tall"			"16"
 		"wide"			"120"
 		"proportionaltoparent"	"0"
 
@@ -69,10 +69,10 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"MvMEntry"
-		"xpos"			"r248"
-		"ypos"			"4"
+		"xpos"			"0"
+		"ypos"			"96"
 		"zpos"			"3"
-		"tall"			"66"
+		"tall"			"16"
 		"wide"			"120"
 		"proportionaltoparent"	"0"
 
@@ -121,10 +121,10 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CreateServerEntry"
-		"xpos"			"r124"
-		"ypos"			"4"
+		"xpos"			"0"
+		"ypos"			"112"
 		"zpos"			"3"
-		"tall"			"66"
+		"tall"			"16"
 		"wide"			"120"
 		"proportionaltoparent"	"0"
 

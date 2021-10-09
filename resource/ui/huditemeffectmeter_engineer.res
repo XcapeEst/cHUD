@@ -95,7 +95,7 @@
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"center"
-		"fgcolor_override"				"0 0 0 110"
+		"fgcolor_override"		"0 0 0 110"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"productbold18"

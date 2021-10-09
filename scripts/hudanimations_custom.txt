@@ -94,29 +94,22 @@ event HudHealthDyingPulseStop
 
 event HudLowAmmoPulse
 {
-	Animate	HudWeaponLowAmmoImage			Alpha		"80"				Linear 0.0 0.075
-	Animate	HudWeaponLowAmmoImage			Alpha		"255"				Linear 0.125 0.075
-	Animate	AmmoInReserve					FgColor		"softred"			Linear 0.0 0.0
-	Animate	AmmoInClip						FgColor		"softred"			Linear 0.0 0.0
-	Animate	AmmoNoClip						FgColor		"softred"			Linear 0.0 0.0
+	Animate		LowBG					alpha	"255"	Deaccel	0.0	0.25
 
-	RunEvent HudLowAmmoPulseLoop			0.25
+	RunEvent HudLowAmmoPulseLoop		0.25
 }
 
 // call to loop HudLowAmmoPulse
 event HudLowAmmoPulseLoop
 {
-	RunEvent HudLowAmmoPulse 				0.0
+	RunEvent HudLowAmmoPulse 			0.0
 }
 
 event HudLowAmmoPulseStop
 {
-	StopEvent HudLowAmmoPulse 				0.0
-	StopEvent HudLowAmmoPulseLoop 			0.0
-	Animate	HudWeaponAmmoBGLow				Alpha		"0"					Linear 0.0 0.0
-	Animate	AmmoInReserve					FgColor		"43 195 123 255"	Linear 0.0 0.0
-	Animate	AmmoInClip						FgColor		"menutext"			Linear 0.0 0.0
-	Animate	AmmoNoClip						FgColor		"menutext"			Linear 0.0 0.0
+	StopEvent	HudLowAmmoPulse 		0.0
+	StopEvent	HudLowAmmoPulseLoop 	0.0
+	Animate		LowBG					alpha	"0"		Deaccel	0.0 0.25
 }
 
 
@@ -143,8 +136,8 @@ event HudMedicChargedStop
 	StopEvent HudMedicCharged 				0.0
 	StopEvent HudMedicChargedLoop 			0.0
 
-	Animate	ChargeLabel 					FgColor		"216 216 216 255"	Linear 0.0 0.0001
-	Animate	ChargeMeter 					FgColor		"216 216 216 255"	Linear 0.0 0.0001
+	Animate	ChargeLabel 					FgColor		"216 216 216 255"	Accel 0.0 0.0001
+	Animate	ChargeMeter 					FgColor		"216 216 216 255"	Accel 0.0 0.0001
 }
 
 //====================================

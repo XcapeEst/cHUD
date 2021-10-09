@@ -35,10 +35,10 @@
 		"fieldName" 	"HudWeaponAmmo"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c66"	[$WIN32]
-		"ypos"			"r183"	[$WIN32]
-		"wide"			"320"
-		"tall"			"120"
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
+		"wide"			"640"
+		"tall"			"480"
 	}
 	
 	HudObjectiveStatus
@@ -87,8 +87,8 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"0"	[$WIN32]
-		"ypos"			"0"	[$WIN32]
+		"xpos"			"0"
+		"ypos"			"0"
 		"wide"			"854"
 		"tall"			"480"
 	}
@@ -98,7 +98,7 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-70"	[$WIN32]
+		"xpos"			"c-32"	[$WIN32]
 		"ypos"			"r108"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"140"
@@ -196,10 +196,10 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-30"	[$WIN32]
-		"ypos"					"r138"	[$WIN32]
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"640"
+		"tall"  				"480"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -413,13 +413,13 @@
 		"fieldName"			"HudDamageIndicator"
 		"visible" 			"1"
 		"enabled" 			"1"
-		"MinimumWidth" 		"12"
-		"MaximumWidth" 		"48"
-		"StartRadius" 		"220"
-		"EndRadius" 		"120"
-		"MinimumHeight" 	"30"
-		"MaximumHeight" 	"50"
-		"MinimumTime" 		".7"
+		"MinimumWidth" 		"4"
+		"MaximumWidth" 		"16"
+		"StartRadius" 		"128"
+		"EndRadius" 		"32"
+		"MinimumHeight" 	"10"
+		"MaximumHeight" 	"30"
+		"MinimumTime" 		".5"
 	}
 
 	HudCommentary
@@ -1019,10 +1019,10 @@
 		"fieldName"				"HudDemomanPipes"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-70"	[$WIN32]
-		"ypos"					"r163"	[$WIN32]
-		"wide"					"140"
-		"tall"					"50"
+		"xpos"					"0"	[$WIN32]
+		"ypos"					"0"	[$WIN32]
+		"wide"					"640"
+		"tall"					"480"
 	}	
 
 	HudTeamGoal
