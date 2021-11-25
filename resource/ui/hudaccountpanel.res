@@ -81,22 +81,4 @@
 		"brighttext"	"0"
 		"font"			"productbold10"
 	}
-	"AccountValueS"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"AccountValueS"
-		"xpos"			"cs-0.5"
-		"ypos"			"c5"
-		"zpos"			"4"
-		"wide"			"20"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%metal%"
-		"textAlignment"	"center"
-		"fgcolor"	"0 0 0 80"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"font"			"productbold10blur"
-	}
 }

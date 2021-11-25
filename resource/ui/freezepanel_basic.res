@@ -173,7 +173,7 @@
 			"visible"		"1"
 			"enabled"		"1"	
 			"HealthBonusPosAdj"	"0"
-			"HealthDeathWarning"	".49"
+			"HealthDeathWarning"	".9"
 		}	
 
 		"FreezeLabelKiller"

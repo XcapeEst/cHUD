@@ -144,7 +144,6 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton1"
-		"fieldName"		"teambutton0"
 		"xpos"			"c2"
 		"ypos"			"c-54"
 		"zpos"			"400"		
@@ -182,38 +181,6 @@
 
 	
 	
-	"teambutton3"
-	{
-		"ControlName"	"CTFTeamButton"
-		"fieldName"		"teambutton3"
-		"xpos"			"c-110"
-		"ypos"			"c58"
-		"zpos"			"12"
-		"textinsetx"			"28" 
-		"auto_wide_tocontents"			"1" 
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"2"
-		"labelText"		"SPECTATE"	[$WIN32]
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"paintborder"	"0"
-		"paintbackground"	"1"
-		"command"		"jointeam spectate"
-		"associated_model"	"spectate"	
-		"defaultbgcolor"		"0 0 0 165"
-		"defaultbgcolor_override"		"0 0 0 165"
-		"bgcolor"		"0 0 0 165"
-		"bgcolor_override"		"0 0 0 165"
-		"fgcolor_override"		"tanlight120"
-		"armedbgcolor_override"		"255 255 255 16"
-		"defaultfgcolor_override"		"tanlight120"
-		"font"			"product8"
-	}
 	"teambutton2"
 	{
 		"ControlName"	"CTFTeamButton"
@@ -255,6 +222,40 @@
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
+	
+	"teambutton3"
+	{
+		"ControlName"	"CTFTeamButton"
+		"fieldName"		"teambutton3"
+		"xpos"			"c-110"
+		"ypos"			"c58"
+		"zpos"			"12"
+		"textinsetx"			"28" 
+		"auto_wide_tocontents"			"1" 
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"2"
+		"labelText"		"SPECTATE"	[$WIN32]
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"paintborder"	"0"
+		"paintbackground"	"1"
+		"command"		"jointeam spectate"
+		"associated_model"	"spectate"	
+		"defaultbgcolor"		"0 0 0 165"
+		"defaultbgcolor_override"		"0 0 0 165"
+		"bgcolor"		"0 0 0 165"
+		"bgcolor_override"		"0 0 0 165"
+		"fgcolor_override"		"tanlight120"
+		"armedbgcolor_override"		"255 255 255 16"
+		"defaultfgcolor_override"		"tanlight120"
+		"font"			"product8"
+	}
+
 	"SpecButtonShowInvis"
 	{
 		"ControlName"	"CTFTeamButton"
@@ -393,8 +394,6 @@
 		"zpos"			"2"
 		"wide"			"0"
 		"tall"			"32"
-		"autoResize"	"0"
-		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%bluecount%"

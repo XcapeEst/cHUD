@@ -13,7 +13,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"HealthBonusPosAdj"			"32"
-		"HealthDeathWarning"		".80"
+		"HealthDeathWarning"		".9"
 		"HealthDeathWarningColor"	"200 52 52 255"
 	}
 	
@@ -79,23 +79,6 @@
 		"textAlignment"	"center"
 		"font"			"ProductBold40"
 		"fgcolor"		"236 236 236 255"
-	}
-	
-	"PlayerStatusHealthValueMainShadowHidden"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueMainShadowHidden"
-		"xpos"			"cs-0.5"
-		"ypos"			"r160"
-		"zpos"			"5"
-		"wide"			"128"
-		"tall"			"68"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%Health%"
-		"textAlignment"	"center"
-		"font"			"ProductBold40blur"
-		"fgcolor"		"0 0 0 255"
 	}
 
 	"PlayerStatusBleedImage"

@@ -9,7 +9,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"PositiveColor"			"39 196 124 255"
-		"NegativeColor"			"30 177 162 255"
+		"NegativeColor"			"200 52 52 255"
 		"delta_lifetime"		"2"
 		"delta_item_font"		"Damage18"
 		"delta_item_font_big"	"Damage18"
@@ -29,6 +29,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
 		"font"			"ProductBold20"
-		"fgcolor"		"30 177 162 255"
+		"fgcolor"		"200 52 52 255"
 	}
 }
