@@ -54,7 +54,7 @@
 			"pinCorner"		"3"
 
 			"DescLabel"
-			{
+				{
 				"ControlName"	"CAutoFittingLabel"
 				"fieldName"		"DescLabel"
 				"xpos"			"0"
@@ -72,7 +72,7 @@
 				"pinCorner"		"3"
 
 				"fonts"
-				{
+					{
 					"0"		"HudFontSmallestBold"
 					"1"		"StorePromotionsTitle"
 					"2"		"FontStorePrice"
@@ -80,7 +80,7 @@
 			}
 
 			"AutoJoinLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"AutoJoinLabel"
 				"xpos"			"0"
@@ -99,7 +99,7 @@
 			}
 
 			"AbandonButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"AbandonButton"
 				"xpos"			"rs1-10"
@@ -130,7 +130,7 @@
 			}
 
 			"SmallJoinButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"SmallJoinButton"
 				"xpos"			"10"
@@ -140,7 +140,7 @@
 				"tall"			"15"
 
 				if_expected
-				{
+					{
 					"xpos"			"cs-0.5"
 					"wide"			"150"
 				}
@@ -169,7 +169,7 @@
 			}
 
 			"WideJoinButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"WideJoinButton"
 				"xpos"			"cs-0.5"
@@ -202,7 +202,7 @@
 			}
 
 			"JoiningLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"JoiningLabel"
 				"xpos"			"cs-1"
@@ -221,7 +221,7 @@
 			}
 
 			"Spinner"
-			{
+				{
 				"ControlName"	"CTFLogoPanel"
 				"fieldName"		"Spinner"
 				"xpos"			"c+5"

@@ -228,7 +228,7 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"product8"
@@ -276,7 +276,7 @@
 			"visible"		"0"
 		
 			"UpgradeIcon"
-			{
+				{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
 				"wide"			"0"

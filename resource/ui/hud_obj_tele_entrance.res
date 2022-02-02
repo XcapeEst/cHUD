@@ -227,7 +227,7 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"product8"
@@ -275,7 +275,7 @@
 			"visible"		"0"
 			
 			"TeleportedIcon"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"TeleportedIcon"
 				"xpos"			"0"
@@ -291,7 +291,7 @@
 			}
 			
 			"ChargingPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ChargingPanel"
 				"xpos"			"0"
@@ -320,7 +320,7 @@
 			}
 			
 			"FullyChargedPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FullyChargedPanel"
 				"xpos"			"0"
@@ -350,7 +350,7 @@
 			}	
 			
 			"UpgradeIcon"
-			{
+				{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
 				"wide"			"0"

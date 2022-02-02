@@ -101,7 +101,7 @@
 			"visible"		"1"
 			
 			"MannUpImage2"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"MannUpImage2"
 				"xpos"			"0"
@@ -255,7 +255,7 @@
 			"visible"		"1"
 			
 			"BootcampImage2"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"BootcampImage2"
 				"xpos"			"0"

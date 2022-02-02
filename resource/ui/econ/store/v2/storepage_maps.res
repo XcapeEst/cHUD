@@ -12,7 +12,7 @@
 			"model_tall"	"70"
 			
 			"itemmodelpanel"
-			{
+				{
 				"force_square_image"	"1"
 			}
 		}

@@ -233,7 +233,7 @@ Scheme
 		"DebugFixed"
 		{
 			"1"
-			{
+				{
 				"name"			"Courier New"
 				"tall"			"10"
 				"weight"		"500"
@@ -244,7 +244,7 @@ Scheme
 		"DebugFixedSmall"
 		{
 			"1"
-			{
+				{
 				"name"			"Courier New"
 				"tall"			"7"
 				"weight"		"500"
@@ -252,9 +252,9 @@ Scheme
 			}
 		}
 		"DefaultFixedOutline"
-		{
+	{
 		"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"8"
 				"weight"		"0"
@@ -265,7 +265,7 @@ Scheme
 		"Default"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
@@ -275,7 +275,7 @@ Scheme
 		"DefaultBold"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
@@ -285,7 +285,7 @@ Scheme
 		"DefaultUnderline"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
@@ -295,7 +295,7 @@ Scheme
 		"DefaultSmall"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
@@ -305,7 +305,7 @@ Scheme
 		"DefaultSmallDropShadow"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
@@ -315,7 +315,7 @@ Scheme
 		"DefaultVerySmall"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma" [$WINDOWS]
 				"name"			"Verdana" [!$WINDOWS]
 				"tall"			"12"
@@ -326,7 +326,7 @@ Scheme
 		"DefaultLarge"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"15"
 				"weight"		"0"
@@ -336,7 +336,7 @@ Scheme
 		"UiBold"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"16"
 				"weight"		"0"
@@ -346,7 +346,7 @@ Scheme
 		"ChapterTitle"	[$X360]
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"20"
 				"tall_hidef"	"28"
@@ -357,7 +357,7 @@ Scheme
 		"ChapterTitleBlur"	[$X360]
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"20"
 				"tall_hidef"	"28"
@@ -369,20 +369,20 @@ Scheme
 		"MenuLarge"
 		{
 			"1"	[$LINUX]
-			{
+				{
 				"name"			"Helvetica Bold"
 				"tall"			"20"
 				"antialias" 	"1"
 			}
 			"1"	[!$LINUX]
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"16"
 				"weight"		"600"
 				"antialias" 	"1"
 			}
 			"1"	[$X360]
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"14"
 				"tall_hidef"	"20"
@@ -394,7 +394,7 @@ Scheme
 		"AchievementTitleFont"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"1200"
@@ -406,7 +406,7 @@ Scheme
 		"AchievementTitleFontSmaller"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"18"
 				"weight"		"1200"
@@ -419,7 +419,7 @@ Scheme
 		"AchievementDescriptionFont"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"15"
 				"weight"		"1200"
@@ -428,7 +428,7 @@ Scheme
 				"yres"			"0 480"
 			}
 			"2"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"1200"
@@ -441,7 +441,7 @@ Scheme
 		GameUIButtons
 		{
 			"1"	[$X360]
-			{
+				{
 				"bitmap"		"1"
 				"name"			"Buttons"
 				"scalex"		"0.63"
@@ -455,7 +455,7 @@ Scheme
 		"ConsoleText"
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"			"Lucida Console"
 				"tall"			"12"
 				"weight"		"0"
@@ -467,7 +467,7 @@ Scheme
 		"Marlett"
 		{
 			"1"
-			{
+				{
 				"name"			"Marlett"
 				"tall"			"14"
 				"weight"		"0"
@@ -478,7 +478,7 @@ Scheme
 		"Trebuchet24"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
 				"weight"		"900"
@@ -488,7 +488,7 @@ Scheme
 		"Trebuchet20"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"20"
 				"weight"		"900"
@@ -498,7 +498,7 @@ Scheme
 		"Trebuchet18"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"18"
 				"weight"		"900"
@@ -510,7 +510,7 @@ Scheme
 		"HUDNumber"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"40"
 				"weight"		"900"
@@ -519,7 +519,7 @@ Scheme
 		"HUDNumber1"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"41"
 				"weight"		"900"
@@ -528,7 +528,7 @@ Scheme
 		"HUDNumber2"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"42"
 				"weight"		"900"
@@ -537,7 +537,7 @@ Scheme
 		"HUDNumber3"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"43"
 				"weight"		"900"
@@ -546,7 +546,7 @@ Scheme
 		"HUDNumber4"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"44"
 				"weight"		"900"
@@ -555,7 +555,7 @@ Scheme
 		"HUDNumber5"
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"45"
 				"weight"		"900"
@@ -564,7 +564,7 @@ Scheme
 		"DefaultFixed"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
@@ -581,7 +581,7 @@ Scheme
 		"DefaultFixedDropShadow"
 		{
 			"1"
-			{
+				{
 				"name"		 	"Lucida Console" [$WINDOWS]
 				"name"		 	"Lucida Console" [$X360]
 				"name"		 	"Lucida Console" [$OSX]
@@ -602,7 +602,7 @@ Scheme
 		"CloseCaption_Normal"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma" 	[!$POSIX]
 				"name"			"Verdana" 	[$POSIX]
 				"tall"			"16"
@@ -612,7 +612,7 @@ Scheme
 		"CloseCaption_Italic"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"16"
 				"weight"		"500"
@@ -622,7 +622,7 @@ Scheme
 		"CloseCaption_Bold"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma" 		[!$POSIX]
 				"name"			"Verdana Bold" 	[$POSIX]
 				"tall"			"16"
@@ -632,7 +632,7 @@ Scheme
 		"CloseCaption_BoldItalic"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma" 				[!$POSIX]
 				"name"			"Verdana Bold Italic" 	[$POSIX]
 				"tall"			"16"
@@ -644,7 +644,7 @@ Scheme
 		TitleFont
 		{
 			"1"
-			{
+				{
 				"name"			"HalfLife2"
 				"tall"			"72"
 				"weight"		"400"
@@ -656,7 +656,7 @@ Scheme
 		TitleFont2
 		{
 			"1"
-			{
+				{
 				"name"			"HalfLife2"
 				"tall"			"120"
 				"weight"		"400"
@@ -668,7 +668,7 @@ Scheme
 		AppchooserGameTitleFont	[$X360]
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"18"
 				"weight"		"0"
@@ -679,7 +679,7 @@ Scheme
 		AppchooserGameTitleFontBlur	[$X360]
 		{
 			"1"
-			{
+				{
 				"name"			"Trebuchet MS"
 				"tall"			"16"
 				"tall_hidef"	"24"
@@ -693,7 +693,7 @@ Scheme
 		StatsTitle	[$WIN32]
 		{
 			"1"
-			{
+				{
 				"name"			"Arial" [!$POSIX]
 				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"2000"
@@ -705,7 +705,7 @@ Scheme
 		StatsText	[$WIN32]
 		{
 			"1"
-			{
+				{
 				"name"			"Arial" [!$POSIX]
 				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"2000"
@@ -717,7 +717,7 @@ Scheme
 		AchievementItemTitle	[$WIN32]
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
@@ -728,7 +728,7 @@ Scheme
 		AchievementItemDate	[$WIN32]
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
@@ -740,7 +740,7 @@ Scheme
 		StatsPageText
 		{
 			"1"
-			{
+				{
 				"name"			"Arial" [!$POSIX]
 				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"1500"
@@ -753,7 +753,7 @@ Scheme
 		AchievementItemTitleLarge	[$WIN32]
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
@@ -764,7 +764,7 @@ Scheme
 		AchievementItemDescription	[$WIN32]
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
@@ -776,7 +776,7 @@ Scheme
 		"ServerBrowserTitle"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"24"
 				"weight"		"0"
@@ -787,7 +787,7 @@ Scheme
 		"ServerBrowserSmall"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"

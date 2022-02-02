@@ -70,7 +70,7 @@
 			"disable_manipulation"	"1"
 
 			"model"
-			{
+				{
 				"angles_x"		"10"
 				"angles_y"		"130"
 				"angles_z"		"0"
@@ -367,7 +367,7 @@
 			"inset_eq_y"	"2"
 		
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}

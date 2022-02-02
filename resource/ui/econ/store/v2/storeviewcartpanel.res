@@ -38,7 +38,7 @@
 			"tall"			"60"
 		
 			"itempanel"
-			{
+				{
 				"ControlName"	"CItemModelPanel"
 				"fieldname"		"itempanel"
 				"xpos"			"0"
@@ -65,7 +65,7 @@
 				"name_only"		"1"
 				
 				"itemmodelpanel"
-				{
+					{
 					"use_item_rendertarget" "0"
 					"allow_rot"				"0"
 					"inventory_image_type"	"1"
@@ -73,7 +73,7 @@
 			}
 			
 			"quantitylabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldname"		"quantitylabel"
 				"font"			"HudFontSmallestBold"
@@ -91,7 +91,7 @@
 			}
 			
 			"SeparatorLine"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SeparatorLine"
 				"xpos"			"0"
@@ -106,7 +106,7 @@
 			}			
 			
 			"RemoveButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"RemoveButton"
 				"xpos"			"375"
@@ -131,7 +131,7 @@
 			}	
 			
 			"PriceLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldname"		"PriceLabel"
 				"font"			"FontCartPrice"
@@ -150,7 +150,7 @@
 			}
 
 			"PreviewItemLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldname"		"PreviewItemLabel"
 				"font"			"HudFontSmallest"
@@ -304,20 +304,20 @@
 			"autohide_buttons" "1"
 			
 			"Scrollbar"
-			{
+				{
 				"xpos"			"586"
 				"wide"			"11"
 				"tall"			"240"
 				"zpos"			"1000"
 				
 				"Slider"
-				{
+					{
 					"PaintBackgroundType"	"2"
 				}
 				
 				"nobuttons"		"1"
 				"UpButton"
-				{
+					{
 					"ControlName"	"Button"
 					"FieldName"		"UpButton"
 					"visible"		"0"
@@ -326,7 +326,7 @@
 				}
 				
 				"DownButton"
-				{
+					{
 					"ControlName"	"Button"
 					"FieldName"		"DownButton"
 					"visible"		"0"
@@ -336,7 +336,7 @@
 			}
 			
 			"ItemListContainer"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ItemListContainer"
 				"xpos"			"0"
@@ -348,7 +348,7 @@
 				"bgcolor_override"	"200 187 161 0"
 				
 				"FeaturedItemSymbol"
-				{
+					{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"FeaturedItemSymbol"
 					"xpos"			"c-225"
@@ -363,7 +363,7 @@
 				}
 				
 				"PurchaseFooter"
-				{
+					{
 					"ControlName"	"EditablePanel"
 					"fieldName"		"PurchaseFooter"
 					"wide"			"580"
@@ -371,7 +371,7 @@
 					"bgcolor_override"	"0 0 0 0"	
 					
 					"EstimatedTotalLabel"
-					{
+						{
 						"ControlName"	"CExLabel"
 						"fieldName"		"EstimatedTotalLabel"
 						"font"			"HudFontSmall"
@@ -388,7 +388,7 @@
 						"enabled"		"1"
 					}
 					"WashingtonStateSalesTaxLabel"
-					{
+						{
 						"ControlName"	"CExLabel"
 						"fieldName"		"WashingtonStateSalesTaxLabel"
 						"font"			"HudFontSmallest"
@@ -406,7 +406,7 @@
 						"fgcolor_override" "130 120 104 255"
 					}
 					"TotalSubtextLabelB"
-					{
+						{
 						"ControlName"	"CExLabel"
 						"fieldName"		"TotalSubtextLabelB"
 						"font"			"HudFontSmallest"
@@ -425,7 +425,7 @@
 					}
 					
 					"TotalPriceLabel"
-					{
+						{
 						"ControlName"	"Label"
 						"fieldname"		"TotalPriceLabel"
 						"font"			"FontCartPrice"

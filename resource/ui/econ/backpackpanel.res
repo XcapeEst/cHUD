@@ -52,7 +52,7 @@
 			"paintborder"	"1"
 
 			"Button"
-			{
+				{
 				"fieldName"		"Button"
 				"ControlName"	"CExButton"
 				"wide"			"25"
@@ -70,7 +70,7 @@
 			}
 
 			"New"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"New"
 				"font"			"HEAVY10"
@@ -121,7 +121,7 @@
 			"inset_eq_y"	"2"
 
 			"itemmodelpanel"
-			{
+				{
 				"allow_rot"				"0"
 				"zpos"					"1"
 				"use_item_rendertarget" "0"
@@ -129,7 +129,7 @@
 			}
 
 			"New"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"New"
 				"font"			"TFFontMedium"
@@ -682,7 +682,7 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -747,7 +747,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -981,7 +981,7 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1028,7 +1028,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1093,7 +1093,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1203,7 +1203,7 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1250,7 +1250,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1297,7 +1297,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1425,7 +1425,7 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1472,7 +1472,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1519,7 +1519,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1646,7 +1646,7 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1693,7 +1693,7 @@
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"

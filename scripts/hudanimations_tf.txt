@@ -1768,7 +1768,7 @@ event HealthProgressBar_Selected
 
 event HealthProgressBar_NotSelected
 {
-	Animate HealthProgressBar	Alpha 50 Deaccel 0 0.2
+	Animate HealthProgressBar	Alpha 10 Deaccel 0 0.2
 }
 
 event MMenu_UpdateButton_StartGlow

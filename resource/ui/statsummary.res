@@ -111,7 +111,7 @@
 			"enabled"		"1"
 	
 			"BG"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BG"
 				"xpos"			"9999"
@@ -126,7 +126,7 @@
 			}
 	
 			"ActualLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"ActualLabel"
 				"font"			"HudFontSmallBold"
@@ -296,7 +296,7 @@
 			"enabled"	"1"
 	
 			"BarChartLabelA"
-			{
+				{
 				"ControlName"		"Label"
 				"fieldName"		"BarChartLabelA"
 				"font"			"ScoreboardVerySmall"
@@ -319,7 +319,7 @@
 				"enabled"		"1"
 			}
 			"BarChartLabelB"
-			{
+				{
 				"ControlName"		"Label"
 				"fieldName"		"BarChartLabelB"
 				"font"			"ScoreboardVerySmall"
@@ -341,7 +341,7 @@
 				"enabled"		"1"
 			}			
 			"OverallRecordLabel"
-			{
+				{
 				"ControlName"		"Label"
 				"fieldName"		"OverallRecordLabel"
 				"font"			"ScoreboardVerySmall"
@@ -377,7 +377,7 @@
 			"enabled"	"1"
 
 			"BarChartComboA"
-			{
+				{
 				"ControlName"		"ComboBox"
 				"fieldName"		"BarChartComboA"
 				"xpos"		"c-285"
@@ -397,7 +397,7 @@
 				"unicode"		"0"
 			}
 			"BarChartComboB"
-			{
+				{
 				"ControlName"		"ComboBox"
 				"fieldName"		"BarChartComboB"
 				"xpos"		"c-127"
@@ -417,7 +417,7 @@
 				"unicode"		"0"
 			}
 			"ClassCombo"
-			{
+				{
 				"ControlName"		"ComboBox"
 				"fieldName"		"ClassCombo"
 				"xpos"		"c+124"

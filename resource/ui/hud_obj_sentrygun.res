@@ -258,7 +258,7 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"product8"
@@ -306,7 +306,7 @@
 			"visible"		"0"
 			
 			"KillIcon"	
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"KillIcon"
 				"xpos"			"0"
@@ -341,7 +341,7 @@
 			}
 					
 			"ShellIcon"	
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"ShellIcon"
 				"xpos"			"0"
@@ -376,7 +376,7 @@
 			}
 			
 			"RocketIcon"	
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"RocketIcon"
 				"xpos"			"0"
@@ -410,7 +410,7 @@
 			}
 
 			"UpgradeIcon"
-			{
+				{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
 				"xpos"			"0"

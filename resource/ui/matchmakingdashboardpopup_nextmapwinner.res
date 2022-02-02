@@ -54,7 +54,7 @@
 			"pinCorner"		"2"
 
 			"DescLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
 				"xpos"			"0"
@@ -72,7 +72,7 @@
 			}
 
 			"MapImageClip"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MapImageClip"
 				"xpos"			"cs-0.5"
@@ -84,7 +84,7 @@
 				"mouseinputenabled"	"0"
 
 				"MapImage"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"MapImage"
 					"xpos"			"cs-0.5"
@@ -99,7 +99,7 @@
 			}
 
 			"NameLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"NameLabel"
 				"xpos"			"0"

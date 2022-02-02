@@ -16,7 +16,7 @@
 	TextureData
 	{
 		"whiteAdditive"
-		{
+			{
 				"file"		"vgui/white_additive"
 				"x"		"0"
 				"y"		"0"
@@ -25,121 +25,121 @@
 		}
 
 		"plus_sign"
-		{
+			{
 				"font"		"Icons"
 				"character"	"+"
 		}
 		
 		"minus_sign"
-		{
+			{
 				"font"		"Icons"
 				"character"	"-"
 		}
 		
 		"dollar_sign"
-		{
+			{
 				"font"		"Icons"
 				"character"	"$"
 		}
 		
 		"health_icon"
-		{
+			{
 				"font"		"Icons"
 				"character"	"b"
 		}
 		
 		"timer_icon"
-		{
+			{
 				"font"		"Icons"
 				"character"	"e"
 		}
 		
 		"shield_kevlar_bright"
-		{
+			{
 				"font"		"Icons"
 				"character"	"l"
 		}
 		
 		"shield_kevlar"
-		{
+			{
 				"font"		"Icons"
 				"character"	"l"
 		}
 		
 		"shield_bright"
-		{
+			{
 				"font"		"Icons"
 				"character"	"a"
 		}
 		
 		"shield"
-		{
+			{
 				"font"		"Icons"
 				"character"	"a"
 		}
 		
 		"number_0"
-		{
+			{
 				"font"		"Icons"
 				"character"	"0"
 		}
 
 		"number_1"
-		{
+			{
 				"font"		"Icons"
 				"character"	"1"
 		}
 
 		"number_2"
-		{
+			{
 				"font"		"Icons"
 				"character"	"2"
 		}
 
 		"number_3"
-		{
+			{
 				"font"		"Icons"
 				"character"	"3"
 		}
 
 		"number_4"
-		{
+			{
 				"font"		"Icons"
 				"character"	"4"
 		}
 
 		"number_5"
-		{
+			{
 				"font"		"Icons"
 				"character"	"5"
 		}
 
 		"number_6"
-		{
+			{
 				"font"		"Icons"
 				"character"	"6"
 		}
 
 		"number_7"
-		{
+			{
 				"font"		"Icons"
 				"character"	"7"
 		}
 
 		"number_8"
-		{
+			{
 				"font"		"Icons"
 				"character"	"8"
 		}
 
 		"number_9"
-		{
+			{
 				"font"		"Icons"
 				"character"	"9"
 		}
 		
 		"ammo_45"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"182"
 				"y"		"0"
@@ -148,7 +148,7 @@
 		}
 		
 		"ammo_357"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"208"
 				"y"		"0"
@@ -157,7 +157,7 @@
 		}
 		
 		"ammo_c4"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"182"
 				"y"		"24"
@@ -166,7 +166,7 @@
 		}
 		
 		"ammo_57"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"208"
 				"y"		"24"
@@ -175,7 +175,7 @@
 		}
 		
 		"ammo_sg"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"232"
 				"y"		"24"
@@ -184,13 +184,13 @@
 		}
 		
 		"ammo_12g"
-		{
+			{
 				"font"		"TFTypeDeath"
 				"character"	"J"
 		}
 		
 		"ammo_50"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"182"
 				"y"		"48"
@@ -199,7 +199,7 @@
 		}
 		
 		"ammo_9mm"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"208"
 				"y"		"48"
@@ -208,7 +208,7 @@
 		}
 		
 		"ammo_762"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"232"
 				"y"		"48"
@@ -217,7 +217,7 @@
 		}
 		
 		"ammo_556"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"157"
 				"y"		"74"
@@ -226,7 +226,7 @@
 		}
 		
 		"ammo_338"
-		{
+			{
 				"file"		"sprites/640hud1"
 				"x"		"182"
 				"y"		"74"
@@ -235,30 +235,30 @@
 		}
 		
 		"item_healthkit"
-		{
+			{
 				"font"		"TFTypeDeath"
 				"character"	"F"
 		}
 
 		"item_armor"
-		{
+			{
 				"font"		"TFTypeDeath"
 				"character"	"E"
 		}
 
 		"item_grenadepack"
-		{
+			{
 				"font"		"TFTypeDeath"
 				"character"	"h"
 		}
 
 		"item_ammopack"
-		{
+			{
 				"font"		"TFTypeDeath"
 				"character"	"R"
 		}
 		"obj_attachment_sapper"
-		{
+			{
 				"file"		"sprites/bucket_sapper"
 				"x"		"0"
 				"y"		"0"
@@ -284,7 +284,7 @@
 		}
 		
 		"skull_tf"
-		{
+			{
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"x"		"116"
@@ -293,7 +293,7 @@
 				"height"	"32"
 		}
 		"obj_sentrygun"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -302,7 +302,7 @@
 				"height"	"32"
 		}
 		"obj_sentrygun2"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"256"
@@ -311,7 +311,7 @@
 				"height"	"32"
 		}
 		"obj_sentrygun3"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"256"
@@ -320,7 +320,7 @@
 				"height"	"32"
 		}
 		"bat"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -329,7 +329,7 @@
 				"height"	"32"
 		}
 		"pistol"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -338,7 +338,7 @@
 				"height"	"32"
 		}
 		"pistol_scout"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -347,7 +347,7 @@
 				"height"	"32"
 		}
 		"nailgun"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -356,7 +356,7 @@
 				"height"	"32"
 		}
 		"sniperrifle"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"16"
@@ -365,7 +365,7 @@
 				"height"	"32"
 		}
 		"smg"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -374,7 +374,7 @@
 				"height"	"32"
 		}
 		"club"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -383,7 +383,7 @@
 				"height"	"32"
 		}
 		"shovel"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -392,7 +392,7 @@
 				"height"	"32"
 		}
 		"tf_projectile_rocket"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -401,7 +401,7 @@
 				"height"	"32"
 		}
 		"shotgun_primary"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -410,7 +410,7 @@
 				"height"	"32"
 		}
 		"shotgun_soldier"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -419,7 +419,7 @@
 				"height"	"32"
 		}
 		"shotgun_hwg"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -428,7 +428,7 @@
 				"height"	"32"
 		}
 		"shotgun_pyro"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -437,7 +437,7 @@
 				"height"	"32"
 		}
 		"tf_projectile_pipe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -446,7 +446,7 @@
 				"height"	"32"
 		}
 		"bottle"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -455,7 +455,7 @@
 				"height"	"32"
 		}
 		"syringegun_medic"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -464,7 +464,7 @@
 				"height"	"32"
 		}
 		"minigun"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -473,7 +473,7 @@
 				"height"	"32"
 		}
 		"pipe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -482,7 +482,7 @@
 				"height"	"32"
 		}		
 		"flamethrower"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -491,7 +491,7 @@
 				"height"	"32"
 		}
 		"fists"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"191"
@@ -500,7 +500,7 @@
 				"height"	"32"
 		}
 		"fireaxe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -509,7 +509,7 @@
 				"height"	"32"
 		}
 		"bonesaw"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -518,7 +518,7 @@
 				"height"	"32"
 		}
 		"knife"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -527,7 +527,7 @@
 				"height"	"32"
 		}
 		"revolver"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -536,7 +536,7 @@
 				"height"	"32"
 		}
 		"flaregun"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -545,7 +545,7 @@
 				"height"	"32"
 		}
 		"wrench"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -554,7 +554,7 @@
 				"height"	"32"
 		}
 		"scattergun"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -563,7 +563,7 @@
 				"height"	"32"
 		}		
 		"tf_projectile_pipe_remote"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -572,7 +572,7 @@
 				"height"	"32"
 		}		
 		"vehicle"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -581,7 +581,7 @@
 				"height"	"32"
 		}
 		"skull"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -590,7 +590,7 @@
 				"height"	"32"
 		}
 		"headshot"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"120"
@@ -599,7 +599,7 @@
 				"height"	"32"
 		}
 		"backstab"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"116"
@@ -608,7 +608,7 @@
 				"height"	"32"
 		}
 		"ubersaw"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -617,7 +617,7 @@
 				"height"	"32"
 		}
 		"axtinguisher"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -626,7 +626,7 @@
 				"height"	"32"
 		}
 		"taunt_pyro"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"96"
@@ -635,7 +635,7 @@
 				"height"	"32"
 		}
 		"bluedefend"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"194"
@@ -644,7 +644,7 @@
 				"height"	"32"
 		}
 		"bluecapture"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"194"
@@ -653,7 +653,7 @@
 				"height"	"32"
 		}
 		"reddefend"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"226"
@@ -662,7 +662,7 @@
 				"height"	"32"
 		}
 		"redcapture"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"226"
@@ -671,7 +671,7 @@
 				"height"	"32"
 		}
 		"obj_attachment_sapper"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -680,7 +680,7 @@
 				"height"	"32"
 		}
 		"deflect_promode"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"194"
@@ -689,7 +689,7 @@
 				"height"	"32"
 		}
 		"deflect_sticky"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"194"
@@ -698,7 +698,7 @@
 				"height"	"32"
 		}
 		"deflect_rocket"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"194"
@@ -707,7 +707,7 @@
 				"height"	"32"
 		}
 		"deflect_flare"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"194"
@@ -716,7 +716,7 @@
 				"height"	"32"
 		}
 		"bat_wood"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -725,7 +725,7 @@
 				"height"	"32"
 		}
 		"ball"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"192"
@@ -734,7 +734,7 @@
 				"height"	"32"
 		}
 		"taunt_heavy"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"191"
@@ -743,7 +743,7 @@
 				"height"	"32"
 		}
 		"taunt_scout"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"192"
@@ -752,7 +752,7 @@
 				"height"	"64"
 		}
 		"gloves"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"0"
@@ -761,7 +761,7 @@
 				"height"	"32"
 		}
 		"crit"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"192"
@@ -770,7 +770,7 @@
 				"height"	"34"
 		}
 		"ambassador"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -779,7 +779,7 @@
 				"height"	"32"
 		}
 		"huntsman"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -788,7 +788,7 @@
 				"height"	"32"
 		}
 		"huntsman_burning"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -797,7 +797,7 @@
 				"height"	"33"
 		}
 		"huntsman_flyingburn"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -806,7 +806,7 @@
 				"height"	"32"
 		}
 		"taunt_spy"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -815,7 +815,7 @@
 				"height"	"32"
 		}
 		"huntsman_headshot"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"192"
@@ -824,7 +824,7 @@
 				"height"	"32"
 		}
 		"ambassador_headshot"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"192"
@@ -833,7 +833,7 @@
 				"height"	"32"
 		}
 		"taunt_sniper"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -842,7 +842,7 @@
 				"height"	"27"
 		}
 		"saw_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"192"
@@ -851,7 +851,7 @@
 				"height"	"32"
 		}
 		"deflect_arrow"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"360"
@@ -860,7 +860,7 @@
 				"height"	"30"
 		}
 		"firedeath"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -869,7 +869,7 @@
 				"height"	"32"
 		}
 		"pumpkindeath"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"263"
@@ -878,7 +878,7 @@
 				"height"	"32"
 		}
 		"taunt_soldier"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"323"
@@ -887,7 +887,7 @@
 				"height"	"32"
 		}
 		"taunt_demoman"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"323"
@@ -896,7 +896,7 @@
 				"height"	"32"
 		}
 		"sword"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"258"
@@ -905,7 +905,7 @@
 				"height"	"32"
 		}
 		"demoshield"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"258"
@@ -914,7 +914,7 @@
 				"height"	"32"
 		}
 		"pickaxe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"258"
@@ -923,7 +923,7 @@
 				"height"	"32"
 		}
 		"rocketlauncher_directhit"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -932,7 +932,7 @@
 				"height"	"32"
 		}
 		"sticky_resistance"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"323"
@@ -941,7 +941,7 @@
 				"height"	"32"
 		}
 		"player_sentry"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"388"
@@ -950,7 +950,7 @@
 				"height"	"32"
 		}
 		"battleaxe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -959,7 +959,7 @@
 				"height"	"32"
 		}
 		"tribalkukri"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -968,7 +968,7 @@
 				"height"	"32"
 		}
 		"sledgehammer"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -977,7 +977,7 @@
 				"height"	"32"
 		}
 		"paintrain"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -986,7 +986,7 @@
 				"height"	"32"
 		}
 		"deflect_huntsman_headshot"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"258"
@@ -995,7 +995,7 @@
 				"height"	"32"
 		}
 		"huntsman_flyingburn_headshot"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -1004,7 +1004,7 @@
 				"height"	"32"
 		}
 		"taunt_medic"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -1013,7 +1013,7 @@
 				"height"	"32"
 		}
 		"samrevolver"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -1022,7 +1022,7 @@
 				"height"	"32"
 		}
 		"natascha"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -1031,7 +1031,7 @@
 				"height"	"32"
 		}
 		"maxgun"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -1040,7 +1040,7 @@
 				"height"	"32"
 		}
 		"force_a_nature"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"368"
@@ -1049,7 +1049,7 @@
 				"height"	"32"
 		}
 		"deflect_huntsman_flyingburn_headshot"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"404"
@@ -1058,7 +1058,7 @@
 				"height"	"32"
 		}
 		"deflect_huntsman_flyingburn"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"433"
@@ -1067,7 +1067,7 @@
 				"height"	"32"
 		}
 		"deflect_ball"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images"
 				"x"		"433"
@@ -1076,7 +1076,7 @@
 				"height"	"32"
 		}
 		"building_carried_destroyed"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1085,7 +1085,7 @@
 				"height"	"32"
 		}
 		"taunt_guitar_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1094,7 +1094,7 @@
 				"height"	"32"
 		}
 		"frontier_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1103,7 +1103,7 @@
 				"height"	"32"
 		}
 		"wrench_golden"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1112,7 +1112,7 @@
 				"height"	"32"
 		}
 		"southern_comfort_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1121,7 +1121,7 @@
 				"height"	"32"
 		}
 		"bleed_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1130,7 +1130,7 @@
 				"height"	"32"
 		}
 		"wrangler_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1139,7 +1139,7 @@
 				"height"	"32"
 		}
 		"robot_arm_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1148,7 +1148,7 @@
 				"height"	"32"
 		}
 		"robot_arm_combo_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1157,7 +1157,7 @@
 				"height"	"32"
 		}
 		"robot_arm_blender_kill"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1166,7 +1166,7 @@
 				"height"	"32"
 		}
 		"degreaser"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1175,7 +1175,7 @@
 				"height"	"32"
 		}
 		"powerjack"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1184,7 +1184,7 @@
 				"height"	"32"
 		}
 		"eternal_reward"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1193,7 +1193,7 @@
 				"height"	"32"
 		}
 		"letranger"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"0"
@@ -1202,7 +1202,7 @@
 				"height"	"32"
 		}
 		"shortstop"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1211,7 +1211,7 @@
 				"height"	"32"
 		}
 		"holymackerel"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1220,7 +1220,7 @@
 				"height"	"32"
 		}
 		"headtaker"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1229,7 +1229,7 @@
 				"height"	"32"
 		}
 		"fryingpan"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1238,7 +1238,7 @@
 				"height"	"32"
 		}
 		"back_scratcher"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1247,7 +1247,7 @@
 				"height"	"32"
 		}
 		"boston_basher"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1256,7 +1256,7 @@
 				"height"	"32"
 		}		
 		"claidheamohmor"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1265,7 +1265,7 @@
 				"height"	"32"
 		}	
 		"steel_fists"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1274,7 +1274,7 @@
 				"height"	"32"
 		}					
 		"ullapool_caber_explosion"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1283,7 +1283,7 @@
 				"height"	"32"
 		}		
 		"ullapool_caber"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"96"
@@ -1292,7 +1292,7 @@
 				"height"	"32"
 		}		
 		"candy_cane"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1301,7 +1301,7 @@
 				"height"	"32"
 		}		
 		"amputator"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1310,7 +1310,7 @@
 				"height"	"32"
 		}	
 		"blackbox"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1319,7 +1319,7 @@
 				"height"	"32"
 		}
 		"wrench_jag"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1328,7 +1328,7 @@
 				"height"	"32"
 		}	
 		"warrior_spirit"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1337,7 +1337,7 @@
 				"height"	"32"
 		}
 		"loch_n_load"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1346,7 +1346,7 @@
 				"height"	"32"
 		}	
 		"iron_curtain"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1355,7 +1355,7 @@
 				"height"	"32"
 		}	
 		"crusaders_crossbow"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1364,7 +1364,7 @@
 				"height"	"32"
 		}		
 		"battleneedle"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1373,7 +1373,7 @@
 				"height"	"32"
 		}	
 		"sydney_sleeper"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1382,7 +1382,7 @@
 				"height"	"32"
 		}	
 		"cow_mangler"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1391,7 +1391,7 @@
 				"height"	"32"
 		}	
 		"righteous_bison"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1400,7 +1400,7 @@
 				"height"	"32"
 		}	
 		"bushwacka"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1409,7 +1409,7 @@
 				"height"	"32"
 		}	
 		"taunt_soldier_lumbricus"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"320"
@@ -1418,7 +1418,7 @@
 				"height"	"32"
 		}						
 		"brass_beast"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1427,7 +1427,7 @@
 				"height"	"32"
 		}			
 		"gloves_running_urgently"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1436,7 +1436,7 @@
 				"height"	"32"
 		}			
 		"blutsauger"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1445,7 +1445,7 @@
 				"height"	"32"
 		}			
 		"sandman"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1454,7 +1454,7 @@
 				"height"	"32"
 		}	
 		"backburner"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1463,7 +1463,7 @@
 				"height"	"32"
 		}		
 		"lava_bat"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -1472,7 +1472,7 @@
 				"height"	"32"
 		}	
 		"lava_axe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -1481,7 +1481,7 @@
 				"height"	"32"
 		}		
 		"obj_minisentry"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -1490,7 +1490,7 @@
 				"height"	"32"
 		}
 		"kunai"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -1499,7 +1499,7 @@
 				"height"	"32"
 		}
 		"warfan"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -1508,7 +1508,7 @@
 				"height"	"32"
 		}
 		"demokatana"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -1517,7 +1517,7 @@
 				"height"	"32"
 		}
 		"scout_sword"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2227,7 +2227,7 @@
 		}
 		
 		"the_maul"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2237,7 +2237,7 @@
 		}
 
 		"saxxy"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2247,7 +2247,7 @@
 		}
 		
 		"market_gardener"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2257,7 +2257,7 @@
 		}
 		
 		"the_winger"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2267,7 +2267,7 @@
 		}
 		
 		"tomislav"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2277,7 +2277,7 @@
 		}
 		
 		"soda_popper"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2287,7 +2287,7 @@
 		}
 		
 		"atomizer"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2297,7 +2297,7 @@
 		}
 		
 		"bazaar_bargain"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2307,7 +2307,7 @@
 		}
 		
 		"big_earner"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2317,7 +2317,7 @@
 		}
 		
 		"detonator"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2327,7 +2327,7 @@
 		}
 		
 		"eviction_notice"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2337,7 +2337,7 @@
 		}
 		
 		"family_business"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2347,7 +2347,7 @@
 		}
 		
 		"liberty_launcher"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2357,7 +2357,7 @@
 		}
 		
 		"proto_syringe"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2367,7 +2367,7 @@
 		}
 		
 		"persian_persuader"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2377,7 +2377,7 @@
 		}
 		
 		"reserve_shooter"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2387,7 +2387,7 @@
 		}
 		
 		"shahanshah"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2397,7 +2397,7 @@
 		}
 		
 		"enforcer"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2407,7 +2407,7 @@
 		}
 		
 		"disciplinary_action"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2417,7 +2417,7 @@
 		}
 		
 		"splendid_screen"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2427,7 +2427,7 @@
 		}
 		
 		"mantreads"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2437,7 +2437,7 @@
 		}
 		
 		"solemn_vow"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2447,7 +2447,7 @@
 		}
 		
 		"nessieclub"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2457,7 +2457,7 @@
 		}
 		
 		"mailbox"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2467,7 +2467,7 @@
 		}
 		
 		"quake_rl"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"
@@ -2477,7 +2477,7 @@
 		}
 		
 		"diamondback"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"320"
@@ -2487,7 +2487,7 @@
 		}
 		
 		"widowmaker"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"320"
@@ -2497,7 +2497,7 @@
 		}
 		
 		"short_circuit"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"320"
@@ -2506,7 +2506,7 @@
 				"height"	"32"
 		}
 		"machina"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -2515,7 +2515,7 @@
 				"height"	"32"		
 		}
 		"player_penetration"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -2524,7 +2524,7 @@
 				"height"	"32"		
 		}
 		"headshot_player_penetration"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"256"
@@ -2533,7 +2533,7 @@
 				"height"	"32"		
 		}
 		"nonnonviolent_protest"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2542,7 +2542,7 @@
 				"height"	"32"		
 		}
 		"scotland_shard"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2551,7 +2551,7 @@
 				"height"	"32"		
 		}
 		"baleful_beacon"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2560,7 +2560,7 @@
 				"height"	"32"		
 		}
 		"unarmed_combat"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2569,7 +2569,7 @@
 				"height"	"32"		
 		}
 		"voodoo_pin"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2578,7 +2578,7 @@
 				"height"	"32"		
 		}
 		"eyeball_rocket"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2587,7 +2587,7 @@
 				"height"	"32"		
 		}
 		"purgatory"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2596,7 +2596,7 @@
 				"height"	"32"		
 		}
 		"apocofists"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2605,7 +2605,7 @@
 				"height"	"32"		
 		}
 		"sharp_dresser"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2614,7 +2614,7 @@
 				"height"	"32"		
 		}
 		"sharp_dresser_backstab"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2623,7 +2623,7 @@
 				"height"	"32"		
 		}				
 		"phlogistinator"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -2632,7 +2632,7 @@
 				"height"	"32"	
 		}
 		"manmelter"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -2641,7 +2641,7 @@
 				"height"	"32"	
 		}
 		"thirddegree"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2650,7 +2650,7 @@
 				"height"	"32"	
 		}
 		"eureka_effect"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2659,7 +2659,7 @@
 				"height"	"32"	
 		}
 		"pomson"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -2668,7 +2668,7 @@
 				"height"	"32"	
 		}
 		"holiday_punch"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2677,7 +2677,7 @@
 				"height"	"32"	
 		}
 		"spy_cicle"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"0"
@@ -2686,7 +2686,7 @@
 				"height"	"32"	
 		}
 		"wrap_assassin"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -2839,7 +2839,7 @@
 				"height"	"32"
 		}
 		"merasmus_decap"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -2920,7 +2920,7 @@
 				"height"	"32"
 		}
 		"ham_shank"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2929,7 +2929,7 @@
 				"height"	"32"
 		}
 		"psapper"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -2938,7 +2938,7 @@
 				"height"	"32"
 		}
 		"spellbook_teleport"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2947,7 +2947,7 @@
 				"height"	"32"
 		}
 		"spellbook_skeleton"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2956,7 +2956,7 @@
 				"height"	"32"
 		}
 		"spellbook_mirv"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2965,7 +2965,7 @@
 				"height"	"32"
 		}
 		"spellbook_meteor"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2974,7 +2974,7 @@
 				"height"	"32"
 		}
 		"spellbook_lightning"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2983,7 +2983,7 @@
 				"height"	"32"
 		}
 		"spellbook_fireball"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -2992,7 +2992,7 @@
 				"height"	"32"
 		}
 		"spellbook_boss"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3001,7 +3001,7 @@
 				"height"	"32"
 		}
 		"spellbook_blastjump"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3010,7 +3010,7 @@
 				"height"	"32"
 		}
 		"spellbook_bats"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3019,7 +3019,7 @@
 				"height"	"32"
 		}
 		"spellbook_athletic"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3028,7 +3028,7 @@
 				"height"	"32"
 		}
 		"golden_fryingpan"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"96"
@@ -3037,7 +3037,7 @@
 				"height"	"32"
 		}
 		"australium"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3090,7 +3090,7 @@
 			"height"	"256"
 		}
 		"the_classic"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -3099,7 +3099,7 @@
 				"height"	"32"
 		}
 		"tide_turner"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3108,7 +3108,7 @@
 				"height"	"32"
 		}
 		"bread_bite"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3117,7 +3117,7 @@
 				"height"	"32"
 		}
 		"snack_attack"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -3126,7 +3126,7 @@
 				"height"	"32"
 		}
 		"back_scatter"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -3135,7 +3135,7 @@
 				"height"	"32"
 		}
 		"airstrike"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -3144,7 +3144,7 @@
 				"height"	"32"
 		}
 		"ai_flamethrower"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"256"
@@ -3153,7 +3153,7 @@
 				"height"	"32"
 		}
 		"necro_smasher"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3162,7 +3162,7 @@
 				"height"	"32"
 		}
 		"bumper_kart"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
 				"x"		"192"
@@ -3486,7 +3486,7 @@
 		}
 
 		"rocketpack_stomp"
-		{
+			{
 				"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v2"
 				"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v2"
 				"x"		"384"

@@ -172,7 +172,7 @@ Scheme
 		"Default"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"0"
@@ -181,7 +181,7 @@ Scheme
 			}
 
 			"2"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"0"
@@ -190,7 +190,7 @@ Scheme
 			}
 
 			"3"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"0"
@@ -200,7 +200,7 @@ Scheme
 			}
 
 			"4"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"16"
 				"weight"		"0"
@@ -210,7 +210,7 @@ Scheme
 			}
 
 			"5"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"0"
@@ -224,7 +224,7 @@ Scheme
 		{
 
 			"1"
-			{
+				{
 				"name"			"Marlett"
 				"tall"			"10"
 				"weight"		"0"
@@ -233,7 +233,7 @@ Scheme
 			}
 
 			"2"
-			{
+				{
 				"name"			"Marlett"
 				"tall"			"14"
 				"weight"		"0"
@@ -242,7 +242,7 @@ Scheme
 			}
 
 			"3"
-			{
+				{
 				"name"			"Marlett"
 				"tall"			"13"
 				"weight"		"0"
@@ -251,7 +251,7 @@ Scheme
 			}
 
 			"4"
-			{
+				{
 				"name"			"Marlett"
 				"tall"			"17"
 				"weight"		"0"
@@ -260,7 +260,7 @@ Scheme
 			}
 
 			"5"
-			{
+				{
 				"name"			"Marlett"
 				"tall"			"22"
 				"weight"		"0"
@@ -272,7 +272,7 @@ Scheme
 		"ChatFont"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"14"
 				"yres"			"480 599"
@@ -281,7 +281,7 @@ Scheme
 			}
 
 			"2"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"16"
 				"yres"			"600 767"
@@ -290,7 +290,7 @@ Scheme
 			}
 
 			"3"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"768 1023"
@@ -299,7 +299,7 @@ Scheme
 			}
 
 			"4"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"1024 1199"
@@ -308,7 +308,7 @@ Scheme
 			}
 
 			"5"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"22"
 				"yres"			"1200 10000"
@@ -320,7 +320,7 @@ Scheme
 		"DefaultVerySmall"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"0"
@@ -329,7 +329,7 @@ Scheme
 			}
 
 			"2"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"0"
@@ -338,7 +338,7 @@ Scheme
 			}
 
 			"3"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"0"
@@ -348,7 +348,7 @@ Scheme
 			}
 
 			"4"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"0"
@@ -358,7 +358,7 @@ Scheme
 			}
 
 			"5"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"16"
 				"weight"		"0"
@@ -388,8 +388,8 @@ Scheme
 			"inset"	"0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset"	"0 0"
@@ -397,8 +397,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset"	"0 0"
@@ -406,8 +406,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -415,8 +415,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -429,8 +429,8 @@ Scheme
 			"inset"	"0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset"	"0 0"
@@ -438,8 +438,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -447,8 +447,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -456,8 +456,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color"	 	"Border.Dark"
 					"offset" 	"0 0"
@@ -485,8 +485,8 @@ Scheme
 			"inset"	"0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -494,8 +494,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -503,8 +503,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color"	 	"Blank"
 					"offset" 	"0 0"
@@ -512,8 +512,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -526,8 +526,8 @@ Scheme
 			"inset"	"0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -535,8 +535,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -544,8 +544,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -553,8 +553,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -567,8 +567,8 @@ Scheme
 			"inset" "0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -576,8 +576,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -585,8 +585,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -600,8 +600,8 @@ Scheme
 			"inset" "0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -609,8 +609,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -618,8 +618,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -634,8 +634,8 @@ Scheme
 			"inset" "0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -643,8 +643,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -652,8 +652,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -661,8 +661,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -675,60 +675,60 @@ Scheme
 			"inset" "0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Selection"
 					"offset" 	"0 0"
 				}
 
 				"2"
-				{
+					{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Selection"
 					"offset" 	"0 0"
 				}
 
 				"2"
-				{
+					{
 					"color"		"Border.Bright"
 					"offset" 	"0 0"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Selection"
 					"offset" 	"0 0"
 				}
 
 				"2"
-				{
+					{
 					"color"	 	"Border.Dark"
 					"offset"	"0 0"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Selection"
 					"offset" 	"0 0"
 				}
 
 				"2"
-				{
+					{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
 				}
@@ -740,8 +740,8 @@ Scheme
 			"inset" "0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -749,8 +749,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"
@@ -758,8 +758,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Dark"
 					"offset" 	"0 0"
@@ -767,8 +767,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Border.Bright"
 					"offset" 	"0 0"

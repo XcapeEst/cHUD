@@ -286,7 +286,7 @@
 			"restrict_width" "0"
 
 			"ScrollBar"
-			{
+				{
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
 				"xpos"			"rs1-1"
@@ -298,19 +298,19 @@
 				"proportionaltoparent"	"1"
 
 				"Slider"
-				{
+					{
 					"fgcolor_override"	"TanDark"
 				}
 		
 				"UpButton"
-				{
+					{
 					"ControlName"	"Button"
 					"FieldName"		"UpButton"
 					"visible"		"0"
 				}
 		
 				"DownButton"
-				{
+					{
 					"ControlName"	"Button"
 					"FieldName"		"DownButton"
 					"visible"		"0"

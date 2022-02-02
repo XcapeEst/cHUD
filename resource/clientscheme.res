@@ -14,7 +14,7 @@ Scheme
 		
 		"MainBG"								"39 39 40 255"
 		"MainBGL"								"39 39 40 230"
-		"MenuTransBlack"						"0 0 0 165"
+		"TransBlack"							"0 0 0 165"
 		
 		"softshadow"							"9 9 9 105"
 		"softpink"								"240 110 125 255"
@@ -267,7 +267,7 @@ Scheme
 		Replay.RenderDialog.BgColor						"LighterDarkBrown"
 		
 		Econ.Dialog.BgColor								"Blank"
-		Econ.Button.BgColor								"MenuTransBlack"
+		Econ.Button.BgColor								"0 0 0 165"
 		Econ.Button.FgColor								"tanlight120"
 		Econ.Button.ArmedBgColor						"255 255 255 16"
 		Econ.Button.ArmedFgColor						"TanLight"
@@ -349,7 +349,7 @@ Scheme
 		ListPanel.EmptyListInfoTextColor				"Orange"
 		
 		Menu.TextColor									"tanlight120"
-		Menu.BgColor									"MenuTransBlack"
+		Menu.BgColor									"0 0 0 165"
 		Menu.ArmedTextColor								"tanlight"
 		Menu.ArmedBgColor								"255 255 255 16"
 		Menu.TextInset									"6"
@@ -509,7 +509,7 @@ Scheme
 		"Default"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -520,7 +520,7 @@ Scheme
 		"DefaultUnderline"
 		{
 			"1"
-			{
+				{
 				"name"		"Tahoma"
 				"tall"		"12"
 				"weight"	"500"
@@ -528,7 +528,7 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"2"
-			{
+				{
 				"name"		"Arial"
 				"tall"		"11"
 				"range" 	"0x0000 0x00FF"
@@ -538,7 +538,7 @@ Scheme
 		"DefaultSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -546,7 +546,7 @@ Scheme
 				"yres"		"480 599"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
@@ -554,7 +554,7 @@ Scheme
 				"yres"		"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
@@ -563,7 +563,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"4"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
@@ -572,7 +572,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"5"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"0"
@@ -581,7 +581,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"6"
-			{
+				{
 				"name"		"Arial"
 				"tall"		"12"
 				"range" 	"0x0000 0x00FF"
@@ -593,7 +593,7 @@ Scheme
 		"DefaultVerySmall"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -601,7 +601,7 @@ Scheme
 				"yres"		"480 599"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -609,7 +609,7 @@ Scheme
 				"yres"		"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -618,7 +618,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"4"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
@@ -627,7 +627,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"5"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
@@ -639,7 +639,7 @@ Scheme
 		DefaultLarge
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
@@ -647,7 +647,7 @@ Scheme
 				"yres"		"480 599"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"21"
 				"weight"	"900"
@@ -655,7 +655,7 @@ Scheme
 				"yres"		"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"900"
@@ -664,7 +664,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"4"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"28"
 				"weight"	"900"
@@ -673,7 +673,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"5"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"900"
@@ -682,14 +682,14 @@ Scheme
 				"antialias"	"1"
 			}
 			"6"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"20"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"900"
 			}
 			"7"
-			{
+				{
 				"name"		"Arial"
 				"tall"		"20"
 				"range" 	"0x0000 0x00FF"
@@ -700,7 +700,7 @@ Scheme
 		{
 			// note that this scales with the screen resolution
 			"1"
-			{
+				{
 				"name"		"product sans" 
 				"tall"		"13"
 				"weight"	"250"
@@ -712,7 +712,7 @@ Scheme
 		"PlayerPanelPlayerName"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"500"
@@ -723,14 +723,14 @@ Scheme
 		HudHintText
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$X360]
@@ -738,21 +738,21 @@ Scheme
 				"yres"		"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
 			}
 			"4"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
 			}
 			"5"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
@@ -762,7 +762,7 @@ Scheme
 		"HudFontGiant"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"24"
 				"tall_lodef"	"80"
@@ -772,7 +772,7 @@ Scheme
 				"yres"			"480 599"
 			}
 			"2"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"32"
 				"tall_hidef"	"120"
@@ -782,7 +782,7 @@ Scheme
 				"yres"			"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"44"
 				"weight"	"500"
@@ -791,7 +791,7 @@ Scheme
 				"yres"		"768 1023"
 			}
 			"4"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"48"
 				"weight"	"500"
@@ -800,7 +800,7 @@ Scheme
 				"yres"		"1024 1199"
 			}
 			"5"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"52"
 				"weight"	"500"
@@ -812,7 +812,7 @@ Scheme
 		"HudFontGiantBold"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Build"
 				"tall"			"44"
 				"tall_lodef"	"52"
@@ -825,7 +825,7 @@ Scheme
 		"HudFontBiggerBold"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Build"
 				"tall"			"35"
 				"tall_lodef"	"40"
@@ -838,7 +838,7 @@ Scheme
 		"HudFontBig"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -849,7 +849,7 @@ Scheme
 		"HudFontMediumBig"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -860,7 +860,7 @@ Scheme
 		"HudFontMediumBigBold"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -871,7 +871,7 @@ Scheme
 		"HudFontMedium"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -882,7 +882,7 @@ Scheme
 		"HudFontMediumSecondary"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"24"
 				"weight"	"500"
@@ -893,7 +893,7 @@ Scheme
 		"HudFontMediumBold"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -904,7 +904,7 @@ Scheme
 		"HudFontMediumSmallBold"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -915,7 +915,7 @@ Scheme
 		"HudFontMediumSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -926,7 +926,7 @@ Scheme
 		"HudFontMediumSmallSecondary"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -937,7 +937,7 @@ Scheme
 		"HudFontSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -948,7 +948,7 @@ Scheme
 		"HudFontSmallishBold"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -959,7 +959,7 @@ Scheme
 		"HudFontSmallBold"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -970,7 +970,7 @@ Scheme
 		"HudFontSmallBoldShadow"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -981,7 +981,7 @@ Scheme
 		"HudFontSmallest"
 		{
 			"1"
-			{
+				{
 				"name"			"product sans"
 				"tall"			"8"
 				"antialias" 	"1"
@@ -990,7 +990,7 @@ Scheme
 		"HudFontSmallestShadow"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1001,7 +1001,7 @@ Scheme
 		"HudFontSmallestBold"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1012,7 +1012,7 @@ Scheme
 		"PerformanceModeSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2 Build"
 				"tall"		"4"
 				"weight"	"500"
@@ -1023,7 +1023,7 @@ Scheme
 		"StorePromotionsTitle"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1034,7 +1034,7 @@ Scheme
 		"FontCartPrice"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1045,7 +1045,7 @@ Scheme
 		"FontStorePrice"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1056,7 +1056,7 @@ Scheme
 		"FontStoreOriginalPrice"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1067,7 +1067,7 @@ Scheme
 		"FontStorePriceSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2 Build"
 				"tall"		"6"
 				"weight"	"0"
@@ -1078,7 +1078,7 @@ Scheme
 		"FontStorePromotion"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1089,7 +1089,7 @@ Scheme
 		"TextTooltipFont"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1100,7 +1100,7 @@ Scheme
 		GameUIButtons
 		{
 			"1"	//[$X360]
-			{
+				{
 				"bitmap"		"1"
 				"name"			"Buttons"
 				"scalex"		"0.5"
@@ -1112,7 +1112,7 @@ Scheme
 		GameUIButtonsSmall
 		{
 			"1"	[$X360]
-			{
+				{
 				"bitmap"	"1"
 				"name"		"Buttons"
 				"scalex"	"0.5"
@@ -1122,7 +1122,7 @@ Scheme
 		GameUIButtonsSmallest
 		{
 			"1"	[$X360]
-			{
+				{
 				"bitmap"	"1"
 				"name"		"Buttons"
 				"scalex"	"0.4"
@@ -1132,7 +1132,7 @@ Scheme
 		GameUIButtonsSteamController
 		{
 			"1"
-			{
+				{
 				"bitmap"		"1"
 				"name"			"ButtonsSC"
 				"scalex"		"0.5"
@@ -1144,7 +1144,7 @@ Scheme
 		GameUIButtonsSteamControllerSmall
 		{
 			"1"
-			{
+				{
 				"bitmap"	"1"
 				"name"		"ButtonsSC"
 				"scalex"	"0.25"
@@ -1154,7 +1154,7 @@ Scheme
 		GameUIButtonsSteamControllerSmallest
 		{
 			"1"
-			{
+				{
 				"bitmap"	"1"
 				"name"		"ButtonsSC"
 				"scalex"	"0.15"
@@ -1164,7 +1164,7 @@ Scheme
 		"GameUIButtonText"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1175,7 +1175,7 @@ Scheme
 		"HudClassHealth"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"16"
 				"tall_hidef"	"22"
@@ -1188,7 +1188,7 @@ Scheme
 		"SpectatorKeyHints"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
@@ -1199,7 +1199,7 @@ Scheme
 		"ClockSubText"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"500"
@@ -1210,7 +1210,7 @@ Scheme
 		"ClockSubTextSuddenDeath"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"8"
 				"tall_hidef"	"9"
@@ -1223,7 +1223,7 @@ Scheme
 		"ClockSubTextTiny"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"8"
 				"tall_hidef"	"7"
@@ -1235,7 +1235,7 @@ Scheme
 		"HudSelectionText"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"15"
 				"weight"	"700"
@@ -1245,7 +1245,7 @@ Scheme
 				"additive"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
@@ -1256,7 +1256,7 @@ Scheme
 				"additive"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"18"
 				"weight"	"900"
@@ -1265,7 +1265,7 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"4"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"21"
 				"weight"	"900"
@@ -1274,7 +1274,7 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"5"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"24"
 				"weight"	"1000"
@@ -1286,7 +1286,7 @@ Scheme
 		DebugOverlay
 		{
 			"1"	[$WIN32]
-			{
+				{
 				"name"		"Courier New"
 				"tall"		"14"
 				"weight"	"400"
@@ -1294,7 +1294,7 @@ Scheme
 				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"1"	[$X360]
-			{
+				{
 				"name"		"Tahoma"
 				"tall"		"18"
 				"weight"	"200"
@@ -1304,7 +1304,7 @@ Scheme
 		TFTypeDeath
 		{
 			"1"
-			{
+				{
 				"name"  	"tfd" // tfd.ttf
 				"tall"  	"28"
 				"weight" 	"0"
@@ -1327,7 +1327,7 @@ Scheme
 		"BetaFont"
 		{
 			"1"
-			{
+				{
 				"name"		"Courier New"
 				"tall"		"90"
 				"weight"	"900"
@@ -1340,7 +1340,7 @@ Scheme
 		HudNumbers
 		{
 			"1"
-			{
+				{
 				"name"  	"Team Fortress" // tf.ttf
 				"tall"  	"28"
 				"weight" 	"0"
@@ -1348,7 +1348,7 @@ Scheme
 				"antialias" "1"
 			}
 			"2"
-			{
+				{
 				"name"  	"Verdana"
 				"tall"  	"28"
 				"weight" 	"0"
@@ -1359,7 +1359,7 @@ Scheme
 		"CloseCaption_Normal"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"24"
 				"tall_hidef"	"32"
@@ -1370,7 +1370,7 @@ Scheme
 		"CloseCaption_Italic"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"24"
 				"tall_hidef"	"32"
@@ -1382,7 +1382,7 @@ Scheme
 		"CloseCaption_Bold"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"24"
 				"tall_hidef"	"32"
@@ -1393,7 +1393,7 @@ Scheme
 		"CloseCaption_BoldItalic"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"24"
 				"tall_hidef"	"32"
@@ -1405,7 +1405,7 @@ Scheme
 		"CloseCaption_Small"
 		{
 			"1"
-			{
+				{
 				"name"			"Tahoma"
 				"tall"			"16"
 				"tall_hidef"	"24"
@@ -1418,7 +1418,7 @@ Scheme
 		"Marlett"
 		{
 			"1"
-			{
+				{
 				"name"		"Marlett"
 				"tall"		"12"
 				"weight"	"0"
@@ -1430,7 +1430,7 @@ Scheme
 		"MarlettSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"Marlett"
 				"tall"		"12"
 				"weight"	"0"
@@ -1442,7 +1442,7 @@ Scheme
 		"MenuMainTitle"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"24"
 				"antialias" "1"
@@ -1452,7 +1452,7 @@ Scheme
 		"MenuClassBuckets"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1463,7 +1463,7 @@ Scheme
 		"MenuKeys"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"12"
 				"antialias" "1"
@@ -1474,7 +1474,7 @@ Scheme
 		"GoalText"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"7"
 				"weight"	"0"
@@ -1486,7 +1486,7 @@ Scheme
 		"ChalkboardTitle"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Professor"
 				"tall"			"28"
 				"tall_lodef"	"48"
@@ -1501,7 +1501,7 @@ Scheme
 		"ChalkboardTitleBig"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Professor"
 				"tall"			"40"
 				"tall_lodef"	"48"
@@ -1516,7 +1516,7 @@ Scheme
 		"ChalkboardTitleMedium"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Professor"
 				"tall"			"24"
 				"tall_lodef"	"36"
@@ -1529,7 +1529,7 @@ Scheme
 		"ChalkboardText"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Professor"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
@@ -1543,7 +1543,7 @@ Scheme
 		"ScoreboardSmallest"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1554,7 +1554,7 @@ Scheme
 		"ScoreboardVerySmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1565,7 +1565,7 @@ Scheme
 		"ScoreboardSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1576,7 +1576,7 @@ Scheme
 		"ScoreboardMediumSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"14"
 				"weight"	"500"
@@ -1588,7 +1588,7 @@ Scheme
 		"ScoreboardMedium"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1599,7 +1599,7 @@ Scheme
 		"ScoreboardTeamName"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1610,7 +1610,7 @@ Scheme
 		"ScoreboardTeamCountNew"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1621,7 +1621,7 @@ Scheme
 		"ScoreboardTeamNameNew"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1632,7 +1632,7 @@ Scheme
 		"ScoreboardTeamNameLarge"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"34"
 				"tall_hidef"	"38"
@@ -1647,7 +1647,7 @@ Scheme
 		"ScoreboardTeamScoreNew"
  		{
 			"1"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"36"
 				"tall_hidef"	"48"
@@ -1659,7 +1659,7 @@ Scheme
 		"ScoreboardTeamScore"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"52"
 				"tall_lodef"	"80"
@@ -1669,7 +1669,7 @@ Scheme
 				"antialias" 	"1"
 			}
 			"2"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"72"
 				"tall_hidef"	"120"
@@ -1679,7 +1679,7 @@ Scheme
 				"antialias" 	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
@@ -1688,7 +1688,7 @@ Scheme
 				"antialias" "1"
 			}
 			"4"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
@@ -1697,7 +1697,7 @@ Scheme
 				"antialias" "1"
 			}
 			"5"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
@@ -1709,7 +1709,7 @@ Scheme
 		"MatchSummaryTeamScores"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"36"
 				"weight"	"500"
@@ -1721,7 +1721,7 @@ Scheme
 		"MatchSummaryStatsAndMedals"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1732,7 +1732,7 @@ Scheme
 		"MatchSummaryWinner"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1743,7 +1743,7 @@ Scheme
 		"CompMatchStartTeamNames"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1754,7 +1754,7 @@ Scheme
 		"ControlPointTimer"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1765,7 +1765,7 @@ Scheme
 		"ControlPointTimerSmaller"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1777,7 +1777,7 @@ Scheme
 		"Link"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"300"
@@ -1789,7 +1789,7 @@ Scheme
 		"TargetID"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"700"
@@ -1797,7 +1797,7 @@ Scheme
 				"dropshadow"	"0"
 			}
 			"2"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
@@ -1805,7 +1805,7 @@ Scheme
 				"dropshadow"	"0"
 			}
 			"3"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
@@ -1813,7 +1813,7 @@ Scheme
 				"dropshadow"	"0"
 			}
 			"4"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"700"
@@ -1821,7 +1821,7 @@ Scheme
 				"dropshadow"	"0"
 			}
 			"5"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"24"
 				"weight"		"700"
@@ -1832,7 +1832,7 @@ Scheme
 		"ChatFont"
 		{
 			"1"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"12"
 				"weight"		"700"
@@ -1840,7 +1840,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"2"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
@@ -1848,7 +1848,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"3"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
@@ -1856,7 +1856,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"4"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"700"
@@ -1864,7 +1864,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"5"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"24"
 				"weight"		"700"
@@ -1875,7 +1875,7 @@ Scheme
 		"ChatMiniFont"
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"10"
 				"weight"		"700"
@@ -1883,7 +1883,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"2"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"10"
 				"weight"		"700"
@@ -1891,7 +1891,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"3"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
@@ -1899,7 +1899,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"4"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
@@ -1907,7 +1907,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 			"5"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"15"
 				"weight"		"700"
@@ -1919,7 +1919,7 @@ Scheme
 		MenuSmallestFont
 		{
 			"1"
-			{
+				{
 				"name"			"Arial Black"
 				"tall"			"8"
 				"tall_lodef"	"12"
@@ -1932,7 +1932,7 @@ Scheme
 		MenuSmallFont
 		{
 			"1"
-			{
+				{
 				"name"			"TF2"
 				"tall"			"14"
 				"tall_lodef"	"18"
@@ -1945,7 +1945,7 @@ Scheme
 		CapPlayerFont
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"12"
 				"weight"	"500"
@@ -1957,7 +1957,7 @@ Scheme
 		CapPlayerFontSmall
 		{
 			"1"
-			{
+				{
 				"name"		"TF2"
 				"tall"		"8"
 				"weight"	"500"
@@ -1970,7 +1970,7 @@ Scheme
 		TFFontSmall
 		{
 			"1"
-			{
+				{
 				"name"			"product sans"
 				"tall"			"8"
 				"tall_hidef"	"10"
@@ -1983,7 +1983,7 @@ Scheme
 		TFFontMedium
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -1995,7 +1995,7 @@ Scheme
 		InstructionalText
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"11"  [!$OSX]
 				"tall"		"9"  [$OSX]
@@ -2008,7 +2008,7 @@ Scheme
 		MatchmakingDialogTitle
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Build"
 				"tall"			"36"
 				"tall_lodef"	"28"
@@ -2018,7 +2018,7 @@ Scheme
 		MatchmakingDialogSessionOptionsTitle
 		{
 			"1"
-			{
+				{
 				"name"			"TF2 Build"
 				"tall"			"30"
 				"tall_lodef"	"22"
@@ -2028,7 +2028,7 @@ Scheme
 		MatchmakingDialogMenuLarge
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"28"
 				"tall_lodef"	"24"
@@ -2038,7 +2038,7 @@ Scheme
 		MatchmakingDialogMenuBrowserHostname
 		{
 			"1"	// brower item hostname
-			{
+				{
 				"name"		"Trebuchet MS"
 				"tall"		"22"
 				"weight"	"900"
@@ -2047,7 +2047,7 @@ Scheme
 		MatchmakingDialogMenuBrowserDetails
 		{
 			"1"	// browser item players and map name
-			{
+				{
 				"name"		"Trebuchet MS"
 				"tall"		"18"
 				"weight"	"900"
@@ -2056,7 +2056,7 @@ Scheme
 		MatchmakingDialogMenuMedium
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"22"
 				"weight"	"500"
@@ -2065,7 +2065,7 @@ Scheme
 		MatchmakingDialogMenuMediumSmall
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"18"
 				"weight"	"500"
@@ -2074,7 +2074,7 @@ Scheme
 		MatchmakingDialogMenuSmall
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"22"
 				"tall_lodef"	"18"
@@ -2084,7 +2084,7 @@ Scheme
 		MatchmakingDialogMenuSmallest
 		{
 			"1"
-			{
+				{
 				"name"			"Verdana"
 				"tall"			"18"
 				"tall_lodef"	"18"
@@ -2094,7 +2094,7 @@ Scheme
 		RankingDialogHeaders
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"900"
@@ -2104,7 +2104,7 @@ Scheme
 		"TeamMenuBold"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2 Build"
 				"tall"		"36"
 				"weight"	"500"
@@ -2115,7 +2115,7 @@ Scheme
 		"TeamMenu"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"11"
 				"weight"	"600"
@@ -2126,7 +2126,7 @@ Scheme
 		"IntroMenuCaption"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"18"
 				"weight"	"400"
@@ -2137,7 +2137,7 @@ Scheme
 		"AchievementNotification"
 		{
 			"1"
-			{
+				{
 				"name"		"Trebuchet MS"
 				"tall"		"14"
 				"weight"	"900"
@@ -2147,7 +2147,7 @@ Scheme
 		"ImportToolSmallestBold"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"600"
@@ -2158,7 +2158,7 @@ Scheme
 		"ImportToolSmallest"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"500"
@@ -2169,7 +2169,7 @@ Scheme
 		"SpectatorVerySmall"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"400"
@@ -2181,7 +2181,7 @@ Scheme
 		"DefaultVerySmallFallBack"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"0"
@@ -2190,7 +2190,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -2199,7 +2199,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"0"
@@ -2212,7 +2212,7 @@ Scheme
 		"ItemFontNameSmallest"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans bold"
 				"tall"		"8"
 				"weight"	"0"
@@ -2223,7 +2223,7 @@ Scheme
 		"ItemFontNameSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans bold"
 				"tall"		"10"
 				"weight"	"0"
@@ -2234,7 +2234,7 @@ Scheme
 		"ItemFontNameLarge"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans bold"
 				"tall"		"10"
 				"weight"	"0"
@@ -2245,7 +2245,7 @@ Scheme
 		"ItemFontNameLarger"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans bold"
 				"tall"		"10"
 				"weight"	"500"
@@ -2256,7 +2256,7 @@ Scheme
 		"ItemFontAttribSmallest"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
@@ -2266,7 +2266,7 @@ Scheme
 		ItemFontAttribSmallv2
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
@@ -2276,7 +2276,7 @@ Scheme
 		"ItemFontAttribSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
@@ -2286,7 +2286,7 @@ Scheme
 		"ItemFontAttribLarge"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
@@ -2296,7 +2296,7 @@ Scheme
 		"ItemFontAttribLarger"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
@@ -2307,7 +2307,7 @@ Scheme
 		"AchievementTracker_Name"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2318,7 +2318,7 @@ Scheme
 		"AchievementTracker_NameGlow"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2329,7 +2329,7 @@ Scheme
 		"AchievementTracker_Desc"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
@@ -2340,7 +2340,7 @@ Scheme
 		"QuestObjectiveTracker_Desc"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
@@ -2351,7 +2351,7 @@ Scheme
 		"QuestObjectiveTracker_DescGlow"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
@@ -2361,7 +2361,7 @@ Scheme
 		"QuestObjectiveTracker_DescBlur"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
@@ -2373,7 +2373,7 @@ Scheme
 		"ItemTrackerScore_InGame"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
@@ -2384,7 +2384,7 @@ Scheme
 		"QuestFlavorText"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"400"
@@ -2393,7 +2393,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"400"
@@ -2402,7 +2402,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"18"
 				"weight"	"400"
@@ -2415,7 +2415,7 @@ Scheme
 		"QuestObjectiveText"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"800"
@@ -2424,7 +2424,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"800"
@@ -2433,7 +2433,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"18"
 				"weight"	"800"
@@ -2446,7 +2446,7 @@ Scheme
 		"QuestLargeText"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"16"
 				"weight"	"400"
@@ -2458,7 +2458,7 @@ Scheme
 		"QuestStickyText"
 		{
 			"1"
-			{
+				{
 				"name"		"TF2 Professor"
 				"tall"		"20"
 				"antialias" "1"
@@ -2470,7 +2470,7 @@ Scheme
 		"QuestInstructionText_Merasmus"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"400"
@@ -2479,7 +2479,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"14"
 				"weight"	"400"
@@ -2488,7 +2488,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"22"
 				"weight"	"400"
@@ -2501,7 +2501,7 @@ Scheme
 		"QuestFlavorText_Merasmus"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"400"
@@ -2511,7 +2511,7 @@ Scheme
 				"italic"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"14"
 				"weight"	"400"
@@ -2521,7 +2521,7 @@ Scheme
 				"italic"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"22"
 				"weight"	"400"
@@ -2535,7 +2535,7 @@ Scheme
 		"QuestObjectiveText_Merasmus"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"800"
@@ -2544,7 +2544,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"2"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"14"
 				"weight"	"800"
@@ -2553,7 +2553,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"3"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"18"
 				"weight"	"800"
@@ -2566,7 +2566,7 @@ Scheme
 		"QuestMediumText_Merasmus"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"13"
 				"weight"	"400"
@@ -2578,7 +2578,7 @@ Scheme
 		"QuestLargeText_Merasmus"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"16"
 				"weight"	"400"
@@ -2590,7 +2590,7 @@ Scheme
 		"AdFont_ItemName"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"400"
@@ -2602,7 +2602,7 @@ Scheme
 		"AdFont_AdText"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"400"
@@ -2613,7 +2613,7 @@ Scheme
 		"AdFont_PurchaseButton"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"0"
@@ -2624,7 +2624,7 @@ Scheme
 		"TradeUp_Text"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"400"
@@ -2636,7 +2636,7 @@ Scheme
 		"TradeUp_Quote"
 		{
 			"1"
-			{
+				{
 				"name"		"Trebuchet MS"
 				"tall"		"9"
 				"weight"	"400"
@@ -2652,7 +2652,7 @@ Scheme
 		"ReplayVerySmall"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -2660,7 +2660,7 @@ Scheme
 				"yres"		"480 599"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -2668,7 +2668,7 @@ Scheme
 				"yres"		"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -2677,7 +2677,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"4"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
@@ -2686,7 +2686,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"5"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
@@ -2698,7 +2698,7 @@ Scheme
 		"ReplayBrowserSmallest"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"11"
 				"weight"	"500"
@@ -2709,7 +2709,7 @@ Scheme
 		"ReplaySmaller"
 		{
 			"1"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
@@ -2717,7 +2717,7 @@ Scheme
 				"yres"		"480 599"
 			}
 			"2"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
@@ -2725,7 +2725,7 @@ Scheme
 				"yres"		"600 767"
 			}
 			"3"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
@@ -2734,7 +2734,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"4"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
@@ -2743,7 +2743,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"5"
-			{
+				{
 				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"0"
@@ -2752,7 +2752,7 @@ Scheme
 				"antialias"	"1"
 			}
 			"6"
-			{
+				{
 				"name"		"Arial"
 				"tall"		"12"
 				"range" 	"0x0000 0x00FF"
@@ -2762,7 +2762,7 @@ Scheme
 		"ReplayMediumSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2773,7 +2773,7 @@ Scheme
 		"ReplayMedium"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2784,7 +2784,7 @@ Scheme
 		"ReplayMediumBig"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2795,7 +2795,7 @@ Scheme
 		"ReplayBrowserTab"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2806,7 +2806,7 @@ Scheme
 		"ReplayLarger"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2821,7 +2821,7 @@ Scheme
 		"EconFontSmall"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2832,7 +2832,7 @@ Scheme
 		"EconFontMedium"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2844,7 +2844,7 @@ Scheme
 		ControllerHintText
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"15"
 				"weight"	"500"
@@ -2857,7 +2857,7 @@ Scheme
 		"MMenuPlayListDesc"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"9"
 				"weight"	"400"
@@ -2869,7 +2869,7 @@ Scheme
 		"XPSource"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2881,7 +2881,7 @@ Scheme
 		"XPSource_Glow"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2893,7 +2893,7 @@ Scheme
 		"MapVotesPercentage"
 		{
 			"1"
-			{
+				{
 				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
@@ -2905,7 +2905,7 @@ Scheme
 		"QuestMap_Small_Blur"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"7"
 				"weight"	"0"
@@ -2918,7 +2918,7 @@ Scheme
 		"QuestMap_Small"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"7"
 				"weight"	"400"
@@ -2930,7 +2930,7 @@ Scheme
 		"QuestMap_Medium"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"400"
@@ -2942,7 +2942,7 @@ Scheme
 		"QuestMap_Large"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"400"
@@ -2954,7 +2954,7 @@ Scheme
 		"QuestMap_Huge"
 		{
 			"1"
-			{
+				{
 				"name"		"ocra"
 				"tall"		"30"
 				"weight"	"400"
@@ -2965,7 +2965,7 @@ Scheme
 		"Damage18"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"18"
 				"antialias" "1"
@@ -2974,7 +2974,7 @@ Scheme
 		"Damage18Outline"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"18"
 				"antialias" "1"
@@ -2984,7 +2984,7 @@ Scheme
 		"Damage19Outline"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"19"
 				"antialias" "1"
@@ -2994,7 +2994,7 @@ Scheme
 		"Damage20Outline"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"20"
 				"antialias" "1"
@@ -3004,7 +3004,7 @@ Scheme
 		"Damage21Outline"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"21"
 				"antialias" "1"
@@ -3014,7 +3014,7 @@ Scheme
 		"Damage22Outline"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"22"
 				"antialias" "1"
@@ -3024,7 +3024,7 @@ Scheme
 		"Damage23Outline"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans Bold"
 				"tall"		"23"
 				"antialias" "1"
@@ -3035,7 +3035,7 @@ Scheme
 		"blankfont"
 		{
 			"1"
-			{
+				{
 				"name"		"BlankSerif"
 				"tall"		"8"
 				"antialias" "1"
@@ -3046,7 +3046,7 @@ Scheme
 		"blocks"
 		{
 			"1"
-			{
+				{
 				"name"		"blocks blocks"
 				"tall"		"200"
 				"antialias" "1"
@@ -3057,7 +3057,7 @@ Scheme
 		"product8"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
@@ -3068,7 +3068,7 @@ Scheme
 		"product6"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"6"
 				"antialias" "1"
@@ -3079,7 +3079,7 @@ Scheme
 		"product7"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"7"
 				"antialias" "1"
@@ -3090,7 +3090,7 @@ Scheme
 		"product8ds"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
@@ -3101,7 +3101,7 @@ Scheme
 		"productsans8"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
@@ -3112,7 +3112,7 @@ Scheme
 		"product9"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"9"
 				"antialias" "1"
@@ -3123,7 +3123,7 @@ Scheme
 		"product10"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
@@ -3134,7 +3134,7 @@ Scheme
 		"product11"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"11"
 				"antialias" "1"
@@ -3145,7 +3145,7 @@ Scheme
 
 
 		"qs7"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3156,7 +3156,7 @@ Scheme
 		  }
 		}
 		"qs8"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3167,7 +3167,7 @@ Scheme
 		  }
 		}
 		"qs9"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3178,7 +3178,7 @@ Scheme
 		  }
 		}
 		"qs10"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3189,7 +3189,7 @@ Scheme
 		  }
 		}
 		"qs11"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3200,7 +3200,7 @@ Scheme
 		  }
 		}
 		"qs12"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3211,7 +3211,7 @@ Scheme
 		  }
 		}
 		"qs13"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3222,7 +3222,7 @@ Scheme
 		  }
 		}
 		"qs14"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3233,7 +3233,7 @@ Scheme
 		  }
 		}
 		"qs16"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3244,7 +3244,7 @@ Scheme
 		  }
 		}
 		"qs18"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3255,7 +3255,7 @@ Scheme
 		  }
 		}
 		"qs20"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3266,7 +3266,7 @@ Scheme
 		  }
 		}
 		"qs22"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3277,7 +3277,7 @@ Scheme
 		  }
 		}
 		"qs24"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans"
@@ -3292,7 +3292,7 @@ Scheme
 		"product12"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
@@ -3303,7 +3303,7 @@ Scheme
 		"product12blur"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
@@ -3315,7 +3315,7 @@ Scheme
 		"product13"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"13"
 				"antialias" "1"
@@ -3326,7 +3326,7 @@ Scheme
 		"product14"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"14"
 				"antialias" "1"
@@ -3337,7 +3337,7 @@ Scheme
 		"product16"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"16"
 				"antialias" "1"
@@ -3348,7 +3348,7 @@ Scheme
 		"product18"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"18"
 				"antialias" "1"
@@ -3359,7 +3359,7 @@ Scheme
 		"product20"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"20"
 				"antialias" "1"
@@ -3370,7 +3370,7 @@ Scheme
 		"product22"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"22"
 				"antialias" "1"
@@ -3381,7 +3381,7 @@ Scheme
 		"product24"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"24"
 				"antialias" "1"
@@ -3392,7 +3392,7 @@ Scheme
 		"product26"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"26"
 				"antialias" "1"
@@ -3403,7 +3403,7 @@ Scheme
 		"product26DS"
 		{
 			"1"
-			{
+				{
 				"name"			"Product Sans"
 				"tall"			"26"
 				"antialias" 	"1"
@@ -3414,7 +3414,7 @@ Scheme
 		"product28"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"28"
 				"antialias" "1"
@@ -3425,7 +3425,7 @@ Scheme
 		"product30"
 		{
 			"1"
-			{
+				{
 				"name"		"Product Sans"
 				"tall"		"30"
 				"antialias" "1"
@@ -3435,7 +3435,7 @@ Scheme
 		}
 
 		"ProductBold8"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3447,7 +3447,7 @@ Scheme
 
 		}
 		"ProductBold8BLUR"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3459,7 +3459,7 @@ Scheme
 
 		}
 		"ProductBold8BLUR2"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3471,7 +3471,7 @@ Scheme
 
 		}
 		"ProductBold9"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3483,7 +3483,7 @@ Scheme
 
 		}
 		"ProductBold10"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3495,7 +3495,7 @@ Scheme
 
 		}
 		"ProductBold10Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3508,7 +3508,7 @@ Scheme
 
 		}
 		"ProductBold11"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3520,7 +3520,7 @@ Scheme
 
 		}
 		"ProductBold12"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3531,7 +3531,7 @@ Scheme
 		  }
 		}
 		"ProductBold13"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3543,7 +3543,7 @@ Scheme
 
 		}
 		"ProductBold14"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3555,7 +3555,7 @@ Scheme
 
 		}
 		"ProductBold15"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3566,7 +3566,7 @@ Scheme
 		  }
 		}
 		"ProductBold16"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3578,7 +3578,7 @@ Scheme
 
 		}
 		"ProductBold16blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3590,7 +3590,7 @@ Scheme
 		  }
 		}
 		"ProductBold18"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3601,7 +3601,7 @@ Scheme
 		  }
 		}
 		"ProductBold18blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3613,7 +3613,7 @@ Scheme
 		  }
 		}
 		"ProductBold20"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3624,7 +3624,7 @@ Scheme
 		  }
 		}
 		"ProductBold20blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3636,7 +3636,7 @@ Scheme
 		  }
 		}
 		"ProductBold22"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3647,7 +3647,7 @@ Scheme
 		  }
 		}
 		"ProductBold22blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3659,7 +3659,7 @@ Scheme
 		  }
 		}
 		"ProductBold24blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3671,7 +3671,7 @@ Scheme
 		  }
 		}
 		"ProductBold24"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3682,7 +3682,7 @@ Scheme
 		  }
 		}
 		"ProductBold26"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3693,7 +3693,7 @@ Scheme
 		  }
 		}
 		"ProductBold26blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3705,7 +3705,7 @@ Scheme
 		  }
 		}
 		"ProductBold28"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3716,7 +3716,7 @@ Scheme
 		  }
 		}
 		"ProductBold32"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3727,7 +3727,7 @@ Scheme
 		  }
 		}
 		"ProductBold32Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3738,7 +3738,7 @@ Scheme
 		  }
 		}
 		"ProductBold34"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3749,7 +3749,7 @@ Scheme
 		  }
 		}
 		"ProductBold34Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3760,7 +3760,7 @@ Scheme
 		  }
 		}
 		"ProductBold36"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3771,7 +3771,7 @@ Scheme
 		  }
 		}
 		"ProductBold36Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3782,7 +3782,7 @@ Scheme
 		  }
 		}
 		"ProductBold38"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3793,7 +3793,7 @@ Scheme
 		  }
 		}
 		"ProductBold38Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3804,7 +3804,7 @@ Scheme
 		  }
 		}
 		"ProductBold40"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3815,7 +3815,7 @@ Scheme
 		  }
 		}
 		"ProductBold40Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3826,7 +3826,7 @@ Scheme
 		  }
 		}
 		"ProductBold42"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3837,7 +3837,7 @@ Scheme
 		  }
 		}
 		"ProductBold42Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3848,7 +3848,7 @@ Scheme
 		  }
 		}
 		"ProductBold44"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3859,7 +3859,7 @@ Scheme
 		  }
 		}
 		"ProductBold44Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3870,7 +3870,7 @@ Scheme
 		  }
 		}
 		"ProductBold46"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3881,7 +3881,7 @@ Scheme
 		  }
 		}
 		"ProductBold46Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3892,7 +3892,7 @@ Scheme
 		  }
 		}
 		"ProductBold48"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3903,7 +3903,7 @@ Scheme
 		  }
 		}
 		"ProductBold48Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3914,7 +3914,7 @@ Scheme
 		  }
 		}
 		"ProductBold50"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3925,7 +3925,7 @@ Scheme
 		  }
 		}
 		"ProductBold50Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3936,7 +3936,7 @@ Scheme
 		  }
 		}
 		"ProductBold52"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3947,7 +3947,7 @@ Scheme
 		  }
 		}
 		"ProductBold52Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3958,7 +3958,7 @@ Scheme
 		  }
 		}
 		"ProductBold54"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3969,7 +3969,7 @@ Scheme
 		  }
 		}
 		"ProductBold54Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3980,7 +3980,7 @@ Scheme
 		  }
 		}
 		"ProductBold56"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -3991,7 +3991,7 @@ Scheme
 		  }
 		}
 		"ProductBold56Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4002,7 +4002,7 @@ Scheme
 		  }
 		}
 		"ProductBold58"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4013,7 +4013,7 @@ Scheme
 		  }
 		}
 		"ProductBold58Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4024,7 +4024,7 @@ Scheme
 		  }
 		}
 		"ProductBold60"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4035,7 +4035,7 @@ Scheme
 		  }
 		}
 		"ProductBold60Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4046,7 +4046,7 @@ Scheme
 		  }
 		}
 		"ProductBold62"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4057,7 +4057,7 @@ Scheme
 		  }
 		}
 		"ProductBold62Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4068,7 +4068,7 @@ Scheme
 		  }
 		}
 		"ProductBold64"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4079,7 +4079,7 @@ Scheme
 		  }
 		}
 		"ProductBold64Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4090,7 +4090,7 @@ Scheme
 		  }
 		}
 		"ProductBold66"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4101,7 +4101,7 @@ Scheme
 		  }
 		}
 		"ProductBold66Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4112,7 +4112,7 @@ Scheme
 		  }
 		}
 		"ProductBold68"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4123,7 +4123,7 @@ Scheme
 		  }
 		}
 		"ProductBold68Blur"
-		{
+	{
 		  "1"
 		  {
 				"name"		"Product Sans Bold"
@@ -4145,8 +4145,8 @@ Scheme
 		{
 			"inset" "0 0 0 0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -4154,8 +4154,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -4163,8 +4163,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -4172,8 +4172,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Blank"
 					"offset" 	"0 0"
@@ -4185,56 +4185,56 @@ Scheme
 		{
 			"inset" 	"0 0 0 0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"Black"
 					"offset" 	"0 0"
 				}
@@ -4276,8 +4276,8 @@ Scheme
 		{
 			"inset"		"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 1"
@@ -4285,8 +4285,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"1 0"
@@ -4294,8 +4294,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 0"
@@ -4303,8 +4303,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 0"
@@ -4315,8 +4315,8 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 1"
@@ -4324,8 +4324,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"1 0"
@@ -4333,8 +4333,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -4342,8 +4342,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -4354,8 +4354,8 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"SaleGreen"
 					"offset"	 "0 1"
@@ -4363,8 +4363,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"SaleGreen"
 					"offset" 	"1 0"
@@ -4372,8 +4372,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"SaleGreen"
 					"offset" 	"0 0"
@@ -4381,8 +4381,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"SaleGreen"
 					"offset" 	"0 0"
@@ -4394,8 +4394,8 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 1"
@@ -4403,8 +4403,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"1 0"
@@ -4447,24 +4447,24 @@ Scheme
 			"inset" 	"0 0 0 0"
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softred"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"softred"
 					"offset" 	"0 0"
 				}
 				"3"
-				{
+					{
 					"color" 	"softred"
 					"offset" 	"0 0"
 				}
 				"4"
-				{
+					{
 					"color" 	"softred"
 					"offset" 	"0 0"
 				}
@@ -4475,24 +4475,24 @@ Scheme
 			"inset" 	"0 0 0 0"
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softBlue"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"softBlue"
 					"offset" 	"0 0"
 				}
 				"3"
-				{
+					{
 					"color" 	"softBlue"
 					"offset"	"0 0"
 				}
 				"4"
-				{
+					{
 					"color" 	"softBlue"
 					"offset" 	"0 0"
 				}
@@ -4504,24 +4504,24 @@ Scheme
 			"inset" 			"0 0 0 0"
 			"backgroundtype"	"0"
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"238 238 238 255"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"238 238 238 255"
 					"offset" 	"0 0"
 				}
 				"3"
-				{
+					{
 					"color" 	"238 238 238 255"
 					"offset" 	"0 0"
 				}
 				"4"
-				{
+					{
 					"color" 	"238 238 238 255"
 					"offset" 	"0 0"
 				}
@@ -4532,96 +4532,96 @@ Scheme
 			"inset" 			"0 0 1 1"
 			"backgroundtype"	"0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"tanlight"
 					"offset" 	"0 1"
 				}
 				"1"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"1 2"
 				}
 				"3"
-				{
+					{
 					"color" 	"tanlight"
 					"offset"	"2 3"
 				}
 				"4"
-				{
+					{
 					"color" 	"0 0 0 30"
 					"offset" 	"3 4"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"tanlight"
 					"offset" 	"1 0"
 				}
 				"1"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"2 1"
 				}
 				"3"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"3 2"
 				}
 				"4"
-				{
+					{
 					"color" 	"0 0 0 30"
 					"offset" 	"4 3"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"tanlight"
 					"offset" 	"0 0"
 				}
 				"1"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"1 1"
 				}
 				"3"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"2 2"
 				}
 				"4"
-				{
+					{
 					"color" 	"0 0 0 30"
 					"offset" 	"3 3"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"tanlight"
 					"offset" 	"0 0"
 				}
 				"1"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"1 1"
 				}
 				"3"
-				{
+					{
 					"color" 	"tanlight"
 					"offset" 	"2 2"
 				}
 				"4"
-				{
+					{
 					"color" 	"0 0 0 30"
 					"offset" 	"3 3"
 				}
@@ -4632,56 +4632,56 @@ Scheme
 			"inset" 			"0 0 1 1"
 			"backgroundtype"	"0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 120"
 					"offset" 	"1 1"
 				}
 				"2"
-				{
+					{
 					"color" 	"0 0 0 120"
 					"offset" 	"2 2"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 120"
 					"offset" 	"1 1"
 				}
 				"2"
-				{
+					{
 					"color" 	"0 0 0 120"
 					"offset" 	"2 2"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 120"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"0 0 0 120"
 					"offset" 	"1 1"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 120"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"0 0 0 120"
 					"offset" 	"1 1"
 				}
@@ -4692,8 +4692,8 @@ Scheme
 			"inset" 			"0 0 1 1"
 			"backgroundtype"	"0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 10"
 					"offset" 	"0 1"
@@ -4701,8 +4701,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 10"
 					"offset" 	"1 0"
@@ -4710,8 +4710,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 8"
 					"offset" 	"0 0"
@@ -4719,8 +4719,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"0 0 0 20"
 					"offset" 	"0 0"
@@ -4732,19 +4732,19 @@ Scheme
 			"inset" 	"0 0 0 0"
 			
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 				"3"
-				{
+					{
 					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
@@ -4755,19 +4755,19 @@ Scheme
 			"inset" 	"0 0 0 0"
 			
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"tforange"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"tforange"
 					"offset" 	"0 0"
 				}
 				"3"
-				{
+					{
 					"color" 	"tforange"
 					"offset" 	"0 0"
 				}
@@ -4778,8 +4778,8 @@ Scheme
 			"inset" 	"0 0 1 1"
 			
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 15"
 					"offset" 	"0 1"
@@ -4787,8 +4787,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 15"
 					"offset" 	"1 0"
@@ -4796,8 +4796,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 15"
 					"offset" 	"0 0"
@@ -4805,8 +4805,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 15"
 					"offset" 	"0 0"
@@ -4819,8 +4819,8 @@ Scheme
 			"inset" 	"0 0 0 0"
 
 			bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 10"
 					"offset" 	"0 0"
@@ -4832,8 +4832,8 @@ Scheme
 			"inset" 	"0 0 0 0"
 
 			bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 15"
 					"offset" 	"0 0"
@@ -4845,8 +4845,8 @@ Scheme
 			"inset" 	"0 0 0 0"
 
 			bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 20"
 					"offset" 	"0 0"
@@ -4859,8 +4859,8 @@ Scheme
 			"inset" 	"0 0 0 0"
 			
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"255 255 255 20"
 					"offset" 	"0 1"
@@ -4918,24 +4918,24 @@ Scheme
 			"inset" 	"0 0 0 0"
 
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"blank"
 					"offset" 	"0 0"
 				}
 				"3"
-				{
+					{
 					"color" 	"blank"
 					"offset" 	"0 0"
 				}
 				"4"
-				{
+					{
 					"color" 	"blank"
 					"offset" 	"0 0"
 				}
@@ -5035,8 +5035,8 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 1"
@@ -5044,8 +5044,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"1 0"
@@ -5053,8 +5053,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 0"
@@ -5062,8 +5062,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 0"
@@ -5077,8 +5077,8 @@ Scheme
 			// This border is used just to create a horizontal line, so it only has a bottom border
 			
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 0"
@@ -5216,8 +5216,8 @@ Scheme
 		{
 			"inset" 	"0 0 0 0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5225,8 +5225,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5234,8 +5234,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5243,8 +5243,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5255,8 +5255,8 @@ Scheme
 		{
 			"inset" 	"0 0 0 0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5264,8 +5264,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5273,8 +5273,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -5282,8 +5282,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"blank"
 					"offset" 	"0 0"
@@ -6390,8 +6390,8 @@ Scheme
 			"inset" 			"0 0 1 1"
 			"backgroundtype"	"0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 1"
@@ -6399,8 +6399,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"1 0"
@@ -6408,8 +6408,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 0"
@@ -6417,8 +6417,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDarker"
 					"offset" 	"0 0"
@@ -6430,8 +6430,8 @@ Scheme
 			"inset" 			"0 0 1 1"
 			"backgroundtype"	"0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 1"
@@ -6439,8 +6439,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"1 0"
@@ -6448,8 +6448,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -6457,8 +6457,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -6470,8 +6470,8 @@ Scheme
 			"inset" 			"0 0 1 1"
 			"backgroundtype"	"0"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 1"
@@ -6479,8 +6479,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"1 0"
@@ -6488,8 +6488,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 0"
@@ -6497,8 +6497,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanLight"
 					"offset" 	"0 0"
@@ -6832,8 +6832,8 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 1"
@@ -6841,8 +6841,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"1 0"
@@ -6850,8 +6850,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -6859,8 +6859,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -6873,8 +6873,8 @@ Scheme
 			"inset" 	"0 0 1 1"
 	
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"1 0"
@@ -6886,8 +6886,8 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 1"
@@ -6895,8 +6895,8 @@ Scheme
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"1 0"
@@ -6904,8 +6904,8 @@ Scheme
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -6913,8 +6913,8 @@ Scheme
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"TanDark"
 					"offset" 	"0 0"
@@ -7027,7 +7027,7 @@ Scheme
 			"draw_corner_height" 	"0"	
 		}
 		ReplayBrowser.ScrollBar.SliderButton.Border
-		{
+	{
 		}
 
 		QuestStatusBorder
@@ -7178,56 +7178,56 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"0 1"
 				}
 				"2"
-				{
+					{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"0 1"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"1 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"1 0"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"0 0"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"QuestMap_ActiveOrange"
 					"offset" 	"0 0"
 				}
@@ -7238,56 +7238,56 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 1"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 1"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"1 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"1 0"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
@@ -7298,56 +7298,56 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 1"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 1"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"1 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"1 0"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"CreditsGreen"
 					"offset" 	"0 0"
 				}
@@ -7357,56 +7357,56 @@ Scheme
 		{
 			"inset" 	"0 0 1 1"
 			Left
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softblue"
 					"offset" 	"0 1"
 				}
 				"2"
-				{
+					{
 					"color" 	"softblue"
 					"offset" 	"0 1"
 				}
 			}
 
 			Right
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softblue"
 					"offset" 	"1 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"softblue"
 					"offset" 	"1 0"
 				}
 			}
 
 			Top
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softblue"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"softblue"
 					"offset" 	"0 0"
 				}
 			}
 
 			Bottom
-			{
-				"1"
+				{
+				"1"			{
 				{
 					"color" 	"softblue"
 					"offset" 	"0 0"
 				}
 				"2"
-				{
+					{
 					"color" 	"softblue"
 					"offset" 	"0 0"
 				}
@@ -7429,11 +7429,11 @@ Scheme
 			"font" 		"resource/TF2.ttf"
 			"name" 		"TF2"
 			"russian"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 			"polish"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 		}
@@ -7442,11 +7442,11 @@ Scheme
 			"font" 		"resource/TF2Secondary.ttf"
 			"name" 		"TF2 Secondary"
 			"russian"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 			"polish"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 		}
@@ -7455,11 +7455,11 @@ Scheme
 			"font" 		"resource/TF2Professor.ttf"
 			"name"		"TF2 Professor"
 			"russian"
-			{
+				{
 				"range" "0x0000 0x00FF"
 			}
 			"polish"
-			{
+				{
 				"range" "0x0000 0x00FF"
 			}
 		}	
@@ -7468,15 +7468,15 @@ Scheme
 			"font" 		"resource/TF2Build.ttf"
 			"name" 		"TF2 Build"
 			"russian"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 			"polish"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 			"turkish"
-			{
+				{
 				"range" "0x0000 0xFFFF"
 			}
 		}			

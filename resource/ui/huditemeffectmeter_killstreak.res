@@ -1,6 +1,6 @@
 "Resource/UI/HudItemEffectMeter_Demoman.res"
 {
-	HudItemEffectMeter
+	"HudItemEffectMeter"
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
@@ -13,51 +13,7 @@
 		"MeterBG"		"Gray"
 	}
 	
-	
-	"ExampleAnchor"
-    {
-        "ControlName"     "EditablePanel"
-        "fieldName"     "ExampleAnchor"
-        "xpos"			"rs1-6"
-        "ypos"             "rs1-6"
-        "wide"             "6"
-        "tall"             "20"
-        "bgcolor_override"             "0 0 0 165"
-        "visible"         "1"
-        "enabled"         "1"
-    }
-	
-	"ItemEffectMeterLabel2"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterLabel2"
-		"ypos"					"0"
-		"zpos"					"2"
-		"tall"					"20"
-		"autoResize"			"1"
-		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"labelText"				"STREAK:"
-		"font"			"productbold8"
-		"bgcolor_override"		"0 0 0 165"
-		"fgcolor"			"245 245 245 235"
-		"border"		"noborder"
-		"textAlignment"		"west"
-		"bgcolor"		"0 0 0 165"
-		"auto_wide_tocontents" "1"
-		"xpos"			"0"
-		"textinsetx"			"8"
-		"use_proportional_insets" "1"
-		"textinsety"			"0"
-		
-		"pin_to_sibling" "ItemEffectMeterCount"
-        "pin_corner_to_sibling" "3"
-        "pin_to_sibling_corner" "2"
-	}
-	
-	"ItemEffectMeterLabel"
+	"ItemEffectMeterLabel" // Hidden
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
@@ -69,14 +25,14 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"STREAK:"
-		"font"			"productbold8"
-		"bgcolor"		"0 0 0 165"
-		"fgcolor"			"245 245 245 235"
-		"border"		"noborder"
-		"textAlignment"		"WEST"
-		"wide" "82"
-		"xpos"			"0"
+		"labelText"				""
+		"font"					"productbold8"
+		"bgcolor"				"0 0 0 165"
+		"fgcolor"				"245 245 245 235"
+		"border"				"noborder"
+		"textAlignment"			"WEST"
+		"wide" 					"82"
+		"xpos"					"0"
 		"textinsetx"			"16"
 		"textinsety"			"0"
 	}
@@ -86,20 +42,19 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"ypos"			"9999"
-		"xpos"			"9999"
+		"ypos"					"9999"
+		"xpos"					"9999"
 	}					
 	
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"0"
-		"ypos"					"0"
+		"xpos"					"cs-0.5"
+		"ypos"					"r36"
 		"zpos"					"0"
-		"wide"					"40"
-		"tall"					"20"	
-		"pinCorner"				"2"
+		"wide"					"16"
+		"tall"					"16"	
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%progresscount%"
@@ -109,11 +64,5 @@
 		"bgcolor_override"		"0 0 0 165"
 		"fgcolor"				"245 245 245 110"
 		"border"				"noborder"
-		"textinsetx"			"8"
-		"auto_wide_tocontents"	"1"
-		
-		"pin_to_sibling"		"ExampleAnchor"
-        "pin_corner_to_sibling" "1"
-        "pin_to_sibling_corner" "0"
 	}
 }

@@ -25,14 +25,16 @@
 		"button_y"			"120"
 		"button_y_delta"	"5"
 
-		"button_kv" {
+		"button_kv"
+		{
 			"xpos"			"0"
 			"ypos"			"150"
 			"wide"			"250"
 			"tall"			"26"
 			"visible"		"1"
 
-			"SubButton" {
+			"SubButton"
+			{
 				"ControlName"				"CExImageButton"
 				"fieldName"					"SubButton"
 				"xpos"						"0"
@@ -65,7 +67,8 @@
 				"image_drawcolor"			"117 107 94 255"
 				"image_armedcolor"			"245 245 245 60"
 
-				"SubImage" {
+				"SubImage"
+				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					"xpos"			"6"
@@ -80,7 +83,8 @@
 			}
 		}
 
-		"SaxxySettings" {
+		"SaxxySettings"
+		{
 			"xpos"						"0"
 			"ypos"						"0"
 			"zpos"						"-101"
@@ -112,7 +116,8 @@
 			"initial_freakout_duration"	"15.0"
 			"clap_sound_duration"		"10.0"
 
-			"CameraFlashSettings" {
+			"CameraFlashSettings"
+			{
 				"visible"		"1"
 				"enabled"		"1"
 				"tileImage"		"0"
@@ -122,7 +127,8 @@
 		}
 	}
 
-	"mouseoveritempanel" {
+	"mouseoveritempanel"
+	{
 		"ControlName"			"CItemModelPanel"
 		"fieldName"				"mouseoveritempanel"
 		"xpos"					"c-70"
@@ -143,7 +149,8 @@
 		"resize_to_text"		"1"
 		"padding_height"		"15"
 
-		"attriblabel" {
+		"attriblabel"
+		{
 			"font"			"ItemFontAttribLarge"
 			"xpos"			"0"
 			"ypos"			"30"
@@ -161,7 +168,8 @@
 		}
 	}
 
-	"Background" {
+	"Background"
+	{
 		"ControlName"			"ScalableImagePanel"
 		"fieldName"				"Background"
 		"xpos"					"0"
@@ -176,7 +184,8 @@
 		"proportionaltoparent"	"1"
 	}
 
-	"Background2" {
+	"Background2"
+	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"Background2"
 		"xpos"					"0"
@@ -187,13 +196,14 @@
 		"alpha"					"255"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"0 0 0 165"
+		"fillcolor"				"0 0 0 0"
 		//"image"				"replay/thumbnails/digi"
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"
 	}
 
-	"TFLogoImage" {
+	"TFLogoImage"
+	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"TFLogoImage"
 		//"xpos"			"r162"
@@ -209,7 +219,8 @@
 		"mouseinputenabled"	"0"
 	}
 
-	"TFCharacterImage" {
+	"TFCharacterImage"
+	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"			"TFCharacterImage"
 		"xpos"				"c-250"
@@ -222,7 +233,8 @@
 		"scaleImage"		"1"
 	}
 
-	"RankModelPanel" {
+	"RankModelPanel"
+	{
 		"ControlName"			"CPvPRankPanel"
 		"fieldName"				"RankModelPanel"
 		"xpos"					"cs-0.5-256"
@@ -239,13 +251,15 @@
 		"show_progress"			"0"
 	}
 
-	"CycleRankTypeButton" {
+	"CycleRankTypeButton"
+	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
 		"xpos"			"9999"
 	}
 
-	"RankTooltipPanel" {
+	"RankTooltipPanel"
+	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"RankTooltipPanel"
 		"xpos"					"c-285"
@@ -280,7 +294,8 @@
 		"show_type"				"1"
 	}
 
-	"NoGCMessage" {
+	"NoGCMessage"
+	{
 		"ControlName"				"Label"
 		"fieldName"					"NoGCMessage"
 		"xpos"						"0"
@@ -306,7 +321,8 @@
 		"pin_to_sibling_corner" 	"PIN_TOPLEFT"
 	}
 
-	"NoGCImage" {
+	"NoGCImage"
+	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"NoGCImage"
 		"xpos"					"999"
@@ -321,7 +337,8 @@
 		"proportionaltoparent" 	"1"
 	}
 
-	"RankBorder" {
+	"RankBorder"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"RankBorder"
 		"xpos"					"c-290"
@@ -335,7 +352,8 @@
 		"proportionaltoparent"	"1"
 	}
 
-	"TooltipPanel" {
+	"TooltipPanel"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"TooltipPanel"
 		"xpos"					"0"
@@ -349,7 +367,8 @@
 		"paintbackground"		"1"
 		"bgcolor_override"		"0 0 0 0"
 
-		"TipSubLabel" {
+		"TipSubLabel"
+		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TipSubLabel"
 			"font"				"product8"
@@ -368,7 +387,8 @@
 			"wrap"				"1"
 		}
 
-		"TipLabel" {
+		"TipLabel"
+		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"TipLabel"
 			"font"					"product8"
@@ -390,7 +410,8 @@
 
 	// CUSTOMSTUFF
 
-	"HudName" {
+	"HudName"
+	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"HudName"
 		"font"					"productbold38"
@@ -408,7 +429,8 @@
 		"auto_wide_tocontents" 	"1"
 	}
 
-	"Notifications_ShowButtonPanel" {
+	"Notifications_ShowButtonPanel"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
 		"xpos"			"91"
@@ -421,7 +443,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"16"
@@ -436,7 +459,8 @@
 			"drawcolor" 	"210 125 33 255"
 		}
 
-		"Notifications_ShowButtonPanel_SB" {
+		"Notifications_ShowButtonPanel_SB"
+		{
 			"ControlName"		"CExImageButton"
 			"fieldName"			"Notifications_ShowButtonPanel_SB"
 			"xpos"				"0"
@@ -465,7 +489,8 @@
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"255 255 255 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"cs-0.5"
@@ -482,7 +507,8 @@
 		}
 	}
 
-	"WatchStreamButton" {
+	"WatchStreamButton"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"WatchStreamButton"
 		"xpos"					"6"
@@ -503,7 +529,8 @@
         "pin_corner_to_sibling" "2"
         "pin_to_sibling_corner" "2"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -534,7 +561,8 @@
 			"image_drawcolor"			"245 245 245 60"
 			"image_armedcolor"			"255 255 255 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"cs-0.5"
@@ -554,7 +582,8 @@
 		}
 	}
 
-	"StreamListPanel" {
+	"StreamListPanel"
+	{
 		"ControlName"			"CTFStreamListPanel"
 		"fieldName"				"StreamListPanel"
 		"xpos"					"c5"
@@ -571,7 +600,8 @@
 		"navLeft"				"WatchStreamButton"	// when a sub element can't nav left it will pass through this
 	}
 
-	"QuestLogButton" {
+	"QuestLogButton"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
 		"xpos"			"c228"
@@ -588,7 +618,8 @@
 		"navUp"			"Notifications_Panel"
 		"navLeft"		"SettingsButton"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -619,7 +650,8 @@
 			"image_drawcolor"			"245 245 245 60"
 			"image_armedcolor"			"255 255 255 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"cs-0.5"
@@ -639,7 +671,8 @@
 		}
 	}
 
-	"MOTD_ShowButtonPanel" {
+	"MOTD_ShowButtonPanel"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
 		"xpos"			"40"
@@ -658,7 +691,8 @@
 		"navRight"		"MOTD_Panel"				// pass through when naving right to this or the fully displayed MOTD
 		"navToRelay"	"MOTD_ShowButtonPanel_SB"	// when naving to this it auto navs to this child instead
 
-		"MOTD_ShowButtonPanel_SB" {
+		"MOTD_ShowButtonPanel_SB"
+		{
 			"ControlName"		"CExImageButton"
 			"fieldName"			"MOTD_ShowButtonPanel_SB"
 			"xpos"				"0"
@@ -688,7 +722,8 @@
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"255 255 255 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -704,7 +739,8 @@
 		}
 	}
 
-	"MOTD_Panel" {
+	"MOTD_Panel"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"MOTD_Panel"
 		"xpos"					"c5"
@@ -721,7 +757,8 @@
 		"navLeft"				"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
 		"navToRelay"			"MOTD_URLButton"		// when naving to this it auto navs to this child instead
 
-		"MOTD_HeaderContainer" {
+		"MOTD_HeaderContainer"
+		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"MOTD_HeaderContainer"
 			"xpos"			"0"
@@ -730,7 +767,8 @@
 			"tall"			"22"
 			"visible"		"1"
 
-			"MOTD_HeaderLabel" {
+			"MOTD_HeaderLabel"
+			{
 				"ControlName"			"CExLabel"
 				"fieldName"				"MOTD_HeaderLabel"
 				"font"					"HudFontSmallBold"
@@ -750,7 +788,8 @@
 			}
 		}
 
-		"MOTD_CloseButton" {
+		"MOTD_CloseButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"MOTD_CloseButton"
 			"xpos"						"282"
@@ -789,7 +828,8 @@
 			"image_drawcolor"			"245 245 245 60"
 			"image_armedcolor"			"200 80 60 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -804,7 +844,8 @@
 			}
 		}
 
-		"MOTD_HeaderIcon" {
+		"MOTD_HeaderIcon"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MOTD_HeaderIcon"
 			"xpos"			"265"
@@ -818,7 +859,8 @@
 			"scaleImage"	"1"
 		}
 
-		"MOTD_TitleLabel" {
+		"MOTD_TitleLabel"
+		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_TitleLabel"
 			"font"			"HudFontSmallBold"
@@ -836,7 +878,8 @@
 			"wrap"			"1"
 		}
 
-		"MOTD_Label" {
+		"MOTD_Label"
+		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_Label"
 			"font"			"HudFontSmall"
@@ -853,7 +896,8 @@
 			"fgcolor"		"LabelDark"
 		}
 
-		"MOTD_TitleImageBg" {
+		"MOTD_TitleImageBg"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"MOTD_TitleImageBg"
 			"xpos"					"cs-0.5"
@@ -868,7 +912,8 @@
 			"proportionaltoparent"	"1"
 		}
 
-		"MOTD_TitleImageContainer" {
+		"MOTD_TitleImageContainer"
+		{
 			"ControlName"			"EditablePanel"
 			"fieldName"				"MOTD_TitleImageContainer"
 			"xpos"					"cs-0.5"
@@ -879,7 +924,8 @@
 			"visible"				"1"
 			"proportionaltoparent"	"1"
 
-			"MOTD_TitleImage" {
+			"MOTD_TitleImage"
+			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"MOTD_TitleImage"
 				"xpos"			"0"
@@ -894,7 +940,8 @@
 			}
 		}
 
-		"MOTD_TextScroller" {
+		"MOTD_TextScroller"
+		{
 			"ControlName"			"ScrollableEditablePanel"
 			"fieldName"				"MOTD_TextScroller"
 			"xpos"					"20"
@@ -904,7 +951,8 @@
 			"PaintBackgroundType"	"2"
 			"fgcolor"				"LabelDark"
 
-			"MOTD_TextPanel" {
+			"MOTD_TextPanel"
+			{
 				"ControlName"			"EditablePanel"
 				"fieldName"				"MOTD_TextPanel"
 				"xpos"					"0"
@@ -914,7 +962,8 @@
 				"visible"				"1"
 				"PaintBackgroundType"	"2"
 
-				"MOTD_TextLabel" {
+				"MOTD_TextLabel"
+				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"MOTD_TextLabel"
 					"font"			"HudFontSmall"
@@ -934,7 +983,8 @@
 			}
 		}
 
-		"MOTD_URLButton" {
+		"MOTD_URLButton"
+		{
 			"ControlName"				"CExButton"
 			"fieldName"					"MOTD_URLButton"
 			"xpos"						"75"
@@ -972,7 +1022,8 @@
 			"depressedFgColor_override" "245 245 245 60"
 		}
 
-		"MOTD_PrevButton" {
+		"MOTD_PrevButton"
+		{
 			"ControlName"		"CExImageButton"
 			"fieldName"			"MOTD_PrevButton"
 			"xpos"				"12"
@@ -1004,7 +1055,8 @@
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"255 255 255 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1019,7 +1071,8 @@
 			}
 		}
 
-		"MOTD_NextButton" {
+		"MOTD_NextButton"
+		{
 			"ControlName"		"CExImageButton"
 			"fieldName"			"MOTD_NextButton"
 			"xpos"				"267"
@@ -1051,7 +1104,8 @@
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"255 255 255 255"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1067,7 +1121,8 @@
 		}
 	}
 
-	"Notifications_Panel" {
+	"Notifications_Panel"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"Notifications_Panel"
 		"xpos"					"cs-0.5"
@@ -1081,7 +1136,8 @@
 		"bgcolor_override"		"0 0 0 0"
 		"border"				"noborder"
 
-		"Notifications_CloseButton" {
+		"Notifications_CloseButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"Notifications_CloseButton"
 			"xpos"						"r16"
@@ -1117,7 +1173,8 @@
 			"image_drawcolor"			"tanlight60"
 			"image_armedcolor"			"245 245 245 240"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"0"
@@ -1133,7 +1190,8 @@
 			}
 		}
 
-		"Notifications_TitleLabel" {
+		"Notifications_TitleLabel"
+		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_TitleLabel"
 			"font"			"product8"
@@ -1151,7 +1209,8 @@
 			"wrap"			"1"
 		}
 
-		"Background" {
+		"Background"
+		{
 			"ControlName"		"EditablePanel"
 			"fieldName"			"Notifications_TitleLabel"
 			"xpos"				"0"
@@ -1166,7 +1225,8 @@
 			"bgcolor_override"	"0 0 0 165"
 		}
 
-		"Notifications_Scroller" {
+		"Notifications_Scroller"
+		{
 			"ControlName"			"ScrollableEditablePanel"
 			"fieldName"				"Notifications_Scroller"
 			"xpos"					"6"
@@ -1177,7 +1237,8 @@
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"		"tanlight120"
 
-			"Notifications_Control" {
+			"Notifications_Control"
+			{
 				"ControlName"	"CMainMenuNotificationsControl"
 				"fieldName"		"Notifications_Control"
 				"xpos"			"0"
@@ -1189,7 +1250,8 @@
 		}
 	}
 
-	"VRBGPanel" {
+	"VRBGPanel"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"VRBGPanel"
 		"xpos"					"c-290"
@@ -1202,7 +1264,8 @@
 		"border"				"noborder"
 	}
 
-	"VRModeButton" {
+	"VRModeButton"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldname"				"VRModeButton"
 		"xpos"					"c-285"
@@ -1218,7 +1281,8 @@
 		"navRight"				"Notifications_ShowButtonPanel"
 		"navToRelay"			"SubButton"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -1251,7 +1315,8 @@
 			"image_drawcolor"			"117 107 94 255"
 			"image_armedcolor"			"245 245 245 60"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"6"
@@ -1266,7 +1331,8 @@
 		}
 	}
 
-	"CompetitiveAccessInfoPanel" {
+	"CompetitiveAccessInfoPanel"
+	{
 		"ControlName"	"CCompetitiveAccessInfoPanel"
 		"fieldName"		"CompetitiveAccessInfoPanel"
 		"xpos"			"cs-0.5"
@@ -1277,7 +1343,8 @@
 		"visible"		"0"
 	}
 
-	"MeasurePanel" {
+	"MeasurePanel"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"MeasurePanel"
 		"xpos"					"411"
@@ -1289,7 +1356,8 @@
 		"bgcolor_override"		"46 43 42 255"
 	}
 
-	"FriendsContainer" {
+	"FriendsContainer"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
 		"xpos"			"4"
@@ -1301,7 +1369,8 @@
 
 		"border"		"noborder"
 
-		"TitleLabel" {
+		"TitleLabel"
+		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TitleLabel"
 			"font"				"product8"
@@ -1320,7 +1389,8 @@
 			"textinsetx"		"0"
 		}
 
-		"SteamFriendsList" {
+		"SteamFriendsList"
+		{
 			"ControlName"			"CSteamFriendsListPanel"
 			"fieldname"				"SteamFriendsList"
 			"xpos"					"0"
@@ -1338,12 +1408,14 @@
 			"column_gap"			"10"
 			"restrict_width"		"0"
 
-			"friendpanel_kv" {
+			"friendpanel_kv"
+			{
 				"wide"		"265"
 				"tall"		"20"
 			}
 
-			"ScrollBar" {
+			"ScrollBar"
+			{
 				"ControlName"			"ScrollBar"
 				"FieldName"				"ScrollBar"
 				"xpos"					"rs1-2"
@@ -1354,17 +1426,20 @@
 				"nobuttons"				"1"
 				"proportionaltoparent"	"1"
 
-				"Slider" {
+				"Slider"
+				{
 					"fgcolor_override"	"245 245 245 16"
 				}
 
-				"UpButton" {
+				"UpButton"
+				{
 					"ControlName"		"Button"
 					"FieldName"			"UpButton"
 					"visible"			"0"
 				}
 
-				"DownButton" {
+				"DownButton"
+				{
 					"ControlName"		"Button"
 					"FieldName"			"DownButton"
 					"visible"			"0"
@@ -1372,7 +1447,8 @@
 			}
 		}
 
-		"BelowDarken" {
+		"BelowDarken"
+		{
 			"ControlName"			"EditablePanel"
 			"fieldname"				"BelowDarken"
 			"xpos"					"0"
@@ -1388,7 +1464,8 @@
 			"bgcolor_override"		"0 0 0 165"
 		}
 
-		"BelowDarken2" {
+		"BelowDarken2"
+		{
 			"ControlName"			"EditablePanel"
 			"fieldname"				"BelowDarken2"
 			"xpos"					"0"
@@ -1409,7 +1486,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"EventPromo" {
+	"EventPromo"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldname"				"EventPromo"
 		"xpos"					"4"
@@ -1423,7 +1501,8 @@
 		"pin_corner_to_sibling" "1"
 		"pin_to_sibling_corner"	"0"
 
-		"Background" {
+		"Background"
+		{
 			"ControlName"			"EditablePanel"
 			"fieldname"				"Background"
 			"xpos"					"0"
@@ -1432,7 +1511,8 @@
 			"wide"					"212"
 
 
-			"CyclingAd" {
+			"CyclingAd"
+			{
 				"ControlName"			"CCyclingAdContainerPanel"
 				"fieldName"				"CyclingAd"
 				"xpos"					"5"
@@ -1448,20 +1528,25 @@
 
 				"bgcolor_override"		"0 0 0 165"
 
-				"items" {
-					"0" {
+				"items"
+				{
+					"0"
+					{
 						"item"			"Blue Moon Cosmetic Key"
 						"show_market"	"1"
 					}
-					"1" {
+					"1"
+					{
 						"item"			"Jungle Inferno Contracts Pass"
 						"show_market"	"1"
 					}
-					"2" {
+					"2"
+					{
 						"item"			"Winter 2017 Cosmetic Key"
 						"show_market"	"1"
 					}
-					"3" {
+					"3"
+					{
 						"item"			"Winter 2017 War Paint Key"
 						"show_market"	"1"
 					}
@@ -1470,7 +1555,8 @@
 		} 
 	}
 
-	"SafeMode" {
+	"SafeMode"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SafeMode"
 		"xpos"			"c-290"
@@ -1480,7 +1566,8 @@
 		"tall"			"190"
 		"visible"		"0"
 
-		"Background" {
+		"Background"
+		{
 			"ControlName"			"EditablePanel"
 			"fieldname"				"Background"
 			"xpos"					"0"
@@ -1495,7 +1582,8 @@
 			"paintborder"			"1"
 			"border"				"noborder"
 
-			"TitleLabel" {
+			"TitleLabel"
+			{
 				"ControlName"		"CExLabel"
 				"fieldName"			"TitleLabel"
 				"font"				"HudFontSmallBold"
@@ -1513,7 +1601,8 @@
 				"fgcolor_override"	"235 227 203 255"
 			}
 
-			"SaveSettingsButton" {
+			"SaveSettingsButton"
+			{
 				"ControlName"				"CExButton"
 				"fieldName"					"SaveSettingsButton"
 				"xpos"						"p0.02"
@@ -1548,7 +1637,8 @@
 				"depressedFgColor_override" "46 43 42 255"
 			}
 
-			"LeaveSafeModeButton" {
+			"LeaveSafeModeButton"
+			{
 				"ControlName"				"CExButton"
 				"fieldName"					"SubButton"
 				"xpos"						"p0.02"
@@ -1583,7 +1673,8 @@
 				"depressedFgColor_override" "46 43 42 255"
 			}
 
-			"Explanation" {
+			"Explanation"
+			{
 				"ControlName"			"Label"
 				"fieldName"				"Explanation"
 				"xpos"					"cs-0.5"
@@ -1604,7 +1695,8 @@
 
 		} // Background
 
-		"InfoImage" {
+		"InfoImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"InfoImage"
 			"xpos"					"rs1-5"
@@ -1622,7 +1714,8 @@
 
 	}
 
-	"ShowPromoCodesButton" {
+	"ShowPromoCodesButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"ShowPromoCodesButton"
 		"xpos"						"9999"
@@ -1654,7 +1747,8 @@
 		"depressedFgColor_override" "46 43 42 255"
 	}
 
-	"ReportPlayerButton" {
+	"ReportPlayerButton"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ReportPlayerButton"
 		"xpos"			"c-47"
@@ -1669,7 +1763,8 @@
 		"navDown"		"QuickplayChangeButton"
 		"navToRelay"	"SubButton"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -1703,7 +1798,8 @@
 
 			"proportionaltoparent"		"1"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"5"
@@ -1720,7 +1816,8 @@
 		}
 	}
 
-	"CallVoteButton" {
+	"CallVoteButton"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldname"				"CallVoteButton"
 		"xpos"					"-25"
@@ -1735,7 +1832,8 @@
 		"pin_corner_to_sibling" "0"
 		"pin_to_sibling_corner" "1"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -1769,7 +1867,8 @@
 			"image_armedcolor"			"245 245 245 120"
 			"proportionaltoparent"		"1"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"cs-0.5"
@@ -1786,7 +1885,8 @@
 		}
 	}
 
-	"MutePlayersButton" {
+	"MutePlayersButton"
+	{
 		"ControlName"			"EditablePanel"
 		"fieldname"				"MutePlayersButton"
 		"xpos"					"-54"
@@ -1800,7 +1900,8 @@
 		"pin_corner_to_sibling" "0"
 		"pin_to_sibling_corner" "1"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -1834,7 +1935,8 @@
 			"image_armedcolor"			"245 245 245 120"
 			"proportionaltoparent"		"1"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"cs-0.5"
@@ -1851,7 +1953,8 @@
 		}
 	}
 
-	"RequestCoachButton" {
+	"RequestCoachButton"
+	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RequestCoachButton"
 		"xpos"			"c22"
@@ -1866,7 +1969,8 @@
 		"navDown"		"QuickplayChangeButton"
 		"navToRelay"	"SubButton"
 
-		"SubButton" {
+		"SubButton"
+		{
 			"ControlName"				"CExImageButton"
 			"fieldName"					"SubButton"
 			"xpos"						"0"
@@ -1899,7 +2003,8 @@
 			"image_armedcolor"			"245 245 245 60"
 			"proportionaltoparent"		"1"
 
-			"SubImage" {
+			"SubImage"
+			{
 				"ControlName"			"ImagePanel"
 				"fieldName"				"SubImage"
 				"xpos"					"rs1-5"
@@ -1916,7 +2021,8 @@
 		}
 	}
 
-	"BackgroundFooter" {
+	"BackgroundFooter"
+	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BackgroundFooter"
 		"xpos"			"0"
@@ -1930,7 +2036,8 @@
 		"tileImage"		"1"
 	}
 
-	"FooterLine" {
+	"FooterLine"
+	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"FooterLine"
 		"xpos"			"0"
@@ -1944,22 +2051,26 @@
 		"scaleImage"	"1"
 	}
 
-	"DashboardDimmer" {
+	"DashboardDimmer" 
+	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"DashboardDimmer"
 		"xpos"					"9999"
 		"ypos"					"9999"
 		"zpos"					"0"
-		"wide"					"0"
-		"tall"					"0"
-		"visible"				"0"
+		"wide"					"f0"
+		"tall"					"f0"
+		"visible"				"1"
 		"PaintBackgroundType"	"0"
+		"bgcolor_override"		"0 0 0 0"
+		"bgcolor"				"0 0 0 0"
 		"border"				"InnerShadowBorder"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
 	}
 
-	"ServerBrowserButton" {
+	"ServerBrowserButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"ServerBrowserButton"
 		"xpos"						"15"
@@ -1996,7 +2107,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2012,7 +2124,8 @@
 		}
 	}
 
-	"SettingsButtonR" {
+	"SettingsButtonR"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"SettingsButtonR"
 		"xpos"						"4"
@@ -2052,7 +2165,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2072,13 +2186,15 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"SettingsButton" {
+	"SettingsButton"
+	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButton"
 		"xpos"			"99999"
 	}
 
-	"TF2SettingsButton" {
+	"TF2SettingsButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"TF2SettingsButton"
 		"xpos"						"0"
@@ -2111,7 +2227,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2132,7 +2249,8 @@
 		"pin_to_sibling_corner" 	"PIN_TOPRIGHT" // Target Element
 	}
 
-	"CharacterSetupButton" {
+	"CharacterSetupButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"CharacterSetupButton"
 		"xpos"						"0"
@@ -2172,7 +2290,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2192,7 +2311,8 @@
 		"pin_to_sibling_corner" "2"
 	}
 
-	"StoreHasNewItemsImage" {
+	"StoreHasNewItemsImage"
+	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"StoreHasNewItemsImage"
 		"wide"			"0"
@@ -2202,7 +2322,8 @@
 		"scaleImage"	"0"
 	}
 
-	"GeneralStoreButton" {
+	"GeneralStoreButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"GeneralStoreButton"
 		"xpos"						"4"
@@ -2240,7 +2361,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2260,7 +2382,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"QuitButton" {
+	"QuitButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"QuitButton"
 		"xpos"						"4"
@@ -2298,7 +2421,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2318,7 +2442,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"ConsoleButton" {
+	"ConsoleButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"ConsoleButton"
 		"xpos"						"0"
@@ -2356,7 +2481,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2376,7 +2502,8 @@
 		"pin_to_sibling_corner" "2"
 	}
 
-	"RetryButton" {
+	"RetryButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"RetryButton"
 		"xpos"						"4"
@@ -2414,7 +2541,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2434,7 +2562,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"TransparentViewmodelsOnButton" {
+	"TransparentViewmodelsButtonOn"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"TransparentViewmodelsOnButton"
 		"xpos"						"4"
@@ -2472,7 +2601,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2492,7 +2622,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"TransparentViewmodelsOffButton" {
+	"TransparentViewmodelsButtonOff"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"TransparentViewmodelsOffButton"
 		"xpos"						"4"
@@ -2530,7 +2661,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2550,7 +2682,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"DisconnectButton" {
+	"DisconnectButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"DisconnectButton"
 		"xpos"						"4"
@@ -2587,7 +2720,8 @@
 
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2607,7 +2741,8 @@
 		"pin_to_sibling_corner" "1"
 	}
 
-	"MinMode" {
+	"MinMode"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"MinMode"
 		"xpos"						"0"
@@ -2644,7 +2779,8 @@
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"			"ImagePanel"
 			"fieldName"				"SubImage"
 			"xpos"					"cs-0.5"
@@ -2664,7 +2800,8 @@
 		"pin_to_sibling_corner" "2"
 	}
 
-	"NewUserForumsButton" {
+	"NewUserForumsButton"
+	{
 		"ControlName"			"CExImageButton"
 		"fieldName"				"NewUserForumsButton"
 		"xpos"					"c-158+273"
@@ -2696,7 +2833,8 @@
 
 		"image_drawcolor"		"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"4"
@@ -2711,7 +2849,8 @@
 		}
 	}
 
-	"AchievementsButton" {
+	"AchievementsButton"
+	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"AchievementsButton"
 		"xpos"				"c-133+273"
@@ -2742,7 +2881,8 @@
 
 		"image_drawcolor"	"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"5"
@@ -2757,7 +2897,8 @@
 		}
 	}
 
-	"CommentaryButton" {
+	"CommentaryButton"
+	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"CommentaryButton"
 		"xpos"				"c-108+273"
@@ -2788,7 +2929,8 @@
 
 		"image_drawcolor"	"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"5"
@@ -2803,7 +2945,8 @@
 		}
 	}
 
-	"CoachPlayersButton" {
+	"CoachPlayersButton"
+	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"CoachPlayersButton"
 		"xpos"				"c-83+273"
@@ -2834,7 +2977,8 @@
 
 		"image_drawcolor"	"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"5"
@@ -2849,7 +2993,8 @@
 		}
 	}
 
-	"WorkshopButton" {
+	"WorkshopButton"
+	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"WorkshopButton"
 		"xpos"				"c-63+273"
@@ -2880,7 +3025,8 @@
 
 		"image_drawcolor"	"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"9"
@@ -2895,7 +3041,8 @@
 		}
 	}
 
-	"ReplayButton" {
+	"ReplayButton"
+	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ReplayButton"
 		"xpos"				"c-34+273"
@@ -2926,7 +3073,8 @@
 
 		"image_drawcolor"	"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"5"
@@ -2941,7 +3089,8 @@
 		}
 	}
 
-	"ReportBugButton" {
+	"ReportBugButton"
+	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ReportBugButton"
 		"xpos"				"c-14+273"
@@ -2971,7 +3120,8 @@
 
 		"image_drawcolor"	"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"10"
@@ -2986,7 +3136,8 @@
 		}
 	}
 
-	"BackToReplaysButton" {
+	"BackToReplaysButton"
+	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"BackToReplaysButton"
 		"xpos"						"c-300"
@@ -3013,7 +3164,8 @@
 
 		"image_drawcolor"			"245 245 245 60"
 
-		"SubImage" {
+		"SubImage"
+		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"16"
@@ -3028,7 +3180,8 @@
 		}
 	}
 
-	"icon_generator" {
+	"icon_generator"
+	{
 		"ControlName"			"CEmbeddedItemModelPanel"
 		"fieldName"				"icon_generator"
 
@@ -3051,7 +3204,8 @@
 
 		"disable_manipulation"	"1"
 
-		"model" {
+		"model"
+		{
 			"angles_x"			"10"
 			"angles_y"			"130"
 			"angles_z"			"0"

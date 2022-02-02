@@ -111,7 +111,7 @@
 			"proportionaltoparent"	"1"
 		
 			"ProgressToNextLevel"
-			{
+				{
 				"ControlName"		"ContinuousProgressBar"
 				"fieldName"			"ProgressToNextLevel"
 				"xpos"				"cs-0.5"
@@ -131,7 +131,7 @@
 			}
 
 			"Overlay"
-			{
+				{
 				"ControlName"			"EditablePanel"
 				"fieldName"				"Overlay"
 				"xpos"					"0"

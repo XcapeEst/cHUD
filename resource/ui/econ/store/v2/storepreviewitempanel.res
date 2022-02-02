@@ -184,7 +184,7 @@
 			"autoresize"		"0"
 			
 			"ScrollableChild"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ScrollableChild"
 				"xpos"			"240"
@@ -202,7 +202,7 @@
 				// All the controls below get laid out off of the item name label's position and the break sizes defined at the top of this file
 				//
 				"ItemLevelInfoLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ItemLevelInfoLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -219,7 +219,7 @@
 				}		
 				
 				"RestrictionsLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -236,7 +236,7 @@
 				}		
 				
 				"RestrictionsTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -253,7 +253,7 @@
 				}		
 				
 				"UsedByLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -270,7 +270,7 @@
 				}		
 				
 				"UsedByTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -286,7 +286,7 @@
 				}		
 				
 				"SlotLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -303,7 +303,7 @@
 				}		
 				
 				"SlotTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -319,7 +319,7 @@
 				}		
 				
 				"PriceLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"PriceLabel"
 					"font"			"HudFontMediumSmallBold"
@@ -335,7 +335,7 @@
 				}
 				
 				"ArmoryTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ArmoryTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -351,7 +351,7 @@
 				}			
 				
 				"AttributesLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"AttributesLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -366,7 +366,7 @@
 				}		
 				
 				"ItemWikiPageButton"
-				{
+					{
 					"ControlName"	"CExButton"
 					"fieldName"		"ItemWikiPageButton"
 					"zpos"			"20"
@@ -388,7 +388,7 @@
 				}		
 				
 				"TradableLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"TradableLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -405,7 +405,7 @@
 				}		
 				
 				"TradableTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"TradableTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -421,7 +421,7 @@
 				}		
 				
 				"GiftableLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"GiftableLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -438,7 +438,7 @@
 				}		
 				
 				"GiftableTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"GiftableTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -454,7 +454,7 @@
 				}		
 				
 				"NameableLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"NameableLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -471,7 +471,7 @@
 				}		
 				
 				"NameableTextLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"NameableTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -487,7 +487,7 @@
 				}		
 
 				"CraftableLabel"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"CraftableLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -504,7 +504,7 @@
 				}		
 				
 				"CraftableTextLabel"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"CraftableTextLabel"
 					"font"			"FontStoreOriginalPrice"
@@ -644,7 +644,7 @@
 			"paint_icon_hide"	"0"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -698,7 +698,7 @@
 			"paint_icon_hide"	"0"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -752,7 +752,7 @@
 			"paint_icon_hide"	"0"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -806,7 +806,7 @@
 			"paint_icon_hide"	"0"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -860,7 +860,7 @@
 			"paint_icon_hide"	"0"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -1314,7 +1314,7 @@
 			"keyboardinputenabled"	"0"
 			
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -1331,26 +1331,26 @@
 		"Buttons"
 		{
 			"all"
-			{
+				{
 				"userdata"			"2"
 				"image_default"		"store/store_redteam"
 				"image_armed"		"store/store_redteam"
 				"image_selected"	"store/store_redteam"
 				
 				"SubImage"
-				{
+					{
 					"image"			"store/store_redteam"
 				}				
 			}
 			"scout"
-			{
+				{
 				"userdata"			"3"
 				"image_default"		"store/store_blueteam"
 				"image_armed"		"store/store_blueteam"
 				"image_selected"	"store/store_blueteam"
 				
 				"SubImage"
-				{
+					{
 					"image"			"store/store_blueteam"
 				}				
 			}

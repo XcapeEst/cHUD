@@ -55,7 +55,7 @@
 			"inset_eq_y"					"2"
 
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" 	"0"
 				"allow_rot"					"0"
 			}

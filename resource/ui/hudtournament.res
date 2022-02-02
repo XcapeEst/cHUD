@@ -56,7 +56,7 @@
 			"proportionaltoparent"	"1"
 
 			if_competitive
-			{
+				{
 				"visible"		"1"
 			}
 		}
@@ -73,7 +73,7 @@
 			
 			
 			"playername"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
 				"font"			"DefaultVerySmall"
@@ -91,7 +91,7 @@
 			}
 			
 			"classimage"
-			{
+				{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"0"
@@ -105,7 +105,7 @@
 				"scaleImage"	"1"
 			}
 			"classimageOverlay"
-			{
+				{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimageOverlay"
 				"xpos"			"3"
@@ -122,7 +122,7 @@
 			
 			
 			"PortraitBG"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"PortraitBG"
 				"xpos"			"0"
@@ -137,7 +137,7 @@
 			}
 			
 			"classimagebg"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg"
 				"xpos"			"0"
@@ -154,7 +154,7 @@
 			}
 			
 			"HealthIcon"
-			{
+				{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
 				"xpos"				"22"
@@ -171,7 +171,7 @@
 				"TextColor"					"HudOffWhite"
 				
 				if_competitive
-				{
+					{
 					"wide"			"p0.64"
 					"tall"			"p0.96"
 					"visible"		"1"
@@ -180,7 +180,7 @@
 			}
 			
 			"ReadyBG"
-			{
+				{
 				"ControlName"		"ScalableImagePanel"
 				"fieldName"		"ReadyBG"
 				"xpos"			"30"
@@ -201,12 +201,12 @@
 				"draw_corner_height" 	"3"
 				
 				if_mvm
-				{
+					{
 					"visible"		"0"
 				}
 				
 				if_competitive
-				{
+					{
 					"xpos"			"28"
 					"ypos"			"5"
 					"wide"			"p0.3"
@@ -216,13 +216,13 @@
 				}
 				
 				if_readymode
-				{
+					{
 					"visible"		"1"
 				}		
 			}
 			
 			"ReadyImage"
-			{
+				{
 				"ControlName"		"ImagePanel"
 				"fieldName"		"ReadyImage"
 				"xpos"			"0"
@@ -239,7 +239,7 @@
 			}
 			
 			"respawntime"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
 				"font"			"DefaultSmall"
@@ -256,7 +256,7 @@
 				//"fgcolor"		"235 226 202 255"
 				
 				if_competitive
-				{
+					{
 					"xpos"			"6"
 					"ypos"			"7.5"
 					"wide"			"p0.5"
@@ -267,7 +267,7 @@
 			}
 			
 			"chargeamount"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
 				"font"			"DefaultSmall"
@@ -289,7 +289,7 @@
 				}
 				
 				if_competitive
-				{
+					{
 					"xpos"			"22"
 					"ypos"			"15"
 					"wide"			"p0.45"
@@ -299,7 +299,7 @@
 			}
 			
 			"specindex"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"specindex"
 				"font"			"DefaultVerySmall"
@@ -316,7 +316,7 @@
 				//"fgcolor"		"235 226 202 255"
 				
 				if_competitive
-				{
+					{
 					"wide"			"p0.9"
 					"tall"			"p0.22"
 					"proportionaltoparent" "1"

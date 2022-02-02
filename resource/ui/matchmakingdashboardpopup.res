@@ -71,7 +71,7 @@
 			"autoResize"	"1"
 
 			"BGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
@@ -86,7 +86,7 @@
 			}
 
 			"LeaderContainer"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
 				"xpos"			"0"
@@ -99,7 +99,7 @@
 				"mouseinputenabled"		"1"
 
 				"RematchButton"
-				{
+					{
 					"ControlName"	"CExButton"
 					"fieldName"		"RematchButton"
 					"xpos"			"10"
@@ -128,7 +128,7 @@
 				}
 
 				"RequeueButton"
-				{
+					{
 					"ControlName"	"CExButton"
 					"fieldName"		"RequeueButton"
 					"xpos"			"rs1-10"
@@ -158,7 +158,7 @@
 			}
 
 			"NonLeaderContainer"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
 				"xpos"			"0"
@@ -171,7 +171,7 @@
 				"mouseinputenabled"		"1"
 
 				"NonLeaderDesc"
-				{
+					{
 					"ControlName"	"Label"
 					"fieldName"		"NonLeaderDesc"
 					"xpos"			"cs-0.5"
@@ -195,7 +195,7 @@
 
 
 				"LeavePartyButton"
-				{
+					{
 					"ControlName"	"CExButton"
 					"fieldName"		"LeavePartyButton"
 					"xpos"			"cs-0.5"
@@ -226,7 +226,7 @@
 			}
 
 			"DescLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
 				"xpos"			"0"
@@ -244,7 +244,7 @@
 			}
 
 			"VoteEndTimeLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"VoteEndTimeLabel"
 				"xpos"			"0"
@@ -262,7 +262,7 @@
 			}
 
 			"RematchVoteState"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"RematchVoteState"
 				"xpos"			"cs-0.5"
@@ -303,7 +303,7 @@
 			"autoResize"	"1"
 
 			"BGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
@@ -318,7 +318,7 @@
 			}
 
 			"DescLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
 				"xpos"			"0"
@@ -336,7 +336,7 @@
 			}
 
 			"VoteEndTimeLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"VoteEndTimeLabel"
 				"xpos"			"0"
@@ -354,7 +354,7 @@
 			}
 
 			"NonLeaderContainer"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"NonLeaderContainer"
 				"xpos"			"0"
@@ -366,7 +366,7 @@
 				"proportionaltoparent"	"1"
 
 				"LeavePartyButton"
-				{
+					{
 					"ControlName"	"CExButton"
 					"fieldName"		"LeavePartyButton"
 					"xpos"			"cs-0.5"
@@ -414,7 +414,7 @@
 			"autoResize"	"1"
 
 			"BGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
@@ -429,7 +429,7 @@
 			}
 
 			"SearchingLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"SearchingLabel"
 				"xpos"			"cs-0.5"
@@ -447,7 +447,7 @@
 			}
 
 			"Spinner"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"Spinner"
 				"xpos"			"cs-0.5"
@@ -466,7 +466,7 @@
 			}
 
 			"LeaderContainer"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"LeaderContainer"
 				"xpos"			"0"
@@ -479,7 +479,7 @@
 				"mouseinputenabled"		"1"
 
 				"LeaveQueueButton"
-				{
+					{
 					"ControlName"	"CExButton"
 					"fieldName"		"LeaveQueueButton"
 					"xpos"			"cs-0.5"
@@ -527,7 +527,7 @@
 			"autoResize"	"1"
 
 			"BGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
@@ -542,7 +542,7 @@
 			}
 
 			"DescLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
 				"xpos"			"0"
@@ -560,7 +560,7 @@
 			}
 
 			"AutoJoinLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"AutoJoinLabel"
 				"xpos"			"0"
@@ -578,7 +578,7 @@
 			}
 
 			"AbandonButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"AbandonButton"
 				"xpos"			"rs1-10"
@@ -608,7 +608,7 @@
 			}
 
 			"JoinNowButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"JoinNowButton"
 				"xpos"			"10"
@@ -657,7 +657,7 @@
 			"autoResize"	"1"
 
 			"BGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"BGPanel"
 				"xpos"			"cs-0.5"
@@ -672,7 +672,7 @@
 			}
 
 			"SearchingLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"SearchingLabel"
 				"xpos"			"cs-0.5"
@@ -690,7 +690,7 @@
 			}
 
 			"Spinner"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"Spinner"
 				"xpos"			"cs-0.5"

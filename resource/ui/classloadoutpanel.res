@@ -67,7 +67,7 @@
 			"deferred_icon"					"1"
 
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" 	"0"
 				"allow_rot"					"0"
 				"inventory_image_type"		"0" // HQ images
@@ -75,12 +75,12 @@
 			}
 
 			"attriblabel"
-			{
-				"font"						"ItemFontAttribLarge"
+				{
+				"font"						"ItemFontAttribSmall"
 				"visible"					"0"
 			}
 			"BackpackSlotImage"	
-			{
+				{
 				"ControlName"				"ImagePanel"
 				"fieldName"					"BackpackSlotImage"
 				"xpos"						"0"
@@ -124,7 +124,7 @@
     	}
     }
 
-	"CaratLabel"
+	"CaratLabel" // Just ">>" to indicate that you are editing loadouts
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"CaratLabel"
@@ -214,53 +214,53 @@
 			"modelname"						""
 
 			"animation"
-			{
+				{
 				"name"						"PRIMARY"
 				"activity"					"ACT_MP_STAND_PRIMARY"
 				"default"					"1"
 			}
 			"animation"
-			{
+				{
 				"name"						"SECONDARY"
 				"activity"					"ACT_MP_STAND_SECONDARY"
 			}
 			"animation"
-			{
+				{
 				"name"						"MELEE"
 				"activity"					"ACT_MP_STAND_MELEE"
 			}
 			"animation"
-			{
+				{
 				"name"						"BUILDING"
 				"activity"					"ACT_MP_STAND_BUILDING"
 			}
 			"animation"
-			{
+				{
 				"name"						"PDA"
 				"activity"					"ACT_MP_STAND_PDA"
 			}
 			"animation"
-			{
+				{
 				"name"						"ITEM1"
 				"activity"					"ACT_MP_STAND_ITEM1"
 			}
 			"animation"
-			{
+				{
 				"name"						"ITEM2"
 				"activity"					"ACT_MP_STAND_ITEM2"
 			}
 			"animation"
-			{
+				{
 				"name"						"MELEE_ALLCLASS"
 				"activity"					"ACT_MP_STAND_MELEE_ALLCLASS"
 			}
 			"animation"
-			{
+				{
 				"name"						"PRIMARY2"
 				"activity"					"ACT_MP_STAND_PRIMARY"
 			}
 			"animation"
-			{
+				{
 				"name"						"SECONDARY2"
 				"activity"					"ACT_MP_STAND_SECONDARY2"
 			}
@@ -363,7 +363,7 @@
 		"PaintBackgroundType"				"0"
 	}
 	
-	"loadout_preset_panel"
+	"loadout_preset_panel"		// Loadout preset buttons
 	{
 		"ControlName"						"CLoadoutPresetPanel"
 		"FieldName"							"loadout_preset_panel"
@@ -378,7 +378,7 @@
 		"paintbackground"					"0"
 	}
 	
-	"CharacterLoadoutButton"
+	"CharacterLoadoutButton"	// Switch to loadout window
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"CharacterLoadoutButton"
@@ -420,7 +420,7 @@
 		}
 	}
 
-	"TauntLoadoutButton"
+	"TauntLoadoutButton"		// Switch to taunt window
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"TauntLoadoutButton"

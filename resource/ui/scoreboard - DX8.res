@@ -936,7 +936,7 @@
 			"enabled"		"1"
 
 			"AvatarBGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"AvatarBGPanel"
 				"xpos"			"157"
@@ -949,7 +949,7 @@
 				"bgcolor_override"	"117 107 94 255"
 			}
 			"AvatarImage"
-			{
+				{
 				"ControlName"	"CAvatarImagePanel"
 				"fieldName"		"AvatarImage"
 				"xpos"			"159"
@@ -964,7 +964,7 @@
 				"color_outline"	"52 48 45 255"
 			}
 			"AvatarTextLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"AvatarTextLabel"
 				"fgcolor"		"TanLight"
@@ -983,7 +983,7 @@
 				"font"			"HudFontSmallest"
 			}
 			"Score"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
 				"labelText"		"%score%"
@@ -1015,7 +1015,7 @@
 			"enabled"		"1"
 
 			"AvatarBGPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"AvatarBGPanel"
 				"xpos"			"7"
@@ -1028,7 +1028,7 @@
 				"bgcolor_override"	"117 107 94 255"
 			}
 			"AvatarImage"
-			{
+				{
 				"ControlName"	"CAvatarImagePanel"
 				"fieldName"		"AvatarImage"
 				"xpos"			"9"
@@ -1043,7 +1043,7 @@
 				"color_outline"	"52 48 45 255"
 			}
 			"AvatarTextLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"AvatarTextLabel"
 				"fgcolor"		"TanLight"
@@ -1062,7 +1062,7 @@
 				"font"			"HudFontSmallest"
 			}
 			"Score"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
 				"labelText"		"%score%"

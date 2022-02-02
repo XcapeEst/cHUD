@@ -152,53 +152,53 @@
 			"modelname"		""
 			
 			"animation"
-			{
+				{
 				"name"		"PRIMARY"
 				"activity"	"ACT_MP_STAND_PRIMARY"
 				"default"	"1"
 			}
 			"animation"
-			{
+				{
 				"name"		"SECONDARY"
 				"activity"	"ACT_MP_STAND_SECONDARY"
 			}
 			"animation"
-			{
+				{
 				"name"		"MELEE"
 				"activity"	"ACT_MP_STAND_MELEE"
 			}
 			"animation"
-			{
+				{
 				"name"		"BUILDING"
 				"activity"	"ACT_MP_STAND_BUILDING"
 			}
 			"animation"
-			{
+				{
 				"name"		"PDA"
 				"activity"	"ACT_MP_STAND_PDA"
 			}
 			"animation"
-			{
+				{
 				"name"		"ITEM1"
 				"activity"	"ACT_MP_STAND_ITEM1"
 			}						
 			"animation"
-			{
+				{
 				"name"		"ITEM2"
 				"activity"	"ACT_MP_STAND_ITEM2"
 			}									
 			"animation"
-			{
+				{
 				"name"		"MELEE_ALLCLASS"
 				"activity"	"ACT_MP_STAND_MELEE_ALLCLASS"
 			}
 			"animation"
-			{
+				{
 				"name"		"PRIMARY2"
 				"activity"	"ACT_MP_STAND_PRIMARY"
 			}
 			"animation"
-			{
+				{
 				"name"		"SECONDARY2"
 				"activity"	"ACT_MP_STAND_SECONDARY2"
 			}
@@ -210,7 +210,7 @@
 			{
 			}
 			"Scout"
-			{
+				{
 				"fov"			"36"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"
@@ -222,7 +222,7 @@
 				"origin_z_minmode"		"-47"
 			}
 			"Sniper"
-			{
+				{
 				"fov"			"39"
 				"angles_x"		"-2"
 				"angles_x_minmode"		"-2"
@@ -234,7 +234,7 @@
 				"origin_z_minmode"		"-47"	//-67
 			}
 			"Soldier"
-			{
+				{
 				"fov"			"36"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"
@@ -247,7 +247,7 @@
 				"origin_z_minmode"		"-52"
 			}
 			"Demoman"
-			{
+				{
 				"fov"			"37"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"
@@ -259,7 +259,7 @@
 				"origin_z_minmode"		"-55"
 			}
 			"Medic"
-			{
+				{
 				"fov"			"31"
 				"angles_x"		"6"
 				"angles_x_minmode"		"6"
@@ -271,7 +271,7 @@
 				"origin_z_minmode"		"-57"
 			}
 			"Heavy"
-			{
+				{
 				"fov"			"29"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"
@@ -284,7 +284,7 @@
 				"origin_z_minmode"		"-55"
 			}
 			"Pyro"
-			{
+				{
 				"fov"			"32"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"
@@ -296,7 +296,7 @@
 				"origin_z_minmode"		"-50"
 			}
 			"Spy"
-			{
+				{
 				"fov"			"32"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"
@@ -309,7 +309,7 @@
 				"origin_z_minmode"		"-60"
 			}
 			"Engineer"
-			{
+				{
 				"fov"			"32"
 				"angles_x"		"0"
 				"angles_x_minmode"		"0"

@@ -178,7 +178,7 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
@@ -226,7 +226,7 @@
 			"visible"		"0"
 			
 			"KillIcon"	
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"KillIcon"
 				"xpos"			"0"
@@ -261,7 +261,7 @@
 			}
 					
 			"ShellIcon"	
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"ShellIcon"
 				"xpos"			"0"

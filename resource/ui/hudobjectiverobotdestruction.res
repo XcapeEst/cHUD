@@ -240,7 +240,7 @@
 			"proportionalToParent"	"1"
 		
 			"ScoreOutline"
-			{
+				{
 				"fieldName"				"ScoreOutline"
 				"ControlName"			"ImagePanel"
 				"xpos"					"0"
@@ -256,7 +256,7 @@
 			}
 
 			"BlueVictoryContainer"
-			{
+				{
 				"fieldName"				"BlueVictoryContainer"
 				"ControlName"			"EditablePanel"
 				"xpos"					"25"
@@ -269,7 +269,7 @@
 				"proportionalToParent"	"1"
 
 				"VictoryLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
 					"xpos"			"0"
@@ -287,7 +287,7 @@
 				}
 
 				"VictoryLabelShadow"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelShadow"
 					"xpos"			"1"
@@ -305,7 +305,7 @@
 				}
 
 				"VictoryLabelTime"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
 					"xpos"			"0"
@@ -327,7 +327,7 @@
 				}
 
 				"VictoryLabelTimeShadow"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTimeShadow"
 					"xpos"			"1"
@@ -350,7 +350,7 @@
 			}
 
 			"BlueProgressBarFill"
-			{
+				{
 				"fieldName"				"BlueProgressBarFill"
 				"ControlName"			"ImagePanel"
 				"xpos"					"0"
@@ -375,7 +375,7 @@
 			}
 
 			"BlueProgressBarEscrow"
-			{
+				{
 				"fieldName"				"BlueProgressBarEscrow"
 				"ControlName"			"ImagePanel"
 				"xpos"					"0"
@@ -400,7 +400,7 @@
 			}
 
 			"RedVictoryContainer"
-			{
+				{
 				"fieldName"				"RedVictoryContainer"
 				"ControlName"			"EditablePanel"
 				"xpos"					"25"
@@ -413,7 +413,7 @@
 				"proportionalToParent"	"1"
 
 				"VictoryLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
 					"xpos"			"140"
@@ -431,7 +431,7 @@
 				}
 
 				"VictoryLabelShadow"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelShadow"
 					"xpos"			"141"
@@ -449,7 +449,7 @@
 				}
 
 				"VictoryLabelTime"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
 					"xpos"			"0"
@@ -471,7 +471,7 @@
 				}
 
 				"VictoryLabelTimeShadow"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTimeShadow"
 					"xpos"			"1"
@@ -494,7 +494,7 @@
 			}
 
 			"RedProgressBarFill"
-			{
+				{
 				"fieldName"				"RedProgressBarFill"
 				"ControlName"			"ImagePanel"
 				"xpos"					"150"
@@ -519,7 +519,7 @@
 			}
 
 			"RedProgressBarEscrow"
-			{
+				{
 				"fieldName"				"RedProgressBarEscrow"
 				"ControlName"			"ImagePanel"
 				"xpos"					"150"
@@ -559,7 +559,7 @@
 			"proportionalToParent"	"1"
 
 			"Score"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
 				"xpos"			"c-27"
@@ -579,7 +579,7 @@
 			}	
 		
 			"ScoreShadow"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ScoreShadow"
 				"xpos"			"c-26"
@@ -614,7 +614,7 @@
 			"proportionalToParent"	"1"
 
 			"Score"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
 				"xpos"			"c-27"
@@ -634,7 +634,7 @@
 			}	
 		
 			"ScoreShadow"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ScoreShadow"
 				"xpos"			"c-26"
@@ -669,7 +669,7 @@
 			"proportionalToParent"	"1"
 
 			"IntelImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"IntelImage"
 				"xpos"			"5"
@@ -685,7 +685,7 @@
 			}	
 
 			"DroppedIntelContainer"
-			{
+				{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"DroppedIntelContainer"
 				"xpos"				"0"
@@ -700,7 +700,7 @@
 				"proportionalToParent"	"1"
 
 				"DroppedIntelImage"
-				{
+					{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
 					"xpos"			"0"
@@ -717,7 +717,7 @@
 			}
 
 			"IntelValue"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
 				"xpos"			"0"
@@ -736,7 +736,7 @@
 			}
 
 			"IntelValueShadow"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValueShadow"
 				"xpos"			"1"
@@ -769,7 +769,7 @@
 			"proportionalToParent"	"1"
 
 			"IntelImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"IntelImage"
 				"xpos"			"5"
@@ -785,7 +785,7 @@
 			}	
 
 			"DroppedIntelContainer"
-			{
+				{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"DroppedIntelContainer"
 				"xpos"				"0"
@@ -800,7 +800,7 @@
 				"proportionalToParent"	"1"
 
 				"DroppedIntelImage"
-				{
+					{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"DroppedIntelImage"
 					"xpos"			"0"
@@ -817,7 +817,7 @@
 			}
 
 			"IntelValue"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValue"
 				"xpos"			"0"
@@ -836,7 +836,7 @@
 			}
 
 			"IntelValueShadow"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"IntelValueShadow"
 				"xpos"			"1"

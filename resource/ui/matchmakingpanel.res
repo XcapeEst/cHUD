@@ -97,7 +97,7 @@
 			//"border"	"MainMenuHighlightBorder"
 
 			"LadderLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"LadderLabel"
 				"xpos"			"20"
@@ -115,7 +115,7 @@
 
 			// Dropdown
 			"ModeComboBox"
-			{
+				{
 				"ControlName"		"ComboBox"
 				"fieldName"			"ModeComboBox"
 				"Font"				"HudFontSmallestBold"
@@ -145,7 +145,7 @@
 			}
 
 			"SearchButton"
-			{
+				{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"SearchButton"
 				"xpos"			"70"
@@ -169,7 +169,7 @@
 			}
 
 			"StopSearchButton"
-			{
+				{
 				"ControlName"	"CExButton"
 				"fieldName"		"StopSearchButton"
 				"xpos"			"70"
@@ -210,7 +210,7 @@
 			"proportionaltoparent"	"1"
 
 			"SearchActiveTitle"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"SearchActiveTitle"
 				"font"			"HudFontMediumBold"
@@ -227,7 +227,7 @@
 			}
 
 			"NearbyColumnHead"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"NearbyColumnHead"
 				"font"			"HudFontSmall"
@@ -243,7 +243,7 @@
 			}
 
 			"WorldwideColumnHead"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"WorldwideColumnHead"
 				"font"			"HudFontSmall"
@@ -259,7 +259,7 @@
 			}
 
 			"PlayersInGameLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersInGameLabel"
 				"font"			"HudFontSmallBold"
@@ -275,7 +275,7 @@
 			}
 
 			"PlayersInGameTotalLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersInGameTotalLabel"
 				"font"			"HudFontSmall"
@@ -291,7 +291,7 @@
 			}
 
 				"PlayersInGameTotalNearbyValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersInGameTotalNearbyValue"
 					"font"			"HudFontSmall"
@@ -307,7 +307,7 @@
 				}
 
 				"PlayersInGameTotalWorldwideValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersInGameTotalWorldwideValue"
 					"font"			"HudFontSmall"
@@ -323,7 +323,7 @@
 				}
 
 			"PlayersInGameMatchingLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersInGameMatchingLabel"
 				"font"			"HudFontSmall"
@@ -339,7 +339,7 @@
 			}
 
 				"PlayersInGameMatchingNearbyValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersInGameMatchingNearbyValue"
 					"font"			"HudFontSmall"
@@ -355,7 +355,7 @@
 				}
 
 				"PlayersInGameMatchingWorldwideValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersInGameMatchingWorldwideValue"
 					"font"			"HudFontSmall"
@@ -371,7 +371,7 @@
 				}
 
 			"PlayersSearchingLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersSearchingLabel"
 				"font"			"HudFontSmallBold"
@@ -387,7 +387,7 @@
 			}
 
 			"PlayersSearchingTotalLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersSearchingTotalLabel"
 				"font"			"HudFontSmall"
@@ -403,7 +403,7 @@
 			}
 
 				"PlayersSearchingTotalNearbyValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersSearchingTotalNearbyValue"
 					"font"			"HudFontSmall"
@@ -419,7 +419,7 @@
 				}
 
 				"PlayersSearchingTotalWorldwideValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersSearchingTotalWorldwideValue"
 					"font"			"HudFontSmall"
@@ -435,7 +435,7 @@
 				}
 
 			"PlayersSearchingMatchingLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"PlayersSearchingMatchingLabel"
 				"font"			"HudFontSmall"
@@ -451,7 +451,7 @@
 			}
 
 				"PlayersSearchingMatchingNearbyValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersSearchingMatchingNearbyValue"
 					"font"			"HudFontSmall"
@@ -467,7 +467,7 @@
 				}
 
 				"PlayersSearchingMatchingWorldwideValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PlayersSearchingMatchingWorldwideValue"
 					"font"			"HudFontSmall"
@@ -483,7 +483,7 @@
 				}
 
 			"EmptyGameserversLabel"
-			{
+				{
 				"ControlName"		"CExLabel"
 				"fieldName"		"EmptyGameserversLabel"
 				"font"			"HudFontSmallBold"
@@ -499,7 +499,7 @@
 			}
 
 				"EmptyGameserversMatchingNearbyValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"EmptyGameserversMatchingNearbyValue"
 					"font"			"HudFontSmall"
@@ -515,7 +515,7 @@
 				}
 
 				"EmptyGameserversMatchingWorldwideValue"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"EmptyGameserversMatchingWorldwideValue"
 					"font"			"HudFontSmall"
@@ -531,7 +531,7 @@
 				}
 
 			"PartyHasLeaverGroupBox"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"PartyHasLeaverGroupBox"
 				"xpos"		"30"
@@ -543,7 +543,7 @@
 				"enabled"	"1"
 
 				"PartyHasLeaverImage"
-				{
+					{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"PartyHasLeaverImage"
 					"xpos"			"0"
@@ -559,7 +559,7 @@
 				}
 
 				"PartyHasLeaverLabel"
-				{
+					{
 					"ControlName"		"CExLabel"
 					"fieldName"		"PartyHasLeaverLabel"
 					"font"			"HudFontSmall"

@@ -51,22 +51,22 @@
 		"fonts"
 		{
 			"1"
-			{
+				{
 				"font"			"AdFont_ItemName" // Secondary 10
 			}
 
 			"2"
-			{
+				{
 				"font"			"MMenuPlayListDesc" // Secondary 9
 			}
 
 			"3"
-			{
+				{
 				"font"			"ItemFontAttribSmall" // Secondary 8
 			}
 
 			"4"
-			{
+				{
 				"font"			"ItemFontAttribSmallest" // Secondary 7
 			}
 		}

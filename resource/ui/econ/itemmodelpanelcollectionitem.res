@@ -76,7 +76,7 @@
 			"model_rotate_yaw_speed"	"50"
 		
 			"model"
-			{
+				{
 				"force_pos"	"1"
 
 				"angles_x" "7"
@@ -375,7 +375,7 @@
 			"inset_eq_y"	"2"
 		
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}

@@ -56,7 +56,7 @@
 			"inset_eq_y"	"2"
 
 			"MainContentsContainer"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MainContentsContainer"
 				"xpos"			"0"
@@ -67,13 +67,13 @@
 				"bgcolor_override"		"0 0 0 0"
 			
 				"itemmodelpanel"
-				{
+					{
 					"use_item_rendertarget" "0"
 					"allow_rot"				"0"
 				}
 			
 				"namelabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"namelabel"
 					"xpos"			"0"

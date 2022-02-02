@@ -214,7 +214,7 @@
 			"visible"		"1"
 
 			"NemesisPanelBG"
-			{
+				{
 				"ControlName"		"ScalableImagePanel"
 				"fieldName"		"NemesisPanelBG"
 				"xpos"			"95"
@@ -234,7 +234,7 @@
 				"draw_corner_height" 	"6"	
 			}
 			"NemesisIcon"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"NemesisIcon"
 				"xpos"			"95"

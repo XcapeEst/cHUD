@@ -69,7 +69,7 @@
 			"deferred_description"	"1"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -516,7 +516,7 @@
 			"font"			"ItemFontAttribLarge"
 			"xpos"			"0"
 			"ypos"			"30"
-			"zpos"			"2"
+			"zpos"			"100000"
 			"wide"			"f0"
 			"tall"			"60"
 			"autoResize"	"0"

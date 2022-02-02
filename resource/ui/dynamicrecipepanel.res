@@ -57,7 +57,7 @@
 			"inset_eq_y"	"2"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
@@ -336,7 +336,7 @@
 			"image_disabledcolor"	"236 236 236 0"
 			
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -409,7 +409,7 @@
 			"image_disabledcolor"	"236 236 236 0"
 
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -536,7 +536,7 @@
 			"armedBgColor_override"				"softred160"
 			
 			"SubImage"
-			{
+				{
 				"ControlName"					"ImagePanel"
 				"fieldName"						"SubImage"
 				"xpos"							"cs-0.5"
@@ -584,7 +584,7 @@
 			"image_disabledcolor"	"236 236 236 0"
 			
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -657,7 +657,7 @@
 			"image_disabledcolor"	"236 236 236 0"
 
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"

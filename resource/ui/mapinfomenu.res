@@ -21,7 +21,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"F0"
+		"wide"			"f0"
 		"tall"			"f0"
 		"fillcolor"			"collyhuddarkgray"
 		"autoResize"	"0"

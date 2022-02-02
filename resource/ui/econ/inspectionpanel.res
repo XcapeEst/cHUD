@@ -92,13 +92,13 @@
 		"lights"
 		{
 			"default"
-			{
+				{
 				"name"			"directional"
 				"color"			"1 1 1"
 				"direction"		"0 0 -1"
 			}
 			"spot light"
-			{
+				{
 				"name"				"spot"
 				"color"				"1 .9 .9"
 				"attenuation"		"4.5 0 0"
@@ -110,7 +110,7 @@
 				"exponent"			"25"
 			}
 			"point light"
-			{
+				{
 				"name"				"point"
 				"color"				".7 .8 1"
 				"attenuation"		"15 0 0"
@@ -178,7 +178,7 @@
 			"keyboardinputenabled"	"0"
 			
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -195,26 +195,26 @@
 		"Buttons"
 		{
 			"all"
-			{
+				{
 				"userdata"			"2"
 				"image_default"		"store/store_redteam"
 				"image_armed"		"store/store_redteam"
 				"image_selected"	"store/store_redteam"
 				
 				"SubImage"
-				{
+					{
 					"image"			"store/store_redteam"
 				}				
 			}
 			"scout"
-			{
+				{
 				"userdata"			"3"
 				"image_default"		"store/store_blueteam"
 				"image_armed"		"store/store_blueteam"
 				"image_selected"	"store/store_blueteam"
 				
 				"SubImage"
-				{
+					{
 					"image"			"store/store_blueteam"
 				}				
 			}
@@ -288,7 +288,7 @@
 			"image_drawcolor"	"TanDark"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -346,7 +346,7 @@
 			"AllCaps"		"1"
 
 			"fixed_paintkit"
-			{
+				{
 				"visible"	"0"
 			}
 		}
@@ -376,7 +376,7 @@
 			"proportionaltoparent"	"1"
 
 			"fixed_paintkit"
-			{
+				{
 				"visible"	"0"
 			}
 			
@@ -401,7 +401,7 @@
 			"xpos"			"0"
 			"ypos"			"48"
 			"fixed_paintkit"
-			{
+				{
 				"ypos"		"20"
 			}
 			"wide"			"f0"
@@ -415,12 +415,12 @@
 			"AllCaps"		"1"
 
 			"fixed_item"
-			{
+				{
 				"visible"	"0"
 			}
 
 			"consume_mode"
-			{
+				{
 				"labelText"		"#TF_ItemPreview_RedeemItem"
 			}
 		}
@@ -434,7 +434,7 @@
 			"xpos"				"cs-0.5"
 			"ypos"				"62"
 			"fixed_paintkit"
-			{
+				{
 				"ypos"		"34"
 			}
 			"zpos"				"100"
@@ -453,7 +453,7 @@
 			"actionsignallevel"	"2"
 
 			"fixed_item"
-			{
+				{
 				"visible"	"0"
 			}
 
@@ -480,7 +480,7 @@
 			"xpos"			"0"
 			"ypos"			"76"
 			"fixed_item"
-			{
+				{
 				"ypos"		"30"
 			}
 			"wide"			"f0"
@@ -494,12 +494,12 @@
 			"AllCaps"		"1"
 
 			"fixed_paintkit"
-			{
+				{
 				"visible"	"0"
 			}
 
 			"consume_mode"
-			{
+				{
 				"visible"	"0"
 			}
 		}
@@ -511,7 +511,7 @@
 			"xpos"			"5"
 			"ypos"			"90"
 			"fixed_item"
-			{
+				{
 				"ypos"		"30"
 			}
 			"zpos"			"1"
@@ -526,12 +526,12 @@
 			"actionsignallevel"	"2"
 
 			"fixed_paintkit"
-			{
+				{
 				"visible"	"0"
 			}
 
 			"consume_mode"
-			{
+				{
 				"visible"	"0"
 			}
 		}
@@ -543,11 +543,11 @@
 			"xpos"			"cs-0.5"
 			"ypos"			"rs1-43"
 			"fixed_item"
-			{
+				{
 				"ypos"		"50"
 			}
 			"fixed_paintkit"
-			{
+				{
 				"ypos"		"rs1-43"
 			}
 			"zpos"			"10"
@@ -573,7 +573,7 @@
 			"proportionaltoparent"	"1"
 
 			"consume_mode"
-			{
+				{
 				"visible"	"0"
 			}
 		}
@@ -585,11 +585,11 @@
 			"xpos"			"cs-0.5"
 			"ypos"			"rs1-26"
 			"fixed_item"
-			{
+				{
 				"ypos"		"50"
 			}
 			"fixed_paintkit"
-			{
+				{
 				"ypos"		"rs1-26"
 			}
 			"zpos"			"10"
@@ -608,7 +608,7 @@
 			"proportionaltoparent"	"1"
 
 			"consume_mode"
-			{
+				{
 				"visible"	"0"
 			}
 		}
@@ -620,11 +620,11 @@
 			"xpos"			"cs-0.5"
 			"ypos"			"rs1-3"
 			"fixed_item"
-			{
+				{
 				"ypos"		"50"
 			}
 			"fixed_paintkit"
-			{
+				{
 				"ypos"		"rs1-3"
 			}
 			"zpos"		"100"

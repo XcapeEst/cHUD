@@ -38,20 +38,20 @@
 			"spotlight"	"1"
 
 			"animation"
-			{
+				{
 				"name"			"ref"
 				"sequence"		"ref"
 				"default"		"1"
 			}
 
 			"animation"
-			{
+				{
 				"name"			"intro"
 				"sequence"		"intro"
 			}
 
 			"animation"
-			{
+				{
 				"name"			"outro"
 				"sequence"		"outro"
 			}
@@ -120,7 +120,7 @@
 		"ParticleEffects"
 		{
 			"0"
-			{
+				{
 				"particle_xpos" "c0"
 				"particle_ypos" "c0"
 				"particle_scale"	"2"
@@ -161,26 +161,26 @@
 			"origin_z"	"-77"
 
 			"animation"
-			{
+				{
 				"name"			"ref"
 				"sequence"		"ref"
 				"default"		"1"
 			}
 
 			"animation"
-			{
+				{
 				"name"			"open"
 				"sequence"		"open"
 			}
 
 			"animation"
-			{
+				{
 				"name"			"close"
 				"sequence"		"close"
 			}
 
 			"animation"
-			{
+				{
 				"name"			"idle_closed"
 				"sequence"		"idle_closed"
 			}
@@ -305,7 +305,7 @@
 			"color_portrait_blend_dead_blue" "255 255 255 255"
 
 			"playername"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
 				"font"			"DefaultVerySmall"
@@ -319,7 +319,7 @@
 				"visible"		"0"
 			}
 			"classimage"
-			{
+				{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"cs-0.5"
@@ -334,7 +334,7 @@
 				"proportionaltoparent"	"1"
 			}
 			"classimagebg"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg"
 				"xpos"			"0"
@@ -349,7 +349,7 @@
 				"proportionaltoparent"	"1"
 			}
 			"healthbar"
-			{
+				{
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"healthbar"
 				"font"					"Default"
@@ -369,7 +369,7 @@
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
-			{
+				{
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
 				"font"					"Default"
@@ -390,7 +390,7 @@
 				"proportionaltoparent"	"1"
 			}
 			"respawntime"
-			{
+				{
 				"ControlName"			"CExLabel"
 				"fieldName"				"respawntime"
 				"font"					"productbold10"
@@ -410,7 +410,7 @@
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
-			{
+				{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
 				"xpos"				"22"
@@ -427,7 +427,7 @@
 				"TextColor"					"HudOffWhite"
 			}
 			"ReadyBG"
-			{
+				{
 				"ControlName"			"ScalableImagePanel"
 				"fieldName"				"ReadyBG"
 				"xpos"					"30"
@@ -446,7 +446,7 @@
 				"draw_corner_height" 	"3"
 			}
 			"ReadyImage"
-			{
+				{
 				"ControlName"		"ImagePanel"
 				"fieldName"			"ReadyImage"
 				"xpos"				"32"
@@ -462,7 +462,7 @@
 				"scaleImage"		"1"
 			}
 			"chargeamount"
-			{
+				{
 				"ControlName"			"CExLabel"
 				"fieldName"				"chargeamount"
 				"font"					"productbold14"
@@ -479,7 +479,7 @@
 				"fgcolor"				"softgreen"
 			}
 			"specindex"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"specindex"
 				"font"			"DefaultVerySmall"
@@ -496,7 +496,7 @@
 				//"fgcolor"		"235 226 202 255"
 			}
 			"DeathPanel"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"DeathPanel"
 				"xpos"			"999"
@@ -511,7 +511,7 @@
 				"proportionaltoparent"	"1"
 			}
 			"SkullPanel"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SkullPanel"
 				"xpos"			"999"
@@ -640,7 +640,7 @@
 			//"show_columns"	"1"
 
 			if_large
-			{
+				{
 				"tall"			"315"
 			}
 		}
@@ -660,7 +660,7 @@
 			"border"		"TFFatLineBorderClearBG"
 
 			if_large
-			{
+				{
 				"tall"			"325"
 			}
 		}
@@ -778,7 +778,7 @@
 			//"show_columns"	"1"
 
 			if_large
-			{
+				{
 				"tall"			"315"
 			}
 		}
@@ -798,7 +798,7 @@
 			"border"		"TFFatLineBorderClearBG"
 
 			if_large
-			{
+				{
 				"tall"			"325"
 			}
 		}

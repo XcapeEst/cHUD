@@ -96,7 +96,7 @@
 			"NavToRelay"	"TourList"
 
 			"GreyOutPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
 				"xpos"			"0"
@@ -109,7 +109,7 @@
 			}
 
 			"TourList"
-			{
+				{
 				"ControlName"	"SectionedListPanel"
 				"fieldName"		"TourList"
 				"font"			"HudFontSmall"
@@ -255,8 +255,8 @@
 			"bgcolor_override"	"0 0 0 165"
 
 			"items"
-			{
-				"0"
+				{
+				"0"			{
 				{
 					"item"		"Tour of Duty Ticket"
 					"show_market"	"0"
@@ -305,8 +305,8 @@
 			"bgcolor_override"	"0 0 0 165"
 
 			"items"
-			{
-				"0"
+				{
+				"0"			{
 				{
 					"item"		"MvM Squad Surplus Voucher"
 					"show_market"	"0"
@@ -534,7 +534,7 @@
 			"proportialtoparent"	"1"
 			
 			"MannUpImage2"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"MannUpImage2"
 				"xpos"			"0"
@@ -710,7 +710,7 @@
 			"NavToRelay"	"ChallengeList"
 
 			"GreyOutPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"GreyOutPanel"
 				"xpos"			"0"
@@ -723,7 +723,7 @@
 			}
 
 			"ChallengeList"
-			{
+				{
 				"ControlName"	"SectionedListPanel"
 				"fieldName"		"ChallengeList"
 				"font"			"HudFontSmall"

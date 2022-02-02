@@ -6,8 +6,8 @@
 		"fieldName"		"BuildingStatusItem"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"150"
-		"tall"			"31"
+		"wide"			"f0"
+		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		"xpos"			"9999"
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"120"
@@ -31,14 +31,14 @@
 		"iconColor"		"255 255 255 255"
 	}
 	
-	"Icon"
+	"Icon" // Sapper Icon
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Icon"
-		"xpos"			"24"
-		"ypos"			"1"
-		"wide"			"28"
-		"tall"			"28"
+		"xpos"			"9999"
+		"ypos"			"r144"
+		"wide"			"16"
+		"tall"			"16"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -53,7 +53,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"160"
-		"tall"			"31"
+		"tall"			"160"
 		"visible"		"1"
 
 		"NotBuiltLabel"
@@ -80,10 +80,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BuiltPanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"c32"
+		"ypos"			"r144"
 		"wide"			"160"
-		"tall"			"43"
+		"tall"			"160"
 		"visible"		"0"
 
 		"Health"
@@ -91,7 +91,7 @@
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
 			"font"			"Default"
-			"xpos"			"13"
+			"xpos"			"9999"
 			"ypos"			"2"
 			"wide"			"8"
 			"tall"			"24"
@@ -115,11 +115,11 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
-				"xpos"			"0"
+				"xpos"			"9999"
 				"ypos"			"5"
 				"wide"			"200"
 				"tall"			"12"
@@ -139,8 +139,8 @@
 				"fieldName"		"BuildingProgress"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"16"
-				"wide"			"50"
+				"ypos"			"2"
+				"wide"			"8"
 				"tall"			"8"				
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -152,24 +152,24 @@
 			}
 		}
 	
-		"RunningPanel"
+		"RunningPanel" // Building icons and HP meter
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RunningPanel"
-			"xpos"			"55"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"100"
-			"tall"			"31"
+			"wide"			"128"
+			"tall"			"16"
 			"visible"		"0"
 			
 			"TargetIcon"
-			{
+				{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"TargetIcon"
 				"xpos"			"0"
-				"ypos"			"5"
-				"wide"			"20"
-				"tall"			"20"
+				"ypos"			"0"
+				"wide"			"16"
+				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"	
@@ -182,10 +182,10 @@
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"TargetHealth"
 				"font"			"Default"
-				"xpos"			"22"
-				"ypos"			"12"
-				"wide"			"35"
-				"tall"			"8"
+				"xpos"			"18"
+				"ypos"			"8"
+				"wide"			"32"
+				"tall"			"2"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"

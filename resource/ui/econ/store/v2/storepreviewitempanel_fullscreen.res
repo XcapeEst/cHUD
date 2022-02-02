@@ -217,7 +217,7 @@
 			"keyboardinputenabled"	"0"
 			
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
@@ -234,26 +234,26 @@
 		"Buttons"
 		{
 			"all"
-			{
+				{
 				"userdata"			"2"
 				"image_default"		"store/store_redteam"
 				"image_armed"		"store/store_redteam"
 				"image_selected"	"store/store_redteam"
 				
 				"SubImage"
-				{
+					{
 					"image"			"store/store_redteam"
 				}				
 			}
 			"scout"
-			{
+				{
 				"userdata"			"3"
 				"image_default"		"store/store_blueteam"
 				"image_armed"		"store/store_blueteam"
 				"image_selected"	"store/store_blueteam"
 				
 				"SubImage"
-				{
+					{
 					"image"			"store/store_blueteam"
 				}				
 			}

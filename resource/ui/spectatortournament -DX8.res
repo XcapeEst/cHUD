@@ -34,7 +34,7 @@
 
 
 			"playernamer"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playernamer"
 				"font"			"product8"
@@ -52,7 +52,7 @@
 			}
 
 			"playernames"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playernames"
 				"font"			"product10"
@@ -70,7 +70,7 @@
 			}
 
 			"classimage"
-			{
+				{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"3"
@@ -85,7 +85,7 @@
 
 			}
 			"classimageOverlay"
-			{
+				{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimageOverlay"
 				"xpos"			"3"
@@ -101,7 +101,7 @@
 			}
 
 			"classimagebgvin"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"classimagebgvin"
 				"xpos"			"0"
@@ -118,7 +118,7 @@
 			
 			
 			"PortraitBG"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"PortraitBG"
 				"xpos"			"3"
@@ -134,7 +134,7 @@
 			
 			
 			"classimagebg4"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"classimagebg4"
 				"xpos"			"0"
@@ -153,7 +153,7 @@
 
 
 			"WhiteOverHp"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"WhiteOverHp"
 				"xpos"			"22"
@@ -167,12 +167,12 @@
 				"PaintBackgroundType"	"0"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 			"WhiteOverHp2"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"WhiteOverHp2"
 				"xpos"			"22"
@@ -186,12 +186,12 @@
 				"PaintBackgroundType"	"0"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 			"Mask"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"Mask"
 				"xpos"			"102"
@@ -205,12 +205,12 @@
 				"PaintBackgroundType"	"0"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 			"classimagebg2"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebg2"
 				"xpos"			"2"
@@ -224,12 +224,12 @@
 				"PaintBackgroundType"	"0"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 			"classimagebgR"
-			{
+				{
 				"ControlName"		"Panel"
 				"fieldName"		"classimagebgR"
 				"xpos"			"0"
@@ -243,13 +243,13 @@
 				"PaintBackgroundType"	"0"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 
 			"HealthIcon"
-			{
+				{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
 				"xpos"				"27"
@@ -269,7 +269,7 @@
 			}
 
 			"ReadyBG"
-			{
+				{
 				"ControlName"		"ScalableImagePanel"
 				"fieldName"		"ReadyBG"
 				"xpos"			"30"
@@ -290,13 +290,13 @@
 				"draw_corner_height" 	"3"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 
 			"ReadyImage"
-			{
+				{
 				"ControlName"		"ImagePanel"
 				"fieldName"		"ReadyImage"
 				"xpos"			"32"
@@ -312,13 +312,13 @@
 				"scaleImage"		"1"
 
 				if_aids
-				{
+					{
 					"visible"		"1"
 				}
 			}
 
 			"respawntime"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
 				"xpos"			"27"//-9
@@ -336,7 +336,7 @@
 
 			
 			"chargeamountr"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamountr"
 				"font"			"productbold8"
@@ -354,7 +354,7 @@
 				"fgcolor_override"		"tanlight"
 			}
 			"chargeamountrS"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamountrS"
 				"font"			"productbold8BLUR"
@@ -372,7 +372,7 @@
 				"Fgcolor_override"		"0 0 0 255"
 			}
 			"chargeamountrS2"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamountrS2"
 				"font"			"productbold8BLUR2"
@@ -390,7 +390,7 @@
 				"Fgcolor_override"		"0 0 0 200"
 			}
 			"chargeamount2"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount2"
 				"font"			"blocks"
@@ -409,7 +409,7 @@
 			}
 
 			"specindex"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"specindex"
 				"font"			"DefaultVerySmall"
@@ -427,7 +427,7 @@
 			}
 
 			if_aids
-			{
+				{
 				"wide"		"55"
 				"tall"		"35"
 			}

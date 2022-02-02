@@ -227,7 +227,7 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"product8"
@@ -275,7 +275,7 @@
 			"visible"		"0"
 			
 			"AmmoIcon"	
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"AmmoIcon"
 				"wide"			"0"
@@ -301,7 +301,7 @@
 			}	
 			
 			"UpgradeIcon"
-			{
+				{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
 				"wide"			"0"

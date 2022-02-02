@@ -45,7 +45,7 @@
 			"hide_collection_panel" "1"
 			
 			"itemmodelpanel"
-			{
+				{
 				"use_item_rendertarget" "0"
 				"inventory_image_type" "1"
 			}

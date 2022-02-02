@@ -209,7 +209,7 @@
 			"visible"		"0"
 
 			"BuildingLabel"
-			{
+				{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
@@ -257,7 +257,7 @@
 			"visible"		"0"
 			
 			"ChargingPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ChargingPanel"
 				"xpos"			"0"
@@ -267,7 +267,7 @@
 				"visible"		"0"
 				
 				"RechargeLabel"
-				{
+					{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RechargeLabel"
 					"font"			"DefaultVerySmall"
@@ -305,7 +305,7 @@
 			}
 			
 			"FullyChargedPanel"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"FullyChargedPanel"
 				"xpos"			"0"

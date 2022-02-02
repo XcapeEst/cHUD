@@ -156,19 +156,19 @@
 			"proportionaltoparent"	"1"
 
 			"Slider"
-			{
+				{
 				"fgcolor_override"	"TanDark"
 			}
 		
 			"UpButton"
-			{
+				{
 				"ControlName"	"Button"
 				"FieldName"		"UpButton"
 				"visible"		"0"
 			}
 		
 			"DownButton"
-			{
+				{
 				"ControlName"	"Button"
 				"FieldName"		"DownButton"
 				"visible"		"0"

@@ -181,7 +181,7 @@
 			"pincorner"			"3"	// Just slide down
 
 			"BGImage"
-			{
+				{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"BGImage"
 				"xpos"			"-2"
@@ -193,7 +193,7 @@
 			}
 
 			"GradientImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"GradientImage"
 				"xpos"			"8"
@@ -208,7 +208,7 @@
 
 			// First column
 			"KillsMedal"
-			{
+				{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"KillsMedal"
 				"xpos"			"p0.2-10"
@@ -221,7 +221,7 @@
 			}
 
 			"KillsLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"KillsLabel"
 				"xpos"			"p0.2"
@@ -239,7 +239,7 @@
 			}
 
 			"DeathsLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DeathsLabel"
 				"xpos"			"p0.2"
@@ -257,7 +257,7 @@
 			}
 
 			"DamageMedal"
-			{
+				{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"DamageMedal"
 				"xpos"			"p0.2-10"
@@ -270,7 +270,7 @@
 			}
 
 			"DamageLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DamageLabel"
 				"xpos"			"p0.2"
@@ -289,7 +289,7 @@
 
 			// Second column
 			"HealingMedal"
-			{
+				{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"HealingMedal"
 				"xpos"			"p0.6-10"
@@ -302,7 +302,7 @@
 			}
 
 			"HealingLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"HealingLabel"
 				"xpos"			"p0.6"
@@ -320,7 +320,7 @@
 			}
 
 			"SupportMedal"
-			{
+				{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"SupportMedal"
 				"xpos"			"p0.6-10"
@@ -333,7 +333,7 @@
 			}
 
 			"SupportLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"SupportLabel"
 				"xpos"			"p0.6"
@@ -351,7 +351,7 @@
 			}
 
 			"ScoreMedal"
-			{
+				{
 				"ControlName"	"ScalableImagePanel"
 				"fieldName"		"ScoreMedal"
 				"xpos"			"p0.6-10"
@@ -364,7 +364,7 @@
 			}
 
 			"ScoreLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"ScoreLabel"
 				"xpos"			"p0.6"
@@ -384,7 +384,7 @@
 			}
 
 			"ClassIcons"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"ClassIcons"
 				"xpos"			"rs1-5"
@@ -396,7 +396,7 @@
 
 				// First row
 				"ScoutIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"ScoutIcon"
 					"xpos"			"0"
@@ -408,7 +408,7 @@
 				}
 
 				"PyroIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"PyroIcon"
 					"xpos"			"p0.333"
@@ -420,7 +420,7 @@
 				}
 
 				"SoldierIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"SoldierIcon"
 					"xpos"			"p0.666"
@@ -433,7 +433,7 @@
 
 				// Second row
 				"DemoIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"DemoIcon"
 					"xpos"			"0"
@@ -445,7 +445,7 @@
 				}
 
 				"HeavyIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"HeavyIcon"
 					"xpos"			"p0.333"
@@ -457,7 +457,7 @@
 				}
 
 				"EngineerIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"EngineerIcon"
 					"xpos"			"p0.666"
@@ -470,7 +470,7 @@
 
 				// Third row
 				"MedicIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"MedicIcon"
 					"xpos"			"0"
@@ -482,7 +482,7 @@
 				}
 
 				"SniperIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"SniperIcon"
 					"xpos"			"p0.333"
@@ -494,7 +494,7 @@
 				}
 
 				"SpyIcon"
-				{
+					{
 					"ControlName"	"ScalableImagePanel"
 					"fieldName"		"SpyIcon"
 					"xpos"			"p0.666"

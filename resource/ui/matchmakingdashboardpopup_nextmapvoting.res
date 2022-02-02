@@ -54,7 +54,7 @@
 			"pinCorner"		"2"
 
 			"HideButton"
-			{
+				{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"HideButton"
 				"xpos"			"rs1-3"
@@ -87,7 +87,7 @@
 				"image_armedcolor"	"200 80 60 255"
 
 				"SubImage"
-				{
+					{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					"xpos"			"0"
@@ -104,7 +104,7 @@
 			} // HideButton
 
 			"ShowButton"
-			{
+				{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"ShowButton"
 				"xpos"			"rs1-3"
@@ -137,7 +137,7 @@
 				"image_armedcolor"	"200 80 60 255"
 
 				"SubImage"
-				{
+					{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
 					"xpos"			"0"
@@ -155,7 +155,7 @@
 
 
 			"DescLabel"
-			{
+				{
 				"ControlName"	"Label"
 				"fieldName"		"DescLabel"
 				"xpos"			"0"
@@ -173,7 +173,7 @@
 			}
 
 			"TimeRemainingProgressBar"
-			{
+				{
 				"ControlName"	"CircularProgressBar"
 				"fieldName"		"TimeRemainingProgressBar"
 				"xpos"			"rs1-2"
@@ -186,7 +186,7 @@
 			}
 
 			"MapChoice0"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MapChoice0"
 				"xpos"			"p0.2-s0.5"
@@ -200,7 +200,7 @@
 			}
 
 			"MapChoice1"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MapChoice1"
 				"xpos"			"p0.5-s0.5"
@@ -214,7 +214,7 @@
 			}
 
 			"MapChoice2"
-			{
+				{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"MapChoice2"
 				"xpos"			"p0.8-s0.5"

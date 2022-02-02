@@ -1,16 +1,16 @@
 "Resource/UI/MatchmakingCategoryPanel.res"
 {
-	"MatchmakingCategoryPanel"
+	"MatchmakingCategoryPanel" // Element containing all maps and gamemodes
 	{
 		"fieldName"				"MatchmakingCategoryPanel"
 		"xpos"					"0"
 		"ypos"					"20"
 		"wide"					"f0"
-		"tall"					"50"
+		"tall"					"36"	// Distance between
 		"proportionaltoparent"	"1"
 
-		"collapsed_height"	"57"
-		"resize_time"	"0.2"
+		"collapsed_height"		"36"	// Distance between gamemodes
+		"resize_time"			"0.5"	// Controls time it takes to open category maps
 	
 	}
 
@@ -27,7 +27,7 @@
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
-		"BGColor"
+		"BGColor" // Not visible
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGColor"
@@ -43,15 +43,15 @@
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"0 0 0 0"
 		}
-		"FGColor"
+		"FGColor" // BG behind gamemode description
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"FGColor"
-			"xpos"			"120"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"f0"
-			"tall"			"57"
+			"tall"			"36"
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled"	"0"
@@ -63,11 +63,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"FGColor2"
-			"xpos"			"120"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"f0"
-			"tall"			"57"
+			"tall"			"36"
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled"	"0"
@@ -83,7 +83,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"o4"
+			"wide"			"0"
 			"tall"			"f0"
 			"visible"		"1"
 			"enabled"		"1"
@@ -93,42 +93,41 @@
 
 		"EntryToggleButton"
 		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"EntryToggleButton"
-			"xpos"			"120"
-			"ypos"			"rs1"
-			"zpos"			"100"
-			"wide"			"f120"
-			"tall"			"16"
-			"proportionaltoparent"	"1"
+			"ControlName"				"CExImageButton"
+			"fieldName"					"EntryToggleButton"
+			"xpos"						"0"
+			"ypos"						"20"
+			"zpos"						"100"
+			"wide"						"f0"
+			"tall"						"16"
+			"proportionaltoparent"		"1"
 
-			"actionsignallevel"	"2"
-			"command"		"toggle_collapse"
-			"labeltext"		"#TF_Casual_ViewMaps"
-			"textAlignment"	"west"
-			"font"	"product8"
-			"textinsetx"	"40"
+			"actionsignallevel"			"2"
+			"command"					"toggle_collapse"
+			"labeltext"					""
+			"textAlignment"				"center"
+			"font"						"product8"
 
-			"stay_armed_on_click"	"1"
+			"stay_armed_on_click"		"1"
 
-			"border_default"	"NoBorder"
+			"border_default"			"NoBorder"
 
-			"border_armed"		"NoBorder"
-			"selectedBGColor_override" "softgreen"
+			"border_armed"				"NoBorder"
+			"selectedBGColor_override"	"softgreen"
 
-			"sound_armed"		"ui/item_info_mouseover.wav"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_armed"				"ui/item_info_mouseover.wav"
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
 
-			"image_default"	"glyph_expand"
+			"image_default"				"glyph_expand"
 
 			"button_activation_type"	"1"
 
 			"SubImage"
-			{
+				{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"6"
+				"xpos"			"cs-0.5"
 				"ypos"			"cs-0.5"
 				"zpos"			"1"
 				"wide"			"6"
@@ -181,7 +180,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Title"
-			"xpos"			"136"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"f0"
@@ -192,7 +191,7 @@
 			"textinsetx"	"0"
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallestBold"
-			"textAlignment"	"west"
+			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
@@ -206,7 +205,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleShadow"
-			"xpos"			"126"
+			"xpos"			"0"
 			"ypos"			"3"
 			"zpos"			"2"
 			"wide"			"0"
@@ -234,7 +233,7 @@
 			"font"			"product7"
 			"labelText"		"%desc_token%"
 			"textAlignment"	"north-west"
-			"xpos"			"126"
+			"xpos"			"9999"
 			"ypos"			"18"
 			"zpos"			"2"
 			"wide"			"220"
@@ -276,40 +275,40 @@
 
 	"PlayListDropShadow"
 	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"PlaylistBGPanel"
-		"xpos"			"cs-0.5"
-		"ypos"			"p1.17-2"
-		"zpos"			"1"
-		"wide"			"p1.5"
-		"tall"			"1000"
-		"visible"		"1"
+		"ControlName"			"EditablePanel"
+		"fieldName"				"PlaylistBGPanel"
+		"xpos"					"cs-0.5"
+		"ypos"					"p1.17-2"
+		"zpos"					"1"
+		"wide"					"p1.5"
+		"tall"					"1000"
+		"visible"				"1"
 		"PaintBackgroundType"	"2"
-		"border"		"noborder"
+		"border"				"noborder"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
+		"mouseinputenabled"		"0"
 	}
 
 	"MapsContainer"
 	{
-		"Controlname"	"EditablePanel"
-		"fieldName"		"MapsContainer"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"f0"
+		"Controlname"			"EditablePanel"
+		"fieldName"				"MapsContainer"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"0"
+		"wide"					"f0"
 		"proportionaltoparent"	"1"
-		"tall"			"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"tall"					"0"
+		"visible"				"1"
+		"enabled"				"1"
 
-		"border"		"noborder"
+		"border"				"noborder"
 
-		"pinCorner"		"1"
-		"autoResize"	"1"
+		"pinCorner"				"1"
+		"autoResize"			"1"
 
-		"skip_autoresize"	"1"
+		"skip_autoresize"		"1"
 
-		"bgcolor_override"	"0 0 0 165"
+		"bgcolor_override"		"0 0 0 165"
 	}
 }
