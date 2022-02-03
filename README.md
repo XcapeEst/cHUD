@@ -5,3 +5,7 @@ Major changes include:
 - HUD repositioning to the middle
 - Minor main menu redesign
 - Team status redesign
+
+## TODO:
+- Create MVM criteria panel
+- 
