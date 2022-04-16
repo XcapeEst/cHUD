@@ -1343,19 +1343,6 @@
 		"visible"		"0"
 	}
 
-	"MeasurePanel"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"MeasurePanel"
-		"xpos"					"411"
-		"ypos"					"64"
-		"zpos"					"0"
-		"wide"					"396"
-		"tall"					"352"
-		"visible"				"0"
-		"bgcolor_override"		"46 43 42 255"
-	}
-
 	"FriendsContainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -1957,12 +1944,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RequestCoachButton"
-		"xpos"			"c22"
-		"ypos"			"437"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"12"
 		"wide"			"25"
 		"tall"			"0"
-		"visible"		"1"
+		"visible"		"0"
 
 		"navLeft"		"MutePlayersButton"
 		"navRight"		"Notifications_ShowButtonPanel"
@@ -2051,29 +2038,17 @@
 		"scaleImage"	"1"
 	}
 
-	"DashboardDimmer" 
+	"DashboardDimmer"
 	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"DashboardDimmer"
-		"xpos"					"9999"
-		"ypos"					"9999"
-		"zpos"					"0"
-		"wide"					"f0"
-		"tall"					"f0"
-		"visible"				"1"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"		"0 0 0 0"
-		"bgcolor"				"0 0 0 0"
-		"border"				"InnerShadowBorder"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"		"0"
+		"wide" "0"
+		"tall" "0"
 	}
 
 	"ServerBrowserButton"
 	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"ServerBrowserButton"
-		"xpos"						"15"
+		"xpos"						"16"
 		"ypos"						"64"
 		"wide"						"54"
 		"tall"						"54"
@@ -2565,7 +2540,7 @@
 	"TransparentViewmodelsButtonOn"
 	{
 		"ControlName"				"CExImageButton"
-		"fieldName"					"TransparentViewmodelsOnButton"
+		"fieldName"					"TransparentViewmodelsButtonOn"
 		"xpos"						"4"
 		"ypos"						"0"
 		"wide"						"25"
@@ -2625,7 +2600,7 @@
 	"TransparentViewmodelsButtonOff"
 	{
 		"ControlName"				"CExImageButton"
-		"fieldName"					"TransparentViewmodelsOffButton"
+		"fieldName"					"TransparentViewmodelsButtonOff"
 		"xpos"						"4"
 		"ypos"						"0"
 		"wide"						"25"
@@ -2677,7 +2652,7 @@
 			"proportionaltoparent"	"1"
 		}
 
-		"pin_to_sibling" 		"TransparentViewmodelsOnButton"
+		"pin_to_sibling" 		"TransparentViewmodelsButtonOn"
 		"pin_corner_to_sibling" "0"
 		"pin_to_sibling_corner" "1"
 	}

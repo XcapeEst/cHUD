@@ -4,12 +4,12 @@
 	{
 		"ControlName"					"EditablePanel"
 		"fieldName"						"HUDSLINK"
-		"xpos"							"12"
-		"ypos"							"12"
+		"xpos"							"16"
+		"ypos"							"16"
 		"zpos"							"10002"
 		"wide"							"64"
 		"tall"							"20"
-		"visible"						"0"
+		"visible"						"1"
 		
 		"bgcolor_override"				"0 0 0 165"
 		
