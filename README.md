@@ -9,7 +9,6 @@ Major changes include:
 - Team status redesign
 
 ## TODO:
-- [x] Reposition main menu elements + resize
 - [ ] Elongate loading bar
 - [ ] Fix xp bar after match end
 - [ ] Fix casual 10 second playerboard
@@ -23,3 +22,7 @@ Major changes include:
 - [ ] Change clientscheme
 - [ ] Change tf2 advanced options scheme
 - [ ] Party chat text is over console window
+- [ ] Add match MVP window
+
+## DONE:
+- [x] Reposition main menu elements + resize
