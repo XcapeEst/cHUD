@@ -9,7 +9,7 @@
 		"zpos"							"10002"
 		"wide"							"64"
 		"tall"							"20"
-		"visible"						"1"
+		"visible"						"0"
 		
 		"bgcolor_override"				"0 0 0 165"
 		
