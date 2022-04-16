@@ -7,16 +7,17 @@ Major changes include:
 - Team status redesign
 
 ## TODO:
-- Create MVM criteria panel
-- Fix and reposition party chat
-- Fix casual countdown timer
+- Reposition main menu elements + resize
+- Elongate loading bar
+- Fix xp bar after match end
 - Fix casual 10 second playerboard
 - Fix match end score font
-- Elongate loading bar
+- Fix casual countdown timer
+- Fix and reposition party chat
 - Fix team "Not ready" size
 - Change votemenu theme
-- Fix xp bar after match end
 - Make map screen transparent
+- Create MVM criteria panel
 - Change clientscheme
 - Change tf2 advanced options scheme
 - Party chat text is over console window
