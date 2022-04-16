@@ -120,7 +120,7 @@
 				"fieldName"			"ModeComboBox"
 				"Font"				"HudFontSmallestBold"
 				"xpos"				"62"
-				"ypos"				"36"
+				"ypos"				"40"
 				"zpos"				"2"
 				"wide"				"85"
 				"tall"				"15"

@@ -8,7 +8,7 @@
 	{
 		"fieldName"				"CasualCriteria"
 		"xpos"					"r0"
-		"ypos"					"36"
+		"ypos"					"40"
 		"zpos"					"1002"
 		"wide"					"156"
 		"tall"					"256"

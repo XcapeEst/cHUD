@@ -34,7 +34,7 @@
 
 			"matchgroup"	"MatchGroup_Casual_12v12"
 		}
-	
+
 		"RankPanel"
 		{
 			"ControlName"	"CPvPRankPanel"
@@ -206,8 +206,6 @@
 			"mouseinputenabled"		"1"
 		}
 		
-		
-
 		"QueueEstimation"
 		{
 			"ControlName"			"Label"
@@ -227,7 +225,6 @@
 		
 			"mouseinputenabled"		"0"
 		}
-
 
 		"GameModesList"
 		{

@@ -6,7 +6,7 @@
 		"ControlName"		"editablepanel"
 		"fieldName"			"GrayBg"
 		"xpos"				"9999"
-		"ypos"				"36"
+		"ypos"				"40"
 		"zpos"				"2"
 		"tall"				"64"
 		"wide"				"64"
