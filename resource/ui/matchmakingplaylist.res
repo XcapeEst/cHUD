@@ -114,7 +114,7 @@
 		"desc_token"		"#MMenu_PlayList_Training_Desc"
 	}
 
-	"CreateServerEntry" // Find a game create server button
+	"CreateServerEntry" 	// Hidden		Find a game create server button
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CreateServerEntry"

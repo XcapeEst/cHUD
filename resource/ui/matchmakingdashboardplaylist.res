@@ -11,7 +11,7 @@
 		"xpos"					"r0"	// Start position off-screen, to the right
 		"ypos"					"40"
 		"zpos"					"1001"
-		"wide"					"92"
+		"wide"					"96"	// Controls distance from right side of screen
 		"tall"					"44"
 		"visible"				"1"
 		"proportionaltoparent"	"1"

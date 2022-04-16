@@ -10,7 +10,7 @@
 		"xpos"					"r0"
 		"ypos"					"40"
 		"zpos"					"1002"
-		"wide"					"156"
+		"wide"					"160"	// This moves the map and gamemode container left
 		"tall"					"256"
 		"visible"				"1"
 	}
@@ -44,14 +44,14 @@
 		"mouseinputenabled"		"0"
 	}
 
-	"criteria"
+	"criteria"					// This moves save and load buttons
 	{
 		"ControlName"			"CCasualCriteriaPanel"
 		"fieldName"				"criteria"
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"1003"
-		"wide"					"f12"
+		"wide"					"f16"
 		"tall"					"f0"
 		"visible"				"1"
 		"proportionaltoparent"	"1"
@@ -61,7 +61,7 @@
 	{
 		"ControlName"			"CExButton"
 		"fieldName"				"QueueButton"
-		"xpos"					"r32"
+		"xpos"					"r36"
 		"ypos"					"0"
 		"zpos"					"1004"
 		"wide"					"20"

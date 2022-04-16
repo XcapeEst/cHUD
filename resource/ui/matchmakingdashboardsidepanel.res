@@ -102,7 +102,7 @@
 	{
 		"ControlName"				"CExImageButton"
 		"fieldName"					"CloseButton"
-		"xpos"						"r32"
+		"xpos"						"r36"	// This moves the CloseButton
 		"ypos"						"72"
 		"zpos"						"10000"
 		"wide"						"20"
