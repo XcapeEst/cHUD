@@ -1,6 +1,6 @@
 "Resource/UI/MatchmakingCategoryPanel.res"
 {
-	"MatchmakingCategoryPanel" // Element containing all maps and gamemodes
+	"MatchmakingCategoryPanel" // Element containing all maps and gamemodes (pl_upward, Payload)
 	{
 		"fieldName"				"MatchmakingCategoryPanel"
 		"xpos"					"0"
