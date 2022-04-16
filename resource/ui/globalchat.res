@@ -5,10 +5,10 @@
 		"fieldName"				"partychat"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"r276"
+		"xpos"					"r304"
 		"ypos"					"0"
 		"zpos"					"1001"
-		"wide"					"264"
+		"wide"					"140"
 		"tall"					"200"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"1"
@@ -26,7 +26,7 @@
 
 		"collapsed_height"		"0"
 		"expanded_height"		"200"
-		"resize_time"	"0.3"
+		"resize_time"			"0"
 		"invalidate_parent_on_resize"	"0"
 	}
 
