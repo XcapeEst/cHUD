@@ -14,7 +14,6 @@ Major changes include:
 - [ ] Fix casual 10 second playerboard
 - [ ] Fix match end score font
 - [ ] Fix casual countdown timer
-- [ ] Fix and reposition party chat
 - [ ] Fix team "Not ready" size
 - [ ] Change votemenu theme
 - [ ] Make map screen transparent
@@ -23,6 +22,8 @@ Major changes include:
 - [ ] Change tf2 advanced options scheme
 - [ ] Party chat text is over console window
 - [ ] Add match MVP window
+- [ ] Redesign party chat
 
 ## DONE:
 - [x] Reposition main menu elements + resize
+- [x] Fix and reposition party chat
