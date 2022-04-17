@@ -11,7 +11,7 @@
 		"wide"						"f0"
 		"tall"						"47"	// Controls ypos of MMDashboard, the higher the number, the higher it is from the bottom line
 		"keyboardinputenabled"		"0"
-		"collapsed_height"			"0"	// Doesn't affect position
+		"collapsed_height"			"51"	// Doesn't affect position, if different value, plays animation
 		// Also controls ypos of MMDashboard, and globalchat, aka partychat
 		// Seems to set the bottom line of the element
 		"expanded_height"			"51"

@@ -17,10 +17,10 @@ Major changes include:
 - [ ] Fix team "Not ready" size
 - [ ] Change votemenu theme
 - [ ] Make map screen transparent
+- [ ] Make gamemode buttons square
 - [ ] Create MVM criteria panel
 - [ ] Change clientscheme
 - [ ] Change tf2 advanced options scheme
-- [ ] Party chat text is over console window
 - [ ] Add match MVP window
 - [ ] Redesign party chat
 
