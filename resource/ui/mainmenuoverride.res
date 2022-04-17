@@ -1223,7 +1223,7 @@
 		"xpos"						"4"
 		"ypos"						"0"
 		"zpos"						"5"
-		"wide"						"265"
+		"wide"						"263"	// 133
 		"tall"						"170"
 		"visible"					"1"
 		"border"					"noborder"

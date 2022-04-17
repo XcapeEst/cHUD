@@ -6,10 +6,10 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"xpos"								"r304"
-		"ypos"								"0"
+		"ypos"								"0"	// hardcoded?
 		"zpos"								"1001"
 		"wide"								"140"
-		"tall"								"200"
+		"tall"								"170"
 		"proportionaltoparent"				"1"
 		"keyboardinputenabled"				"1"
 		"mouseinputenabled"					"1"
@@ -22,8 +22,8 @@
 		"chat_color_chat_text"				"255 255 255 255"
 		"chat_color_party_event"			"Orange"
 		"collapsed_height"					"0"
-		"expanded_height"					"200"
-		"resize_time"						"0"
+		"expanded_height"					"170"
+		"resize_time"						"0.5"
 		"invalidate_parent_on_resize"		"0"
 	}
 	"chatlog"
