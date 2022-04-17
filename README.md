@@ -23,6 +23,7 @@ Major changes include:
 - [ ] Change tf2 advanced options scheme
 - [ ] Add match MVP window
 - [ ] Redesign party chat
+- [ ] Update CTF HUD
 
 ## DONE:
 - [x] Reposition main menu elements + resize

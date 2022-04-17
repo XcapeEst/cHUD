@@ -3,3 +3,5 @@
 wait 5; showconsole; wait; incrementvar mat_antialias -100 100 1; hideconsole; wait 5; incrementvar mat_antialias -100 100 -1
 
 tf_mm_dashboard_slide_panel_step 84
+
+exec autoexec

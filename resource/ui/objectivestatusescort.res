@@ -49,12 +49,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		""
-		"fillcolor"			"0 0 0 165"
+		"fillcolor"		"0 0 0 165"
 		"border"			"noborder"
 		"scaleImage"	"1"
 		
 	}	
-	
 	
 	"ProgressBar"
 	{
