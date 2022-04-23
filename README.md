@@ -24,6 +24,11 @@ Major changes include:
 - [ ] Add match MVP window
 - [ ] Redesign party chat
 - [ ] Update CTF HUD
+- [ ] Fix diamondback crit number
+- [ ] Fix head number
+- [ ] Fix crit a cola
+- [ ] Fix flying guillotine
+- [ ] Fix healer overlay
 
 ## DONE:
 - [x] Reposition main menu elements + resize
