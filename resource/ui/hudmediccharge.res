@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"font"			"ProductBold16"
+		"font"			"ProductBold10"
 		"fgcolor"		"236 236 236 255"
 		"xpos"			"cs-0.5"
-		"ypos"			"c5"
+		"ypos"			"c15"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"10"

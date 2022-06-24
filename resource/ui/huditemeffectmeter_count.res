@@ -1,3 +1,5 @@
+// #base "hudItemeffectmeter_count.res"
+
 "Resource/UI/HudItemEffectMeter_Count.res"
 {
 	"HudItemEffectMeter"
@@ -32,5 +34,9 @@
 		"brighttext"		"0"
 		"font"				"productbold10"
 		"autoResize"		"1"
+	}
+	"ItemEffectMeterLabel"
+	{
+		"visible"				"0"
 	}
 }

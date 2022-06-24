@@ -1,7 +1,1 @@
-#base "huditemeffectmeter.res"
-
-// Bison
-
-"Resource/UI/HudItemEffectMeter_RayGun.res"
-{
-}
+#base "huditemeffectmeter_wss.res"

@@ -25,10 +25,10 @@ Major changes include:
 - [ ] Add match MVP window
 - [ ] Redesign party chat
 - [ ] Update CTF HUD
-- [ ] Fix head number
 - [ ] Fix healer overlay
+- [ ] Add supernova bar
 
 ## DONE:
-- [x] Reposition main menu elements + resize
-- [x] Fix and reposition party chat
-- [x] Fix diamondback crit number
+- [x] Repositioned and resizeed main menu elements
+- [x] Fixed and repositioned party chat
+- [x] Fixed special counts (heads, crits, organs)
