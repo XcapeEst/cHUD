@@ -1952,7 +1952,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"SettingsButton"
-		"xpos"				"99999"
+		"xpos"				"9999"
 	}
 	"TF2SettingsButton"
 	{

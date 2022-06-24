@@ -6,7 +6,21 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-32"	[$WIN32]
-		"ypos"			"r160"	[$WIN32]
+		"ypos"			"r157"	[$WIN32]
+		"zpos"			"-1"
+		"wide"			"128"
+		"tall"			"64"
+		"MeterFG"		"White"
+		"MeterBG"		"Gray"
+	}
+
+	ChargeMeter
+	{
+		"fieldName"		"HudItemEffectMeter"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-32"	[$WIN32]
+		"ypos"			"r157"	[$WIN32]
 		"zpos"			"-1"
 		"wide"			"128"
 		"tall"			"64"

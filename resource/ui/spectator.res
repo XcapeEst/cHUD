@@ -18,8 +18,8 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"	 "TopBar"
-		"xpos"	 "999999"
-		"ypos"	 "999999"
+		"xpos"	 "9999"
+		"ypos"	 "9999"
 		"wide"	 "0"
 		"tall"	 "0"
 		"visible"	 "0"
@@ -29,8 +29,8 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"	 "BottomBar"
-		"xpos"	 "999999"
-		"ypos"	 "999999"
+		"xpos"	 "9999"
+		"ypos"	 "9999"
 		"wide"	 "0"
 		"tall"	 "0"
 		"visible"	 "0"
@@ -40,8 +40,8 @@
 	{
 		"ControlName"	 "Panel"
 		"fieldName"	 "bottombarblank"
-		"xpos"	 "999999"
-		"ypos"	 "999999"
+		"xpos"	 "9999"
+		"ypos"	 "9999"
 		"wide"	 "0"
 		"tall"	 "0"
 		"visible"	 "0"
@@ -96,56 +96,56 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"xpos"			"99999"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 	}
 	"ClassOrTeamLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
-		"xpos"			"999999"
+		"xpos"			"9999"
 	}
 	"SwitchCamModeKeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeKeyLabel"
-		"xpos"			"99999"		[$WIN32]
+		"xpos"			"9999"		[$WIN32]
 
 	}
 	"SwitchCamModeLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"99999"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 	}
 	"CycleTargetFwdKeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdKeyLabel"
-		"xpos"			"99999"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 	}
 	"CycleTargetFwdLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"xpos"			"99999"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 	}
 	"CycleTargetRevKeyLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevKeyLabel"
-		"xpos"			"99999"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 	}
 	"CycleTargetRevLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevLabel"
-		"xpos"			"99999"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 	}
 	"TipLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TipLabel"
-		"xpos"			"99999"
+		"xpos"			"9999"
 	}
 
 

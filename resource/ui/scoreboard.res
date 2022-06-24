@@ -1315,7 +1315,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"VerticalLine"
-		"xpos"			"999999"
+		"xpos"			"9999"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

@@ -9,6 +9,7 @@ Major changes include:
 - Team status redesign
 
 ## TODO:
+- [ ] Fix all effect bars
 - [ ] Elongate loading bar
 - [ ] Fix xp bar after match end
 - [ ] Fix casual 10 second playerboard
@@ -24,12 +25,10 @@ Major changes include:
 - [ ] Add match MVP window
 - [ ] Redesign party chat
 - [ ] Update CTF HUD
-- [ ] Fix diamondback crit number
 - [ ] Fix head number
-- [ ] Fix crit a cola
-- [ ] Fix flying guillotine
 - [ ] Fix healer overlay
 
 ## DONE:
 - [x] Reposition main menu elements + resize
 - [x] Fix and reposition party chat
+- [x] Fix diamondback crit number

@@ -1,9 +1,9 @@
 #base "huditemeffectmeter.res"
 
-"Resource/UI/HudItemEffectMeter_Spy.res" // Spycicle
+"Resource/UI/HudItemEffectMeter.res"
 {
 	HudItemEffectMeter
 	{
 		"ypos"			"r160"
-	}	
+	}					
 }
