@@ -66,7 +66,7 @@
 		"bgcolor_override"	"0 0 0 100"
 	}
 
-	"PipesPresentPanel"
+	"PipesPresentPanel" // Sticky bomb counter
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PipesPresentPanel"
@@ -126,7 +126,7 @@
 		}
 	}
 
-	"NoPipesPresentPanel"
+	"NoPipesPresentPanel" // Disabled
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoPipesPresentPanel"
