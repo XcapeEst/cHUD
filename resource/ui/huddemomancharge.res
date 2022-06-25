@@ -2,7 +2,7 @@
 
 "Resource/UI/HudDemomanCharge.res"
 {
-	"x"
+	"ChargeMeter"
 	{
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
@@ -20,7 +20,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 
-		"bgcolor_override"		"0 0 0 0" // transparent because overwritten by something somewhere
-		"fgcolor_override"		"0 0 0 0"
+		"fgcolor_override"	"238 238 238 255"
+		"bgcolor_override"	"0 0 0 100"
 	}
 }
