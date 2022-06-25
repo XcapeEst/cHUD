@@ -1104,13 +1104,13 @@
 		"tall"					"80"
 	}
 
-	HudTournamentSetup
+	HudTournamentSetup // ypos controlled by animation
 	{
 		"fieldName"				"HudTournamentSetup"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"c-43"
-		"ypos"					"6"
+		"xpos"					"cs-0.5"
+		"ypos"					"-40"
 		"zpos"					"2"
 		"wide"					"86"
 		"tall"					"40"

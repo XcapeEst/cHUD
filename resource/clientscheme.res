@@ -3043,6 +3043,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"icons8"
+		{
+			"1"
+			{
+				"name"		"Segoe MDL2 Assets"
+				"tall"		"8"
+				"antialias" "1"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"blocks"
 		{
 			"1"
