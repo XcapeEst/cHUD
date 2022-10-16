@@ -3,31 +3,28 @@
 	"CDamageAccountPanel"
 	{
 		"fieldName"				"CDamageAccountPanel"
-		"text_x"				"0"
-		"text_y"				"0"
-		"delta_item_end_y"		"0"
 		"visible"				"1"
 		"enabled"				"1"
 		"PositiveColor"			"39 196 124 255"
-		"NegativeColor"			"200 52 52 255"
+		"NegativeColor"			"200 52 52 255" // Controlled by hud_combattext_red/green/blue
 		"delta_lifetime"		"2"
-		"delta_item_font"		"Damage18"
-		"delta_item_font_big"	"Damage18"
+		"delta_item_font"		"ProductBold18"
+		"text_center"			"1"
 	}
 
 	"DamageAccountValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-112"
-		"ypos"			"r139"
+		"xpos"			"c-162"
+		"ypos"			"r160"
 		"zpos"			"2"
 		"wide"			"128"
-		"tall"			"25"
+		"tall"			"68"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 		"font"			"ProductBold20"
 		"fgcolor"		"200 52 52 255"
 	}
