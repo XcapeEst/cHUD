@@ -1843,8 +1843,10 @@
 	}
 	"DashboardDimmer"
 	{
-		"wide"		"0"
-		"tall"		"0"
+		"xpos"				"9999"
+		"ypos"				"9999"
+		"wide"				"f0"
+		"tall"				"f0"
 	}
 	"ServerBrowserButton"
 	{
