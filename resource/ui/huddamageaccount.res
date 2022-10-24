@@ -8,7 +8,8 @@
 		"PositiveColor"			"39 196 124 255"
 		"NegativeColor"			"200 52 52 255" // Controlled by hud_combattext_red/green/blue
 		"delta_lifetime"		"2"
-		"delta_item_font"		"ProductBold18"
+		"delta_item_font"		"Damage18"
+		"delta_item_font_big"	"Damage18"
 		"text_center"			"1"
 	}
 
