@@ -552,8 +552,8 @@
 		"fieldName" 	"HudMessage"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"wide"	 		"f0"
-		"tall"	 		"480"
+		"wide"	 		"0" // Disable server watermarks
+		"tall"	 		"0"
 	}
 
 	HudMenu
