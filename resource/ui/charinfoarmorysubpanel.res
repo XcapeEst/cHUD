@@ -327,7 +327,7 @@
 			"scaleImage"					"1"
 			"image"							"replay/thumbnails/softicons/back"
 		}
-		
+
 		"pin_to_sibling" 					"CurPageLabel"
 		"pin_corner_to_sibling" 			"3"
 		"pin_to_sibling_corner" 			"2"
@@ -350,7 +350,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"fgcolor_override" 					"245 245 245 60"
-		
+
 		"pin_to_sibling" 					"NextPageButton"
 		"pin_corner_to_sibling" 			"3"
 		"pin_to_sibling_corner" 			"2"
@@ -430,7 +430,7 @@
 		"Command"							"wiki"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		
+
 		"pin_to_sibling" 					"FilterComboBox"
 		"pin_corner_to_sibling" 			"2"
 		"pin_to_sibling_corner"				"3"
@@ -460,7 +460,7 @@
 		"Command"							"viewset"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		
+
 		"pin_to_sibling" 					"StoreButton"
 		"pin_corner_to_sibling" 			"2"
 		"pin_to_sibling_corner" 			"3"
@@ -489,7 +489,7 @@
 		"Command"							"openstore"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		
+
 		"pin_to_sibling" 					"WikiButton"
 		"pin_corner_to_sibling" 			"2"
 		"pin_to_sibling_corner" 			"3"

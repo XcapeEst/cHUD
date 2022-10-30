@@ -33,7 +33,7 @@
 		"textAlignment"			"center"
 		"font"					"productbold14"
 		"fgcolor_override"		"tanlight120"
-		
+
 		"mouseinputenabled"		"0"
 	}
 

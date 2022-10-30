@@ -6,25 +6,25 @@
 	{
 		"labelText"		"#TF_Class_Name_Soldier"
 	}
-	
+
 	"BorderColor"
-	{	
+	{
 		"bgcolor_override"	"softred200"
 	}
 
-	"ClassIcon"	
+	"ClassIcon"
 	{
 		"icon"			"hud_menu_soldier_red"
 	}
-	
+
 	"NewNumberLabel"
 	{
 		"labelText"		"2"
 		"bgcolor_override"	"softred200"
 	}
-	
+
 	"NumberLabel"
-	{		
+	{
 		"labelText"		"2"
 		"bgcolor_override"	"softred200"
 	}

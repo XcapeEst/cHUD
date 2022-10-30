@@ -35,7 +35,7 @@
 
 		"image"		"replay\thumbnails\bg_blank"
 	}
-	
+
 	"Gradient"
 	{
 		"ControlName"		"ImagePanel"
@@ -98,11 +98,11 @@
 
 		"armedFgColor_override"	"blank"
 		"FgColor_override"	"blank"
-		
+
 		"image_drawcolor"	"245 245 245 60"
 		"image_armedcolor"	"245 245 245 180"
 		"image_disabledcolor"	"236 236 236 0"
-		
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -141,7 +141,7 @@
 		"defaultBgColor_override"	"0 0 0 0"
 
 		"armedFgColor_override"	"Orange"
-		
+
 		"image_drawcolor"	"245 245 245 60"
 		"image_armedcolor"	"245 245 245 180"
 		"image_disabledcolor"	"236 236 236 0"
@@ -162,7 +162,7 @@
 			"image"			"replay/thumbnails/softicons/forward"
 		}
 	}
-	
+
 	"BGPanel"
 	{
 		"ControlName"	"EditablePanel"

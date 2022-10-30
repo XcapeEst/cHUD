@@ -16,7 +16,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"bgcolor_override"	"CollyHudDarkGray"
-		
+
 		"item_ypos"		"88"
 		"item_ydelta"	"80"
 		"item_backpack_offcenter_x"		"-268"
@@ -53,8 +53,8 @@
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
-			
-			
+
+
 			"model_xpos"	"0"
 			"model_ypos"	"8"
 			"model_wide"	"50"
@@ -67,13 +67,13 @@
 			"inset_eq_y"	"2"
 
 			"deferred_description"	"1"
-			
+
 			"itemmodelpanel"
 				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
-			
+
 			"use_item_sounds"	"1"
 		}
 		"duplicatelabels_kv"
@@ -89,7 +89,7 @@
 			"fgcolor"		"153 204 255 255"
 		}
 	}
-	
+
 	"CaratLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -194,7 +194,7 @@
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
-	
+
 	"TopLine"
 	{
 		"ControlName"	"ImagePanel"
@@ -209,7 +209,7 @@
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
-	}				
+	}
 	"BottomLine"
 	{
 		"ControlName"	"ImagePanel"
@@ -224,8 +224,8 @@
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
-	}				
-		
+	}
+
 	"ItemSlotLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -262,7 +262,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
-	
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -286,7 +286,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-	
+
 	"OnlyAllowUniqueQuality"
 	{
 		"ControlName"	"CheckButton"
@@ -305,8 +305,8 @@
 		"enabled"		"1"
 		"dulltext"		"0"
 		"brighttext"	"0"
-	}	
-	
+	}
+
 	"ShowBackpack"
 	{
 		"ControlName"	"CExButton"
@@ -358,7 +358,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-	
+
 	"PrevPageButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -407,7 +407,7 @@
 			"scaleImage"	"1"
 			"image"			"replay/thumbnails/softicons/back"
 		}
-		
+
 		"pin_to_sibling" "CurPageLabel"
 		"pin_corner_to_sibling" "3"
 		"pin_to_sibling_corner" "2"
@@ -484,8 +484,8 @@
 			"image"			"replay/thumbnails/softicons/forward"
 		}
 	}
-	
-	
+
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -500,9 +500,9 @@
 		"noitem_textcolor"		"110 110 110 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-		
-		
-		
+
+
+
 		"text_xpos"			"0"
 		"text_xpos_collection" "0"
 		"text_ypos"			"0"
@@ -510,7 +510,7 @@
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"16"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"

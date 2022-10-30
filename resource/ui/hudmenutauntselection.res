@@ -1,6 +1,6 @@
 "Resource/UI/HudMenuTauntSelection.res"
 {
-	"MainBackground"	
+	"MainBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
@@ -11,11 +11,11 @@
 		"tall"			"170"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 0"
 	}
-	"MainBackgroundR"	
+	"MainBackgroundR"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MainBackgroundR"
@@ -26,7 +26,7 @@
 		"tall"			"170"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"fillcolor"			"0 0 0 0"
 	}
 
@@ -53,13 +53,13 @@
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_taunt_menu_icon"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"TitleLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontGiantBold"
@@ -77,9 +77,9 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-	
+
 	"TitleLabelDropshadow"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"HudFontGiantBold"
@@ -100,7 +100,7 @@
 	}
 
 	"WeaponTauntLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponTauntLabel"
 		"font"			"Default"
@@ -118,9 +118,9 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-	
+
 	"CancelLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
 		"font"			"Default"
@@ -153,20 +153,20 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -174,7 +174,7 @@
 		}
 	}
 
-	"NumberBg1"	
+	"NumberBg1"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg1"
@@ -185,13 +185,13 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel1"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1"
 		"font"			"Default"
@@ -232,13 +232,13 @@
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -257,13 +257,13 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel2"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2"
 		"font"			"Default"
@@ -297,27 +297,27 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
 		}
 	}
-	
+
 	"NumberBg3"
 	{
 		"ControlName"	"CIconPanel"
@@ -329,13 +329,13 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel3"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3"
 		"font"			"Default"
@@ -369,20 +369,20 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -401,13 +401,13 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel4"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel4"
 		"font"			"Default"
@@ -441,20 +441,20 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -473,13 +473,13 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel5"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel5"
 		"font"			"Default"
@@ -513,20 +513,20 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -545,13 +545,13 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel6"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel6"
 		"font"			"Default"
@@ -585,20 +585,20 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -617,13 +617,13 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel7"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel7"
 		"font"			"Default"
@@ -657,20 +657,20 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
-			
+
 		"model_ypos"	"5"
 		"model_tall"	"38"
 		"text_ypos"		"46"
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
 			"visible"		"0"
 		}
-			
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
@@ -689,13 +689,13 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NumberLabel8"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel8"
 		"font"			"Default"

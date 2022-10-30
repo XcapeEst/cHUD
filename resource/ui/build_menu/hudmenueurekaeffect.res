@@ -1,6 +1,6 @@
 "Resource/UI/build_menu/HudMenuEurekaEffect.res"
 {
-	"MainBackground"	
+	"MainBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
@@ -11,12 +11,12 @@
 		"tall"			"170"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
 	}
-	
-	"BuildIconShadow"	
+
+	"BuildIconShadow"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildIconShadow"
@@ -27,12 +27,12 @@
 		"tall"			"48"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_build"
 		"iconColor"		"0 0 0 255"
 	}
-	
-	"BuildIcon"	
+
+	"BuildIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildIcon"
@@ -43,19 +43,19 @@
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_build"
 		"iconColor"		"255 255 255 200"
-		
+
 		"bgcolor_override"		"0 0 0 0"
-		
+
 		"pin_to_sibling" 		"TitleLabel"
 		"pin_corner_to_sibling" "PIN_CENTER_RIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_LEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"TitleLabelDropshadow"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"HudFontGiantBold"
@@ -73,16 +73,16 @@
 		"textAlignment"	"Left"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		
+
 		"bgcolor_override"		"0 0 0 230"
-		
+
 		"pin_to_sibling" 		"TitleLabel"
 		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"TitleLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"product8"
@@ -99,20 +99,20 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		
+
 		"AllCaps"		"1"
 		"textinsetx"	"12"
-		
+
 		"fgcolor_override"		"216 216 216 255"
 		"bgcolor_override"		"0 0 0 230"
-		
+
 		"pin_to_sibling" 		"available_target_1"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"CancelLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
 		"font"			"product8"
@@ -131,14 +131,14 @@
 		"brighttext"	"0"
 		"textinsetx"	"12"
 		"auto_wide_tocontents"	"1"
-		
+
 		"fgcolor_override"	"216 216 216 255"
-		
+
 		"pin_to_sibling" 		"available_target_2"
 		"pin_corner_to_sibling" "PIN_CENTER_TOP" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_BOTTOM" // Corner of Element you are pinning to
 	}
-	
+
 	"available_target_1"
 	{
 		"ControlName"	"EditablePanel"
@@ -149,12 +149,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"available_target_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"available_target_2"
 	{
 		"ControlName"	"EditablePanel"
@@ -165,7 +165,7 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-	}	
+	}
 
 	"unavailable_target_1"
 	{
@@ -177,12 +177,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"available_target_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"unavailable_target_2"
 	{
 		"ControlName"	"EditablePanel"
@@ -193,9 +193,9 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"0"
-		
+
 		"pin_to_sibling" 		"available_target_2"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
+	}
 }

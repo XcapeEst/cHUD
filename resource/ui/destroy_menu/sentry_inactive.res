@@ -6,9 +6,9 @@
 	{
 		"labelText"		"#TF_Object_Sentry"
 	}
-	
+
 	"NumberLabel"
-	{	
+	{
 		"labelText"		"1"
 	}
 }

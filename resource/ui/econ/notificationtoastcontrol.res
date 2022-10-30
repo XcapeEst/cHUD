@@ -123,7 +123,7 @@
 			"image"			"glyph_view"
 			"scaleImage"	"1"
 		}
-		
+
 		"pin_to_sibling" "DeleteButton"
 		"pin_corner_to_sibling" "0"
 		"pin_to_sibling_corner" "1"

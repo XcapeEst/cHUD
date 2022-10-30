@@ -12,7 +12,7 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
-	
+
 	"ItemEffectMeterLabel" // Hidden
 	{
 		"ControlName"			"CExLabel"
@@ -38,14 +38,14 @@
 	}
 
 	"ItemEffectMeter"
-	{	
+	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
 		"ypos"					"9999"
 		"xpos"					"9999"
-	}					
-	
+	}
+
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
@@ -54,7 +54,7 @@
 		"ypos"					"r36"
 		"zpos"					"0"
 		"wide"					"16"
-		"tall"					"16"	
+		"tall"					"16"
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%progresscount%"

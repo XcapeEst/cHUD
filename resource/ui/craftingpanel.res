@@ -21,16 +21,16 @@
 		"outoffocus_bgcolor_override" "CollyHudDarkGray"
 
 		"item_ypos"						"88"
-		"output_item_ypos"				"255"		
+		"output_item_ypos"				"255"
 		"item_crafting_offcenter_x"		"0"
 		"item_backpack_xdelta"			"2"
 		"item_backpack_ydelta"			"4"
 
-		"button_xpos_offcenter"			"175"		
+		"button_xpos_offcenter"			"175"
 		"button_ypos"					"85"
 		"button_ydelta"					"80"
 		"button_override_delete_xpos"	"0"
-		
+
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -41,7 +41,7 @@
 			"noitem_textcolor"		"tanlight60"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
-			
+
 			"model_ypos"	"5"
 			"model_tall"	"35"
 			"model_wide"	"50"
@@ -51,7 +51,7 @@
 			"text_xpos"		"100"
 			"text_forcesize" "3"
 			"noitem_use_fullpanel" "1"
-			
+
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 
@@ -65,13 +65,13 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"bgcolor_override"		"0 0 0 0"
-			
+
 				"itemmodelpanel"
 					{
 					"use_item_rendertarget" "0"
 					"allow_rot"				"0"
 				}
-			
+
 				"namelabel"
 					{
 					"ControlName"	"CExLabel"
@@ -93,7 +93,7 @@
 				}
 			}
 		}
-		
+
 		"recipebuttons_kv"
 		{
 			"font"			"HudFontSmallestBold"
@@ -111,12 +111,12 @@
 			"textinsetx"	"0"
 			"paintbackground"		"0"
 		}
-		
+
 		"filter_xoffset"	"-268"
 		"filter_ypos"		"12"
 		"filter_xdelta"		"10"
 		"filter_ydelta"		"10"
-		
+
 		"recipefilterbuttons_kv"
 		{
 			"zpos"				"2"
@@ -135,9 +135,9 @@
 			"scaleImage"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}	
+		}
 	}
-	
+
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -156,7 +156,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "tanlight"
 	}
-	
+
 	"selectedrecipecontainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -188,7 +188,7 @@
 			"fgcolor"		"tanlight"
 			"wrap"			"1"
 		}
-		
+
 		"RecipeInputStringLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -208,7 +208,7 @@
 			"fgcolor"		"softblue"
 			"wrap"			"1"
 		}
-	
+
 		"InputLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -245,7 +245,7 @@
 			"enabled"		"1"
 			"fgcolor"		"tanlight120"
 		}
-		
+
 		"CraftButton"
 		{
 			"ControlName"	"CExButton"
@@ -269,8 +269,8 @@
 			"Command"		"craft"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}			
-		
+		}
+
 		"FreeAccountLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -313,14 +313,14 @@
 			"Command"		"upgrade"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"defaultBgColor_override"	"102 122 42 255"
 			"armedBgColor_override"		"143 167 57 255"
 			"depressedBgColor_override"	"143 167 57 255"
 			"selectedBgColor_override"	"143 167 57 255"
-		}			
+		}
 	}
-	
+
 	"recipecontainerscroller"
 	{
 		"ControlName"	"EditablePanel"
@@ -347,7 +347,7 @@
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"200 187 161 0"
 	}
-	
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -362,13 +362,13 @@
 		"noitem_textcolor"		"tanlight120"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"text_ypos"			"20"
 		"text_center"		"0"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -387,12 +387,12 @@
 			"centerwrap"	"1"
 		}
 	}
-	
+
 	"mousedragitempanel"
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mousedragitempanel"
-		
+
 		"xpos"			"c-70"
 		"ypos"			"270"
 		"zpos"			"100"
@@ -403,20 +403,20 @@
 		"noitem_textcolor"		"tanlight120"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"model_ypos"	"5"
 		"model_tall"	"35"
 		"text_ypos"		"60"
 		"text_center"	"1"
 		"name_only"		"1"
-		
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
 		}
 	}
-	
+
 	"TooltipPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -429,7 +429,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"EconItemBorder"
-		
+
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -450,8 +450,8 @@
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
-	}	
-	
+	}
+
 	"ShowExplanationsButton"
 	{
 		"ControlName"	"CExButton"

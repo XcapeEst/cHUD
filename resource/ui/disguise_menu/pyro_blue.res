@@ -7,19 +7,19 @@
 		"labelText"		"#TF_Class_Name_Pyro"
 	}
 
-	"ClassIcon"	
+	"ClassIcon"
 	{
 		"icon"			"hud_menu_pyro_blu"
 	}
-	
+
 	"NewNumberLabel"
 	{
 		"labelText"		"3"
 		"bgcolor_override"	"softblue200"
 	}
-	
+
 	"NumberLabel"
-	{		
+	{
 		"labelText"		"3"
 		"bgcolor_override"	"softblue200"
 	}

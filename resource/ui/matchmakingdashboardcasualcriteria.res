@@ -25,7 +25,7 @@
 		"wide"				"120"
 		"bgcolor_override"	"collyhuddarkgray"
 	}
-	
+
 	"Title"
 	{
 		"ControlName"			"Label"
@@ -40,7 +40,7 @@
 		"textAlignment"			"west"
 		"font"					"HudFontMediumBigBold"
 		"fgcolor_override"		"TanDark"
-		
+
 		"mouseinputenabled"		"0"
 	}
 
@@ -100,13 +100,13 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"mouseinputenabled"				"1"
-		"eatmouseinput"					"0"	
+		"eatmouseinput"					"0"
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" 			"1"
 
 		"border"						"noborder"
 		"bgcolor_override"				"softred160"
-		
+
 		"pin_to_sibling" 				"QueueButton"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" 		"PIN_TOPLEFT" // Corner of Element you are pinning to

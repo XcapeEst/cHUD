@@ -134,7 +134,7 @@
 				"NumericInputOnly"	"0"
 				"unicode"			"0"
 				"default"			"0"
-		
+
 				"fgcolor_override"	"235 226 202 255"
 				"bgcolor_override"	"0 0 0 0"
 				"disabledFgColor_override" "235 226 202 255"

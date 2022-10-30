@@ -54,7 +54,7 @@
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 	}
-	
+
 	"BannedIcon"
 	{
 		"ControlName"	"ImagePanel"

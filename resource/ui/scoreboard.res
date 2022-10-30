@@ -213,7 +213,7 @@
 			"visible"		"1"
 		}
 	}
-	
+
 	"RedTeamBG"
 	{
 		"ControlName"		"ctfImagePanel"
@@ -235,7 +235,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"BlueTeamPlayerCover"
 	{
 		"ControlName"		"ctfImagePanel"
@@ -767,7 +767,7 @@
 		{
 			"visible"		"0"
 		}
-	}	
+	}
 	"BlueTeamPlayerLineCover"
 	{
 		"ControlName"		"ImagePanel"
@@ -963,8 +963,8 @@
 			"visible"			"1"
 		}
 	}
-	
-	
+
+
 	"BlueTeamScore"
 	{
 		"ControlName"		"CExLabel"
@@ -1054,7 +1054,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
+
 		if_mvm
 		{
 			"visible"		"0"
@@ -1231,7 +1231,7 @@
 			"ypos"			"999"
 		}
 	}
-	
+
 	"Spectators"
 	{
 		"ControlName"			"CExLabel"
@@ -1329,7 +1329,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"Spectators2"
 	{
 		"ControlName"		"CExLabel"
@@ -1443,7 +1443,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"PlayerScoreLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -1788,7 +1788,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
-		
+
 		"Kills2"
 		{
 			"ControlName"		"CExLabel"

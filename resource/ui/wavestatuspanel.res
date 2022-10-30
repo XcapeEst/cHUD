@@ -17,11 +17,11 @@
 
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
-	
+
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
+		"draw_corner_height" 	"0"
 	}
-	
+
 	"WaveProgBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -38,11 +38,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 165"
-		
+
 		// MINMODE
 		"tall_minmode"		"12"
 	}
-	
+
 	"WaveCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -60,13 +60,13 @@
 		"textAlignment"				"west"
 		"textAlignment_minmode"		"west"
 		"labelText"					"%wave_count%"
-		
+
 		"bgcolor_override"	"255 0 0 0"
-		
+
 		// MINMODE
 		"tall_minmode"		"16"
 	}
-	
+
 	"ProgressBar"
 	{
 		"ControlName"	"ScalableImagePanel"
@@ -79,19 +79,19 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/blue"
-		
+
 		"src_corner_height"		"22"				// pixels inside the image
 		"src_corner_width"		"22"
-	
+
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"
-		
+
 		// MINMODE
 		"xpos_minmode"	"c-60"
 		"ypos_minmode"	"12"
 		"wide_minmode"	"154"
 	}
-	
+
 	"ProgressBarBG"
 	{
 		"ControlName"			"ScalableImagePanel"
@@ -105,19 +105,19 @@
 		"enabled"				"1"
 		"image"					"replay/thumbnails/whitetrans"
 		"fillcolor"				"180 180 180 255"
-		
+
 		"src_corner_height"		"22"				// pixels inside the image
 		"src_corner_width"		"22"
-	
+
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
-		
+		"draw_corner_height" 	"0"
+
 		// MINMODE
 		"xpos_minmode"	"c-60"
 		"ypos_minmode"	"12"
 		"wide_minmode"	"154"
 	}
-	
+
 	"SeparatorBar"
 	{
 		"ControlName"	"Panel"
@@ -133,13 +133,13 @@
 		"PaintBackgroundType" "0"
 		"bgcolor_override"	"0 0 0 0"
 		"border"		"LightWhiteLeft"
-		
+
 		if_verbose
 		{
 			"visible"		"1"
 		}
 	}
-	
+
 	"SupportLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -155,10 +155,10 @@
 		"enabled"		"1"
 		"textAlignment"				"west"
 		"labelText"					"#TF_MVM_Support"
-		
+
 		if_verbose
 		{
 			"visible"		"1"
-		}		
+		}
 	}
 }

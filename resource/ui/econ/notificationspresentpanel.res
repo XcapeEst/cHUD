@@ -16,7 +16,7 @@
 	}
 
 	"TextLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
 		"fgcolor"		"245 245 245 60"

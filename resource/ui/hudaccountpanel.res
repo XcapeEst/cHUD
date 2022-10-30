@@ -10,7 +10,7 @@
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"productbold14"
 	}
-	
+
 	"AccountBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -23,14 +23,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_blue"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
 		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
-	
-	"MetalIcon"	
+
+	"MetalIcon"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MetalIcon"
@@ -42,11 +42,11 @@
 		"alpha"			"255"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"border"			"wrenchlight"
 		"fllcolor"		"0 0 0 0"
 	}
-	"MetalIcon2"	
+	"MetalIcon2"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MetalIcon2"
@@ -58,11 +58,11 @@
 		"alpha"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"border"			"wrenchdark"
 		"fllcolor"		"0 0 0 0"
 	}
-	
+
 	"AccountValue"
 	{
 		"ControlName"	"CExLabel"

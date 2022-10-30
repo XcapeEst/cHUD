@@ -31,7 +31,7 @@
 		"bgcolor_override"				"0 0 0 165"
 
 		"paintbackground"				"1"
-	
+
 		"ScrollBar"
 		{
 			"ControlName"				"ScrollBar"
@@ -48,14 +48,14 @@
 				{
 				"fgcolor_override"		"245 245 245 12"
 			}
-	
+
 			"UpButton"
 				{
 				"ControlName"			"Button"
 				"FieldName"				"UpButton"
 				"visible"				"0"
 			}
-	
+
 			"DownButton"
 				{
 				"ControlName"			"Button"

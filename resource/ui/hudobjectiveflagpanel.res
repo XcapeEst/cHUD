@@ -17,9 +17,9 @@
 			"zpos"			"-1"
 		}
 	}
-	
-	
-	
+
+
+
 	"LeftSideBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -50,7 +50,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
-	
+
 	"StripBlue"
 	{
 		"ControlName"		"EditablePanel"
@@ -64,15 +64,15 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
+
 		"bgcolor_override"		"softblue"
-		
+
 		if_mvm
 		{
 			"visible"	"0"
 		}
 	}
-	
+
 	"RedScoreBG"
 	{
 		"ControlName"	"EditablePanel"
@@ -88,13 +88,13 @@
 		"enabled"		"1"
 
 		"bgcolor_override"		"softred"
-		
+
 		if_mvm
 		{
 			"visible"	"0"
 		}
 	}
-	
+
 	"BlueScore"
 	{
 		"ControlName"	"CExLabel"

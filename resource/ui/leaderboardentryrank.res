@@ -10,7 +10,7 @@
 		"wide"			"230"
 		"tall"			"22"
 		"visible"		"1"
-	
+
 		"Position"
 		{
 			"ControlName"	"CExLabel"
@@ -54,7 +54,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"color_outline"	"52 48 45 255"
 		}
 		"UserName"
@@ -107,9 +107,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		""
-			
+
 			"paintbackground"	"0"
-			
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
@@ -127,5 +127,5 @@
 				"scaleImage"	"1"
 			}
 		}
-	}	
+	}
 }

@@ -9,7 +9,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/btcross"
 	}
-	
+
 	"CartBlue"
 	{
 		"ControlName"	"ImagePanel"
@@ -19,7 +19,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_blue"
 	}
-	
+
 	"CartRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -29,7 +29,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_red"
 	}
-	
+
 	"CartPointBlue"
 	{
 		"ControlName"	"ImagePanel"
@@ -39,7 +39,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_blue"
 	}
-	
+
 	"CartPointRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -49,7 +49,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_red"
 	}
-	
+
 	"CartPointBlueO"
 	{
 		"ControlName"	"ImagePanel"
@@ -59,7 +59,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_blue_opaque"
 	}
-	
+
 	"CartPointRedO"
 	{
 		"ControlName"	"ImagePanel"
@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_red_opaque"
 	}
-	
+
 	"CartTrackBlue"
 	{
 		"ControlName"	"ImagePanel"
@@ -79,7 +79,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_blue"
 	}
-	
+
 	"CartTrackRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_red"
 	}
-	
+
 	"CartTrackBlueO"
 	{
 		"ControlName"	"ImagePanel"
@@ -99,7 +99,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_blue_opaque"
 	}
-	
+
 	"CartTrackRedO"
 	{
 		"ControlName"	"ImagePanel"
@@ -109,7 +109,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_red_opaque"
 	}
-	
+
 	"cpiconwhite"
 	{
 		"ControlName"	"ImagePanel"
@@ -119,7 +119,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_white"
 	}
-	
+
 	"cpiconbluunlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -129,7 +129,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_blu"
 	}
-	
+
 	"cpiconblulock"
 	{
 		"ControlName"	"ImagePanel"
@@ -138,8 +138,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_blu_locked"
-	}	
-	
+	}
+
 	"cpiconblumann"
 	{
 		"ControlName"	"ImagePanel"
@@ -149,7 +149,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
 	}
-	
+
 	"cpiconredunlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -159,7 +159,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_red"
 	}
-	
+
 	"cpiconredlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -168,8 +168,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_red_locked"
-	}	
-	
+	}
+
 	"cpiconneutralunlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -178,8 +178,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_neutral"
-	}	
-	
+	}
+
 	"cpiconneutrallock"
 	{
 		"ControlName"	"ImagePanel"
@@ -189,7 +189,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_neutral_locked"
 	}
-	
+
 	"cpicona"
 	{
 		"ControlName"	"ImagePanel"
@@ -199,7 +199,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_a"
 	}
-	
+
 	"cpiconb"
 	{
 		"ControlName"	"ImagePanel"
@@ -209,7 +209,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_b"
 	}
-	
+
 	"cpiconc"
 	{
 		"ControlName"	"ImagePanel"
@@ -219,7 +219,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_c"
 	}
-	
+
 	"cpicond"
 	{
 		"ControlName"	"ImagePanel"
@@ -229,7 +229,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_d"
 	}
-	
+
 	"cpicone"
 	{
 		"ControlName"	"ImagePanel"
@@ -239,7 +239,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_e"
 	}
-	
+
 	"cpiconcapblu"
 	{
 		"ControlName"	"ImagePanel"
@@ -249,7 +249,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
 	}
-	
+
 	"cpiconcapred"
 	{
 		"ControlName"	"ImagePanel"
@@ -259,7 +259,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_red"
 	}
-	
+
 	"cpiconcapmask"
 	{
 		"ControlName"	"ImagePanel"
@@ -269,7 +269,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_mask"
 	}
-	
+
 	"cpiconblu1unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -279,7 +279,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_blu"
 	}
-	
+
 	"cpiconblu1lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -289,7 +289,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_blu_locked"
 	}
-	
+
 	"cpiconred1unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -299,7 +299,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_red"
 	}
-	
+
 	"cpiconred1lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -308,8 +308,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_red_locked"
-	}	
-	
+	}
+
 	"cpiconneutral1unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -318,8 +318,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_neutral"
-	}	
-	
+	}
+
 	"cpiconneutral1lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -329,7 +329,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_1_neutral_locked"
 	}
-	
+
 	"cpiconblu2unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -339,7 +339,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_blu"
 	}
-	
+
 	"cpiconblu2lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -349,7 +349,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_blu_locked"
 	}
-	
+
 	"cpiconred2unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -359,7 +359,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_red"
 	}
-	
+
 	"cpiconred2lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -368,8 +368,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_red_locked"
-	}	
-	
+	}
+
 	"cpiconneutral2unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -378,8 +378,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_neutral"
-	}	
-	
+	}
+
 	"cpiconneutral2lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -389,7 +389,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_2_neutral_locked"
 	}
-	
+
 	"cpiconblu3unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -399,7 +399,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_blu"
 	}
-	
+
 	"cpiconblu3lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -409,7 +409,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_blu_locked"
 	}
-	
+
 	"cpiconred3unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -419,7 +419,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_red"
 	}
-	
+
 	"cpiconred3lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -428,8 +428,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_red_locked"
-	}	
-	
+	}
+
 	"cpiconneutral3unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -438,8 +438,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_neutral"
-	}	
-	
+	}
+
 	"cpiconneutral3lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -449,7 +449,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_3_neutral_locked"
 	}
-	
+
 	"cpiconblu4unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -459,7 +459,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_blu"
 	}
-	
+
 	"cpiconblu4lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -469,7 +469,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_blu_locked"
 	}
-	
+
 	"cpiconred4unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -479,7 +479,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_red"
 	}
-	
+
 	"cpiconred4lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -488,8 +488,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_red_locked"
-	}	
-	
+	}
+
 	"cpiconneutral4unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -498,8 +498,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral"
-	}	
-	
+	}
+
 	"cpiconneutral4lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -509,7 +509,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral_locked"
 	}
-	
+
 	"cpiconblu5unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -519,7 +519,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_blu"
 	}
-	
+
 	"cpiconblu5lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -529,7 +529,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_blu_locked"
 	}
-	
+
 	"cpiconred5unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -539,7 +539,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_red"
 	}
-	
+
 	"cpiconred5lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -548,8 +548,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_red_locked"
-	}	
-	
+	}
+
 	"cpiconneutral5unlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -558,8 +558,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral"
-	}	
-	
+	}
+
 	"cpiconneutral5lock"
 	{
 		"ControlName"	"ImagePanel"
@@ -569,7 +569,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral_locked"
 	}
-	
+
 	"cpcapblu"
 	{
 		"ControlName"	"ImagePanel"
@@ -579,7 +579,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
 	}
-	
+
 	"cpcapbluup"
 	{
 		"ControlName"	"ImagePanel"
@@ -589,7 +589,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_blu_up"
 	}
-	
+
 	"cpcapred"
 	{
 		"ControlName"	"ImagePanel"
@@ -599,7 +599,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_red"
 	}
-	
+
 	"cpcapredup"
 	{
 		"ControlName"	"ImagePanel"

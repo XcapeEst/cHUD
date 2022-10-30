@@ -1,7 +1,7 @@
 "Resource/UI/build_menu/base_cant_afford.res"
 {
 	"NumberLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"product8"
@@ -18,14 +18,14 @@
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"	
-		
+		"brighttext"	"0"
+
 		"fgcolor_override"	"245 245 245 30"
 		"bgcolor_override"	"0 0 0 165"
 	}
-	
+
 	"CantBuildReason"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CantBuildReason"
 		"font"				"product8"
@@ -42,18 +42,18 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		
+
 		"fgcolor_override"	"245 245 245 30"
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
-		
+
 		"pin_to_sibling" 		"NumberLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"ItemNameLabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemNameLabel"
 		"font"				"product8"
@@ -71,14 +71,14 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		
+
 		"fgcolor_override"	"245 245 245 30"
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
 	}
-	
+
 	"CostLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"product8"
@@ -93,16 +93,16 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"center"	
-		
+		"textAlignment"	"center"
+
 		"fgcolor_override"	"245 245 245 30"
 		"bgcolor_override"	"0 0 0 165"
-		
+
 		"pin_to_sibling" 		"CantBuildReason"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
@@ -114,12 +114,12 @@
 		"tall"			"105"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_item_bg"
 		"iconColor"		"ProgressOffWhite"
 	}
-	
-	"BuildingIcon"	
+
+	"BuildingIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildingIcon"
@@ -130,12 +130,12 @@
 		"tall"			"56"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_sentry_build"
 		"iconColor"		"255 255 255 255"
 	}
-	
-	"MetalIcon"	
+
+	"MetalIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
@@ -146,13 +146,13 @@
 		"tall"			"10"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_metal"
 		"iconColor"		"TanDarker"
 	}
-	
+
 	"ModeLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
@@ -167,10 +167,10 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		""
-		"textAlignment"	"East"	
+		"textAlignment"	"East"
 	}
-	
-	"NumberBg"	
+
+	"NumberBg"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
@@ -181,7 +181,7 @@
 		"tall"			"18"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}

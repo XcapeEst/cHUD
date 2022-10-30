@@ -13,7 +13,7 @@
 		"tall"			"300"
 		"visible"		"1"
 		"enabled"		"1"
-	
+
 		"MannCoImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -26,7 +26,7 @@
 			"xpos"			"15"
 			"ypos"			"0"
 			"zpos"			"0"
-			
+
 //			if_halloween
 //			{
 //				"visible"		"0"

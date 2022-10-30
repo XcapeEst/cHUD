@@ -18,7 +18,7 @@
 		"paintbackground"		"1"
 		"paintborder"			"0"
 		"paintbackgroundtype"	"2"
-		
+
 		// Cover up top rounded corners
 		"BodyBgSquare"
 		{
@@ -35,8 +35,8 @@
 			"bgcolor_override"		"34 30 31 255"
 			"paintbackground"		"1"
 			"paintbackgroundtype"	"0"
-		}	
-		
+		}
+
 		// Bottom rounded corners
 		"BodyBg"
 		{
@@ -53,8 +53,8 @@
 			"bgcolor_override"		"34 30 31 255"
 			"paintbackground"		"1"
 			"paintbackgroundtype"	"2"
-		}	
-		
+		}
+
 		"HeaderText"
 		{
 			"ControlName"	"CExLabel"
@@ -72,7 +72,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 		}
-		
+
 		"FreeTrialPoint1Dot"
 		{
 			"ControlName"	"CExLabel"
@@ -87,7 +87,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
-		}				
+		}
 		"FreeTrialPoint1"
 		{
 			"ControlName"	"CExLabel"
@@ -121,7 +121,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
-		}				
+		}
 		"FreeTrialPoint2"
 		{
 			"ControlName"	"CExLabel"
@@ -155,7 +155,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
-		}				
+		}
 		"FreeTrialPoint3"
 		{
 			"ControlName"	"CExLabel"
@@ -189,7 +189,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
-		}				
+		}
 		"FreeTrialPoint4"
 		{
 			"ControlName"	"CExLabel"
@@ -209,7 +209,7 @@
 			"wrap"			"1"
 			"fgcolor"		"180 168 145 255"
 		}
-	
+
 		"PlusLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -228,7 +228,7 @@
 			"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
 		}
-		
+
 		"Plus2Label"
 		{
 			"ControlName"	"CExLabel"
@@ -249,7 +249,7 @@
 			"fgcolor"		"180 168 145 255"
 		}
 	}
-		
+
 	"FeaturedItemSymbol"
 	{
 		"ControlName"	"ImagePanel"
@@ -264,7 +264,7 @@
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
 	}
-	
+
 	"PromotionImage_Hat"
 	{
 		"ControlName"	"ImagePanel"

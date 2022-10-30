@@ -39,7 +39,7 @@
 
 		"image"					"replay\thumbnails\bg_blank"
 	}
-	
+
 	"InnerGradient" // Hidden
 	{
 		"ControlName"			"ImagePanel"
@@ -121,11 +121,11 @@
 
 		"armedFgColor_override"		"blank"
 		"FgColor_override"			"blank"
-		
+
 		"image_drawcolor"			"245 245 245 60"
 		"image_armedcolor"			"245 245 245 200"
 		"image_disabledcolor"		"236 236 236 0"
-		
+
 		"SubImage"
 		{
 			"ControlName"			"ImagePanel"
@@ -142,7 +142,7 @@
 			"image"					"replay/thumbnails/softicons/x"
 		}
 	}
-	
+
 	// Back button which appears when gamemode panel is open
 
 	"ReturnButton" // Hidden
@@ -176,7 +176,7 @@
 		"armedFgColor_override"		"Orange"
 	}
 
-	
+
 	"BGPanel" // Hidden
 	{
 		"ControlName"			"EditablePanel"

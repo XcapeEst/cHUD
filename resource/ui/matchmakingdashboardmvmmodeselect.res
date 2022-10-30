@@ -13,7 +13,7 @@
 		"visible"				"1"
 		"proportionaltoparent"	"1"
 	}
-	
+
 	"GrayBg"
 	{
 		"ControlName"			"editablepanel"
@@ -68,7 +68,7 @@
 			"border"		"noborder"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			
+
 			"bgcolor"		"collyhuddarkgray"
 		}
 
@@ -88,7 +88,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 		}
-		
+
 		"ImageBox"
 		{
 			"ControlName"	"EditablePanel"
@@ -99,7 +99,7 @@
 			"wide"			"120"
 			"tall"			"50"
 			"visible"		"1"
-			
+
 			"MannUpImage2"
 				{
 				"ControlName"	"ImagePanel"
@@ -174,7 +174,7 @@
 			//"defaultFgColor_override"		"TanLight"
 			//"armedFgColor_override"		"TanLight"
 			//"depressedFgColor_override"	"TanLight"
-			
+
 			"paintbackground"	"1"
 		}
 
@@ -242,7 +242,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 		}
-		
+
 		"ImageBox"
 		{
 			"ControlName"	"EditablePanel"
@@ -253,7 +253,7 @@
 			"wide"			"120"
 			"tall"			"50"
 			"visible"		"1"
-			
+
 			"BootcampImage2"
 				{
 				"ControlName"	"ImagePanel"
@@ -328,7 +328,7 @@
 			//"defaultFgColor_override"		"TanLight"
 			//"armedFgColor_override"		"TanLight"
 			//"depressedFgColor_override"	"TanLight"
-			
+
 			"paintbackground"	"1"
 		}
 

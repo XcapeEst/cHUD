@@ -30,7 +30,7 @@
 		"proportionaltoparent"		"1"
 		"pinCorner"					"2"
 		"autoResize"				"1"
-		
+
 		"Gradient"
 		{
 			"ControlName"				"ImagePanel"
@@ -315,7 +315,7 @@
 			"pin_to_sibling_corner"			"2"
 			"party_slot"					"5"
 		}
-		
+
 		"QueueContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -437,13 +437,13 @@
 				"Command"		"leave_queue"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
-			
+
 				"paintbackground"	"0"
-			
+
 				"defaultFgColor_override" "46 43 42 255"
 				"armedFgColor_override" "235 226 202 255"
 				"depressedFgColor_override" "46 43 42 255"
-			
+
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"200 80 60 255"
 				"SubImage"
@@ -459,8 +459,8 @@
 					"enabled"		"1"
 					"image"			"close_button"
 					"scaleImage"	"1"
-				}				
-			}		
+				}
+			}
 		}
 
 		"JoinPartyLobbyContainer"

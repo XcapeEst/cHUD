@@ -19,15 +19,15 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-32"	[$WIN32]
-		"ypos"			"r157"	[$WIN32]
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
 		"zpos"			"-1"
 		"wide"			"128"
 		"tall"			"64"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
-	
+
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -40,9 +40,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/hp/REFRACTblur"
-		"scaleImage"	"1"				
+		"scaleImage"	"1"
 	}
-	
+
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -66,7 +66,7 @@
 	}
 
 	"ItemEffectMeter"
-	{	
+	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
@@ -74,15 +74,15 @@
 		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"64"
-		"tall"					"2"				
+		"tall"					"2"
 		"autoResize"			"0"
 		"pinCorner"				"1"
 		"visible"				"1"
 		"enabled"				"1"
-		"textAlignment"			"Left"
+		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"0 0 0 100"
 		"fgcolor_override"		"0 0 0 10"
-	}					
+	}
 }

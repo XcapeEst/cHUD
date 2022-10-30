@@ -1,5 +1,5 @@
 "Resource/UI/MvMScoreboard.res"
-{		
+{
 	"WaveStatusPanel"
 	{
 		"ControlName"		"CWaveStatusPanel"
@@ -11,10 +11,10 @@
 		"tall"				"67"
 		"visible"			"1"
 		"enabled"			"1"
-		
+
 		"verbose"			"1"
 	}
-	
+
 	"PopFileLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -39,7 +39,7 @@
 		"wide"			"248"
 		"tall"			"20"
 		"visible"		"0"
-		
+
 		"DifficultyLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -54,7 +54,7 @@
 			"fgcolor"		"tanlight"
 			"visible"		"0"
 		}
-		
+
 		"DifficultyValue"
 		{
 			"ControlName"	"CExLabel"
@@ -69,7 +69,7 @@
 			"fgcolor"		"tanlight"
 		}
 	}
-	
+
 	"PlayerListBackground"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -82,16 +82,16 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/tournament_panel_brown"
-		
+
 		"scaleImage"		"1"
-		
+
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
-	
+
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_height" 	"5"
 	}
-	
+
 	"MvMPlayerList"
 	{
 		"ControlName"	"SectionedListPanel"
@@ -108,7 +108,7 @@
 		"linespacing"	"22"
 		"textcolor"		"White"
 	}
-	
+
 	"CreditStatsContainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -118,7 +118,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		
+
 		"CreditStatsBackground"
 		{
 			"ControlName"		"ScalableImagePanel"
@@ -136,11 +136,11 @@
 
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"
-		
+
 			"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_height" 	"5"
 		}
-		
+
 		"CreditsLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -155,7 +155,7 @@
 			"fgcolor"		"tanlight"
 			"visible"		"0"
 		}
-		
+
 		"PreviousWaveCreditInfoPanel"
 		{
 			"ControlName"	"CCreditDisplayPanel"
@@ -166,7 +166,7 @@
 			"tall"			"60"
 			"visible"		"1"
 		}
-		
+
 		"TotalGameCreditInfoPanel"
 		{
 			"ControlName"	"CCreditDisplayPanel"
@@ -177,7 +177,7 @@
 			"tall"			"60"
 			"visible"		"1"
 		}
-		
+
 		"PreviousWaveCreditSpendPanel"
 		{
 			"ControlName"	"CCreditSpendPanel"
@@ -187,12 +187,12 @@
 			"wide"			"127"
 			"tall"			"60"
 			"visible"		"1"
-			
+
 			"pin_to_sibling" 		"PreviousWaveCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
-		
+
 		"TotalGameCreditSpendPanel"
 		{
 			"ControlName"	"CCreditSpendPanel"
@@ -202,12 +202,12 @@
 			"wide"			"127"
 			"tall"			"60"
 			"visible"		"1"
-			
+
 			"pin_to_sibling" 		"TotalGameCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
-		
+
 		"HorizontalLineCover1"
 		{
 			"ControlName"	"ImagePanel"
@@ -224,12 +224,12 @@
 			"enabled"		"1"
 			"fillcolor"		"250 250 250 0"
 			"border"		"LightWhiteLeft"
-			
+
 			"pin_to_sibling" 		"PreviousWaveCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
 		}
-		
+
 		"HorizontalLineCover2"
 		{
 			"ControlName"	"ImagePanel"
@@ -246,7 +246,7 @@
 			"enabled"		"1"
 			"fillcolor"		"250 250 250 0"
 			"border"		"LightWhiteLeft"
-			
+
 			"pin_to_sibling" 		"TotalGameCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to

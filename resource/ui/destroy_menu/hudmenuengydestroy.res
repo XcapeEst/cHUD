@@ -1,6 +1,6 @@
 "Resource/UI/build_menu/HudMenuEngyDestroy.res"
 {
-	"MainBackground"	
+	"MainBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
@@ -11,7 +11,7 @@
 		"tall"			"170"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
 	}
@@ -27,8 +27,8 @@
 		"tall"			"0"
 		"fillcolor"		"255 222 208 255"
 	}
-	
-	"DestroyIcon"	
+
+	"DestroyIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"DestroyIcon"
@@ -39,17 +39,17 @@
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
-		
+
 		"pin_to_sibling" 		"TitleLabel"
 		"pin_corner_to_sibling" "PIN_CENTER_RIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_LEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"TitleLabelDropshadow"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"HudFontGiantBold"
@@ -67,16 +67,16 @@
 		"textAlignment"	"Left"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		
+
 		"bgcolor_override"		"0 0 0 230"
-		
+
 		"pin_to_sibling" 		"TitleLabel"
 		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"TitleLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"product8"
@@ -93,19 +93,19 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		
+
 		"AllCaps"		"1"
 		"textinsetx"	"12"
-		
+
 		"fgcolor_override"		"216 216 216 255"
 		"bgcolor_override"		"0 0 0 230"
-		
+
 		"pin_to_sibling" 		"active_item_1"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
 	"CancelLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
 		"font"			"product8"
@@ -124,14 +124,14 @@
 		"brighttext"	"0"
 		"textinsetx"	"12"
 		"auto_wide_tocontents"	"1"
-		
+
 		"fgcolor_override"	"216 216 216 255"
-		
+
 		"pin_to_sibling" 		"active_item_4"
 		"pin_corner_to_sibling" "PIN_CENTER_TOP" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_BOTTOM" // Corner of Element you are pinning to
 	}
-	
+
 	"active_item_1"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -142,12 +142,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"active_item_2"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -158,12 +158,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"active_item_3"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -174,12 +174,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"active_item_4"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -191,7 +191,7 @@
 		"tall"			"16"
 		"visible"		"1"
 	}
-	
+
 	"inactive_item_1"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -202,12 +202,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"inactive_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"inactive_item_2"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -218,12 +218,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"inactive_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"inactive_item_3"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -234,12 +234,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"inactive_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"inactive_item_4"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -251,7 +251,7 @@
 		"tall"			"16"
 		"visible"		"1"
 	}
-	
+
 	"unavailable_item_1"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -262,12 +262,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"unavailable_item_2"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -278,12 +278,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"unavailable_item_3"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -294,12 +294,12 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
-	
+	}
+
 	"unavailable_item_4"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -310,9 +310,9 @@
 		"wide"			"116"
 		"tall"			"16"
 		"visible"		"1"
-		
+
 		"pin_to_sibling" 		"active_item_4"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
-	}	
+	}
 }

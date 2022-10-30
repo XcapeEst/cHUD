@@ -6,9 +6,9 @@
 	{
 		"labelText"		"#TF_Object_Dispenser"
 	}
-	
+
 	"NumberLabel"
-	{	
+	{
 		"labelText"		"2"
 	}
 }

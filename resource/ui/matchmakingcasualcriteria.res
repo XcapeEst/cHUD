@@ -184,7 +184,7 @@
 			"labeltext"		"#TF_Casual_MapSelection"
 			"textAlignment"	"north-west"
 			"font"			"HudFontMediumSmallBold"
-		
+
 			"mouseinputenabled"	"0"
 		}
 
@@ -202,10 +202,10 @@
 			"textAlignment"			"west"
 			"font"					"product8"
 			"fgcolor_override"		"tanlight60"
-		
+
 			"mouseinputenabled"		"1"
 		}
-		
+
 		"QueueEstimation"
 		{
 			"ControlName"			"Label"
@@ -222,7 +222,7 @@
 			"fgcolor_override"		"TanLight"
 			"textinsetx"			"5"
 			"visible"				"0"
-		
+
 			"mouseinputenabled"		"0"
 		}
 
@@ -256,14 +256,14 @@
 					{
 					"fgcolor_override"	"255 255 255 16"
 				}
-		
+
 				"UpButton"
 					{
 					"ControlName"	"Button"
 					"FieldName"		"UpButton"
 					"visible"		"0"
 				}
-		
+
 				"DownButton"
 					{
 					"ControlName"	"Button"

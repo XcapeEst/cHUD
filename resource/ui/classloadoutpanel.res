@@ -79,7 +79,7 @@
 				"font"						"ItemFontAttribSmall"
 				"visible"					"0"
 			}
-			"BackpackSlotImage"	
+			"BackpackSlotImage"
 				{
 				"ControlName"				"ImagePanel"
 				"fieldName"					"BackpackSlotImage"
@@ -266,7 +266,7 @@
 			}
 		}
 	}
-	
+
 	"mouseoveritempanel"
 	{
 		"ControlName"						"EditablePanel"
@@ -281,7 +281,7 @@
 		"noitem_textcolor"					"110 110 110 255"
 		"PaintBackgroundType"				"0"
 		"paintborder"						"1"
-		
+
 		"text_xpos"							"0"
 		"text_xpos_collection" 				"0"
 		"text_ypos"							"0"
@@ -289,7 +289,7 @@
 		"model_hide"						"1"
 		"resize_to_text"					"1"
 		"padding_height"					"16"
-		
+
 		"attriblabel"
 		{
 			"font"							"ItemFontAttribLarge"
@@ -309,7 +309,7 @@
 			"centerwrap"					"1"
 		}
 	}
-	
+
 	"PassiveAttribsLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -329,7 +329,7 @@
 		"textAlignment"						"north-west"
 		"fgcolor"							"245 245 245 110"
 	}
-	
+
 	"ClassLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -347,7 +347,7 @@
 		"labelText"							"#ClassBeingEquipped"
 		"textAlignment"						"west"
 	}
-	
+
 	"ItemOptionsPanel"
 	{
 		"ControlName"						"CLoadoutParticleSlider"
@@ -362,7 +362,7 @@
 		"bgcolor_override"					"0 0 0 165"
 		"PaintBackgroundType"				"0"
 	}
-	
+
 	"loadout_preset_panel"		// Loadout preset buttons
 	{
 		"ControlName"						"CLoadoutPresetPanel"
@@ -377,7 +377,7 @@
 		"tabPosition"						"0"
 		"paintbackground"					"0"
 	}
-	
+
 	"CharacterLoadoutButton"	// Switch to loadout window
 	{
 		"ControlName"						"CExImageButton"

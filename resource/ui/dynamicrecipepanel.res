@@ -21,19 +21,19 @@
 		"outoffocus_bgcolor_override" 	"27 27 28 0"
 
 		"item_ypos"						"26"
-		"output_item_ypos"				"202"		
+		"output_item_ypos"				"202"
 		"item_crafting_offcenter_x"		"268"
 		"item_backpack_xdelta"			"2"
 		"item_backpack_ydelta"			"2"
-		
+
 		"inventory_xpos"				"7"
 		"inventory_ypos"				"26"
 
-		"button_xpos_offcenter"			"175"		
+		"button_xpos_offcenter"			"175"
 		"button_ypos"					"85"
 		"button_ydelta"					"80"
 		"button_override_delete_xpos"	"0"
-		
+
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -45,31 +45,31 @@
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
-			
+
 			"model_ypos"	"5"
 			"model_tall"	"35"
 			"text_center"	"1"
 			"name_only"		"1"
 			"text_forcesize" "3"
 			"noitem_use_fullpanel" "1"
-			
+
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
-			
+
 			"itemmodelpanel"
 				{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
 		}
-		
-	
-		
+
+
+
 		"filter_xoffset"	"-290"
 		"filter_ypos"		"30"
 		"filter_xdelta"		"10"
 		"filter_ydelta"		"10"
-		
+
 		"recipefilterbuttons_kv"
 		{
 			"zpos"				"2"
@@ -88,9 +88,9 @@
 			"scaleImage"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}	
+		}
 	}
-	
+
 	"Fader"
 	{
 		"ControlName"						"ImagePanel"
@@ -105,7 +105,7 @@
 		"fillcolor"							"0 0 0 0"
 		"scaleImage"						"1"
 	}
-	
+
 	"FakeBG"
 	{
 		"ControlName"						"ImagePanel"
@@ -120,7 +120,7 @@
 		"fillcolor"							"CollyHudDarkGray"
 		"scaleImage"						"1"
 	}
-	
+
 	"FakeBG2"
 	{
 		"ControlName"						"ImagePanel"
@@ -171,7 +171,7 @@
 			"AllCaps"		"1"
 			"bgcolor_override" 					"0 0 0 80"
 		}
-	
+
 		"InputLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -251,7 +251,7 @@
 			"enabled"							"1"
 			"fillcolor"							"0 0 0 165"
 			"scaleImage"						"1"
-			
+
 			"pin_to_sibling" 					"OutputLabel2"
 			"pin_corner_to_sibling" 			"0"
 			"pin_to_sibling_corner" 			"0"
@@ -274,7 +274,7 @@
 			"enabled"		"1"
 			"fgcolor"		"117 107 94 255"
 		}
-		
+
 		"CraftButton"
 		{
 			"ControlName"	"CExButton"
@@ -300,10 +300,10 @@
 			"AllCaps"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"armedBgColor_override"		"softgreen160"
-		}		
-		
+		}
+
 		"PrevInputPageButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -328,13 +328,13 @@
 			"Command"		"previnputpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"	"0"
-			
+
 			"image_drawcolor"		"245 245 245 60"
 			"image_armedcolor"		"245 245 245 180"
 			"image_disabledcolor"	"236 236 236 0"
-			
+
 			"SubImage"
 				{
 				"ControlName"	"ImagePanel"
@@ -349,7 +349,7 @@
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/softicons/back"
 			}
-			
+
 			"pin_to_sibling" "CurInputPageLabel"
 			"pin_corner_to_sibling" "3"
 			"pin_to_sibling_corner" "2"
@@ -371,7 +371,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "245 245 245 60"
-			
+
 			"pin_to_sibling" "NextInputPageButton"
 			"pin_corner_to_sibling" "3"
 			"pin_to_sibling_corner" "2"
@@ -401,9 +401,9 @@
 			"Command"		"nextinputpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"	"0"
-			
+
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"245 245 245 180"
 			"image_disabledcolor"	"236 236 236 0"
@@ -422,7 +422,7 @@
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/softicons/forward"
 			}
-		}			
+		}
 	}
 
 	"inventorycontainer"
@@ -503,7 +503,7 @@
 			"fgcolor"		"200 187 161 255"
 			"wrap"			"1"
 		}
-			
+
 		"CancelButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -528,13 +528,13 @@
 			"proportionaltoparent"	"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"image_drawcolor"					"245 245 245 60"
 			"image_armedcolor"					"245 245 245 200"
-			
+
 			"defaultBgColor_override"			"0 0 0 0"
 			"armedBgColor_override"				"softred160"
-			
+
 			"SubImage"
 				{
 				"ControlName"					"ImagePanel"
@@ -550,8 +550,8 @@
 				"scaleImage"					"1"
 				"image" 						"replay/thumbnails/softicons/x"
 			}
-		}	
-		
+		}
+
 		"PrevPageButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -576,13 +576,13 @@
 			"Command"		"prevpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"	"0"
-			
+
 			"image_drawcolor"		"245 245 245 60"
 			"image_armedcolor"		"245 245 245 180"
 			"image_disabledcolor"	"236 236 236 0"
-			
+
 			"SubImage"
 				{
 				"ControlName"	"ImagePanel"
@@ -597,7 +597,7 @@
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/softicons/back"
 			}
-			
+
 			"pin_to_sibling" "CurPageLabel"
 			"pin_corner_to_sibling" "3"
 			"pin_to_sibling_corner" "2"
@@ -619,7 +619,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor_override" "245 245 245 60"
-			
+
 			"pin_to_sibling" "NextPageButton"
 			"pin_corner_to_sibling" "3"
 			"pin_to_sibling_corner" "2"
@@ -649,9 +649,9 @@
 			"Command"		"nextpage"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"paintbackground"	"0"
-			
+
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"245 245 245 180"
 			"image_disabledcolor"	"236 236 236 0"
@@ -670,7 +670,7 @@
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/softicons/forward"
 			}
-		}			
+		}
 	}
 
 	"mouseoveritempanel"
@@ -687,13 +687,13 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -717,7 +717,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"mousedragitempanel"
-		
+
 		"xpos"			"c-70"
 		"ypos"			"270"
 		"zpos"			"100"
@@ -728,18 +728,18 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"model_ypos"	"5"
 		"model_tall"	"35"
 		"text_ypos"		"60"
 		"text_center"	"1"
 		"name_only"		"1"
-		
+
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
 		}
 	}
-	
+
 }

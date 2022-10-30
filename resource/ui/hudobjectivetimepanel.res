@@ -27,7 +27,7 @@
 		"enabled"		"1"
 		"fillcolor"		"255 255 255 0"
 	}
-	
+
 	"WaitingForPlayersLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -236,6 +236,6 @@
 		"border"		"LightWhiteLine"
 		"paintborder"		"1"
 
-		
+
 	}
 }

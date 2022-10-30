@@ -14,7 +14,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 	}
-	
+
 	"Background"
 	{
 		"ControlName"	"CIconPanel"
@@ -26,7 +26,7 @@
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"obj_status_background_tall_disabled"
 		"iconColor"		"tanlight"
 	}
@@ -41,10 +41,10 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"fillcolor"		"0 0 0 165"
 	}
-	
+
 	"Icon_Teleport_Exit"
 	{
 		"ControlName"	"CIconPanel"
@@ -55,11 +55,11 @@
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"obj_status_tele_exit"
 		"iconColor"		"tanlight"
 	}
-	
+
 	"NotBuiltPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -89,7 +89,7 @@
 			"brighttext"	"0"
 		}
 	}
-	
+
 	"BuiltPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -99,7 +99,7 @@
 		"wide"			"160"
 		"tall"			"60"
 		"visible"		"0"
-		
+
 		"Icon_Upgrade_1"
 		{
 			"ControlName"	"CIconPanel"
@@ -111,7 +111,7 @@
 			"tall"			"18"
 			"visible"		"0"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_1"
 			"iconColor"		"tanlight"
 		}
@@ -127,7 +127,7 @@
 			"tall"			"18"
 			"visible"		"0"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_2"
 			"iconColor"		"tanlight"
 		}
@@ -143,11 +143,11 @@
 			"tall"			"18"
 			"visible"		"0"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_3"
 			"iconColor"		"tanlight"
 		}
-		
+
 		"AlertTray"
 		{
 			"ControlName"	"CBuildingStatusAlertTray"
@@ -159,10 +159,10 @@
 			"wide"			"0"
 			"tall"			"40"
 			"visible"		"1"
-			"enabled"		"1"	
+			"enabled"		"1"
 			"icon"			"obj_status_alert_background_tall"
 		}
-		
+
 		"WrenchIcon"
 		{
 			"ControlName"	"CIconPanel"
@@ -174,13 +174,13 @@
 			"tall"			"40"
 			"visible"		"0"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"icon"			""
 			"iconColor"		"tanlight"
 			"bgcolor_override"		"softred160"
 			"paintbackground"		"1"
 		}
-		
+
 		"SapperIcon"
 		{
 			"ControlName"	"CIconPanel"
@@ -192,15 +192,15 @@
 			"tall"			"40"
 			"visible"		"0"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"icon"			""
 			"iconColor"		"tanlight"
 			"bgcolor_override"		"softred160"
 			"paintbackground"		"1"
 		}
-		
+
 		"Health"
-		{	
+		{
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
 			"font"			"Default"
@@ -214,9 +214,9 @@
 			"enabled"		"1"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
-			"brighttext"	"0"	
+			"brighttext"	"0"
 		}
-		
+
 		"BuildingPanel"
 		{
 			"ControlName"	"EditablePanel"
@@ -245,16 +245,16 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 			}
-			
+
 			"BuildingProgress"
-			{	
+			{
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
 				"font"			"Default"
 				"xpos"			"0"
 				"ypos"			"11"
 				"wide"			"42"
-				"tall"			"8"				
+				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -264,7 +264,7 @@
 				"brighttext"	"0"
 			}
 		}
-	
+
 		"RunningPanel"
 		{
 			"ControlName"	"EditablePanel"
@@ -274,22 +274,22 @@
 			"wide"			"52"
 			"tall"			"40"
 			"visible"		"0"
-		
+
 			"UpgradeIcon"
 				{
 				"ControlName"	"CIconPanel"
 				"fieldName"		"UpgradeIcon"
 				"wide"			"0"
 			}
-			
+
 			"Upgrade"
-			{	
+			{
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"Upgrade"
 				"ypos"			"17"
 				"xpos"			"0"
 				"wide"			"42"
-				"tall"			"7"		
+				"tall"			"7"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"

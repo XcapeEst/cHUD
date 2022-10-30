@@ -127,7 +127,7 @@
 		"fillcolor"							"0 0 0 165"
 		"scaleImage"						"1"
 	}
-	
+
 	"LoadoutContainer2"
 	{
 		"ControlName"						"ImagePanel"
@@ -142,7 +142,7 @@
 		"fillcolor"							"CollyHudDarkGray"
 		"scaleImage"						"1"
 	}
-	
+
 	"InventoryContainer"
 	{
 		"ControlName"						"ImagePanel"
@@ -156,12 +156,12 @@
 		"enabled"							"1"
 		"fillcolor"							"0 0 0 165"
 		"scaleImage"						"1"
-		
+
 		"pin_to_sibling" 					"LoadoutContainer"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
 	}
-	
+
 	"InventoryContainer2"
 	{
 		"ControlName"						"ImagePanel"
@@ -175,12 +175,12 @@
 		"enabled"							"1"
 		"fillcolor"							"CollyHudDarkGray"
 		"scaleImage"						"1"
-		
+
 		"pin_to_sibling" 					"LoadoutContainer"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
 	}
-	
+
 	"CloseContainer"
 	{
 		"ControlName"						"ImagePanel"
@@ -195,7 +195,7 @@
 		"fillcolor"							"0 0 0 165"
 		"scaleImage"						"1"
 	}
-	
+
 	"LoadoutLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -216,7 +216,7 @@
 		"enabled"							"1"
 		"bgcolor_override" 					"0 0 0 80"
 	}
-	
+
 	"INVENTORYLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -236,12 +236,12 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"bgcolor_override" 					"0 0 0 80"
-		
+
 		"pin_to_sibling" 					"LoadoutContainer"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
 	}
-	
+
 	//Custom Buttons
 	"customscout"
 	{
@@ -273,7 +273,7 @@
 		"pin_to_sibling" 					"LoadoutLabel"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -303,11 +303,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"customscout"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -337,11 +337,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"customsoldier"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -371,11 +371,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"custompyro"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -405,11 +405,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"customdemo"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -439,11 +439,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"customheavy"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -473,11 +473,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"customengi"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -507,11 +507,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"custommedic"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -541,11 +541,11 @@
 		"paintborder"						"1"
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
-		
+
 		"pin_to_sibling" 					"customSniper"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -579,7 +579,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"soldier"
 	{
 		"ControlName"						"ImageButton"
@@ -605,7 +605,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"pyro"
 	{
 		"ControlName"						"ImageButton"
@@ -657,7 +657,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"heavyweapons"
 	{
 		"ControlName"						"ImageButton"
@@ -683,7 +683,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"engineer"
 	{
 		"ControlName"						"ImageButton"
@@ -735,7 +735,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"sniper"
 	{
 		"ControlName"						"ImageButton"
@@ -761,7 +761,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"spy"
 	{
 		"ControlName"						"ImageButton"
@@ -818,7 +818,7 @@
 		"pin_to_sibling"					"INVENTORYLabel"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
@@ -840,7 +840,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 	}
-	
+
 	"ShowCraftingButton"
 	{
 		"ControlName"						"ImageButton"
@@ -867,15 +867,15 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 		"armedbgcolor_override"				"255 255 255 16"
-		
+
 		"pin_to_sibling" 					"ShowBackpackButton"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"ShowCraftingLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -893,7 +893,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 	}
-	
+
 	"ShowArmoryButton"
 	{
 		"ControlName"						"ImageButton"
@@ -920,15 +920,15 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 		"armedbgcolor_override"				"255 255 255 16"
-		
+
 		"pin_to_sibling" 					"ShowCraftingButton"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"ShowArmoryLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -976,11 +976,11 @@
 		"pin_to_sibling" 					"ShowArmoryButton"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"ShowTradeLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -999,7 +999,7 @@
 		"enabled"							"1"
 		"wrap"								"0"
 	}
-	
+
 	"ShowPaintkitsButton"
 	{
 		"ControlName"						"ImageButton"
@@ -1030,11 +1030,11 @@
 		"pin_to_sibling" 					"ShowTradeButton"
 		"pin_corner_to_sibling" 			"0"
 		"pin_to_sibling_corner" 			"2"
-		
+
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 	}
-	
+
 	"ShowPaintkitsLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -1071,7 +1071,7 @@
 		"visible"							"0"
 		"enabled"							"1"
 	}
-	
+
 	"ItemsLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -1110,7 +1110,7 @@
 		"enabled"							"1"
 		"fgcolor_override" 					"softselect"
 	}
-	
+
 	"NoGCLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -1129,7 +1129,7 @@
 		"enabled"							"1"
 		"fgcolor_override" 					"softselect"
 	}
-	
+
 	"SelectLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -1150,7 +1150,7 @@
 		"fgcolor_override" 					"245 245 245 60"
 		"bgcolor_override"					"blank"
 	}
-	
+
 	"SelectLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -1171,7 +1171,7 @@
 		"fgcolor_override" 					"245 245 245 60"
 		"bgcolor_override" 					"blank"
 	}
-	
+
 	"LoadoutChangesLabel"
 	{
 		"ControlName"						"CExLabel"
@@ -1202,7 +1202,7 @@
 		"zpos"								"500"
 		"visible"							"0"
 	}
-	
+
 	"backpack_panel"
 	{
 		"ControlName"						"CBackpackPanel"
@@ -1226,7 +1226,7 @@
 		"zpos"								"500"
 		"visible"							"1"
 	}
-	
+
 	"InspectionPanel"
 	{
 		"fieldName"							"InspectionPanel"
@@ -1397,7 +1397,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -1508,7 +1508,7 @@
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -1524,7 +1524,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -1557,7 +1557,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -1573,7 +1573,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"					"CExLabel"
@@ -1592,7 +1592,7 @@
 			"enabled"						"1"
 			"fgcolor_override" 				"softselect"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -1625,7 +1625,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -1736,7 +1736,7 @@
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -1752,7 +1752,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -1960,7 +1960,7 @@
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -1976,7 +1976,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -2009,7 +2009,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2025,7 +2025,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"					"CExLabel"
@@ -2044,7 +2044,7 @@
 			"enabled"						"1"
 			"fgcolor_override" 				"softselect"
 		}
-		
+
 		"NextButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -2077,7 +2077,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2188,7 +2188,7 @@
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2204,7 +2204,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -2237,7 +2237,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2253,7 +2253,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"					"CExLabel"
@@ -2304,7 +2304,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2414,7 +2414,7 @@
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2430,7 +2430,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PrevButton"
 		{
 			"ControlName"					"CExImageButton"
@@ -2463,7 +2463,7 @@
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
-			
+
 			"SubImage"
 				{
 				"ControlName"				"ImagePanel"
@@ -2479,7 +2479,7 @@
 				"scaleImage"				"1"
 			}
 		}
-		
+
 		"PositionLabel"
 		{
 			"ControlName"					"CExLabel"

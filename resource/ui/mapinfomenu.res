@@ -64,7 +64,7 @@
 		"font"			"productbold34"
 		"fgcolor"		"tanlight120"
 	}
-	
+
 	"MapInfoType"
 	{
 		"ControlName"	"CExLabel"
@@ -83,8 +83,8 @@
 		"labelText"		"%gamemode%"
 		"font"			"productbold18"
 		"fgcolor"		"tanlight60"
-	}	
-	
+	}
+
 	"MapInfoText"
 	{
 		"ControlName"	"CExRichText"
@@ -105,7 +105,7 @@
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
-	
+
 	"MapImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -118,7 +118,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			""
-		"scaleImage"	"1"		
+		"scaleImage"	"1"
 	}
 
 	"Anchor"
@@ -175,7 +175,7 @@
 		"labelText"		"(&E)"
 		"command"		"continue"
 	}
-	
+
 	"MapInfoWatchIntro" [$WIN32]
 	{
 		"ControlName"	"CExButton"
@@ -200,7 +200,7 @@
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
-	
+
 	"MapInfoBack" 
 	{
 		"ControlName"	"CExButton"
@@ -243,14 +243,14 @@
 		"command"		"back"
 		"font"			"PRODUCT8"
 	}
-	
+
 	"MenuBG"
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"		
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"0"
 		"autoResize"	"0"
@@ -258,7 +258,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fov"			"20"
-		
+
 		"model"
 		{
 			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
@@ -272,7 +272,7 @@
 			"origin_y" "0"
 			"origin_z" "-39"
 		}
-	}					
+	}
 
 	"ShadedBar"
 	{
@@ -289,10 +289,10 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"	
+		"tabPosition"	"0"
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
-	}	
+	}
 
 }

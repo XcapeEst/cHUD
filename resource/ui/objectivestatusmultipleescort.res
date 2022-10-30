@@ -1,5 +1,5 @@
 "Resource/UI/ObjectiveStatusMultipleEscort.res"
-{	
+{
 	"ObjectiveStatusMultipleEscort"
 	{
 		"ControlName"		"EditablePanel"
@@ -11,7 +11,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 	}
-	
+
 	"BlueEscortPanel"
 	{
 		"ControlName"		"CTFHudEscort"
@@ -23,7 +23,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"enabled"			"1"
-		
+
 		"if_blue_is_top"
 		{
 			"ypos"				"r30"
@@ -41,7 +41,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"enabled"			"1"
-		
+
 		"if_red_is_top"
 		{
 			"ypos"				"r16"

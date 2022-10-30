@@ -1,7 +1,7 @@
 "Resource/UI/disguise_menu/heavy_red.res"
 {
 	"ItemNameLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemName"
 		"font"			"product8"
@@ -18,13 +18,13 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		
+
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"	"12"
 	}
-	
+
 	"BorderColor"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BorderColor"
 		"font"			"product8"
@@ -41,11 +41,11 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		
+
 		"bgcolor_override"	"softblue200"
 	}
-	
-	"ClassIcon"	
+
+	"ClassIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ClassIcon"
@@ -56,11 +56,11 @@
 		"tall"			"90"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_heavy_blu"
 	}
-		
-	"NumberBg"	
+
+	"NumberBg"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
@@ -71,13 +71,13 @@
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
+
 	"NewNumberLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"product8"
@@ -96,12 +96,12 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		
+
 		"bgcolor_override"	"softblue200"
 	}
-	
+
 	"NumberLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"product8"
@@ -120,7 +120,7 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		
+
 		"bgcolor_override"	"softblue200"
 	}
 }

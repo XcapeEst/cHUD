@@ -26,7 +26,7 @@
 		"textAlignment"	"west"
 		"font"			"HudFontSmallest"
 		"textinsetx"	"10"
-		
+
 		"mouseinputenabled"	"0"
 	}
 

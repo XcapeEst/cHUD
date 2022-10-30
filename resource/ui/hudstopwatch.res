@@ -35,7 +35,7 @@
 		"tall"				"20"
 		"visible"			"0"
 		"enabled"			"1"
-		
+
 
 		"TimePanelValue"
 		{
@@ -53,9 +53,9 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"
-			
+
 		}
-			
+
 	}
 
 	"StopWatchScoreToBeat"
@@ -131,7 +131,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-	
+
 
 	}
 

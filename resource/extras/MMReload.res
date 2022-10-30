@@ -28,9 +28,9 @@
 
 		"border_default"			"QuickplayBorder"
 		"border_armed"				"ComboBoxBorder"
-		
+
 		"paintborder"				"0"
-		
+
 		"armedbgcolor_override"		"softorange"
 
 		"sound_depressed"			"UI/buttonclick.wav"

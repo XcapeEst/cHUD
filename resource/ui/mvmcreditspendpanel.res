@@ -1,5 +1,5 @@
 "Resource/UI/MvMCreditSpendPanel.res"
-{	
+{
 	"HeaderLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -12,11 +12,11 @@
 		"wide"			"300"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
-		
+
+
 		"bgcolor_override"		"0 0 0 80"
 	}
-		
+
 	"TableBackground"
 	{
 		"ControlName"	"EditablePanel"
@@ -29,7 +29,7 @@
 		"visible"		"1"
 		"bgcolor_override"		"0 0 0 165"
 	}
-	
+
 	"UpgradesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -43,7 +43,7 @@
 		"tall"			"20"
 		"fgcolor"		"tanlight"
 	}
-	
+
 	"UpgradesCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -56,12 +56,12 @@
 		"wide"			"30"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"UpgradesLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"BuyBackLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -74,12 +74,12 @@
 		"wide"			"85"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"UpgradesLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"BuyBackCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -92,12 +92,12 @@
 		"wide"			"30"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"BuyBackLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"BottleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -110,12 +110,12 @@
 		"wide"			"85"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"BuyBackLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"BottleCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -128,7 +128,7 @@
 		"wide"			"30"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"BottleLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to

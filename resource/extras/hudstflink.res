@@ -10,9 +10,9 @@
 		"wide"							"64"
 		"tall"							"20"
 		"visible"						"1"
-		
+
 		"bgcolor_override"				"0 0 0 165"
-		
+
 		"HUDSTF"
 		{
 			"ControlName"				"URLLabel"
@@ -29,14 +29,14 @@
 			"visible"					"1"
 
 			"paintBackground"			"0"
-			
+
 			"fgcolor_override"			"0 0 0 0"
-			
+
 			"proportionaltoparent"		"1"
-						
+
 			"urlText"					"https://huds.tf"
 		}
-		
+
 		"HUDSTFLOGO"
 		{
 			"ControlName"				"ImagePanel"

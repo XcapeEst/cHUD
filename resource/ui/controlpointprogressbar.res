@@ -14,7 +14,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 	}
-	
+
 	//////////////////////////////////REMOVED STUFF//////////////////////////////////
 	"ProgressBar"
 	{
@@ -44,7 +44,7 @@
 		"enabled"									"0"
 	}
 	"ProgressText"
-	{	
+	{
 		"ControlName"								"Label"
 		"fieldName"									"ProgressText"
 		"wide"										"0"

@@ -6,25 +6,25 @@
 	{
 		"labelText"		"#TF_Class_Name_Medic"
 	}
-	
+
 	"BorderColor"
-	{	
+	{
 		"bgcolor_override"	"softred200"
 	}
 
-	"ClassIcon"	
+	"ClassIcon"
 	{
 		"icon"			"hud_menu_medic_red"
 	}
-	
+
 	"NewNumberLabel"
 	{
 		"labelText"		"1"
 		"bgcolor_override"	"softred200"
 	}
-	
+
 	"NumberLabel"
-	{		
+	{
 		"labelText"		"7"
 		"bgcolor_override"	"softred200"
 	}

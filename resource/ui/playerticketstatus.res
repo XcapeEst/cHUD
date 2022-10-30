@@ -41,7 +41,7 @@
 		"tall"			"o1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
-		"bgcolor_override"	"235 226 202 2"	
+		"bgcolor_override"	"235 226 202 2"
 	}
 
 	"TourOfDutyTicket"
@@ -61,7 +61,7 @@
 		"proportionaltoparent"	"1"
 	}
 
-	
+
 	"SquadSurplusTicket"
 	{
 		// "ControlName"	"ImagePanel"

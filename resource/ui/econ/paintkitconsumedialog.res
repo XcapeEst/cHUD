@@ -10,7 +10,7 @@
 		"visible"	"1"
 		"zpos"		"1000"
 	}
-	
+
 	"LoadoutContainer"
 	{
 		"ControlName"	"ImagePanel"
@@ -43,9 +43,9 @@
 		"enabled"		"1"
 		"fgcolor_override"		"tanlight120"
 		"proportionaltoparent"	"1"
-		
+
 		"AllCaps"	"1"
-		
+
 		"bgcolor_override" "0 0 0 80"
 	}
 
@@ -74,11 +74,11 @@
 		"proportionaltoparent"	"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"armedBgColor_override"		"softgreen160"
-		
+
 		"AllCaps"			"1"
-		
+
 		"pin_to_sibling" "Title"
 		"pin_corner_to_sibling" "0"
 		"pin_to_sibling_corner" "2"
@@ -108,11 +108,11 @@
 		"proportionaltoparent"	"1"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
-		
+
 		"armedBgColor_override"		"softred160"
-		
+
 		"AllCaps"			"1"
-		
+
 		"pin_to_sibling" "ConfirmButton"
 		"pin_corner_to_sibling" "0"
 		"pin_to_sibling_corner" "2"
@@ -315,5 +315,5 @@
 		"wide"		"f0"
 		"tall"		"f0"
 		"proportionaltoparent"	"1"
-	}			
+	}
 }

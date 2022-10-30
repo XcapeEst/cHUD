@@ -126,7 +126,7 @@
 	"RedPlayerGap11"
 	{
 		"visible"		"0"
-	}	
+	}
 	"BlueTeamPlayerLineCover"
 	{
 		"visible"		"0"

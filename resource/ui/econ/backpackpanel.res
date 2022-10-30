@@ -159,8 +159,8 @@
 		}
 	}
 
-	
-	
+
+
 	"CaratLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -317,13 +317,13 @@
 		"selectionbgColor_override" "255 255 255 16"
 		"selectionTextColor_override" "245 245 245 235"
 		"defaultSelectionBGColor_override" "255 255 255 16"
-		
+
 		"pin_to_sibling" "NameFilterTextEntry"
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
 
-	
+
 	"ShowRarityComboBox"
 	{
 		"ControlName"		"ComboBox"
@@ -357,13 +357,13 @@
 		"selectionbgColor_override" "255 255 255 16"
 		"selectionTextColor_override" "245 245 245 235"
 		"defaultSelectionBGColor_override" "255 255 255 16"
-		
+
 		"pin_to_sibling" "SortByComboBox"
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
-	
-	
+
+
 	"ShowBaseItemsCheckboxBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -378,7 +378,7 @@
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
-	
+
 	"ShowBaseItemsCheckbox"
 	{
 		"ControlName"	"CheckButton"
@@ -399,12 +399,12 @@
 		"enabled"		"1"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		
+
 		"pin_to_sibling" "ShowRarityComboBox"
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
-	
+
 	"CancelApplyToolButton"
 	{
 		"ControlName"	"CExButton"
@@ -428,16 +428,16 @@
 		"Command"		"canceltool"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"AllCaps"		"1"
-		
+
 		"armedBgColor_override"		"softred160"
-		
+
 		"pin_to_sibling" 		"ShowBaseItemsCheckboxBG"
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}
-	
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -452,12 +452,12 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -810,7 +810,7 @@
 			"scaleImage"	"1"
 			"image"			"replay/thumbnails/softicons/back"
 		}
-		
+
 		"pin_to_sibling" "CurPageLabel"
 		"pin_corner_to_sibling" "3"
 		"pin_to_sibling_corner" "2"

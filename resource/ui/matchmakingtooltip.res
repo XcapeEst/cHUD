@@ -13,16 +13,16 @@
 		"PaintBackgroundType"	"2"
 		"border"		"EconItemBorder"
 		"mouseinputenabled"	"0"
-		
+
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
 
 
-			
+
 			"font"	"product8"
-			
+
 
 			"labelText"		"%tiptext%"
 			"textAlignment"	"center"
@@ -40,5 +40,5 @@
 			"auto_tall_tocontents"	"1"
 			"wrap"	"1"
 		}
-	}	
+	}
 }

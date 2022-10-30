@@ -11,7 +11,7 @@
 
 		"collapsed_height"		"36"	// Distance between gamemodes
 		"resize_time"			"0.5"	// Controls time it takes to open category maps
-	
+
 	}
 
 	"TopContainer"
@@ -39,7 +39,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled"	"0"
-		
+
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"0 0 0 0"
 		}
@@ -55,7 +55,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled"	"0"
-		
+
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"collyhuddarkgray"
 		}
@@ -71,7 +71,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"mouseinputenabled"	"0"
-		
+
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"0 0 0 0"
 		}
@@ -87,7 +87,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 		}
 
@@ -138,7 +138,7 @@
 				"scaleImage"	"1"
 
 				"proportionaltoparent"	"1"
-			}	
+			}
 		}
 
 		"Shade"
@@ -172,7 +172,7 @@
 			"visible"	"1"
 			"enabled"	"1"
 
-			"sound_depressed"	"UI/buttonclickrelease.wav"	
+			"sound_depressed"	"UI/buttonclickrelease.wav"
 			"button_activation_type"	"1"
 		}
 
@@ -199,7 +199,7 @@
 			"mouseinputenabled"	"0"
 
 			"fgcolor"		"TanLight"
-		}	
+		}
 
 		"TitleShadow"
 		{

@@ -126,7 +126,7 @@
 		"player"	"short"		// entindex of the player
 		"area"		"short"		// index of the control point area
 	}
-	
+
 	"controlpoint_pulse_element"
 	{
 	}
@@ -142,7 +142,7 @@
 		"player"	"short"		// entindex of the player
 		"int_data"	"short"
 	}
-	
+
 	"teamplay_round_selected"
 	{
 		"round"		"string"	// name of the round selected
@@ -152,7 +152,7 @@
 	{
 		"full_reset"	"bool"		// is this a full reset of the map
 	}
-	
+
 	"teamplay_round_active"			// called when round is active, players can move
 	{
 		// nothing for now
@@ -162,12 +162,12 @@
 	{
 		// nothing for now
 	}
-	
+
 	"teamplay_waiting_ends"
 	{
 		// nothing for now
 	}
-	
+
 	"teamplay_waiting_abouttoend"
 	{
 	}
@@ -211,27 +211,27 @@
 	{
 		"reason"	"byte"		// why the stalemate is occuring
 	}
-	
+
 	"teamplay_overtime_begin"
 	{
 		// nothing for now
-	}	
-	
+	}
+
 	"teamplay_overtime_end"
 	{
 		// nothing for now
-	}		
-	
+	}
+
 	"teamplay_suddendeath_begin"
 	{
 		// nothing for now
 	}
-	
+
 	"teamplay_suddendeath_end"
 	{
 		// nothing for now
-	}	
-	
+	}
+
 	"teamplay_game_over"
 	{
 		"reason"	"string"	// why the game is over ( timelimit, winlimit )
@@ -252,12 +252,12 @@
 	"teamplay_timer_flash"
 	{
 		"time_remaining"	"short"	// how many seconds until the round ends
-	}	
+	}
 
 	"teamplay_timer_time_added"
 	{
-		"timer"	"short"		// entindex of the timer	
-		"seconds_added"	"short"		// how many seconds were added to the round timer	
+		"timer"	"short"		// entindex of the timer
+		"seconds_added"	"short"		// how many seconds were added to the round timer
 	}
 
 	"teamplay_point_startcapture"
@@ -291,7 +291,7 @@
 		"cpname"	"string"		// name of the point
 		"team"		"byte"			// which team currently owns the point
 	}
-	
+
 	"teamplay_capture_broken"
 	{
 		"cp"		"byte"
@@ -314,10 +314,10 @@
 		"home"		"byte"			// whether or not the flag was home (only set for TF_FLAGEVENT_PICKUP) 
 		"team"		"byte"			// which team the flag belongs to
 	}
-	"teamplay_win_panel"		
+	"teamplay_win_panel"
 	{
-		"panel_style"		"byte"		// for client to determine layout		
-		"winning_team"		"byte"		
+		"panel_style"		"byte"		// for client to determine layout
+		"winning_team"		"byte"
 		"winreason"		"byte"		// the reason the team won
 		"cappers"		"string"	// string where each character is a player index of someone that capped
 		"flagcaplimit"		"short"		// if win reason was flag cap limit, the value of the flag cap limit
@@ -351,11 +351,11 @@
 		"alert_type"		"short"		// which alert type is this (scramble, etc)?
 	}
 
-	"training_complete"		
+	"training_complete"
 	{
 		"next_map"	"string"	// next map (if any)
 		"map"		"string"	// the name of the map this screen is on.
-		"text"		"string"	// text to show	
+		"text"		"string"	// text to show
 	}
 
 	"show_freezepanel"
@@ -383,11 +383,11 @@
 	"localplayer_changeclass"
 	{
 	}
-	
+
 	"localplayer_respawn"
 	{
 	}
-		
+
 	"building_info_changed"
 	{
 		"building_type"		"byte"
@@ -399,13 +399,13 @@
 	{
 		"disguised"		"bool"
 	}
-	
+
 	"player_account_changed"
 	{
 		"old_value"		"short"
 		"new_value"		"short"
 	}
-	
+
 	"spy_pda_reset"
 	{
 	}
@@ -423,7 +423,7 @@
 	"playing_commentary"
 	{
 	}
-	
+
 	"player_chargedeployed"
 	{
 		"userid"	"short"		// user ID of medic who deployed charge
@@ -472,9 +472,9 @@
 		"objecttype"	"short"		// type of object removed
 		"index"			"short"		// index of the object removed
 	}
-	
+
 	"object_destroyed"
-	{			
+	{
 		"userid"	"short"			// user ID who died
 		"attacker"	"short"			// user ID who killed
 		"assister"	"short"			// user ID of assister
@@ -497,7 +497,7 @@
 		"player"	"byte"		// entindex of the player
 		"achievement"	"short"		// achievement ID
 	}
-	
+
 	"spec_target_updated"
 	{
 	}
@@ -513,7 +513,7 @@
 	"tournament_enablecountdown"
 	{
 	}
-	
+
 	"player_calledformedic"
 	{
 		"userid"	"short"
@@ -527,7 +527,7 @@
 	"localplayer_becameobserver"
 	{
 	}
-	
+
 	"player_ignited_inv"		// sent when a player is ignited by a pyro who is being invulned, only to the medic who's doing the invulning
 	{
 		"pyro_entindex"		"byte"		// entindex of the pyro who ignited the victim
@@ -540,49 +540,49 @@
 		"victim_entindex"	"byte"		// entindex of the player ignited by the pyro
 		"weaponid"			"byte"		// weaponid of the weapon used
 	}
-	
+
 	"player_extinguished"		// sent when a burning player is extinguished by a medic
 	{
 		"victim"		"byte"		// entindex of the player that was extinguished
 		"healer"		"byte"		// entindex of the player who did the extinguishing
 		"itemdefindex"	"short"		// item defindex that did the extinguishing
 	}
-	
+
 	"player_teleported"
 	{
 		"userid"	"short"		// userid of the player
 		"builderid"	"short"		// userid of the player who built the teleporter
 		"dist"		"float"		// distance the player was teleported
 	}
-	
+
 	// client only
 	"player_healedmediccall"	// local player heals someone who called for medic.
 	{
 		"userid"	"short"		// userid of person who got healed
 	}
-	
+
 	// client only
 	"localplayer_chargeready"		// local player has full medic charge
 	{
 	}
-	
+
 	"localplayer_winddown"		// local player minigun winddown
 	{
 	}
-	
+
 	"player_invulned"
 	{
 		"userid"	"short"
 		"medic_userid"	"short"
 	}
-	
+
 	"escort_speed"
 	{
 		"team"		"byte"			// which team
 		"speed"		"byte"
 		"players"	"byte"
 	}
-	
+
 	"escort_progress"
 	{
 		"team"		"byte"			// which team
@@ -599,11 +599,11 @@
 	"gameui_activated"
 	{
 	}
-	
+
 	"gameui_hidden"
 	{
 	}
-	
+
 	"player_escort_score"
 	{
 		"player"	"byte"
@@ -616,18 +616,18 @@
 		"entindex"		"byte"
 		"weapon_def_index"	"long"		// item def index of the healing weapon
 	}
-	
+
 	"player_stealsandvich"
 	{
 		"owner"			"short"
 		"target"		"short"
 	}
-	
+
 	"show_class_layout"
 	{
 		"show"	"bool"
-	}	
-	
+	}
+
 	"show_vs_panel"
 	{
 		"show"	"bool"
@@ -638,7 +638,7 @@
 		"amount"		"short"
 		"type"			"long"
 	}
-	
+
 	"player_hurt"
 	{
 		"userid" "short"
@@ -670,10 +670,10 @@
 	{
 		// nothing for now
 	}
-	"arena_win_panel"		
+	"arena_win_panel"
 	{
-		"panel_style"		"byte"		// for client to determine layout		
-		"winning_team"		"byte"		
+		"panel_style"		"byte"		// for client to determine layout
+		"winning_team"		"byte"
 		"winreason"		"byte"		// the reason the team won
 		"cappers"		"string"	// string where each character is a player index of someone that capped
 		"flagcaplimit"		"short"		// if win reason was flag cap limit, the value of the flag cap limit
@@ -713,29 +713,29 @@
 		"player_6_lifetime"	"short"
 		"player_6_kills"	"short"
 	}
-	
-	"pve_win_panel"		
+
+	"pve_win_panel"
 	{
-		"panel_style"		"byte"		// for client to determine layout		
-		"winning_team"		"byte"		
+		"panel_style"		"byte"		// for client to determine layout
+		"winning_team"		"byte"
 		"winreason"		"byte"		// the reason the team won
 	}
-	
+
 	"air_dash"
 	{
 		"player"	"byte"
 	}
-	
+
 	"landed"
 	{
 		"player"	"byte"
 	}
-	
+
 	"player_damage_dodged"
 	{
 		"damage"	"short"
 	}
-	
+
 	"player_stunned"
 	{
 		"stunner"	"short"
@@ -743,13 +743,13 @@
 		"victim_capping"	"bool"
 		"big_stun"	"bool"
 	}
-	
+
 	"scout_grand_slam"
 	{
 		"scout_id"	"short"
 		"target_id"	"short"
 	}
-	
+
 	"scout_slamdoll_landed"
 	{
 		"target_index" "short"
@@ -780,7 +780,7 @@
 		"projectileType" "short"
 		"isCrit" 	"bool"
 	}
-	
+
 	"player_jarated"			// sent when a player is jarated, only to the two players involved
 	{
 		"thrower_entindex"	"byte"		// entindex of the player who threw the jarate
@@ -804,14 +804,14 @@
 	{
 		"medic"		"byte"
 	}
-	
+
 	"player_spawn"
 	{
 		"userid"	"short"		// user ID who spawned
 		"team"		"short"		// team they spawned on
 		"class"		"short"		// class they spawned as
-	}	
-	
+	}
+
 	"player_sapped_object"
 	{
 		"userid"	"short"		// user ID of the spy
@@ -819,16 +819,16 @@
 		"object"	"byte"
 		"sapperid"	"short"		// index of the sapper
 	}
-	
+
 	"item_found"
 	{
 		"player"		"byte"		// entindex of the player
 		"quality"		"byte"		// quality of the item
 		"method"		"byte"		// method by which we acquired the item
 		"itemdef"		"long"		// the item definition index
-		"isstrange"		"byte"		
-		"isunusual"		"byte"		
-		"wear"			"float"		
+		"isstrange"		"byte"
+		"isunusual"		"byte"
+		"wear"			"float"
 	}
 
 	"show_annotation"
@@ -853,47 +853,47 @@
 	{
 		"id" "long"
 	}
-	
+
 	"post_inventory_application"	// sent when a player gets a whole new set of items
 	{
 		"userid"	"short"
 	}
-	
+
 	"controlpoint_unlock_updated"
 	{
 		"index"	"short"		// index of the cap being updated
 		"time"	"float"		// time
 	}
-	
+
 	"deploy_buff_banner"
 	{
 		"buff_type"		"byte"		// type of buff (skin index)
 		"buff_owner"	"short"		// user ID of the person who gets the banner
 	}
-	
+
 	"player_buff"
 	{
 		"userid"		"short"   	// user ID of the player the buff is being applied to
 		"buff_owner"	"short"		// user ID of the player with the banner
 		"buff_type"		"byte"		// type of buff
 	}
-	
+
 	"medic_death"
 	{
-		"userid"	"short"   	// user ID who died				
+		"userid"	"short"   	// user ID who died
 		"attacker"	"short"	 	// user ID who killed
 		"healing"	"short"		// amount healed in this life
 		"charged"	"bool"		// had a full ubercharge?
 	}
-	
+
 	"overtime_nag"
 	{
 	}
-	
+
 	"teams_changed"
 	{
 	}
-	
+
 	"halloween_pumpkin_grab"
 	{
 		"userid"	"short"
@@ -904,21 +904,21 @@
 		"userid"	"short"
 		"playsound"	"bool"
 	}
-	
+
 	"rocket_jump_landed"
 	{
 		"userid"	"short"
 	}
-	
+
 	"sticky_jump"
 	{
-		"userid"	"short"	
+		"userid"	"short"
 		"playsound"	"bool"
 	}
-	
+
 	"sticky_jump_landed"
 	{
-		"userid"	"short"	
+		"userid"	"short"
 	}
 
 	"rocketpack_launch"
@@ -926,7 +926,7 @@
 		"userid"	"short"
 		"playsound"	"bool"
 	}
-	
+
 	"rocketpack_landed"
 	{
 		"userid"	"short"
@@ -934,20 +934,20 @@
 
 	"medic_defended"
 	{
-		"userid"	"short"	
-		"medic"		"short"	
+		"userid"	"short"
+		"medic"		"short"
 	}
 
 	"localplayer_healed"
 	{
 		"amount"	"short"
 	}
-	
+
 	"player_destroyed_pipebomb"
 	{
-		"userid"	"short"	
+		"userid"	"short"
 	}
-	
+
 	"object_deflected"
 	{
 		"userid"	"short"		// player who deflected the object
@@ -955,47 +955,47 @@
 		"weaponid"	"short"		// weapon id (0 means the player in ownerid was pushed)
 		"object_entindex" "short"	// entindex of the object that got deflected
 	}
-	
+
 	"player_mvp"
 	{
 		"player"	"short"
 	}
-	
+
 	"raid_spawn_mob"
 	{
 	}
-	
+
 	"raid_spawn_squad"
 	{
 	}
-	
+
 	"nav_blocked"
 	{
 		"area"		"long"
 		"blocked"	"bool"
 	}
-	
+
 	"path_track_passed"
 	{
 		"index"	"short"		// index of the node being passed
 	}
-	
+
 	"num_cappers_changed"
 	{
 		"index"		"short"		// index of the trigger
 		"count"		"byte"		// number of cappers (-1 for blocked)
 	}
-	
+
 	"player_regenerate"
 	{
 	}
-	
+
 	"update_status_item"
 	{
 		"index"		"byte"
 		"object"	"byte"
 	}
-	
+
 	"stats_resetround"
 	{
 	}
@@ -1007,46 +1007,46 @@
 	"scorestats_accumulated_reset"
 	{
 	}
-	
+
 	"achievement_earned_local"
 	{
 		"achievement"	"short"
 	}
-	
+
 	"player_healed"
 	{
 		"patient"	"short"
 		"healer"	"short"
 		"amount"	"short"
 	}
-	
+
 	"building_healed"
 	{
 		"building"	"short"
 		"healer"	"short"
 		"amount"	"short"
 	}
-	
+
 	"item_pickup"
 	{
 		"userid"	"short"
 		"item"		"string"
 	}
-	
+
 	"duel_status"
 	{
 		"killer"			"short"
-		"score_type"		"short"	
+		"score_type"		"short"
 		"initiator"			"short"
 		"target"			"short"
 		"initiator_score"	"short"
 		"target_score"		"short"
 	}
-	
+
 	// clone of "player_death"
 	"fish_notice"
 	{
-		"userid"	"short"   	// user ID who died				
+		"userid"	"short"   	// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
 		"attacker"	"short"	 	// user ID who killed
@@ -1061,11 +1061,11 @@
 		"silent_kill"	"bool"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 	}
-	
+
 	// clone of "fish_notice" (...clone of "player_death")
 	"fish_notice__arm"
 	{
-		"userid"	"short"   	// user ID who died				
+		"userid"	"short"   	// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
 		"attacker"	"short"	 	// user ID who killed
@@ -1083,7 +1083,7 @@
 
 	"slap_notice"
 	{
-		"userid"	"short"   	// user ID who died				
+		"userid"	"short"   	// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
 		"attacker"	"short"	 	// user ID who killed
@@ -1098,11 +1098,11 @@
 		"silent_kill"	"bool"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 	}
-	
+
 	// clone of "player_death" with added counts
 	"throwable_hit"
 	{
-		"userid"	"short"   	// user ID who died				
+		"userid"	"short"   	// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
 		"attacker"	"short"	 	// user ID who killed
@@ -1147,7 +1147,7 @@
 	{
 		"level" "short"
 	}
-	
+
 	"eyeball_boss_summoned"
 	{
 		"level" "short"
@@ -1158,7 +1158,7 @@
 		"level" "short"
 		"player_entindex"	"byte"
 	}
-	
+
 	"eyeball_boss_killed"
 	{
 		"level" "short"
@@ -1175,12 +1175,12 @@
 		"level" "short"
 		"time_remaining"	"byte"
 	}
-	
+
 	"eyeball_boss_escaped"
 	{
 		"level" "short"
-	}	
-	
+	}
+
 	"npc_hurt"
 	{
 		"entindex" "short"
@@ -1191,7 +1191,7 @@
 		"crit" "bool"
 		"boss"	"short"		// 1=HHH 2=Monoculus 3=Merasmus
 	}
-	
+
 	"controlpoint_timer_updated"
 	{
 		"index"	"short"		// index of the cap being updated
@@ -1214,7 +1214,7 @@
 
 	"player_bonuspoints"
 	{
-		"points"		"short"	
+		"points"		"short"
 		"player_entindex"	"short"
 		"source_entindex"	"short"
 	}
@@ -1233,14 +1233,14 @@
 	{
 		"player"		"short"
 		"type"			"short"
-		"time"			"float"	
+		"time"			"float"
 	}
 
 	"christmas_gift_grab"
 	{
 		"userid"	"short"
 	}
-	
+
 	"player_killed_achievement_zone"
 	{
 		"attacker"	"short"		// entindex of the attacker
@@ -1288,7 +1288,7 @@
 	"lobby_updated"
 	{
 	}
-	
+
 	"mvm_mission_update"
 	{
 		"class"		"short"
@@ -1298,7 +1298,7 @@
 	"recalculate_holidays"
 	{
 	}
-	
+
 	"player_currency_changed"
 	{
 		"currency"		"short"
@@ -1373,9 +1373,9 @@
 	{
 		"wave_index"	"short"
 		"max_waves"		"short"
-		"advanced"		"short"		
+		"advanced"		"short"
 	}
-	
+
 	"mvm_wave_complete"
 	{
 		"advanced"		"bool"		// is this an advanced popfile
@@ -1481,7 +1481,7 @@
 
 	"rd_team_points_changed"
 	{
-		"points"			"short"	
+		"points"			"short"
 		"team"				"byte"
 		"method"			"byte"
 	}
@@ -1493,7 +1493,7 @@
 	"rd_robot_killed"
 	{
 		// this extends the original player_death 
-		"userid"	"short"   	// user ID who died				
+		"userid"	"short"   	// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
 		"attacker"	"short"	 	// user ID who killed
@@ -1550,7 +1550,7 @@
 		"index"	"short"		// entindex of the player
 	}
 
-	"competitive_victory"		
+	"competitive_victory"
 	{
 	}
 
@@ -1576,7 +1576,7 @@
 	{
 		"index"		"short"
 	}
-	
+
 	"duck_xp_level_up"
 	{
 		"level"		"short"		// leveled up to what
@@ -1811,8 +1811,8 @@
 		"player"	"byte"		// index of the player
 		"panel"		"byte"		// type of panel
 		"line"		"byte"		// type of line
-		"x"			"float"		
-		"y"			"float"		
+		"x"			"float"
+		"y"			"float"
 	}
 
 	"restart_timer_time"
@@ -1943,7 +1943,7 @@
 		"douser"	"short"		// entindex of the douser
 		"victim"	"short"		// entindex of the victim
 	}
-	
+
 	"quest_turn_in_state"
 	{
 		"state"		"short"		// Maps to EQuestTurnInState

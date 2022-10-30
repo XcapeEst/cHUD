@@ -19,7 +19,7 @@
 		"visible"					"0"
 		"enabled"					"1"
 		"image"						"../hud/pyro_jetpack_off2"
-		"scaleImage"				"1"	
+		"scaleImage"				"1"
 	}
 
 	"ItemEffectMeterLabel"
@@ -43,7 +43,7 @@
 		"font"						"HudFontSmallest"
 		"fgcolor"					"menutext"
 	}
-	
+
 	"JetpackAnchor"
 	{
 		"ControlName"				"EditablePanel"
@@ -57,12 +57,12 @@
 	}
 
 	"ItemEffectMeter"
-	{	
+	{
 		"wide"						"39"
 	}
 
 	"ItemEffectMeter2"
-	{	
+	{
 		"ControlName"				"ContinuousProgressBar"
 		"fieldName"					"ItemEffectMeter2"
 		"font"						"Default"
@@ -70,7 +70,7 @@
 		"ypos"						"0"
 		"zpos"						"2"
 		"wide"						"39"
-		"tall"						"1"				
+		"tall"						"1"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
@@ -80,7 +80,7 @@
 		"brighttext"				"0"
 		"bgcolor_override"			"0 0 0 100"
 		"fgcolor_override"			"tanlight"
-		
+
 		"pin_to_sibling"			"JetpackAnchor"
 		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"

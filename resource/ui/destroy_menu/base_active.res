@@ -1,7 +1,7 @@
 "Resource/UI/destroy_menu/base_active.res"
 {
 	"NumberLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"product8"
@@ -18,14 +18,14 @@
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"	
-		
+		"brighttext"	"0"
+
 		"fgcolor_override"	"softred200"
 		"bgcolor_override"	"0 0 0 165"
 	}
-	
+
 	"ItemNameLabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemNameLabel"
 		"font"				"product8"
@@ -42,19 +42,19 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		
+
 		"fgcolor_override"	"softred200"
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
-		
+
 		"pin_to_sibling" 		"NumberLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
-	
-	
-	"ItemBackground"	
+
+
+
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
@@ -65,12 +65,12 @@
 		"tall"			"105"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"ProgressOffWhite"
 	}
-	
-	"DestroyIcon"	
+
+	"DestroyIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"DestroyIcon"
@@ -81,12 +81,12 @@
 		"tall"			"70"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
 	}
-		
-	"BuildingIcon"	
+
+	"BuildingIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildingIcon"
@@ -97,12 +97,12 @@
 		"tall"			"80"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"obj_status_dispenser"
 		"iconColor"		"255 255 255 128"
 	}
-		
-	"NumberBg"	
+
+	"NumberBg"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
@@ -113,7 +113,7 @@
 		"tall"			"18"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}

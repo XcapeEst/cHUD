@@ -13,8 +13,8 @@
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"TanLight"
-	}	
-	
+	}
+
 	"BackgroundGood"
 	{
 		"ControlName"	"EditablePanel"
@@ -27,9 +27,9 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"		"0 0 0 165"	
+		"bgcolor_override"		"0 0 0 165"
 	}
-	
+
 	"MoneyImagePanel"
 	{
 		"ControlName"		"ImagePanel"
@@ -44,7 +44,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 	}
-	
+
 	"CurrencyGood"
 	{
 		"ControlName"	"CExLabel"
@@ -58,10 +58,10 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"center"	
+		"textAlignment"	"center"
 		"labelText"		"%currency%"
 	}
-	
+
 	"CurrencyBad"
 	{
 		"ControlName"	"CExLabel"
@@ -75,10 +75,10 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"center"	
+		"textAlignment"	"center"
 		"labelText"		"%currency%"
 	}
-	
+
 	"CurrencyShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -92,7 +92,7 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"center"	
+		"textAlignment"	"center"
 		"labelText"		"%currency%"
 	}
 }

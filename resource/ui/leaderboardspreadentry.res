@@ -24,13 +24,13 @@
 			"border"				"MainMenuBGBorderAlpha"
 			"proportionaltoparent"	"1"
 		}
-	
+
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"AvatarPanel0"
 			"xpos"			"5"
-			"ypos"			"cs-0.5"	
+			"ypos"			"cs-0.5"
 			"zpos"			"2"
 			"wide"			"20"
 			"tall"			"20"
@@ -52,7 +52,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"color_outline"	"52 48 45 255"
 			"proportionaltoparent"	"1"
 		}
@@ -95,7 +95,7 @@
 			"enabled"		"1"
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
-		}		
+		}
 
 		"ProgressContainer"
 		{
@@ -109,7 +109,7 @@
 			"visible"				"1"
 			"border"				"MainMenuBGBorderAlpha"
 			"proportionaltoparent"	"1"
-		
+
 			"ProgressToNextLevel"
 				{
 				"ControlName"		"ContinuousProgressBar"
@@ -144,5 +144,5 @@
 				"proportionaltoparent"	"1"
 			}
 		}
-	}	
+	}
 }

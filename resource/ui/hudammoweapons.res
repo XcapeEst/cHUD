@@ -22,7 +22,7 @@
 		"draw_corner_width"		"0"
 		"draw_corner_height"	"0"
 	}
-	
+
 	"LowBG"
 	{
 		"ControlName"			"ImagePanel"
@@ -39,7 +39,7 @@
 		"paintbackground"		"1"
 		"BgColor"				"0 0 0 152"
 	}
-	
+
 	"HudWeaponLowAmmoImage"
 	{
 		"ControlName"			"ImagePanel"
@@ -56,7 +56,7 @@
 		"paintbackground"		"1"
 		"BgColor"				"0 0 0 152"
 	}
-	
+
 	"AmmoInClip"
 	{
 		"ControlName"			"CExLabel"
@@ -73,7 +73,7 @@
 		"textAlignment"			"east"
 		"labelText"				"%Ammo%"
 	}
-	
+
 	"AmmoInClipShadow"
 	{
 		"ControlName"			"CExLabel"
@@ -90,7 +90,7 @@
 		"textAlignment"			"east"
 		"labelText"				"%Ammo%"
 	}
-	
+
 	"AmmoInReserve"
 	{
 		"ControlName"			"CExLabel"
@@ -107,7 +107,7 @@
 		"textAlignment"			"west"
 		"labelText"				"%AmmoInReserve%"
 	}
-	
+
 	"AmmoInReserveShadow"
 	{
 		"ControlName"			"CExLabel"
@@ -124,7 +124,7 @@
 		"textAlignment"			"west"
 		"labelText"				"%AmmoInReserve%"
 	}
-	
+
 	"AmmoNoClip"
 	{
 		"ControlName"			"CExLabel"
@@ -141,7 +141,7 @@
 		"textAlignment"			"center"
 		"labelText"				"%Ammo%"
 	}
-	
+
 	"AmmoNoClipShadow"
 	{
 		"ControlName"			"CExLabel"

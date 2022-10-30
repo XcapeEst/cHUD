@@ -7,5 +7,5 @@
 	HudItemEffectMeter
 	{
 		"ypos"			"r141"
-	}	
+	}
 }

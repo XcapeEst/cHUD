@@ -115,8 +115,8 @@
 				"fillcolor"			"collyhuddarkgray"
 				"scaleImage"	"1"
 			}
-			
-			
+
+
 			"PortraitBG"
 				{
 				"ControlName"	"ImagePanel"
@@ -131,8 +131,8 @@
 				"enabled"		"1"
 				"fillcolor"			"0 0 0 180"
 			}
-			
-			
+
+
 			"classimagebg4"
 				{
 				"ControlName"	"ImagePanel"
@@ -148,8 +148,8 @@
 				"fillcolor"			"collyhuddarkgray"
 				"scaleImage"	"1"
 			}
-		
-			
+
+
 
 
 			"WhiteOverHp"
@@ -334,7 +334,7 @@
 				"fgcolor_override"		"softred"
 			}
 
-			
+
 			"chargeamountr"
 				{
 				"ControlName"	"CExLabel"
@@ -477,7 +477,7 @@
         "visible"         "1"
         "enabled"         "1"
     }
-	
+
 	"ReinforcementsLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -499,7 +499,7 @@
 		"bgcolor_override"			"0 0 0 165"
 		"border"			"noborder"
 		"auto_wide_tocontents" "1"
-		
+
 		"pin_to_sibling" "ExampleAnchor"
         "pin_corner_to_sibling" "4"
         "pin_to_sibling_corner" "4"
@@ -595,31 +595,31 @@
 		"border"		"noborder"
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"0"
-		
+
 		"model_ypos"		"18"
 		"model_center_x"	"1"
 		"model_wide"		"90"
 		"model_tall"		"60"
-		
+
 		"text_xpos"		"4"
 		"text_ypos"		"7"
 		"text_wide"		"132"
 		"text_center"	"1"
-		
+
 		"max_text_height"	"100"
 		"padding_height"	"4"
 		"resize_to_text"	"1"
 		"text_forcesize"	"2"
-		
+
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
 			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
 		}
-		
+
 		"ItemLabel"
-		{	
+		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
 			"font"			"product8"
@@ -639,7 +639,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
-		
+
 		"attriblabel"
 		{
 			"ControlName"	"CExLabel"

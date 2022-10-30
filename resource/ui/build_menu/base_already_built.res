@@ -1,7 +1,7 @@
 "Resource/UI/build_menu/base_already_built.res"
 {
 	"NumberLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"product8"
@@ -18,13 +18,13 @@
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"
-		"brighttext"	"0"	
-		
+		"brighttext"	"0"
+
 		"bgcolor_override"	"0 0 0 165"
 	}
-	
+
 	"CantBuildReason"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CantBuildReason"
 		"font"				"product8"
@@ -41,18 +41,18 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		
+
 		"fgcolor_override"	"0 0 0 240"
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
-		
+
 		"pin_to_sibling" 		"NumberLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"ItemNameLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
 		"font"			"Default"
@@ -71,9 +71,9 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-	
+
 	"CostLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"product8"
@@ -88,21 +88,21 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"center"	
-		
+		"textAlignment"	"center"
+
 		"fgcolor_override"	"0 0 0 240"
 		"bgcolor_override"	"0 0 0 165"
-		
+
 		"pin_to_sibling" 		"CantBuildReason"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
-	
-	
-	
-	
-	"ItemBackground"	
+
+
+
+
+
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
@@ -113,12 +113,12 @@
 		"tall"			"105"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"ProgressOffWhiteTransparent"
 	}
-	
-	"MetalIcon"	
+
+	"MetalIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
@@ -129,13 +129,13 @@
 		"tall"			"10"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_metal"
 		"iconColor"		"TanDark"
 	}
-	
+
 	"ModeLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
@@ -150,10 +150,10 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		""
-		"textAlignment"	"East"	
+		"textAlignment"	"East"
 	}
-		
-	"NumberBg"	
+
+	"NumberBg"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
@@ -164,7 +164,7 @@
 		"tall"			"18"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}

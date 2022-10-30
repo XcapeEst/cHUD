@@ -99,7 +99,7 @@
 		"brighttext"	"0"
 		"fgcolor_override"	"216 216 216 255"
 		"bgcolor_override"	"0 0 0 100"
-		
+
 		"pin_to_sibling" "ChargeMeter1"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"	// This Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT"	// Target Element
@@ -124,7 +124,7 @@
 		"brighttext"	"0"
 		"fgcolor_override"	"216 216 216 255"
 		"bgcolor_override"	"0 0 0 100"
-		
+
 		"pin_to_sibling" "ChargeMeter2"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"	// This Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT"	// Target Element
@@ -149,7 +149,7 @@
 		"brighttext"	"0"
 		"fgcolor_override"	"216 216 216 255"
 		"bgcolor_override"	"0 0 0 100"
-		
+
 		"pin_to_sibling" "ChargeMeter3"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"	// This Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT"	// Target Element
@@ -181,7 +181,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 	}
-	
+
 	"ResistIcon"
 	{
 		"ControlName"	"ImagePanel"
@@ -194,8 +194,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/defense_buff_bullet_blue"
-		"scaleImage"	"1"	
-		
+		"scaleImage"	"1"
+
 		"pin_to_sibling" "ResistAnchor"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"

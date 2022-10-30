@@ -1,5 +1,5 @@
 "Resource/UI/MvMCreditSubPanel.res"
-{	
+{
 	"HeaderLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -16,7 +16,7 @@
 		"AllCaps"		"1"
 		"textinsetx"	"12"
 	}
-		
+
 	"TableBackground"
 	{
 		"ControlName"	"EditablePanel"
@@ -29,7 +29,7 @@
 		"visible"		"1"
 		"bgcolor_override"		"0 0 0 165"
 	}
-	
+
 	"CreditCollectedTextLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -43,7 +43,7 @@
 		"tall"			"20"
 		"fgcolor"		"tanlight"
 	}
-	
+
 	"CreditCollectedCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -56,12 +56,12 @@
 		"wide"			"30"
 		"tall"			"20"
 		"fgcolor"		"CreditsGreen"
-		
+
 		"pin_to_sibling" 		"CreditCollectedTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"CreditMissedTextLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -74,12 +74,12 @@
 		"wide"			"85"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"CreditCollectedTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"CreditMissedCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -92,12 +92,12 @@
 		"wide"			"30"
 		"tall"			"20"
 		"fgcolor"		"RedSolid"
-		
+
 		"pin_to_sibling" 		"CreditMissedTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-	
+
 	"CreditBonusTextLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -110,12 +110,12 @@
 		"wide"			"85"
 		"tall"			"20"
 		"fgcolor"		"tanlight"
-		
+
 		"pin_to_sibling" 		"CreditMissedTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
-	
+
 	"CreditBonusCountLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -128,12 +128,12 @@
 		"wide"			"30"
 		"tall"			"20"
 		"fgcolor"		"CreditsGreen"
-		
+
 		"pin_to_sibling" 		"CreditBonusTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
-		
+
 	"CreditRatingLabelShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -147,7 +147,7 @@
 		"tall"			"20"
 		"fgcolor"		"Black"
 	}
-	
+
 	"CreditRatingLabel"
 	{
 		"ControlName"	"CExLabel"

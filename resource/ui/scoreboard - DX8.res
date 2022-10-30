@@ -25,7 +25,7 @@
 		"killstreak_image_width" 	"12"
 	}
 
-	
+
 	"RedTeamImage"
 	{
 		"ControlName"		"ImagePanel"
@@ -38,7 +38,7 @@
 		"fieldName"		"BlueTeamImage"
 		"xpos"			"9999"
 	}
-	
+
 	"BlurBGOverlay"
 	{
 		"ControlName"		"ImagePanel"
@@ -56,7 +56,7 @@
 		"enabled"		"1"
 		"fillcolor"			"0 0 0 25"
 	}
-	
+
 	"BlueTeamBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -84,7 +84,7 @@
 			"visible"		"1"
 		}
 	}
-	
+
 	"RedTeamBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -108,7 +108,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"BlueTeamPlayerCover"
 	{
 		"ControlName"		"ImagePanel"
@@ -137,7 +137,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"RedTeamPlayerCover"
 	{
 		"ControlName"		"ImagePanel"
@@ -161,7 +161,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"BlueTeamPlayerLineCover"
 	{
 		"ControlName"		"ImagePanel"
@@ -358,8 +358,8 @@
 			"visible"			"1"
 		}
 	}
-	
-	
+
+
 	"BlueTeamScore"
 	{
 		"ControlName"		"CExLabel"
@@ -449,7 +449,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		
+
 		if_mvm
 		{
 			"visible"		"0"
@@ -629,7 +629,7 @@
 			"ypos"			"999"
 		}
 	}
-	
+
 	"Spectators"
 	{
 		"ControlName"		"CExLabel"
@@ -728,7 +728,7 @@
 			"visible"		"0"
 		}
 	}
-	
+
 	"Spectators2"
 	{
 		"ControlName"		"CExLabel"
@@ -843,7 +843,7 @@
 			"visible"		"1"
 		}
 	}
-	
+
 	"PlayerScoreLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -1159,7 +1159,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
-		
+
 		"Kills2"
 		{
 			"ControlName"		"CExLabel"

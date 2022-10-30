@@ -10,7 +10,7 @@
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"1"
-	
+
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
@@ -36,7 +36,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"color_outline"	"52 48 45 255"
 		}
 		"UserName"
@@ -56,6 +56,6 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
-		}	
-	}	
+		}
+	}
 }

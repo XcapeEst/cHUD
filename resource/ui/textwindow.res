@@ -15,7 +15,7 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 	}
-	
+
 	"BGColor"
 	{
 		"ControlName"	"ImagePanel"
@@ -48,7 +48,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 	}
-	
+
 	"TFMessageTitle"
 	{
 		"ControlName"	"CExLabel"
@@ -68,7 +68,7 @@
 		"brighttext"	"0"
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
-	}	
+	}
 
 	"TextMessage"
 	{
@@ -113,7 +113,7 @@
 		"tabPosition"		"0"
 		"paintborder"	"0"
 	}
-	
+
 
 	"Anchor"
     {
@@ -164,7 +164,7 @@
 		"ControlName"		"CExButton"
 		"fieldName"		"ok2"
 		"xpos"			"9999"
-		
+
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
@@ -172,14 +172,14 @@
 		"command"		"okay"
 
 	}
-	
+
 	"MenuBG"
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"		
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"0"
 		"autoResize"	"0"
@@ -187,7 +187,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"fov"			"20"
-		
+
 		"model"
 		{
 			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
@@ -200,7 +200,7 @@
 			"origin_z" "-39"
 		}
 	}
-	
+
 	"ShadedBar"
 	{
 		"ControlName"	"ImagePanel"
@@ -214,17 +214,17 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"	
+		"tabPosition"	"0"
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
-	}						
-	
+	}
+
 	"MessageTitle"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"MessageTitle"
 		"visible"		"0"
 		"enabled"		"0"
-	}		
+	}
 }

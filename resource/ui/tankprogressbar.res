@@ -12,7 +12,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 	}
-	
+
 	"BossProgBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -45,7 +45,7 @@
 		"image"			"../hud/leaderboard_class_tank"
 		"scaleImage"	"1"
 	}
-	
+
 	"NameLabel"
 	{
 		"ControlName"			"Label"
@@ -76,14 +76,14 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"image"					"replay/thumbnails/blue"
-		
+
  		"src_corner_height"		"22"				// pixels inside the image
  		"src_corner_width"		"22"
- 	
+ 
  		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
- 		"draw_corner_height" 	"0"	
+ 		"draw_corner_height" 	"0"
 	}
-	
+
 	"ProgressBarBG"
 	{
 		"ControlName"			"ScalableImagePanel"
@@ -96,11 +96,11 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"image"					"replay/thumbnails/whitetrans"
-		
+
 		"src_corner_height"		"22"				// pixels inside the image
 		"src_corner_width"		"22"
-	
+
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
+		"draw_corner_height" 	"0"
 	}
 }

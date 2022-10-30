@@ -67,8 +67,8 @@
 	}
 
 
-	
-	
+
+
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"	"ScaleableImagePanel"
@@ -118,7 +118,7 @@
 		"fillcolor"			"47 185 123 255"
 		"scaleImage"	"1"
 	}
-	
+
 
 	"PlayerStatusPlayerLevel"
 	{

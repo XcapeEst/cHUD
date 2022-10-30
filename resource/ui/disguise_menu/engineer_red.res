@@ -6,25 +6,25 @@
 	{
 		"labelText"		"#TF_Class_Name_Engineer"
 	}
-	
+
 	"BorderColor"
-	{	
+	{
 		"bgcolor_override"	"softred200"
 	}
 
-	"ClassIcon"	
+	"ClassIcon"
 	{
 		"icon"			"hud_menu_engineer_red"
 	}
-	
+
 	"NewNumberLabel"
 	{
 		"labelText"		"3"
 		"bgcolor_override"	"softred200"
 	}
-	
+
 	"NumberLabel"
-	{		
+	{
 		"labelText"		"6"
 		"bgcolor_override"	"softred200"
 	}

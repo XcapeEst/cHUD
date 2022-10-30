@@ -82,7 +82,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"mouseinputenabled"	"1"
-		"eatmouseinput"	"0"	
+		"eatmouseinput"	"0"
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
 	}
@@ -111,7 +111,7 @@
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
-		
+
 		"AllCaps"		"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -132,7 +132,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"mouseinputenabled"	"1"
-		"eatmouseinput"	"0"	
+		"eatmouseinput"	"0"
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
 	}
@@ -161,7 +161,7 @@
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
-		
+
 		"AllCaps"			"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -194,7 +194,7 @@
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		//"actionsignallevel"	"1"
-		
+
 		"AllCaps"		"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -228,7 +228,7 @@
 		"labelText"				"#TF_Matchmaking_JoinInProgress"
 		"proportionaltoparent"	"1"
 		"textinsetx"			"24"
-		
+
 		"bgcolor_override"		"0 0 0 0"
 	}
 }

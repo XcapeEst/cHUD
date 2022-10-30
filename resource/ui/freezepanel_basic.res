@@ -8,9 +8,9 @@
 		"screenshot_move_panel_to_corner"	"0"
 	}
 
-			
-			
-			
+
+
+
 	"itempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -51,9 +51,9 @@
 			"useparentbg"		"1"
 		}
 
-		
+
 		"ItemLabel"
-		{	
+		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
 			"font"			"product8"
@@ -73,7 +73,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
-		
+
 		"attriblabel"
 		{
 			"ControlName"	"CExLabel"
@@ -109,15 +109,15 @@
 			"fillcolor"		"0 0 0 165"
 		}
 	}
-	
+
 	"FreezePanelBase"	[$WIN32]
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
 		"xpos"			"0"
-		"ypos"			"0"		
-		"wide"			"f0"		
-		"tall"			"f0"		
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"f0"
 		"visible"		"1"
 
 		"FreezePanelBG"
@@ -132,17 +132,17 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/color_panel_blu"
-			"scaleImage"		"1"	
-			
+			"scaleImage"		"1"
+
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-				
+
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_height" 	"5"
 		}
-		
+
 		"FreezeLabel"
-		{	
+		{
 			"ControlName"		"Label"
 			"fieldName"		"FreezeLabel"
 			"font"			"DefaultSmall"
@@ -160,7 +160,7 @@
 			"dulltext"		"0"
 			"brighttext"		"0"
 		}
-		
+
 		"FreezePanelHealth"		[$WIN32]
 		{
 			"ControlName"	"CTFFreezePanelHealth"
@@ -171,13 +171,13 @@
 			"wide"			"200"
 			"tall"			"50"
 			"visible"		"1"
-			"enabled"		"1"	
+			"enabled"		"1"
 			"HealthBonusPosAdj"	"0"
 			"HealthDeathWarning"	".9"
-		}	
+		}
 
 		"FreezeLabelKiller"
-		{	
+		{
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"product14"
@@ -192,7 +192,7 @@
 			"enabled"		"1"
 			"labelText"		"%killername%"
 			"textAlignment"		"center"
-	
+
 		}
 
 		"AvatarImage"
@@ -200,8 +200,8 @@
 			"ControlName"		"CAvatarImagePanel"
 			"fieldName"		"AvatarImage"
 			"wide"			"0"
-		}	
-		
+		}
+
 		"NemesisSubPanel"
 		{
 			"ControlName"		"EditablePanel"
@@ -225,13 +225,13 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/color_panel_brown"
-				"scaleImage"		"1"	
-				
+				"scaleImage"		"1"
+
 				"src_corner_height"		"23"				// pixels inside the image
 				"src_corner_width"		"23"
-					
+
 				"draw_corner_width"		"6"				// screen size of the corners ( and sides ), proportional
-				"draw_corner_height" 	"6"	
+				"draw_corner_height" 	"6"
 			}
 			"NemesisIcon"
 				{
@@ -245,10 +245,10 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/leaderboard_nemesis_freezecam"
-				"scaleImage"	"1"	
-			}		
+				"scaleImage"	"1"
+			}
 			"NemesisLabel"
-			{	
+			{
 				"ControlName"		"Label"
 				"fieldName"		"NemesisLabel"
 				"font"			"HudFontMediumSmall"
@@ -265,7 +265,7 @@
 				"textAlignment"		"west"
 			}
 			"NemesisLabel2"
-			{	
+			{
 				"ControlName"		"Label"
 				"fieldName"		"NemesisLabel2"
 				"font"			"DefaultSmall"
@@ -283,7 +283,7 @@
 			}
 		}
 	}
-		
+
 	"ScreenshotPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -294,7 +294,7 @@
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
-			
+
 		"ScreenshotPanelBG"
 		{
 			"ControlName"		"ImagePanel"
@@ -321,10 +321,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/ico_camera"
-			"scaleImage"	"1"	
-		}		
+			"scaleImage"	"1"
+		}
 		"ScreenshotLabel"
-		{	
+		{
 			"ControlName"		"Label"
 			"fieldName"		"ScreenshotLabel"
 			"font"			"SpectatorKeyHints"
@@ -342,5 +342,5 @@
 			"dulltext"		"0"
 			"brighttext"		"0"
 		}
-	}	
+	}
 }

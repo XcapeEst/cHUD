@@ -251,7 +251,7 @@
 			"enabled"		"1"
 			"mouseinputenabled" "1"
 			"paintborder"	"0"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 
 			"items"
@@ -282,7 +282,7 @@
 			"wide"			"60"
 			"tall"			"28"
 			"mouseinputenabled" "0"
-			
+
 			"pin_to_sibling" 		"MannUpTicketAd"
 			"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
@@ -301,7 +301,7 @@
 			"enabled"		"1"
 			"mouseinputenabled" "1"
 			"paintborder"	"0"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 
 			"items"
@@ -331,7 +331,7 @@
 			"wide"			"60"
 			"tall"			"30"
 			"mouseinputenabled" "0"
-			
+
 			"pin_to_sibling" 		"SquadSurplusTicketAd"
 			"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
@@ -362,7 +362,7 @@
 			"tall"			"75"
 
 			"party_slot"	"0"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
 
@@ -377,7 +377,7 @@
 			"tall"			"75"
 
 			"party_slot"	"1"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
 
@@ -392,7 +392,7 @@
 			"tall"			"75"
 
 			"party_slot"	"2"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
 
@@ -407,7 +407,7 @@
 			"tall"			"75"
 
 			"party_slot"	"3"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
 
@@ -422,7 +422,7 @@
 			"tall"			"75"
 
 			"party_slot"	"4"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
 
@@ -437,7 +437,7 @@
 			"tall"			"75"
 
 			"party_slot"	"5"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
 
@@ -458,10 +458,10 @@
 			"proportionaltoparent"	"1"
 			"textinsetx"	"6"
 			"textinsety"	"-6"
-			
+
 			"bgcolor_override"	"0 0 0 165"
 		}
-		
+
 		"MissingTicketsAlertImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -478,7 +478,7 @@
 			"mouseinputenabled"	"0"
 			"proportionaltoparent"	"1"
 			"drawcolor"	"255 255 255 255"
-			
+
 			"pin_to_sibling" 		"MissingTicketsLabel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
@@ -519,7 +519,7 @@
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
 		}
-		
+
 		"ImageBox"
 		{
 			"ControlName"	"EditablePanel"
@@ -530,9 +530,9 @@
 			"wide"			"211"
 			"tall"			"177"
 			"visible"		"1"
-			
+
 			"proportialtoparent"	"1"
-			
+
 			"MannUpImage2"
 				{
 				"ControlName"	"ImagePanel"
@@ -579,13 +579,13 @@
 			"zpos"			"0"
 			"wide"			"f0"
 			"tall"			"35"
-			
+
 			"textinsetx"	"6"
 			"textinsety"	"-12"
 			"use_proportional_insets"	"1"
-			
+
 			"proportionaltoparent"	"1"
-			
+
 			"bgcolor_override"	"0 0 0 250"
 		}
 
@@ -612,7 +612,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"AllCaps"		"1"
-			
+
 			"proportionaltoparent"	"1"
 		}
 	}

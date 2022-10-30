@@ -46,7 +46,7 @@
 		"image"								"loadout_bottom_gradient"
 		"tileImage"							"1"
 	}
-	
+
 	"FooterLine"
 	{
 		"ControlName"						"ImagePanel"
@@ -61,7 +61,7 @@
 		"image"								"loadout_solid_line"
 		"scaleImage"						"1"
 	}
-	
+
 	"FakeBG"
 	{
 		"ControlName"						"ImagePanel"
@@ -76,7 +76,7 @@
 		"fillcolor"							"CollyHudDarkGray"
 		"scaleImage"						"1"
 	}
-	
+
 	"FakeBG2"
 	{
 		"ControlName"						"ImagePanel"
@@ -160,7 +160,7 @@
 		"defaultfgcolor_override"			"blank"
 		"image_drawcolor"					"245 245 245 60"
 		"image_armedcolor"					"245 245 245 235"
-		
+
 		"SubImage"
 		{
 			"ControlName"					"ImagePanel"
@@ -176,7 +176,7 @@
 			"image"							"replay/thumbnails/softicons/x"
 		}
 	}
-	
+
 	"CloseButton"
 	{
 		"ControlName"						"CExImageButton"
@@ -201,7 +201,7 @@
 		"border_armed"						"noborder"
 		"paintborder"						"1"
 		"paintbackground"					"1"
-		
+
 		"textAlignment"						"west"
 		"dulltext"							"0"
 		"brighttext"						"0"
@@ -209,10 +209,10 @@
 		"Command"							"close"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		
+
 		"image_drawcolor"					"245 245 245 60"
 		"image_armedcolor"					"245 245 245 200"
-		
+
 		"SubImage"
 		{
 			"ControlName"					"ImagePanel"
@@ -227,22 +227,22 @@
 			"enabled"						"1"
 			"scaleImage"					"1"
 			"image" 						"replay/thumbnails/softicons/x"
-		}	
+		}
 	}
-	
+
 	"CloseButtonHIDDEN"
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"CloseButtonHIDDEN"
 		"xpos"								"9999"
 		"ypos"								"9999"
-		
+
 		"wide"								"20"
 		"tall"								"20"
 		"default"							"1"
 		"labelText"							"&ESC"
 		"Command"							"close"
-		
+
 		"SubImage"
 		{
 			"ControlName"					"ImagePanel"
@@ -257,7 +257,7 @@
 			"enabled"						"1"
 			"scaleImage"					"1"
 			"image" 						"replay/thumbnails/softicons/x"
-		}	
+		}
 	}
 
 	"NotificationsPresentPanel"

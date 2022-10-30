@@ -6,25 +6,25 @@
 	{
 		"labelText"		"#TF_Class_Name_Demoman"
 	}
-	
+
 	"BorderColor"
-	{	
+	{
 		"bgcolor_override"	"softred200"
 	}
 
-	"ClassIcon"	
+	"ClassIcon"
 	{
 		"icon"			"hud_menu_demoman_red"
 	}
-	
+
 	"NewNumberLabel"
 	{
 		"labelText"		"1"
 		"bgcolor_override"	"softred200"
 	}
-	
+
 	"NumberLabel"
-	{		
+	{
 		"labelText"		"4"
 		"bgcolor_override"	"softred200"
 	}

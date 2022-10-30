@@ -78,7 +78,7 @@
 		"proportionaltoparent"	"1"
 		"fgcolor"		"menutext"
 
-		
+
 	}
 
 	"CountdownLabelShadow"
@@ -102,7 +102,7 @@
 		"proportionaltoparent"	"1"
 
 
-		
+
 	}
 
 	"FrontParticlePanel"
@@ -217,7 +217,7 @@
 		{
 			"visible"		"1"
 		}
-		
+
 		if_mvm
 		{
 			"visible"		"0"
@@ -283,7 +283,7 @@
 		"team2_grow_dir" "east"
 		"team2_base_x"	"c35"
 		"team2_max_expand"	"140"
-		
+
 
 		"playerpanels_kv"
 		{

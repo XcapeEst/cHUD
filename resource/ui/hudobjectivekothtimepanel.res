@@ -7,7 +7,7 @@
 			"zpos"		"5"
 		}
 	}
-	
+
 	"BlueLine"
 	{
 		"ControlName"		"ImagePanel"
@@ -110,7 +110,7 @@
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"HudFontMedium"
 
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
