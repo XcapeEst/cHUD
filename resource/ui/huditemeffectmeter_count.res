@@ -2,9 +2,10 @@
 
 "Resource/UI/HudItemEffectMeter_Count.res"
 {
-	"HudItemEffectMeter"
+	"ItemEffectMeter"
 	{
-		"fieldName"		"HudItemEffectMeter"
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"0"
