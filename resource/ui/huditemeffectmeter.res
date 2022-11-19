@@ -50,8 +50,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"2"
-		"wide"					"0"
-		"tall"					"0"
+		"wide"					"64"
+		"tall"					"10"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -64,6 +64,10 @@
 		"font"					"product8"
 		"fgcolor"				"tanlight"
 	}
+
+//		"wide"					"41"
+//		"tall"					"15"
+//		"font"					"TFFontSmall"
 
 	"ItemEffectMeter"
 	{
