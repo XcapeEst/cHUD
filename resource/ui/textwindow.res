@@ -94,7 +94,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
-		"fgcolor"		"Gray"
+		"fgcolor"		"Grey"
 	}
 
 	"HTMLMessage"

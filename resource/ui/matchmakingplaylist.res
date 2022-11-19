@@ -1,9 +1,9 @@
 "Resource/UI/MatchMakingDashboardCasualCriteria.res"
 {
-	"GrayBg"	// BG of categorypanel
+	"GreyBg"	// BG of categorypanel
 	{
 		"ControlName"			"editablepanel"
-		"fieldName"				"GrayBg"
+		"fieldName"				"GreyBg"
 		"xpos"					"9999"
 		"ypos"					"40"
 		"zpos"					"2"

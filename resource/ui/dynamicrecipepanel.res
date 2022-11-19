@@ -117,7 +117,7 @@
 		"tall"								"253"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"CollyHudDarkGray"
+		"fillcolor"							"CollyHudDarkGrey"
 		"scaleImage"						"1"
 	}
 
@@ -333,7 +333,7 @@
 
 			"image_drawcolor"		"245 245 245 60"
 			"image_armedcolor"		"245 245 245 180"
-			"image_disabledcolor"	"236 236 236 0"
+			"image_disabledcolor"	"brightgray0"
 
 			"SubImage"
 				{
@@ -406,7 +406,7 @@
 
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"245 245 245 180"
-			"image_disabledcolor"	"236 236 236 0"
+			"image_disabledcolor"	"brightgray0"
 
 			"SubImage"
 				{
@@ -581,7 +581,7 @@
 
 			"image_drawcolor"		"245 245 245 60"
 			"image_armedcolor"		"245 245 245 180"
-			"image_disabledcolor"	"236 236 236 0"
+			"image_disabledcolor"	"brightgray0"
 
 			"SubImage"
 				{
@@ -654,7 +654,7 @@
 
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"245 245 245 180"
-			"image_disabledcolor"	"236 236 236 0"
+			"image_disabledcolor"	"brightgray0"
 
 			"SubImage"
 				{

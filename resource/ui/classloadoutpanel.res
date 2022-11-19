@@ -16,9 +16,9 @@
 		"tabPosition"						"0"
 		"settitlebarvisible"				"0"
 		"PaintBackgroundType"				"0"
-		"bgcolor_override"					"CollyHudDarkGray"
-		"infocus_bgcolor_override"				"CollyHudDarkGray"
-		"outoffocus_bgcolor_override"			"CollyHudDarkGray"
+		"bgcolor_override"					"CollyHudDarkGrey"
+		"infocus_bgcolor_override"				"CollyHudDarkGrey"
+		"outoffocus_bgcolor_override"			"CollyHudDarkGrey"
 
 		"item_xpos_offcenter_a"				"-268"
 		//"item_xpos_offcenter_a"			"164"

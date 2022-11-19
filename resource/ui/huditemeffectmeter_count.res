@@ -14,7 +14,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 	"ItemEffectMeterCount"
 	{

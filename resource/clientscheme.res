@@ -19,7 +19,7 @@ Scheme
 		"TFOrange"								"255 255 255 16"
 		"Purple"								"137 69 99 255"
 
-		"CollyHudDarkGray"						"39 39 40 255"
+		"CollyHudDarkGrey"						"39 39 40 255"
 
 		"MainBG"								"39 39 40 255"
 		"MainBGL"								"39 39 40 230"
@@ -29,10 +29,6 @@ Scheme
 		"softpink"								"240 110 125 255"
 		"SOFTYELLOW"							"209 185 58 255"
 		"softpinkhighlight"						"60 163 115 255"
-		"darkestgray"							"245 245 245 235"
-		"darkestgraytrans"						"245 245 245 235"
-		"darkergray"							"245 245 245 235"
-		"darkergraytrans"						"245 245 245 235"
 		"softshadowdarker"						"245 245 245 235"
 		"OffWhiteTrans"							"216 216 216 125"
 
@@ -43,13 +39,21 @@ Scheme
 		"softblue160"							"62 113 163 160"
 		"softblue200"							"62 113 163 200"
 
-
 		"softorange"							"237 147 43 150"
 		"softgreen"								"60 163 115 255"
 		"softgreen160"							"60 163 115 160"
+
 		"softgray"								"67 76 86 255"
 		"softgraydarker"						"32 36 48 255"
 		"softgraydarkest"						"22 24 32 255"
+		"darkestgray"							"245 245 245 235"
+		"darkestgraytrans"						"245 245 245 235"
+		"darkergray"							"245 245 245 235"
+		"darkergraytrans"						"245 245 245 235"
+		"brightgray0"							"236 236 236 0"
+		"brightgray150"							"236 236 236 150"
+		"brightgray170"							"236 236 236 170"
+		"brightgray"								"236 236 236 255"
 
 		"bluegraydarkest150"					"20 20 22 150"
 		"bluegraydarkest200"					"20 20 22 200"
@@ -117,7 +121,7 @@ Scheme
 
 		"CreditsGreen"							"60 163 115 255"
 
-		"Gray"									"178 178 178 255"
+		"Grey"									"178 178 178 255"
 
 		"Blank"									"0 0 0 0"
 		"ForTesting"							"255 0 0 32"
@@ -294,7 +298,7 @@ Scheme
 
 		Border.Bright									"Blank"		// the lit side of a control
 		Border.Dark										"Black"		// the dark/unlit side of a control
-		Border.Selection								"Gray"		// the additional border color for displaying the default/selected button
+		Border.Selection								"Grey"		// the additional border color for displaying the default/selected button
 
 		Button.TextColor								"245 245 245 60"
 		Button.BgColor									"0 0 0 165"
@@ -366,7 +370,7 @@ Scheme
 
 		Chat.TypingText									"Orange"
 
-		Panel.FgColor									"Gray"
+		Panel.FgColor									"Grey"
 		Panel.BgColor									"Blank"
 
 		HTML.BgColor									"Blank"
@@ -388,19 +392,19 @@ Scheme
 		RadioButton.TextColor							"Orange"
 		RadioButton.SelectedTextColor					"Orange"
 
-		RichText.TextColor								"Gray"
+		RichText.TextColor								"Grey"
 		RichText.BgColor								"Blank"
-		RichText.SelectedTextColor						"Gray"
+		RichText.SelectedTextColor						"Grey"
 		RichText.SelectedBgColor						"Red"
 
-		ScrollBarButton.FgColor							"Gray"
+		ScrollBarButton.FgColor							"Grey"
 		ScrollBarButton.BgColor							"Blank"
-		ScrollBarButton.ArmedFgColor					"Gray"
+		ScrollBarButton.ArmedFgColor					"Grey"
 		ScrollBarButton.ArmedBgColor					"Blank"
 		ScrollBarButton.DepressedFgColor				"Black"
 		ScrollBarButton.DepressedBgColor				"Blank"
 
-		ScrollBarSlider.FgColor							"Gray"		// nob color
+		ScrollBarSlider.FgColor							"Grey"		// nob color
 		ScrollBarSlider.BgColor							"Blank"		// slider background color
 
 		SectionedListPanel.HeaderTextColor				"Orange"
@@ -420,13 +424,13 @@ Scheme
 		Slider.DisabledTextColor1						"117 117 117 255"
 		Slider.DisabledTextColor2						"30 30 30 255"
 
-		TextEntry.TextColor								"Gray"
+		TextEntry.TextColor								"Grey"
 		TextEntry.BgColor								"Blank"
-		TextEntry.CursorColor							"Gray"
-		TextEntry.DisabledTextColor						"Gray"
+		TextEntry.CursorColor							"Grey"
+		TextEntry.DisabledTextColor						"Grey"
 		TextEntry.DisabledBgColor						"Blank"
 		TextEntry.SelectedTextColor						"TanLight"
-		TextEntry.SelectedBgColor						"Gray"
+		TextEntry.SelectedBgColor						"Grey"
 		TextEntry.OutOfFocusSelectedBgColor				"Blank"
 		TextEntry.FocusEdgeColor						"Blank"
 
@@ -464,7 +468,7 @@ Scheme
 		"TeamRed"										"255 64 64 255"
 		"TeamBlue"										"153 204 255 255"
 
-		"MapDescriptionText"							"Gray" // the text used in the map description window
+		"MapDescriptionText"							"Grey" // the text used in the map description window
 		"HudIcon_Green"									"0 160 0 255"
 		"HudIcon_Red"									"160 0 0 255"
 

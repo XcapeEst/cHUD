@@ -14,7 +14,7 @@
 		"image"					""
 		"scaleImage"			"1"
 		"proportionaltoparent"		"1"
-		"fillcolor"				"CollyHudDarkGray"
+		"fillcolor"				"CollyHudDarkGrey"
 	}
 
 	"ItemName"

@@ -16,9 +16,9 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"CollyHudDarkGray"
-		"infocus_bgcolor_override" "CollyHudDarkGray"
-		"outoffocus_bgcolor_override" "CollyHudDarkGray"
+		"bgcolor_override"	"CollyHudDarkGrey"
+		"infocus_bgcolor_override" "CollyHudDarkGrey"
+		"outoffocus_bgcolor_override" "CollyHudDarkGrey"
 
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -343,7 +343,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
-		"bgcolor_override"	"CollyHudDarkGray"
+		"bgcolor_override"	"CollyHudDarkGrey"
 	}
 
 	"ScoreEntry"

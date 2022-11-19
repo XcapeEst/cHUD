@@ -36,7 +36,7 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"			"CollyHudDarkGray"
+		"fillcolor"			"CollyHudDarkGrey"
 	}
 	"Loading"
 	{
@@ -67,7 +67,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"CollyHudDarkGray"
+		"bgcolor_override"	"CollyHudDarkGrey"
 
 		"Background"
 		{

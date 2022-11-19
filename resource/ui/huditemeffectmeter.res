@@ -11,7 +11,7 @@
 		"wide"			"128"
 		"tall"			"64"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	ChargeMeter
@@ -25,7 +25,7 @@
 		"wide"			"128"
 		"tall"			"64"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	"ItemEffectMeterBG"

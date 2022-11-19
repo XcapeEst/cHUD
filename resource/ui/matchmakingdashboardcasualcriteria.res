@@ -14,10 +14,10 @@
 		"tall"					"256"
 		"visible"				"1"
 	}
-	"GrayBg"
+	"GreyBg"
 	{
 		"ControlName"		"editablepanel"
-		"fieldName"			"GrayBg"
+		"fieldName"			"GreyBg"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"1001"

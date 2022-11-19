@@ -146,7 +146,7 @@
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
 		"border"			"noborder"
-		"bgcolor_override"	"CollyHudDarkGray"
+		"bgcolor_override"	"CollyHudDarkGrey"
 	}
 
 	"Shade"

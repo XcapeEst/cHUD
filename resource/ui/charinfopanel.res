@@ -73,7 +73,7 @@
 		"tall"								"f0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"CollyHudDarkGray"
+		"fillcolor"							"CollyHudDarkGrey"
 		"scaleImage"						"1"
 	}
 
@@ -88,7 +88,7 @@
 		"tall"								"50"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"CollyHudDarkGray"
+		"fillcolor"							"CollyHudDarkGrey"
 		"scaleImage"						"1"
 	}
 

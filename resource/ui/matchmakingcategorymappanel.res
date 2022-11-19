@@ -43,10 +43,10 @@
 		"mouseinputenabled"		"0"
 	}
 
-	"GrayBar"
+	"GreyBar"
 	{
 		"ControlName"			"EditablePanel"
-		"fieldName"				"GrayBar"
+		"fieldName"				"GreyBar"
 		"xpos"					"9999"
 		"ypos"					"r2"
 		"zpos"					"100"

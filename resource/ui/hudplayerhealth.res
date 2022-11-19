@@ -78,7 +78,7 @@
 		"labelText"					"%Health%"
 		"textAlignment"				"center"
 		"font"						"ProductBold40"
-		"fgcolor"					"236 236 236 255"
+		"fgcolor"					"brightgray"
 	}
 
 	"PlayerStatusAnchor"

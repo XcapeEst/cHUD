@@ -15,7 +15,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		"bgcolor_override"	"CollyHudDarkGray"
+		"bgcolor_override"	"CollyHudDarkGrey"
 
 		"item_ypos"		"88"
 		"item_ydelta"	"80"
@@ -391,7 +391,7 @@
 
 		"image_drawcolor"	"245 245 245 60"
 		"image_armedcolor"	"245 245 245 180"
-		"image_disabledcolor"	"236 236 236 0"
+		"image_disabledcolor"	"brightgray0"
 
 		"SubImage"
 		{
@@ -467,7 +467,7 @@
 
 		"image_drawcolor"	"245 245 245 60"
 		"image_armedcolor"	"245 245 245 180"
-		"image_disabledcolor"	"236 236 236 0"
+		"image_disabledcolor"	"brightgray0"
 
 		"SubImage"
 		{

@@ -41,7 +41,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"alpha"			"0"
-		"fillcolor"		"CollyHudDarkGray"
+		"fillcolor"		"CollyHudDarkGrey"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

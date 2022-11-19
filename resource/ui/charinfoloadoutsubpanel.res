@@ -36,7 +36,7 @@
 		"itemcountcolor_noitems"			"125 125 125 0"
 
 		"image_drawcolor"					"230 230 230 50"
-		"image_armedcolor"					"236 236 236 170"
+		"image_armedcolor"					"brightgray150"
 	}
 
 	//hotkeys
@@ -139,7 +139,7 @@
 		"tall"								"144"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"CollyHudDarkGray"
+		"fillcolor"							"CollyHudDarkGrey"
 		"scaleImage"						"1"
 	}
 
@@ -173,7 +173,7 @@
 		"tall"								"89"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"CollyHudDarkGray"
+		"fillcolor"							"CollyHudDarkGrey"
 		"scaleImage"						"1"
 
 		"pin_to_sibling"						"LoadoutContainer"
@@ -573,7 +573,7 @@
 		"font"								"MenuKeys"
 		"scaleImage"						"1"
 		"image_drawcolor"					"230 230 230 50"
-		"image_armedcolor"					"236 236 236 170"
+		"image_armedcolor"					"brightgray150"
 		"activeimage"						"replay/thumbnails/bg_blank"
 		"inactiveimage"						"replay/thumbnails/bg_blank"
 		"sound_depressed"					"UI/buttonclick.wav"
@@ -1088,7 +1088,7 @@
 		"pinCorner"							"0"
 		"visible"							"0"
 		"enabled"							"1"
-		"fgcolor_override"					"236 236 236 150"
+		"fgcolor_override"					"brightgray150"
 		"centerwrap"	"1"
 	}
 

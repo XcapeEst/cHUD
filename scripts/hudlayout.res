@@ -79,7 +79,7 @@
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	HudMedicCharge
@@ -105,7 +105,7 @@
 		"wide_minmode"	"140"
 		"tall"			"8"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	HudBowCharge
@@ -118,7 +118,7 @@
 		"wide_minmode"	"0"
 		"tall"			"8"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	HudFlameRocketCharge
@@ -137,7 +137,7 @@
 		"wide_minmode"	"50"
 		"tall"			"8"
 		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	HudBossHealth
@@ -151,7 +151,7 @@
 		"wide"			"200"
 		"tall"			"50"
 		"MeterFG"		"Red"
-		"MeterBG"		"Gray"
+		"MeterBG"		"Grey"
 	}
 
 	HudWeaponSelection

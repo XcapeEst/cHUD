@@ -18,7 +18,7 @@
 		"settitlebarvisible"	""
 		"paintborder"			"1"
 		"paintbackground"		"0"
-		"border"				"GrayDialogBorder"
+		"border"				"GreyDialogBorder"
 
 		"control_w"			"500"
 		"control_h"			"25"
