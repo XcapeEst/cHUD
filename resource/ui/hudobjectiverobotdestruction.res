@@ -321,9 +321,9 @@
 					"fgcolor"		"TanLight"
 					"proportionalToParent"	"1"
 
-					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"          
-					"pin_to_sibling_corner"        "5"  
+					"pin_to_sibling"			   "VictoryLabel"
+					"pin_corner_to_sibling"		"7"		  
+					"pin_to_sibling_corner"		"5"  
 				}
 
 				"VictoryLabelTimeShadow"
@@ -343,9 +343,9 @@
 					"fgcolor"		"Black"
 					"proportionalToParent"	"1"
 
-					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"          
-					"pin_to_sibling_corner"        "5"  
+					"pin_to_sibling"			   "VictoryLabel"
+					"pin_corner_to_sibling"		"7"		  
+					"pin_to_sibling_corner"		"5"  
 				}
 			}
 
@@ -465,9 +465,9 @@
 					"fgcolor"		"TanLight"
 					"proportionalToParent"	"1"
 
-					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"          
-					"pin_to_sibling_corner"        "5"  
+					"pin_to_sibling"			   "VictoryLabel"
+					"pin_corner_to_sibling"		"7"		  
+					"pin_to_sibling_corner"		"5"  
 				}
 
 				"VictoryLabelTimeShadow"
@@ -487,9 +487,9 @@
 					"fgcolor"		"Black"
 					"proportionalToParent"	"1"
 
-					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"          
-					"pin_to_sibling_corner"        "5"  
+					"pin_to_sibling"			   "VictoryLabel"
+					"pin_corner_to_sibling"		"7"		  
+					"pin_to_sibling_corner"		"5"  
 				}
 			}
 

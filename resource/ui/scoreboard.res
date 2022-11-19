@@ -1193,7 +1193,7 @@
 		"font"				"productbold8"
 		"fgcolor"			"245 245 245 235"
 		"textAlignment"		"WEST"
-		"wide" 				"82"
+		"wide"					"82"
 		"xpos"				"6"
 		"textinsetx"		"14"
 		"textinsety"		"0"
@@ -1216,7 +1216,7 @@
 		"font"				"productbold8"
 		"fgcolor"			"245 245 245 235"
 		"textAlignment"		"WEST"
-		"wide" 				"54"
+		"wide"					"54"
 		"xpos"				"6"
 		"textinsetx"		"14"
 		"textinsety"		"0"
@@ -1237,13 +1237,13 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"Spectators"
 		"labelText"				"%spectators%"
-		"auto_wide_tocontents" 	"1"
+		"auto_wide_tocontents"		"1"
 		"textinsetx"			"12"
 		"zpos"					"5"
 		"font"					"product8"
 		"fgcolor"				"TANLIGHT120"
 		"textAlignment"			"east"
-		"auto_wide_tocontents" 	"1"
+		"auto_wide_tocontents"		"1"
 		"xpos"					"54"
 		"tall"					"20"
 		"ypos"					"30"
@@ -1306,10 +1306,10 @@
 		"textcolor"		"red"
 		//"show_columns"	"1"
 
- 		if_mvm
- 		{
- 			"visible"		"0"
- 		}
+			if_mvm
+			{
+				"visible"		"0"
+			}
 	}
 	"VerticalLine"
 	{

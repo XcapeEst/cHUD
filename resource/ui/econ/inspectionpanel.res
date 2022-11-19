@@ -13,7 +13,7 @@
 		"enabled"				"1"
 		"image"					""
 		"scaleImage"			"1"
-		"proportionaltoparent" 	"1"
+		"proportionaltoparent"		"1"
 		"fillcolor"				"CollyHudDarkGray"
 	}
 
@@ -36,7 +36,7 @@
 
 		"text_ypos"				"74"
 		"text_center"			"0"
-		"paint_icon_hide" 		"1"
+		"paint_icon_hide"			"1"
 		"model_hide"			"1"
 		"text_forcesize"		"4"
 		"name_only"				"1"

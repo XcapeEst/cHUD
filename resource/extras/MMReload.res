@@ -17,7 +17,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"textinsetx"				"12"
-		"use_proportional_insets" 	"1"
+		"use_proportional_insets"		"1"
 		"font"						"product8"
 		"textAlignment"				"center"
 		"dulltext"					"0"

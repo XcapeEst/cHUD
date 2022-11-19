@@ -132,7 +132,7 @@
 		"fov"			"28"
 		"allow_rot"		"1"
 
-		"disable_speak_event"        "1"
+		"disable_speak_event"		"1"
 
 		"model"
 		{
@@ -335,8 +335,8 @@
 		"zpos"					"100"
 		"wide"					"500"
 		"wide_minmode"			"500"
-		"tall"	 				"28"
-		"tall_minmode"	 		"28"
+		"tall"					"28"
+		"tall_minmode"			"28"
 
 		"CarryingBackground"
 		{
@@ -349,7 +349,7 @@
 			"zpos"					"0"
 			"wide"					"p1"
 			"wide_minmode"			"f0"
-			"tall"	 				"f0"
+			"tall"					"f0"
 			"tall_minmode"			"f0"
 			"autoResize"			"0"
 			"pinCorner"				"0"
@@ -368,7 +368,7 @@
 			"src_corner_width"		"23"
 
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"
+			"draw_corner_height"		"5"
 		}
 
 		"CarryingLabel"
@@ -384,7 +384,7 @@
 			"zpos"				"1"
 			"wide"				"200"
 			"wide_minmode"		"f0"
-			"tall"	 			"f0"
+			"tall"				"f0"
 			"tall_minmode"		"f0"
 			"autoResize"		"0"
 			"pinCorner"			"0"
@@ -411,7 +411,7 @@
 			"zpos"				"0"
 			"wide"				"200"
 			"wide_minmode"		"f0"
-			"tall"	 			"f0"
+			"tall"				"f0"
 			"tall_minmode"		"f0"
 			"autoResize"		"0"
 			"pinCorner"			"0"
@@ -439,7 +439,7 @@
 			"zpos"				"0"
 			"wide"				"200"
 			"wide_minmode"		"f0"
-			"tall"	 			"f0"
+			"tall"				"f0"
 			"tall_minmode"		"f0"
 			"autoResize"		"0"
 			"pinCorner"			"0"

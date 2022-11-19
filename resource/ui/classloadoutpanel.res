@@ -17,8 +17,8 @@
 		"settitlebarvisible"				"0"
 		"PaintBackgroundType"				"0"
 		"bgcolor_override"					"CollyHudDarkGray"
-		"infocus_bgcolor_override" 			"CollyHudDarkGray"
-		"outoffocus_bgcolor_override" 		"CollyHudDarkGray"
+		"infocus_bgcolor_override"				"CollyHudDarkGray"
+		"outoffocus_bgcolor_override"			"CollyHudDarkGray"
 
 		"item_xpos_offcenter_a"				"-268"
 		//"item_xpos_offcenter_a"			"164"
@@ -36,7 +36,7 @@
 		"button_xpos"						"400"
 		"button_ypos"						"85"
 		"button_ydelta"						"80"
-		"button_override_delete_xpos" 		"0"
+		"button_override_delete_xpos"			"0"
 
 		"modelpanels_kv"
 		{
@@ -68,7 +68,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" 	"0"
+				"use_item_rendertarget"		"0"
 				"allow_rot"					"0"
 				"inventory_image_type"		"0" // HQ images
 				"zpos"						"1"
@@ -92,37 +92,37 @@
 				"enabled"					"1"
 				"scaleImage"				"1"
 				"fillcolor"					"0 0 0 0"
-				"mouseinputenabled" 		"0"
+				"mouseinputenabled"			"0"
 				"Alpha"						"255"
 				"paintborder"				"9"
 			}
 		}
 
-	 	"itemoptionpanels_kv"
-    	{
-        	"ControlName"					"CExButton"
-        	"xpos"							"2"
-        	"ypos"							"2"
-        	"zpos"							"100"
-        	"wide"							"12"
-        	"tall"							"12"
-        	"autoResize"					"0"
-        	"visible"						"0"
-        	"enabled"						"1"
-        	"tabPosition"					"0"
-        	"labelText"						"+"
-        	"font"							"product8"
-        	"bgcolor_override"				"24 24 24 255"
-        	"defaultbgcolor_override"		"24 24 24 255"
-        	"armedbgcolor_override"			"24 24 24 255"
-        	"textAlignment"					"center"
-        	"dulltext"						"0"
-        	"brighttext"					"0"
-        	"default"						"1"
-        	"sound_depressed"				"UI/buttonclick.wav"
-        	"sound_released"				"UI/buttonclickrelease.wav"
-    	}
-    }
+		"itemoptionpanels_kv"
+		{
+			"ControlName"					"CExButton"
+			"xpos"							"2"
+			"ypos"							"2"
+			"zpos"							"100"
+			"wide"							"12"
+			"tall"							"12"
+			"autoResize"					"0"
+			"visible"						"0"
+			"enabled"						"1"
+			"tabPosition"					"0"
+			"labelText"						"+"
+			"font"							"product8"
+			"bgcolor_override"				"24 24 24 255"
+			"defaultbgcolor_override"		"24 24 24 255"
+			"armedbgcolor_override"			"24 24 24 255"
+			"textAlignment"					"center"
+			"dulltext"						"0"
+			"brighttext"					"0"
+			"default"						"1"
+			"sound_depressed"				"UI/buttonclick.wav"
+			"sound_released"				"UI/buttonclickrelease.wav"
+		}
+	}
 
 	"CaratLabel" // Just ">>" to indicate that you are editing loadouts
 	{
@@ -140,7 +140,7 @@
 		"pinCorner"							"0"
 		"visible"							"0"
 		"enabled"							"0"
-		"fgcolor_override" 					"200 80 60 255"
+		"fgcolor_override"						"200 80 60 255"
 	}
 
 	"CurrentlyEquippedLabel"
@@ -174,7 +174,7 @@
 		"enabled"							"1"
 		"fillcolor"							"225 225 225 0"
 		"tileImage"							"1"
-		"tileVertically" 					"0"
+		"tileVertically"						"0"
 	}
 
 	"classmodelpanel"
@@ -200,16 +200,16 @@
 		{
 			"force_pos"						"1"
 
-			"angles_x" 						"0"
-			"angles_y" 						"164"
-			"angles_z" 						"0"
-			"origin_x" 						"226"
-			"origin_y" 						"0"
-			"origin_z" 						"-41"
+			"angles_x"							"0"
+			"angles_y"							"164"
+			"angles_z"							"0"
+			"origin_x"							"226"
+			"origin_y"							"0"
+			"origin_z"							"-41"
 			"frame_origin_x"				"0"
 			"frame_origin_y"				"0"
 			"frame_origin_z"				"0"
-			"spotlight" 					"1"
+			"spotlight"						"1"
 
 			"modelname"						""
 
@@ -283,7 +283,7 @@
 		"paintborder"						"1"
 
 		"text_xpos"							"0"
-		"text_xpos_collection" 				"0"
+		"text_xpos_collection"					"0"
 		"text_ypos"							"0"
 		"text_center"						"1"
 		"model_hide"						"1"

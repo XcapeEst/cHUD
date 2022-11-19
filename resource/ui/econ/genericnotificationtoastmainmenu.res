@@ -49,7 +49,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"AvatarTextLabel"
 		"fgcolor"				"56 47 29 255"
-		"fgcolor_override" 		"56 47 29 255"
+		"fgcolor_override"			"56 47 29 255"
 		"xpos"					"45"
 		"ypos"					"7"
 		"zpos"					"2"
@@ -70,7 +70,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"TextLabel"
 		"fgcolor"				"tanlight60"
-		"fgcolor_override" 		"tanlight60"
+		"fgcolor_override"			"tanlight60"
 		"if_high_priority"
 		{
 			"fgcolor"			"tanlight60"

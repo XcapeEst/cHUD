@@ -344,7 +344,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"	   	"215 215 215 255"
+				"bgcolor_override"				"215 215 215 255"
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 			}
@@ -365,7 +365,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   	"collyhuddarkgray"
+				"bgcolor_override"				"collyhuddarkgray"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -385,8 +385,8 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	  	"0 0 0 0"
-				"fgcolor_override"	   	"softgreen"
+				"bgcolor_override"	 		"0 0 0 0"
+				"fgcolor_override"				"softgreen"
 				"proportionaltoparent"	"1"
 			}
 			"respawntime"
@@ -443,7 +443,7 @@
 				"src_corner_height"		"22"			// pixels inside the image
 				"src_corner_width"		"22"
 				"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
-				"draw_corner_height" 	"3"
+				"draw_corner_height"		"3"
 			}
 			"ReadyImage"
 				{

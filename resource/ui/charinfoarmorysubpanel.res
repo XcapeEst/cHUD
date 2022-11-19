@@ -15,7 +15,7 @@
 		"settitlebarvisible"				"0"
 		"PaintBackgroundType"				"0"
 		"bgcolor_override"					"blank"
-		"infocus_bgcolor_override" 			"blank"
+		"infocus_bgcolor_override"				"blank"
 		"outoffocus_bgcolor_override"		"blank"
 
 		"thumbnail_bgcolor"					"0 0 0 165"
@@ -56,7 +56,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" 	"0"
+				"use_item_rendertarget"		"0"
 				"allow_rot"					"0"
 			}
 		}
@@ -78,7 +78,7 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override" 					"200 80 60 255"
+		"fgcolor_override"						"200 80 60 255"
 	}
 	"ArmoryLabel"
 	{
@@ -140,10 +140,10 @@
 		"fgcolor_override"					"245 245 245 60"
 		"bgcolor_override"					"0 0 0 165"
 		"disabledFgColor_override"			"184 184 184 255"
-		"disabledBgColor_override" 			"0 0 0 0"
-		"selectionColor_override" 			"80 150 80 0"
-		"selectionbgColor_override" 		"255 255 255 16"
-		"selectionTextColor_override" 		"245 245 245 235"
+		"disabledBgColor_override"				"0 0 0 0"
+		"selectionColor_override"				"80 150 80 0"
+		"selectionbgColor_override"			"255 255 255 16"
+		"selectionTextColor_override"			"245 245 245 235"
 		"defaultSelectionBGColor_override"	"255 255 255 16"
 	}
 
@@ -203,12 +203,12 @@
 		"model_hide"						"1"
 		"text_center"						"0"
 		"text_north"						"1"
-		"resize_to_text" 					"0"
+		"resize_to_text"						"0"
 
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" 		"0"
-			"inventory_image_type" 			"1"
+			"use_item_rendertarget"			"0"
+			"inventory_image_type"				"1"
 			"allow_rot"						"0"
 		}
 	}
@@ -235,8 +235,8 @@
 
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" 		"0"
-			"inventory_image_type" 			"1"
+			"use_item_rendertarget"			"0"
+			"inventory_image_type"				"1"
 			"allow_rot"						"0"
 		}
 	}
@@ -273,8 +273,8 @@
 
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" 		"0"
-			"inventory_image_type" 			"1"
+			"use_item_rendertarget"			"0"
+			"inventory_image_type"				"1"
 			"allow_rot"						"0"
 		}
 	}
@@ -328,9 +328,9 @@
 			"image"							"replay/thumbnails/softicons/back"
 		}
 
-		"pin_to_sibling" 					"CurPageLabel"
-		"pin_corner_to_sibling" 			"3"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"CurPageLabel"
+		"pin_corner_to_sibling"				"3"
+		"pin_to_sibling_corner"				"2"
 	}
 
 	"CurPageLabel"
@@ -349,11 +349,11 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override" 					"245 245 245 60"
+		"fgcolor_override"						"245 245 245 60"
 
-		"pin_to_sibling" 					"NextPageButton"
-		"pin_corner_to_sibling" 			"3"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"NextPageButton"
+		"pin_corner_to_sibling"				"3"
+		"pin_to_sibling_corner"				"2"
 	}
 
 	"NextPageButton"
@@ -431,8 +431,8 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 
-		"pin_to_sibling" 					"FilterComboBox"
-		"pin_corner_to_sibling" 			"2"
+		"pin_to_sibling"						"FilterComboBox"
+		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"3"
 	}
 
@@ -461,9 +461,9 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 
-		"pin_to_sibling" 					"StoreButton"
-		"pin_corner_to_sibling" 			"2"
-		"pin_to_sibling_corner" 			"3"
+		"pin_to_sibling"						"StoreButton"
+		"pin_corner_to_sibling"				"2"
+		"pin_to_sibling_corner"				"3"
 	}
 
 	"StoreButton"
@@ -490,9 +490,9 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 
-		"pin_to_sibling" 					"WikiButton"
-		"pin_corner_to_sibling" 			"2"
-		"pin_to_sibling_corner" 			"3"
+		"pin_to_sibling"						"WikiButton"
+		"pin_corner_to_sibling"				"2"
+		"pin_to_sibling_corner"				"3"
 	}
 
 	"ReloadSchemeButton"

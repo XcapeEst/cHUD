@@ -19,7 +19,7 @@
 //   local  : any data, but not networked to clients
 //
 // following key names are reserved:
-//   local      : if set to 1, event is not networked to clients
+//   local	  : if set to 1, event is not networked to clients
 //   unreliable : networked, but unreliable
 //   suppress   : never fire this event
 //   time	: firing server time
@@ -46,26 +46,26 @@
 	"player_death"		// a game event, name may be 32 charaters long
 	{
 		// this extends the original player_death
-		"userid"	"short"   	// user ID who died
+		"userid"	"short"			// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
-		"attacker"	"short"	 	// user ID who killed
-		"weapon"	"string" 	// weapon name killer used
+		"attacker"	"short"		// user ID who killed
+		"weapon"	"string"		// weapon name killer used
 		"weaponid"	"short"		// ID of weapon killer used
 		"damagebits"	"long"		// bits of type of damage
 		"customkill"	"short"		// type of custom kill
 		"assister"	"short"		// user ID of assister
-		"weapon_logclassname"	"string" 	// weapon name that should be printed on the log
+		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
 		"death_flags"	"short" //death flags.
 		"silent_kill"	"bool"
 		"playerpenetratecount"	"short"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
-		"kill_streak_total" 	"short"	// Kill streak count (level)
-		"kill_streak_wep" 	"short"	// Kill streak for killing weapon
+		"kill_streak_total"		"short"	// Kill streak count (level)
+		"kill_streak_wep"		"short"	// Kill streak for killing weapon
 		"kill_streak_assist" "short"	// Kill streak for assister count
 		"kill_streak_victim" "short"	// Victims kill streak
-                "ducks_streaked"	"short" // Duck streak increment from this kill
+				"ducks_streaked"	"short" // Duck streak increment from this kill
 		"duck_streak_total"	"short" // Duck streak count for attacker
 		"duck_streak_assist"	"short" // Duck streak count for assister
 		"duck_streak_victim"	"short" // (former) duck streak count for victim
@@ -478,7 +478,7 @@
 		"userid"	"short"			// user ID who died
 		"attacker"	"short"			// user ID who killed
 		"assister"	"short"			// user ID of assister
-		"weapon"	"string" 		// weapon name killer used 
+		"weapon"	"string"			// weapon name killer used 
 		"weaponid"	"short"			// id of the weapon used
 		"objecttype"	"short"		// type of object destroyed
 		"index"		"short"			// index of the object destroyed
@@ -778,7 +778,7 @@
 		"boneAnglesY" "float"
 		"boneAnglesZ" "float"
 		"projectileType" "short"
-		"isCrit" 	"bool"
+		"isCrit"		"bool"
 	}
 
 	"player_jarated"			// sent when a player is jarated, only to the two players involved
@@ -873,15 +873,15 @@
 
 	"player_buff"
 	{
-		"userid"		"short"   	// user ID of the player the buff is being applied to
+		"userid"		"short"			// user ID of the player the buff is being applied to
 		"buff_owner"	"short"		// user ID of the player with the banner
 		"buff_type"		"byte"		// type of buff
 	}
 
 	"medic_death"
 	{
-		"userid"	"short"   	// user ID who died
-		"attacker"	"short"	 	// user ID who killed
+		"userid"	"short"			// user ID who died
+		"attacker"	"short"		// user ID who killed
 		"healing"	"short"		// amount healed in this life
 		"charged"	"bool"		// had a full ubercharge?
 	}
@@ -1046,16 +1046,16 @@
 	// clone of "player_death"
 	"fish_notice"
 	{
-		"userid"	"short"   	// user ID who died
+		"userid"	"short"			// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
-		"attacker"	"short"	 	// user ID who killed
-		"weapon"	"string" 	// weapon name killer used 
+		"attacker"	"short"		// user ID who killed
+		"weapon"	"string"		// weapon name killer used 
 		"weaponid"	"short"		// ID of weapon killed used
 		"damagebits"	"long"		// bits of type of damage
 		"customkill"	"short"		// type of custom kill
 		"assister"	"short"		// user ID of assister
-		"weapon_logclassname"	"string" 	// weapon name that should be printed on the log
+		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
 		"death_flags"	"short" //death flags.
 		"silent_kill"	"bool"
@@ -1065,16 +1065,16 @@
 	// clone of "fish_notice" (...clone of "player_death")
 	"fish_notice__arm"
 	{
-		"userid"	"short"   	// user ID who died
+		"userid"	"short"			// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
-		"attacker"	"short"	 	// user ID who killed
-		"weapon"	"string" 	// weapon name killer used 
+		"attacker"	"short"		// user ID who killed
+		"weapon"	"string"		// weapon name killer used 
 		"weaponid"	"short"		// ID of weapon killed used
 		"damagebits"	"long"		// bits of type of damage
 		"customkill"	"short"		// type of custom kill
 		"assister"	"short"		// user ID of assister
-		"weapon_logclassname"	"string" 	// weapon name that should be printed on the log
+		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
 		"death_flags"	"short" //death flags.
 		"silent_kill"	"bool"
@@ -1083,16 +1083,16 @@
 
 	"slap_notice"
 	{
-		"userid"	"short"   	// user ID who died
+		"userid"	"short"			// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
-		"attacker"	"short"	 	// user ID who killed
-		"weapon"	"string" 	// weapon name killer used 
+		"attacker"	"short"		// user ID who killed
+		"weapon"	"string"		// weapon name killer used 
 		"weaponid"	"short"		// ID of weapon killed used
 		"damagebits"	"long"		// bits of type of damage
 		"customkill"	"short"		// type of custom kill
 		"assister"	"short"		// user ID of assister
-		"weapon_logclassname"	"string" 	// weapon name that should be printed on the log
+		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
 		"death_flags"	"short" //death flags.
 		"silent_kill"	"bool"
@@ -1102,16 +1102,16 @@
 	// clone of "player_death" with added counts
 	"throwable_hit"
 	{
-		"userid"	"short"   	// user ID who died
+		"userid"	"short"			// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
-		"attacker"	"short"	 	// user ID who killed
-		"weapon"	"string" 	// weapon name killer used 
+		"attacker"	"short"		// user ID who killed
+		"weapon"	"string"		// weapon name killer used 
 		"weaponid"	"short"		// ID of weapon killed used
 		"damagebits"	"long"		// bits of type of damage
 		"customkill"	"short"		// type of custom kill
 		"assister"	"short"		// user ID of assister
-		"weapon_logclassname"	"string" 	// weapon name that should be printed on the log
+		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
 		"death_flags"	"short" //death flags.
 		"silent_kill"	"bool"
@@ -1270,9 +1270,9 @@
 	"party_chat"
 	{
 		"steamid" "string" // steamID (64-bit value converted to string) of user who said or did the thing.  May be
-		                   // empty-string for system actor.
-		"text"    "string" // The message.  May have different meaning for some types
-		"type"    "short"  // What sort of message?  ETFPartyChatType enum
+						   // empty-string for system actor.
+		"text"	"string" // The message.  May have different meaning for some types
+		"type"	"short"  // What sort of message?  ETFPartyChatType enum
 	}
 
 	"party_member_join"
@@ -1493,15 +1493,15 @@
 	"rd_robot_killed"
 	{
 		// this extends the original player_death 
-		"userid"	"short"   	// user ID who died
+		"userid"	"short"			// user ID who died
 		"victim_entindex"	"long"
 		"inflictor_entindex"	"long"	// ent index of inflictor (a sentry, for example)
-		"attacker"	"short"	 	// user ID who killed
-		"weapon"	"string" 	// weapon name killer used 
+		"attacker"	"short"		// user ID who killed
+		"weapon"	"string"		// weapon name killer used 
 		"weaponid"	"short"		// ID of weapon killed used
 		"damagebits"	"long"		// bits of type of damage
 		"customkill"	"short"		// type of custom kill
-		"weapon_logclassname"	"string" 	// weapon name that should be printed on the log
+		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 	}
 
 	"rd_robot_impact"
@@ -1754,7 +1754,7 @@
 	}
 	"special_score"
 	{
-		"player"	"byte"   	// index of the scorer
+		"player"	"byte"			// index of the scorer
 	}
 
 	"team_leader_killed"

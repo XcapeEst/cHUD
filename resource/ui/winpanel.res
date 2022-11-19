@@ -458,7 +458,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline" 			"blank"
+		"color_outline"				"blank"
 	}
 	"Player1Name"
 	{
@@ -541,7 +541,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline" 			"blank"
+		"color_outline"				"blank"
 	}
 	"Player2Name"
 	{
@@ -624,7 +624,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline" 			"blank"
+		"color_outline"				"blank"
 	}
 	"Player3Name"
 	{

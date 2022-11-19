@@ -1,5 +1,5 @@
-// Parent 			MatchMakingDashboardCasualCriteria.res
-// Child name 		"criteria"
+// Parent				MatchMakingDashboardCasualCriteria.res
+// Child name			"criteria"
 "Resource/UI/MatchmakingCasualCriteria.res"
 {
 	"PlaylistBGPanel"
@@ -236,7 +236,7 @@
 			"tall"					"f0"
 			"visible"				"1"
 			"proportionaltoparent"	"1"
-			"restrict_width" 		"0"
+			"restrict_width"			"0"
 
 			"border"		"noborder"
 

@@ -116,16 +116,16 @@
 
 
 	"Anchor"
-    {
-        "ControlName"     "EditablePanel"
-        "fieldName"     "Anchor"
-        "xpos"             "R0"
-        "ypos"             "r32"
-        "wide"             "f0"
-        "tall"             "20"
-        "visible"         "1"
-        "enabled"         "1"
-    }
+	{
+		"ControlName"	 "EditablePanel"
+		"fieldName"	 "Anchor"
+		"xpos"			 "R0"
+		"ypos"			 "r32"
+		"wide"			 "f0"
+		"tall"			 "20"
+		"visible"		 "1"
+		"enabled"		 "1"
+	}
 
 	"ok"
 	{

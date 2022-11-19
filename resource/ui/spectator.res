@@ -49,16 +49,16 @@
 	}
 
 	"ExampleAnchor"
-    {
-        "ControlName"     "EditablePanel"
-        "fieldName"     "ExampleAnchor"
-        "xpos"             "0"
-        "ypos"             "46"
-        "wide"             "f0"
-        "tall"             "1"
-        "visible"         "1"
-        "enabled"         "1"
-    }
+	{
+		"ControlName"	 "EditablePanel"
+		"fieldName"	 "ExampleAnchor"
+		"xpos"			 "0"
+		"ypos"			 "46"
+		"wide"			 "f0"
+		"tall"			 "1"
+		"visible"		 "1"
+		"enabled"		 "1"
+	}
 
 	"ReinforcementsLabel"
 	{
@@ -83,8 +83,8 @@
 		"auto_wide_tocontents" "1"
 
 		"pin_to_sibling" "ExampleAnchor"
-        "pin_corner_to_sibling" "4"
-        "pin_to_sibling_corner" "4"
+		"pin_corner_to_sibling" "4"
+		"pin_to_sibling_corner" "4"
 	}
 	"BuyBackLabel"
 	{

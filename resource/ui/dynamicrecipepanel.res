@@ -18,7 +18,7 @@
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"27 27 28 0"
 		"infocus_bgcolor_override"		"27 27 28 0"
-		"outoffocus_bgcolor_override" 	"27 27 28 0"
+		"outoffocus_bgcolor_override"		"27 27 28 0"
 
 		"item_ypos"						"26"
 		"output_item_ypos"				"202"
@@ -169,7 +169,7 @@
 			"fgcolor"		"tanlight120"
 			"wrap"			"0"
 			"AllCaps"		"1"
-			"bgcolor_override" 					"0 0 0 80"
+			"bgcolor_override"						"0 0 0 80"
 		}
 
 		"InputLabel"
@@ -210,8 +210,8 @@
 			"fgcolor"				"tanlight120"
 			"fgcolor_override"		"tanlight120"
 			"AllCaps"		"1"
-			"bgcolor" 				"0 0 0 80"
-			"bgcolor_override" 		"0 0 0 80"
+			"bgcolor"					"0 0 0 80"
+			"bgcolor_override"			"0 0 0 80"
 			"paintbackground"	"1"
 		}
 		"OutputLabel2"
@@ -235,7 +235,7 @@
 			"fgcolor"				"tanlight120"
 			"fgcolor_override"		"tanlight120"
 			"AllCaps"		"1"
-			"bgcolor_override" 		"0 0 0 80"
+			"bgcolor_override"			"0 0 0 80"
 			"paintbackground"	"1"
 		}
 		"InventoryContainer"
@@ -252,9 +252,9 @@
 			"fillcolor"							"0 0 0 165"
 			"scaleImage"						"1"
 
-			"pin_to_sibling" 					"OutputLabel2"
-			"pin_corner_to_sibling" 			"0"
-			"pin_to_sibling_corner" 			"0"
+			"pin_to_sibling"						"OutputLabel2"
+			"pin_corner_to_sibling"				"0"
+			"pin_to_sibling_corner"				"0"
 		}
 		"UntradableLabel"
 		{
@@ -548,7 +548,7 @@
 				"visible"						"1"
 				"enabled"						"1"
 				"scaleImage"					"1"
-				"image" 						"replay/thumbnails/softicons/x"
+				"image"							"replay/thumbnails/softicons/x"
 			}
 		}
 

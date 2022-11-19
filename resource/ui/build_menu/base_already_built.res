@@ -46,7 +46,7 @@
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
 
-		"pin_to_sibling" 		"NumberLabel"
+		"pin_to_sibling"			"NumberLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
@@ -93,7 +93,7 @@
 		"fgcolor_override"	"0 0 0 240"
 		"bgcolor_override"	"0 0 0 165"
 
-		"pin_to_sibling" 		"CantBuildReason"
+		"pin_to_sibling"			"CantBuildReason"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}

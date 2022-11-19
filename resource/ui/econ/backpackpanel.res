@@ -116,7 +116,7 @@
 			"text_ypos"		"60"
 			"text_center"	"1"
 			"name_only"		"1"
-			"use_item_rendertarget" 	"0"
+			"use_item_rendertarget"		"0"
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 
@@ -433,7 +433,7 @@
 
 		"armedBgColor_override"		"softred160"
 
-		"pin_to_sibling" 		"ShowBaseItemsCheckboxBG"
+		"pin_to_sibling"			"ShowBaseItemsCheckboxBG"
 		"pin_corner_to_sibling" "2"
 		"pin_to_sibling_corner" "3"
 	}

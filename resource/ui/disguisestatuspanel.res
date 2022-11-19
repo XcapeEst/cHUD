@@ -36,7 +36,7 @@
 		"ypos"					"999"
 		"zpos"					"-1"
 		"wide"					"200"
-		"tall"	 				"0"
+		"tall"					"0"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"0"
@@ -51,7 +51,7 @@
 		"src_corner_width"		"23"
 
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"draw_corner_height"		"0"
 	}
 
 	"SpyHealthBG"
@@ -93,7 +93,7 @@
 
 		"bgcolor_override"	"0 0 0 165"
 
-		"pin_to_sibling" 		"SpyHealthBG"
+		"pin_to_sibling"			"SpyHealthBG"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"
 		"pin_to_sibling_corner" "PIN_TOPRIGHT"
 	}
@@ -119,7 +119,7 @@
 
 		"textinsetx"	"20"
 
-		"pin_to_sibling" 		"DisguiseNameLabel"
+		"pin_to_sibling"			"DisguiseNameLabel"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}

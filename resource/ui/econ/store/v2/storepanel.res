@@ -140,7 +140,7 @@
 			"armedBgColor_override"		"0 0 0 165"
 			"paintbackground"	"1"
 			"activeborder_override"		"noborder"
-			"normalborder_override" 	"noborder"
+			"normalborder_override"		"noborder"
 		}
 	}
 

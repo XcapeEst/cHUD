@@ -101,7 +101,7 @@
 		"tabydelta"							"0"
 		"tabwidth"							"0"
 		"tabheight"							"0"
-		"transition_time" 					"0"
+		"transition_time"						"0"
 
 		"HeaderLine"
 		{
@@ -127,7 +127,7 @@
 			"defaultBgColor_override"		"42 42 42 0"
 			"paintbackground"				"0"
 			"activeborder_override"			"noborder"
-			"normalborder_override" 		""
+			"normalborder_override"			""
 		}
 	}
 
@@ -226,7 +226,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"scaleImage"					"1"
-			"image" 						"replay/thumbnails/softicons/x"
+			"image"							"replay/thumbnails/softicons/x"
 		}
 	}
 
@@ -256,7 +256,7 @@
 			"visible"						"0"
 			"enabled"						"1"
 			"scaleImage"					"1"
-			"image" 						"replay/thumbnails/softicons/x"
+			"image"							"replay/thumbnails/softicons/x"
 		}
 	}
 

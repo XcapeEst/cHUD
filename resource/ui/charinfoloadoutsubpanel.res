@@ -17,8 +17,8 @@
 		"settitlebarvisible"				"1"
 		"PaintBackgroundType"				"0"
 		"bgcolor_override"					"blank"
-		"infocus_bgcolor_override" 			"blank"
-		"outoffocus_bgcolor_override" 		"blank"
+		"infocus_bgcolor_override"				"blank"
+		"outoffocus_bgcolor_override"			"blank"
 
 		"selectlabely_default"				"55"
 		"selectlabely_onchanges"			"45"
@@ -157,9 +157,9 @@
 		"fillcolor"							"0 0 0 165"
 		"scaleImage"						"1"
 
-		"pin_to_sibling" 					"LoadoutContainer"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"LoadoutContainer"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 	}
 
 	"InventoryContainer2"
@@ -176,9 +176,9 @@
 		"fillcolor"							"CollyHudDarkGray"
 		"scaleImage"						"1"
 
-		"pin_to_sibling" 					"LoadoutContainer"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"LoadoutContainer"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 	}
 
 	"CloseContainer"
@@ -214,7 +214,7 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"bgcolor_override" 					"0 0 0 80"
+		"bgcolor_override"						"0 0 0 80"
 	}
 
 	"INVENTORYLabel"
@@ -235,11 +235,11 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"bgcolor_override" 					"0 0 0 80"
+		"bgcolor_override"						"0 0 0 80"
 
-		"pin_to_sibling" 					"LoadoutContainer"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"LoadoutContainer"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 	}
 
 	//Custom Buttons
@@ -270,9 +270,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"LoadoutLabel"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"LoadoutLabel"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -304,9 +304,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"customscout"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"customscout"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -338,9 +338,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"customsoldier"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"customsoldier"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -372,9 +372,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"custompyro"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"custompyro"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -406,9 +406,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"customdemo"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"customdemo"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -440,9 +440,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"customheavy"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"customheavy"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -474,9 +474,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"customengi"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"customengi"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -508,9 +508,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"custommedic"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"custommedic"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -521,10 +521,10 @@
 		"ControlName"							"CExImageButton"
 		"fieldName"							"customSpy"
 		"xpos"								"0"
-	 	"ypos"								"0"
-	 	"zpos"								"3000"
-	 	"wide"								"90"
-	 	"tall"								"14"
+		"ypos"								"0"
+		"zpos"								"3000"
+		"wide"								"90"
+		"tall"								"14"
 		"autoResize"						"0"
 		"pinCorner"							"2"
 		"visible"							"1"
@@ -532,7 +532,7 @@
 		"tabPosition"						"0"
 		"labelText"							"SPY"
 		"textinsetx"						"12"
- 	 	"textAlignment"						"west"
+			"textAlignment"						"west"
 		"Command"							"loadout spy"
 		"Default"							"0"
 		"font"								"product7"
@@ -542,9 +542,9 @@
 		"bgcolor_override"					"blank"
 		"defaultbgcolor_override"			"blank"
 
-		"pin_to_sibling" 					"customSniper"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"customSniper"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -804,7 +804,7 @@
 		"tabPosition"						"0"
 		"labelText"							"BACKPACK"
 		"textinsetx"						"12"
- 	 	"textAlignment"						"west"
+			"textAlignment"						"west"
 		"Command"							"BACKPACK"
 		"Default"							"0"
 		"font"								"product7"
@@ -816,8 +816,8 @@
 		"armedbgcolor_override"				"255 255 255 16"
 
 		"pin_to_sibling"					"INVENTORYLabel"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -846,10 +846,10 @@
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowCraftingButton"
 		"xpos"								"0"
-	 	"ypos"								"0"
-	 	"zpos"								"3000"
-	 	"wide"								"90"
-	 	"tall"								"14"
+		"ypos"								"0"
+		"zpos"								"3000"
+		"wide"								"90"
+		"tall"								"14"
 		"autoResize"						"0"
 		"pinCorner"							"2"
 		"visible"							"1"
@@ -857,7 +857,7 @@
 		"tabPosition"						"0"
 		"labelText"							"CRAFTING"
 		"textinsetx"						"12"
- 	 	"textAlignment"						"west"
+			"textAlignment"						"west"
 		"Command"							"crafting"
 		"Default"							"0"
 		"font"								"product7"
@@ -868,9 +868,9 @@
 		"defaultbgcolor_override"			"blank"
 		"armedbgcolor_override"				"255 255 255 16"
 
-		"pin_to_sibling" 					"ShowBackpackButton"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"ShowBackpackButton"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -899,10 +899,10 @@
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowArmoryButton"
 		"xpos"								"0"
-	 	"ypos"								"0"
-	 	"zpos"								"3000"
-	 	"wide"								"90"
-	 	"tall"								"14"
+		"ypos"								"0"
+		"zpos"								"3000"
+		"wide"								"90"
+		"tall"								"14"
 		"autoResize"						"0"
 		"pinCorner"							"2"
 		"visible"							"1"
@@ -910,7 +910,7 @@
 		"tabPosition"						"0"
 		"labelText"							"ARMORY"
 		"textinsetx"						"12"
- 	 	"textAlignment"						"west"
+			"textAlignment"						"west"
 		"Command"							"armory"
 		"Default"							"0"
 		"font"								"product7"
@@ -921,9 +921,9 @@
 		"defaultbgcolor_override"			"blank"
 		"armedbgcolor_override"				"255 255 255 16"
 
-		"pin_to_sibling" 					"ShowCraftingButton"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"ShowCraftingButton"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -951,10 +951,10 @@
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowTradeButton"
 		"xpos"								"0"
-	 	"ypos"								"0"
-	 	"zpos"								"3000"
-	 	"wide"								"90"
-	 	"tall"								"14"
+		"ypos"								"0"
+		"zpos"								"3000"
+		"wide"								"90"
+		"tall"								"14"
 		"autoResize"						"0"
 		"pinCorner"							"2"
 		"visible"							"1"
@@ -962,7 +962,7 @@
 		"tabPosition"						"0"
 		"labelText"							"TRADE"
 		"textinsetx"						"12"
- 	 	"textAlignment"						"west"
+			"textAlignment"						"west"
 		"Command"							"trading"
 		"Default"							"0"
 		"font"								"product7"
@@ -973,9 +973,9 @@
 		"defaultbgcolor_override"			"blank"
 		"armedbgcolor_override"				"255 255 255 16"
 
-		"pin_to_sibling" 					"ShowArmoryButton"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"ShowArmoryButton"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -1005,10 +1005,10 @@
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowPaintkitsButton"
 		"xpos"								"0"
-	 	"ypos"								"0"
-	 	"zpos"								"3000"
-	 	"wide"								"90"
-	 	"tall"								"14"
+		"ypos"								"0"
+		"zpos"								"3000"
+		"wide"								"90"
+		"tall"								"14"
 		"autoResize"						"0"
 		"pinCorner"							"2"
 		"visible"							"1"
@@ -1016,7 +1016,7 @@
 		"tabPosition"						"0"
 		"labelText"							"WAR PAINTS"
 		"textinsetx"						"12"
- 	 	"textAlignment"						"west"
+			"textAlignment"						"west"
 		"Command"							"paintkit_preview"
 		"Default"							"0"
 		"font"								"product7"
@@ -1027,9 +1027,9 @@
 		"defaultbgcolor_override"			"blank"
 		"armedbgcolor_override"				"255 255 255 16"
 
-		"pin_to_sibling" 					"ShowTradeButton"
-		"pin_corner_to_sibling" 			"0"
-		"pin_to_sibling_corner" 			"2"
+		"pin_to_sibling"						"ShowTradeButton"
+		"pin_corner_to_sibling"				"0"
+		"pin_to_sibling_corner"				"2"
 
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -1108,7 +1108,7 @@
 		"pinCorner"							"0"
 		"visible"							"0"
 		"enabled"							"1"
-		"fgcolor_override" 					"softselect"
+		"fgcolor_override"						"softselect"
 	}
 
 	"NoGCLabel"
@@ -1127,7 +1127,7 @@
 		"pinCorner"							"0"
 		"visible"							"0"
 		"enabled"							"1"
-		"fgcolor_override" 					"softselect"
+		"fgcolor_override"						"softselect"
 	}
 
 	"SelectLabel"
@@ -1147,7 +1147,7 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override" 					"245 245 245 60"
+		"fgcolor_override"						"245 245 245 60"
 		"bgcolor_override"					"blank"
 	}
 
@@ -1168,8 +1168,8 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override" 					"245 245 245 60"
-		"bgcolor_override" 					"blank"
+		"fgcolor_override"						"245 245 245 60"
+		"bgcolor_override"						"blank"
 	}
 
 	"LoadoutChangesLabel"
@@ -1276,7 +1276,7 @@
 		"tall"								"140"
 		"visible"							"0"
 		"PaintBackgroundType"				"2"
-		"paintbackground" 					"0"
+		"paintbackground"						"0"
 		"border"							"MainMenuHighlightBorder"
 
 		"force_close"						"1"
@@ -1304,7 +1304,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"TextLabel"
@@ -1323,7 +1323,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"CloseButton"
@@ -1348,7 +1348,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fgcolor_override" 				"softselect"
+			"fgcolor_override"					"softselect"
 		}
 		"header2"
 		{
@@ -1391,9 +1391,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -1426,7 +1426,7 @@
 		"tall"								"120"
 		"visible"							"0"
 		"PaintBackgroundType"				"2"
-		"paintbackground" 					"0"
+		"paintbackground"						"0"
 		"border"							"MainMenuHighlightBorder"
 
 		"force_close"						"1"
@@ -1454,7 +1454,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"TextLabel"
@@ -1473,7 +1473,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"CloseButton"
@@ -1502,9 +1502,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
@@ -1551,9 +1551,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -1590,7 +1590,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fgcolor_override" 				"softselect"
+			"fgcolor_override"					"softselect"
 		}
 
 		"NextButton"
@@ -1620,8 +1620,8 @@
 			"paintbackground"				"0"
 
 			"defaultFgColor_override"		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -1654,7 +1654,7 @@
 		"tall"								"120"
 		"visible"							"0"
 		"PaintBackgroundType"				"2"
-		"paintbackground" 					"0"
+		"paintbackground"						"0"
 		"border"							"MainMenuHighlightBorder"
 
 		"force_close"						"1"
@@ -1682,7 +1682,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"TextLabel"
@@ -1730,9 +1730,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"235 226 202 255"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"235 226 202 255"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
@@ -1779,9 +1779,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -1816,7 +1816,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fgcolor_override" 				"softselect"
+			"fgcolor_override"					"softselect"
 		}
 		"NextButton"
 		{
@@ -1844,9 +1844,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -1878,7 +1878,7 @@
 		"tall"								"120"
 		"visible"							"0"
 		"PaintBackgroundType"				"2"
-		"paintbackground" 					"0"
+		"paintbackground"						"0"
 		"border"							"MainMenuHighlightBorder"
 
 		"force_close"						"1"
@@ -1906,7 +1906,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"TextLabel"
@@ -1925,7 +1925,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"CloseButton"
@@ -1954,9 +1954,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"235 226 202 255"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"235 226 202 255"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
@@ -2003,9 +2003,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -2042,7 +2042,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fgcolor_override" 				"softselect"
+			"fgcolor_override"					"softselect"
 		}
 
 		"NextButton"
@@ -2071,9 +2071,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -2106,7 +2106,7 @@
 		"tall"								"120"
 		"visible"							"0"
 		"PaintBackgroundType"				"2"
-		"paintbackground" 					"0"
+		"paintbackground"						"0"
 		"border"							"MainMenuHighlightBorder"
 
 		"force_close"						"1"
@@ -2134,7 +2134,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"TextLabel"
@@ -2182,9 +2182,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"235 226 202 255"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"235 226 202 255"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
@@ -2231,9 +2231,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -2270,7 +2270,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fgcolor_override" 				"softselect"
+			"fgcolor_override"					"softselect"
 		}
 		"NextButton"
 		{
@@ -2298,9 +2298,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -2333,7 +2333,7 @@
 		"tall"								"120"
 		"visible"							"0"
 		"PaintBackgroundType"				"2"
-		"paintbackground" 					"0"
+		"paintbackground"						"0"
 		"border"							"MainMenuHighlightBorder"
 
 		"force_close"						"1"
@@ -2360,7 +2360,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"230 230 230 180"
+			"fgcolor_override"					"230 230 230 180"
 		}
 
 		"TextLabel"
@@ -2379,7 +2379,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"wrap"							"1"
-			"fgcolor_override" 				"blanker"
+			"fgcolor_override"					"blanker"
 		}
 
 		"CloseButton"
@@ -2408,9 +2408,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"235 226 202 255"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"235 226 202 255"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"125 125 125 255"
 			"image_armedcolor"				"softselect"
@@ -2457,9 +2457,9 @@
 
 			"paintbackground"				"0"
 
-			"defaultFgColor_override" 		"blanker"
-			"armedFgColor_override" 		"softselect"
-			"depressedFgColor_override" 	"blanker"
+			"defaultFgColor_override"			"blanker"
+			"armedFgColor_override"			"softselect"
+			"depressedFgColor_override"		"blanker"
 
 			"image_drawcolor"				"235 226 202 255"
 			"image_armedcolor"				"255 255 255 255"
@@ -2496,7 +2496,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fgcolor_override" 				"softselect"
+			"fgcolor_override"					"softselect"
 		}
 	}
 }

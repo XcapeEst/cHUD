@@ -48,7 +48,7 @@
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
 
-		"pin_to_sibling" 		"NumberLabel"
+		"pin_to_sibling"			"NumberLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
@@ -76,7 +76,7 @@
 		"bgcolor_override"	"0 0 0 165"
 		"textinsetx"		"12"
 
-		"pin_to_sibling" 		"NumberLabel"
+		"pin_to_sibling"			"NumberLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}

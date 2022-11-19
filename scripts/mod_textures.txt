@@ -3407,7 +3407,7 @@
 			"width"		"128"
 			"height"	"32"
 		}
- 		"shooting_star"
+			"shooting_star"
 		{
 			"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 			"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
@@ -3416,7 +3416,7 @@
 			"width"		"128"
 			"height"	"32"
 		}
- 		"giger_counter"
+			"giger_counter"
 		{
 			"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 			"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
@@ -3425,7 +3425,7 @@
 			"width"		"64"
 			"height"	"32"
 		}
- 		"prinny_machete"
+			"prinny_machete"
 		{
 			"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 			"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
@@ -3445,7 +3445,7 @@
 			"height"	"32"
 		}
 
- 		"dragons_fury"
+			"dragons_fury"
 		{
 			"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 			"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"
@@ -3455,7 +3455,7 @@
 			"height"	"32"
 		}
 
- 		"dragons_fury_bonus"
+			"dragons_fury_bonus"
 		{
 			"dfile"	"vgui/logos/ImprovedKillIcons_Base/d_images_v3"
 			"dnegfile"	"vgui/logos/ImprovedKillIcons_Negative/dneg_images_v3"

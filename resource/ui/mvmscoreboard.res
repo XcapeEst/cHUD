@@ -89,7 +89,7 @@
 		"src_corner_width"	"22"
 
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_height"		"5"
 	}
 
 	"MvMPlayerList"
@@ -138,7 +138,7 @@
 			"src_corner_width"	"22"
 
 			"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"
+			"draw_corner_height"		"5"
 		}
 
 		"CreditsLabel"
@@ -188,7 +188,7 @@
 			"tall"			"60"
 			"visible"		"1"
 
-			"pin_to_sibling" 		"PreviousWaveCreditInfoPanel"
+			"pin_to_sibling"			"PreviousWaveCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
@@ -203,7 +203,7 @@
 			"tall"			"60"
 			"visible"		"1"
 
-			"pin_to_sibling" 		"TotalGameCreditInfoPanel"
+			"pin_to_sibling"			"TotalGameCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
@@ -225,7 +225,7 @@
 			"fillcolor"		"250 250 250 0"
 			"border"		"LightWhiteLeft"
 
-			"pin_to_sibling" 		"PreviousWaveCreditInfoPanel"
+			"pin_to_sibling"			"PreviousWaveCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
 		}
@@ -247,7 +247,7 @@
 			"fillcolor"		"250 250 250 0"
 			"border"		"LightWhiteLeft"
 
-			"pin_to_sibling" 		"TotalGameCreditInfoPanel"
+			"pin_to_sibling"			"TotalGameCreditInfoPanel"
 			"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
 		}

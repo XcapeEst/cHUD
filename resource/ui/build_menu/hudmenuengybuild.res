@@ -61,7 +61,7 @@
 
 		"bgcolor_override"		"0 0 0 0"
 
-		"pin_to_sibling" 		"TitleLabel"
+		"pin_to_sibling"			"TitleLabel"
 		"pin_corner_to_sibling" "PIN_CENTER_RIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_LEFT" // Corner of Element you are pinning to
 	}
@@ -88,7 +88,7 @@
 
 		"bgcolor_override"		"0 0 0 230"
 
-		"pin_to_sibling" 		"TitleLabel"
+		"pin_to_sibling"			"TitleLabel"
 		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
@@ -118,7 +118,7 @@
 		"fgcolor_override"		"216 216 216 255"
 		"bgcolor_override"		"0 0 0 230"
 
-		"pin_to_sibling" 		"active_item_1"
+		"pin_to_sibling"			"active_item_1"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -146,7 +146,7 @@
 
 		"fgcolor_override"	"216 216 216 255"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_CENTER_TOP" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_CENTER_BOTTOM" // Corner of Element you are pinning to
 	}
@@ -162,7 +162,7 @@
 		"tall"			"16"
 		"visible"		"1"
 
-		"pin_to_sibling" 		"active_item_2"
+		"pin_to_sibling"			"active_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -178,7 +178,7 @@
 		"tall"			"16"
 		"visible"		"1"
 
-		"pin_to_sibling" 		"active_item_3"
+		"pin_to_sibling"			"active_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -194,7 +194,7 @@
 		"tall"			"16"
 		"visible"		"1"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -222,7 +222,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_2"
+		"pin_to_sibling"			"active_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -238,7 +238,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_3"
+		"pin_to_sibling"			"active_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -254,7 +254,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -270,7 +270,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -286,7 +286,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_2"
+		"pin_to_sibling"			"active_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -302,7 +302,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_3"
+		"pin_to_sibling"			"active_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -318,7 +318,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -334,7 +334,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -350,7 +350,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_2"
+		"pin_to_sibling"			"active_item_2"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -366,7 +366,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_3"
+		"pin_to_sibling"			"active_item_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -382,7 +382,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}
@@ -398,7 +398,7 @@
 		"tall"			"16"
 		"visible"		"0"
 
-		"pin_to_sibling" 		"active_item_4"
+		"pin_to_sibling"			"active_item_4"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 		"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 	}

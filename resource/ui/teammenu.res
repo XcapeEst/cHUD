@@ -352,7 +352,7 @@
 		"ypos"			"c-140"
 		"zpos"			"1"
 		"wide"			"270"
-		"tall"	 		"285"
+		"tall"			"285"
 		"visible"		"0"
 		"enabled"		"0 "
 		"image"			"../hud/color_panel_clear"
@@ -362,7 +362,7 @@
 		"src_corner_width"		"50"
 
 		"draw_corner_width"		"10"		// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"10"
+		"draw_corner_height"		"10"
 	}
 
 	"ShadedBar"
@@ -490,7 +490,7 @@
 		"src_corner_width"	"60"
 
 		"draw_corner_width"	"0"
-		"draw_corner_height" 	"0"
+		"draw_corner_height"		"0"
 	}
 
 	"SpectateFrame"
@@ -512,7 +512,7 @@
 		"src_corner_width"	"23"
 
 		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"
+		"draw_corner_height"		"3"
 
 	}
 

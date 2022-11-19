@@ -138,7 +138,7 @@
 			"src_corner_width"		"23"
 
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"
+			"draw_corner_height"		"5"
 		}
 
 		"FreezeLabel"
@@ -231,7 +231,7 @@
 				"src_corner_width"		"23"
 
 				"draw_corner_width"		"6"				// screen size of the corners ( and sides ), proportional
-				"draw_corner_height" 	"6"
+				"draw_corner_height"		"6"
 			}
 			"NemesisIcon"
 				{

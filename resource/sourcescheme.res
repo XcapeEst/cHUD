@@ -372,7 +372,7 @@
 				"tall"			"18"
 				"weight"		"1200"
 				"antialias"		"1"
-				// "outline" 	"1"
+				// "outline"		"1"
 			}
 		}
 		"AchievementDescriptionFont"

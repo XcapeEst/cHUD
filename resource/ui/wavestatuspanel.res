@@ -19,7 +19,7 @@
 		"src_corner_width"	"22"
 
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"draw_corner_height"		"0"
 	}
 
 	"WaveProgBG"
@@ -84,7 +84,7 @@
 		"src_corner_width"		"22"
 
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"draw_corner_height"		"0"
 
 		// MINMODE
 		"xpos_minmode"	"c-60"
@@ -110,7 +110,7 @@
 		"src_corner_width"		"22"
 
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"draw_corner_height"		"0"
 
 		// MINMODE
 		"xpos_minmode"	"c-60"

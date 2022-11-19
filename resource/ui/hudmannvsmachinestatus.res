@@ -39,9 +39,9 @@
 		"visible"			"1"
 		"enabled"			"1"
 
-		"pin_to_sibling"               "WaveStatusPanel"
-		"pin_corner_to_sibling"        "4"          
-		"pin_to_sibling_corner"        "6"  
+		"pin_to_sibling"			   "WaveStatusPanel"
+		"pin_corner_to_sibling"		"4"		  
+		"pin_to_sibling_corner"		"6"  
 	}
 
 	"CurrencyStatusPanel"
@@ -52,8 +52,8 @@
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"f0"
-		"visible" 			"1"
-		"enabled" 			"1"
+		"visible"				"1"
+		"enabled"				"1"
 	}
 
 	"InWorldCurrencyPanel"
@@ -64,8 +64,8 @@
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"f0"
-		"visible" 			"1"
-		"enabled" 			"1"
+		"visible"				"1"
+		"enabled"				"1"
 	}
 
 	"WarningSwoop"
@@ -237,7 +237,7 @@
 			"src_corner_width"	"22"
 
 			"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"
+			"draw_corner_height"		"5"
 		}
 
 		"ServerChangeLabel"

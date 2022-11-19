@@ -741,7 +741,7 @@
 			"Command"						"motd_hide"
 			"paintbackground"				"0"
 			// "defaultFgColor_override"	"245 245 245 60"
-			// "armedFgColor_override" 	"46 43 42 255"
+			// "armedFgColor_override"		"46 43 42 255"
 			"defaultFgColor_override"		"46 43 42 255"
 			"armedFgColor_override"			"245 245 245 60"
 			"depressedFgColor_override"		"46 43 42 255"

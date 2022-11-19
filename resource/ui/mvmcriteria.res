@@ -283,7 +283,7 @@
 			"tall"			"28"
 			"mouseinputenabled" "0"
 
-			"pin_to_sibling" 		"MannUpTicketAd"
+			"pin_to_sibling"			"MannUpTicketAd"
 			"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
@@ -332,7 +332,7 @@
 			"tall"			"30"
 			"mouseinputenabled" "0"
 
-			"pin_to_sibling" 		"SquadSurplusTicketAd"
+			"pin_to_sibling"			"SquadSurplusTicketAd"
 			"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
@@ -479,7 +479,7 @@
 			"proportionaltoparent"	"1"
 			"drawcolor"	"255 255 255 255"
 
-			"pin_to_sibling" 		"MissingTicketsLabel"
+			"pin_to_sibling"			"MissingTicketsLabel"
 			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
 			"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
 		}

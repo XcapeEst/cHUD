@@ -22,7 +22,7 @@
 		"score_width"				"20"
 		"ping_width"				"25"
 		"killstreak_width"			"12"
-		"killstreak_image_width" 	"12"
+		"killstreak_image_width"		"12"
 	}
 
 
@@ -705,10 +705,10 @@
 		"textcolor"		"red"
 		//"show_columns"	"1"
 
- 		if_mvm
- 		{
- 			"visible"		"0"
- 		}
+			if_mvm
+			{
+				"visible"		"0"
+			}
 	}
 	"VerticalLine"
 	{

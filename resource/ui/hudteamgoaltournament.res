@@ -37,7 +37,7 @@
 			"src_corner_width"	"23"
 
 			"draw_corner_width"	"7"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"7"
+			"draw_corner_height"		"7"
 		}
 		"HudStopWatchObjectiveBGSmall"
 		{
@@ -59,7 +59,7 @@
 			"src_corner_width"	"23"
 
 			"draw_corner_width"	"7"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"7"
+			"draw_corner_height"		"7"
 		}
 		"HudStopWatchObjectiveLabel"
 		{

@@ -45,14 +45,14 @@
 
 event Hitmarker
 {
-	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker1 start
-	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker1 end
+	//# Animate Crosshair1 Alpha "255"		Linear 0.0 0.0		// CrosshairHitmarker1 start
+	//# Animate Crosshair1 Alpha "255"		Linear 0.0 0.950		// CrosshairHitmarker1 end
 
-	//# Animate Crosshair2 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker2 start
-	//# Animate Crosshair2 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker2 end
+	//# Animate Crosshair2 Alpha "255"		Linear 0.0 0.0		// CrosshairHitmarker2 start
+	//# Animate Crosshair2 Alpha "255"		Linear 0.0 0.950		// CrosshairHitmarker2 end
 
-	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker3 start
-	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker3 end
+	//# Animate Crosshair3 Alpha "255"		Linear 0.0 0.0		// CrosshairHitmarker3 start
+	//# Animate Crosshair3 Alpha "255"		Linear 0.0 0.950		// CrosshairHitmarker3 end
 
 }
 
@@ -66,11 +66,11 @@ event OpenWeaponSelectionMenu
 	StopEvent WeaponPickup				0.0
 
 	// make the display visible
-	Animate HudWeaponSelection Alpha 		"128"		Linear 0.0 0.1
-	Animate HudWeaponSelection SelectionAlpha 	"255"	Linear 0.0 0.1
+	Animate HudWeaponSelection Alpha			"128"		Linear 0.0 0.1
+	Animate HudWeaponSelection SelectionAlpha		"255"	Linear 0.0 0.1
 	Animate HudWeaponSelection FgColor		"FgColor"	Linear 0.0 0.1
 	//Animate HudWeaponSelection TextColor	"BrightFg"	Linear 0.0 0.1
-	Animate HudWeaponSelection TextScan		"1" 		Linear 0.0 0.1
+	Animate HudWeaponSelection TextScan		"1"			Linear 0.0 0.1
 }
 
 event CloseWeaponSelectionMenu
@@ -79,11 +79,11 @@ event CloseWeaponSelectionMenu
 	StopEvent WeaponPickup				0.0
 
 	// make the display visible
-	Animate HudWeaponSelection Alpha 		"128"		Linear 0.0 0.1
-	Animate HudWeaponSelection SelectionAlpha 	"255"	Linear 0.0 0.1
+	Animate HudWeaponSelection Alpha			"128"		Linear 0.0 0.1
+	Animate HudWeaponSelection SelectionAlpha		"255"	Linear 0.0 0.1
 	Animate HudWeaponSelection FgColor		"FgColor"	Linear 0.0 0.1
 	//Animate HudWeaponSelection TextColor	"BrightFg"	Linear 0.0 0.1
-	Animate HudWeaponSelection TextScan		"1" 		Linear 0.0 0.1
+	Animate HudWeaponSelection TextScan		"1"			Linear 0.0 0.1
 }
 
 
@@ -92,8 +92,8 @@ event MenuOpen
 	StopEvent	MenuClose 0.0 
 
 	// fade in
-	Animate HudMenu Alpha 		"255"		Linear 0.0 0.1
-	Animate HudMenu SelectionAlpha 	"255"		Linear 0.0 0.1
+	Animate HudMenu Alpha			"255"		Linear 0.0 0.1
+	Animate HudMenu SelectionAlpha		"255"		Linear 0.0 0.1
 	Animate HudMenu FgColor		"FgColor"		Linear 0.0 0.1
 	Animate HudMenu MenuColor		"MenuColor"	Linear  0.0 0.1
 	Animate HudMenu ItemColor		"ItemColor"	Linear 0.0 0.1
@@ -106,8 +106,8 @@ event MenuOpen
 event MenuClose
 {
 	// Hide it
-	Animate HudMenu Alpha 		"0" Linear 0.0 1
-	Animate HudMenu SelectionAlpha 	"0" Linear 0.0 1
+	Animate HudMenu Alpha			"0" Linear 0.0 1
+	Animate HudMenu SelectionAlpha		"0" Linear 0.0 1
 	Animate HudMenu FgColor		"0 0 0 0" Linear 0.0 1
 	Animate HudMenu MenuColor		"0 0 0 0" Linear 0.0 1
 	Animate HudMenu ItemColor		"0 0 0 0" Linear 0.0 1
@@ -172,24 +172,24 @@ event ResourcePickup
 event HintMessageShow
 {
 	Animate HudHintDisplay HintSize	"1"		Deaccel 0.0	0.3
-	Animate HudHintDisplay FgColor	"FgColor" 	Linear 0.4      0.4
+	Animate HudHintDisplay FgColor	"FgColor"		Linear 0.4	  0.4
 
 	// flash text
-	Animate HudHintDisplay FgColor	"FgColor" 	Linear 1.5 0.01
+	Animate HudHintDisplay FgColor	"FgColor"		Linear 1.5 0.01
 	Animate HudHintDisplay FgColor	"255 220 0 255" Linear 2.0 0.2
-	Animate HudHintDisplay FgColor	"FgColor" 	Linear 2.2 0.2
+	Animate HudHintDisplay FgColor	"FgColor"		Linear 2.2 0.2
 	Animate HudHintDisplay FgColor	"255 220 0 255" Linear 3.0 0.2
-	Animate HudHintDisplay FgColor	"FgColor" 	Linear 3.2 0.2
+	Animate HudHintDisplay FgColor	"FgColor"		Linear 3.2 0.2
 
 	// hide the panel after a while
-	Animate HudHintDisplay FgColor	"255 220 0 0"   Linear  10.0 	0.2
+	Animate HudHintDisplay FgColor	"255 220 0 0"   Linear  10.0		0.2
 	Animate HudHintDisplay HintSize	"0"		Deaccel 10.2	0.3
 }
 
 
 event HintMessageHide
 {
-	Animate HudHintDisplay FgColor	"255 220 0 0"   Linear  0.0 	0.2
+	Animate HudHintDisplay FgColor	"255 220 0 0"   Linear  0.0		0.2
 	Animate HudHintDisplay HintSize	"0"		Deaccel 0.2	0.3
 }
 
@@ -199,11 +199,11 @@ event KeyHintMessageShow
 	Animate HudHintKeyDisplay Alpha	255 Linear 0.0 0.5
 
 	// flash text
-	Animate HudHintKeyDisplay FgColor	"FgColor" 	Linear 0.0 0.01
+	Animate HudHintKeyDisplay FgColor	"FgColor"		Linear 0.0 0.01
 	Animate HudHintKeyDisplay FgColor	"255 220 0 255" Linear 0.5 0.2
-	Animate HudHintKeyDisplay FgColor	"FgColor" 	Linear 0.7 0.2
+	Animate HudHintKeyDisplay FgColor	"FgColor"		Linear 0.7 0.2
 	Animate HudHintKeyDisplay FgColor	"255 220 0 255" Linear 1.5 0.2
-	Animate HudHintKeyDisplay FgColor	"FgColor" 	Linear 1.7 0.2
+	Animate HudHintKeyDisplay FgColor	"FgColor"		Linear 1.7 0.2
 
 	// hide the panel after a while
 	Animate HudHintKeyDisplay Alpha	0 Linear 12.0 1.0
@@ -219,8 +219,8 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.2
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.2 0.4
+	Animate	PlayerStatusHealthBonusImage		Alpha		"255"		Linear 0.0 0.2
+	Animate	PlayerStatusHealthBonusImage		Alpha		"0"			Linear 0.2 0.4
 
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -242,8 +242,8 @@ event HudHealthBonusPulseStop
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.125 0.075
+	Animate	PlayerStatusHealthBonusImage		Alpha		"255"		Linear 0.0 0.075
+	Animate	PlayerStatusHealthBonusImage		Alpha		"0"			Linear 0.125 0.075
 
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
@@ -437,11 +437,11 @@ event HudTournamentSetupPanelClose
 
 event HudMedicCharged
 {
-	Animate	ChargeLabel 	FgColor		"TanLight"		Linear 0.0 0.1
-	Animate	ChargeLabel 	FgColor		"TanDarker"		Linear 0.3 0.4
+	Animate	ChargeLabel		FgColor		"TanLight"		Linear 0.0 0.1
+	Animate	ChargeLabel		FgColor		"TanDarker"		Linear 0.3 0.4
 
-	Animate	ChargeMeter 	FgColor		"TanLight"		Linear 0.0 0.1
-	Animate	ChargeMeter 	FgColor		"TanDarker"		Linear 0.3 0.4
+	Animate	ChargeMeter		FgColor		"TanLight"		Linear 0.0 0.1
+	Animate	ChargeMeter		FgColor		"TanDarker"		Linear 0.3 0.4
 
 	RunEvent HudMedicChargedLoop	0.6
 }
@@ -457,8 +457,8 @@ event HudMedicChargedStop
 	StopEvent HudMedicCharged 0.0
 	StopEvent HudMedicChargedLoop 0.0
 
-	Animate	ChargeLabel 	FgColor		"TanLight"		Linear 0.0 0.0001
-	Animate	ChargeMeter 	FgColor		"TanLight"		Linear 0.0 0.0001
+	Animate	ChargeLabel		FgColor		"TanLight"		Linear 0.0 0.0001
+	Animate	ChargeMeter		FgColor		"TanLight"		Linear 0.0 0.0001
 }
 
 //====================================
@@ -506,8 +506,8 @@ event ArenaVsPanelSlideOut
 //Cart Alarm Pulse
 event HudCartAlarmPulse
 {
-	Animate	EscortItemImageAlert 	Alpha		"160"		Linear 0.0 0.3
-	Animate	EscortItemImageAlert 	Alpha		"0"		Linear 0.6 0.3
+	Animate	EscortItemImageAlert		Alpha		"160"		Linear 0.0 0.3
+	Animate	EscortItemImageAlert		Alpha		"0"		Linear 0.6 0.3
 
 	RunEvent HudCartAlarmPulseLoop	1.2
 }
@@ -557,16 +557,16 @@ event TrainingHudBounce
 
 event TrainingPressSpacebarBlink
 {
-	Animate	PressSpacebarToContinue 	Alpha		"255"		Linear 0.0 0.1
-	Animate	PressSpacebarToContinue 	Alpha		"0"			Linear 0.2 0.1
+	Animate	PressSpacebarToContinue		Alpha		"255"		Linear 0.0 0.1
+	Animate	PressSpacebarToContinue		Alpha		"0"			Linear 0.2 0.1
 
-	Animate	PressSpacebarToContinue 	Alpha		"255"		Linear 0.4 0.1
-	Animate	PressSpacebarToContinue 	Alpha		"0"			Linear 0.6 0.1
+	Animate	PressSpacebarToContinue		Alpha		"255"		Linear 0.4 0.1
+	Animate	PressSpacebarToContinue		Alpha		"0"			Linear 0.6 0.1
 
-	Animate	PressSpacebarToContinue 	Alpha		"255"		Linear 0.8 0.1
-	Animate	PressSpacebarToContinue 	Alpha		"0"			Linear 1.0 0.1
+	Animate	PressSpacebarToContinue		Alpha		"255"		Linear 0.8 0.1
+	Animate	PressSpacebarToContinue		Alpha		"0"			Linear 1.0 0.1
 
-	Animate	PressSpacebarToContinue 	Alpha		"255"		Linear 1.2 0.1
+	Animate	PressSpacebarToContinue		Alpha		"255"		Linear 1.2 0.1
 
 	RunEvent TrainingPressSpacebarBlinkLoop		3.0
 }
@@ -579,23 +579,23 @@ event TrainingPressSpacebarBlinkLoop
 event TrainingPressSpacebarBlinkStop
 {
 	StopEvent TrainingPressSpacebarBlink			0.0
-	StopEvent TrainingPressSpacebarBlinkLoop 		0.0
+	StopEvent TrainingPressSpacebarBlinkLoop			0.0
 }
 
 //===========================================
 
 event IntroMovieContinueBlink
 {
-	Animate	continue 	Alpha		"255"		Linear 0.0 0.1
-	Animate	continue 	Alpha		"0"			Linear 0.2 0.1
+	Animate	continue		Alpha		"255"		Linear 0.0 0.1
+	Animate	continue		Alpha		"0"			Linear 0.2 0.1
 
-	Animate	continue 	Alpha		"255"		Linear 0.4 0.1
-	Animate	continue 	Alpha		"0"			Linear 0.6 0.1
+	Animate	continue		Alpha		"255"		Linear 0.4 0.1
+	Animate	continue		Alpha		"0"			Linear 0.6 0.1
 
-	Animate	continue 	Alpha		"255"		Linear 0.8 0.1
-	Animate	continue 	Alpha		"0"			Linear 1.0 0.1
+	Animate	continue		Alpha		"255"		Linear 0.8 0.1
+	Animate	continue		Alpha		"0"			Linear 1.0 0.1
 
-	Animate	continue 	Alpha		"255"		Linear 1.2 0.1
+	Animate	continue		Alpha		"255"		Linear 1.2 0.1
 
 	RunEvent IntroMovieContinueBlinkLoop		2.0
 }
@@ -608,23 +608,23 @@ event IntroMovieContinueBlinkLoop
 event IntroMovieContinueBlinkStop
 {
 	StopEvent IntroMovieContinueBlink			0.0
-	StopEvent IntroMovieContinueBlinkLoop 		0.0
+	StopEvent IntroMovieContinueBlinkLoop			0.0
 }
 
 //===========================================
 
 event HasMOTDBlink
 {
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.0 0.1
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"0"			Linear 0.2 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"255"		Linear 0.0 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"0"			Linear 0.2 0.1
 
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.4 0.1
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"0"			Linear 0.6 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"255"		Linear 0.4 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"0"			Linear 0.6 0.1
 
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.8 0.1
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"0"			Linear 1.0 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"255"		Linear 0.8 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"0"			Linear 1.0 0.1
 
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"255"		Linear 1.2 0.1
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"255"		Linear 1.2 0.1
 
 	RunEvent HasMOTDBlinkLoop		2.0
 }
@@ -637,24 +637,24 @@ event HasMOTDBlinkLoop
 event HasMOTDBlinkStop
 {
 	StopEvent HasMOTDBlink				0.0
-	StopEvent HasMOTDBlinkLoop 		0.0
-	Animate	MOTD_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.0 0.1
+	StopEvent HasMOTDBlinkLoop			0.0
+	Animate	MOTD_ShowButtonPanel_SB		Alpha		"255"		Linear 0.0 0.1
 }
 
 //===========================================
 
 event HasNotificationsBlink
 {
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.0 0.1
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"200"			Linear 0.2 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"255"		Linear 0.0 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"200"			Linear 0.2 0.1
 
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.4 0.1
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"200"			Linear 0.6 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"255"		Linear 0.4 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"200"			Linear 0.6 0.1
 
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.8 0.1
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"200"			Linear 1.0 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"255"		Linear 0.8 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"200"			Linear 1.0 0.1
 
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"255"		Linear 1.2 0.1
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"255"		Linear 1.2 0.1
 
 	RunEvent HasNotificationsBlinkLoop		2.0
 }
@@ -667,8 +667,8 @@ event HasNotificationsBlinkLoop
 event HasNotificationsBlinkStop
 {
 	StopEvent HasNotificationsBlink				0.0
-	StopEvent HasNotificationsBlinkLoop 		0.0
-	Animate	Notifications_ShowButtonPanel_SB 	Alpha		"255"		Linear 0.0 0.1
+	StopEvent HasNotificationsBlinkLoop			0.0
+	Animate	Notifications_ShowButtonPanel_SB		Alpha		"255"		Linear 0.0 0.1
 }
 
 //===========================================
@@ -678,35 +678,35 @@ event AddToCartBlink
 	Animate	CartButton	BgColor	"TanDark"		Linear 0.0 0.01
 	Animate	CartButton	BgColor	"255 150 0 255"	Linear 0.1 0.01
 
-	Animate	CartButton 	BgColor	"TanDark"		Linear 0.2 0.01
-	Animate	CartButton 	BgColor	"255 150 0 255"	Linear 0.3 0.01
+	Animate	CartButton		BgColor	"TanDark"		Linear 0.2 0.01
+	Animate	CartButton		BgColor	"255 150 0 255"	Linear 0.3 0.01
 
-	Animate	CartButton 	BgColor	"TanDark"		Linear 0.4 0.01
-	Animate	CartButton 	BgColor	"255 150 0 255"	Linear 0.5 0.01
+	Animate	CartButton		BgColor	"TanDark"		Linear 0.4 0.01
+	Animate	CartButton		BgColor	"255 150 0 255"	Linear 0.5 0.01
 
 	Animate	CartButton	BgColor	"TanDark"		Linear 0.6 0.01
 	Animate	CartButton	BgColor	"255 150 0 255"	Linear 0.7 0.01
 
-	Animate	CartButton 	BgColor	"TanDark"		Linear 0.8 0.01
-	Animate	CartButton 	BgColor	"255 150 0 255"	Linear 0.9 0.01
+	Animate	CartButton		BgColor	"TanDark"		Linear 0.8 0.01
+	Animate	CartButton		BgColor	"255 150 0 255"	Linear 0.9 0.01
 
-	Animate	CartButton 	BgColor	"TanDark"		Linear 1.0 0.01
+	Animate	CartButton		BgColor	"TanDark"		Linear 1.0 0.01
 }
 
 //===========================================
 
 event NotificationsPresentBlink
 {
-	Animate	NotificationsPresentPanel 	Alpha		"255"		Linear 0.0 0.1
-	Animate	NotificationsPresentPanel 	Alpha		"0"			Linear 0.2 0.1
+	Animate	NotificationsPresentPanel		Alpha		"255"		Linear 0.0 0.1
+	Animate	NotificationsPresentPanel		Alpha		"0"			Linear 0.2 0.1
 
-	Animate	NotificationsPresentPanel 	Alpha		"255"		Linear 0.4 0.1
-	Animate	NotificationsPresentPanel 	Alpha		"0"			Linear 0.6 0.1
+	Animate	NotificationsPresentPanel		Alpha		"255"		Linear 0.4 0.1
+	Animate	NotificationsPresentPanel		Alpha		"0"			Linear 0.6 0.1
 
-	Animate	NotificationsPresentPanel 	Alpha		"255"		Linear 0.8 0.1
-	Animate	NotificationsPresentPanel 	Alpha		"0"			Linear 1.0 0.1
+	Animate	NotificationsPresentPanel		Alpha		"255"		Linear 0.8 0.1
+	Animate	NotificationsPresentPanel		Alpha		"0"			Linear 1.0 0.1
 
-	Animate	NotificationsPresentPanel 	Alpha		"255"		Linear 1.2 0.1
+	Animate	NotificationsPresentPanel		Alpha		"255"		Linear 1.2 0.1
 
 	RunEvent NotificationsPresentBlinkLoop		2.0
 }
@@ -719,8 +719,8 @@ event NotificationsPresentBlinkLoop
 event NotificationsPresentBlinkStop
 {
 	StopEvent NotificationsPresentBlink				0.0
-	StopEvent NotificationsPresentBlinkLoop 		0.0
-	Animate	NotificationsPresentPanel 	Alpha		"255"		Linear 0.0 0.1
+	StopEvent NotificationsPresentBlinkLoop			0.0
+	Animate	NotificationsPresentPanel		Alpha		"255"		Linear 0.0 0.1
 }
 
 //===========================================
@@ -753,8 +753,8 @@ event SpyWarningFlashEnd
 
 event HudReadyPulse
 {
-	Animate	TournamentInstructionsLabel 	FgColor		"TanLight"		Linear 0.0 0.1
-	Animate	TournamentInstructionsLabel 	FgColor		"RedSolid"		Linear 0.3 0.4
+	Animate	TournamentInstructionsLabel		FgColor		"TanLight"		Linear 0.0 0.1
+	Animate	TournamentInstructionsLabel		FgColor		"RedSolid"		Linear 0.3 0.4
 
 	RunEvent HudReadyPulseLoop	0.5
 }
@@ -766,7 +766,7 @@ event HudReadyPulseLoop
 
 event HudReadyPulseEnd
 {
-	Animate	TournamentInstructionsLabel 	FgColor		"TanLight"		Linear 0.0 0.1
+	Animate	TournamentInstructionsLabel		FgColor		"TanLight"		Linear 0.0 0.1
 
 	StopEvent HudReadyPulse			0.0
 	StopEvent HudReadyPulseLoop		0.0
@@ -788,7 +788,7 @@ event RespecEarnedPulseLoop
 
 event RespecEarnedPulseEnd
 {
-	Animate	RespecTextLabelWin 	FgColor		"TanLight"		Linear 0.0 0.1
+	Animate	RespecTextLabelWin		FgColor		"TanLight"		Linear 0.0 0.1
 
 	StopEvent RespecEarnedPulse			0.0
 	StopEvent RespecEarnedPulseLoop		0.0
@@ -1262,7 +1262,7 @@ event QuestItem_Expand_Halloween
 	RunEventChild IdentifyButtonContainer QuestItem_Identify_Expand 0.4
 	RunEventChild TurnInContainer QuestItem_Complete_Expand 0.4
 	Animate FrontFolderContainer		ypos 240	Gain 0.75 0.4 0.4
-	Animate QuestPaperContainer			tall 300    Gain 0.75 0.4 0.4
+	Animate QuestPaperContainer			tall 300	Gain 0.75 0.4 0.4
 
 	RunEvent QuestItem_Options_Flash 1
 }

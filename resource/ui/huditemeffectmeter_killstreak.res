@@ -31,7 +31,7 @@
 		"fgcolor"				"245 245 245 235"
 		"border"				"noborder"
 		"textAlignment"			"WEST"
-		"wide" 					"82"
+		"wide"						"82"
 		"xpos"					"0"
 		"textinsetx"			"16"
 		"textinsety"			"0"
