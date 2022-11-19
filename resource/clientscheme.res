@@ -3,6 +3,15 @@ Scheme
 	Colors
 	{
 		// base colors
+		"cHUD1"									"222 252 180 255"
+		"cHUD2"									"139 213 170 255"
+		"cHUD3"									"56 160 150 255"
+		"cHUD4"									"37 127 124 255"
+		"cHUD5"									"140 128 115 255"
+		"cHUD6"									"102 94 87 255"
+		"cHUD7"									"164 74 63 255"
+		"cHUD8"									"62 113 163 255"
+
 		"Orange"								"178 82 22 255"
 		"OrangeDim"								"178 82 22 120"
 		"LightOrange"							"188 112 0 128"
@@ -27,12 +36,13 @@ Scheme
 		"softshadowdarker"						"245 245 245 235"
 		"OffWhiteTrans"							"216 216 216 125"
 
-		"softred"								"180 65 55 255"
-		"softred160"							"180 65 55 160"
-		"softblue"								"86 133 181 255"
+		"softred"								"164 74 63 255"
+		"softred160"							"164 74 63 160"
+		"softred200"							"164 74 63 200"
+		"softblue"								"62 113 163 255"
+		"softblue160"							"62 113 163 160"
+		"softblue200"							"62 113 163 200"
 
-		"softred200"							"180 65 55 255"
-		"softblue200"							"86 133 181 255"
 
 		"softorange"							"237 147 43 150"
 		"softgreen"								"60 163 115 255"
@@ -73,12 +83,12 @@ Scheme
 		"QuestMap_InactiveGrey"					"100 100 100 255"
 		"QuestMap_BGImages"						"56 58 60 255"
 
-		"PartyMember1"							"124 173 255 255"
-		"PartyMember2"							"99 232 167 255"
-		"PartyMember3"							"229 255 121 255"
-		"PartyMember4"							"232 184 99 255"
-		"PartyMember5"							"255 118 108 255"
-		"PartyMember6"							"255 133 255 255"
+		"PartyMember1"							"139 213 170 255"
+		"PartyMember2"							"139 213 170 255"
+		"PartyMember3"							"139 213 170 255"
+		"PartyMember4"							"139 213 170 255"
+		"PartyMember5"							"139 213 170 255"
+		"PartyMember6"							"139 213 170 255"
 
 		"White"									"235 235 235 255"
 		"Red"									"192 28 0 140"
@@ -167,8 +177,8 @@ Scheme
 
 		"ItemAttribLevel"						"245 245 245 110"
 		"ItemAttribNeutral"						"245 245 245 60"
-		"ItemAttribPositive"					"86 133 181 255"
-		"ItemAttribNegative"					"180 65 55 255"
+		"ItemAttribPositive"					"62 113 163 255"
+		"ItemAttribNegative"					"164 74 63 255"
 
 		"ItemSetName"							"225 255 15 255"
 		"ItemSetItemEquipped"					"149 175 12 255"

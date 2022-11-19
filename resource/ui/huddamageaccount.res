@@ -5,8 +5,8 @@
 		"fieldName"				"CDamageAccountPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"PositiveColor"			"39 196 124 255"
-		"NegativeColor"			"200 52 52 255" // Controlled by hud_combattext_red/green/blue
+		"PositiveColor"			"139 213 170 255"
+		"NegativeColor"			"164 74 63 255" // Controlled by hud_combattext_red/green/blue
 		"delta_lifetime"		"2"
 		"delta_item_font"		"Damage18"
 		"delta_item_font_big"	"Damage18"

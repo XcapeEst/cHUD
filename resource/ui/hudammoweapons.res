@@ -35,7 +35,7 @@
 		"tall"					"20"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"180 65 55 255"
+		"fillcolor"				"164 74 63 255"
 		"paintbackground"		"1"
 		"BgColor"				"0 0 0 152"
 	}
@@ -52,7 +52,7 @@
 		"tall"					"64"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"180 65 55 0"
+		"fillcolor"				"164 74 63 0"
 		"paintbackground"		"1"
 		"BgColor"				"0 0 0 152"
 	}
