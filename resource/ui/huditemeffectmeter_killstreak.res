@@ -13,7 +13,7 @@
 		"MeterBG"		"Grey"
 	}
 
-	"ItemEffectMeterLabel" // Hidden
+	"ItemEffectMeterLabel"	// Hidden
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"

@@ -330,7 +330,7 @@
 				"enabled"		"1"
 				"labeltext"		"%respawntime%"
 				"textAlignment"		"east"
-				"font"			"productbold10" //"DefaultVerySmall"
+				"font"			"productbold10"	//"DefaultVerySmall"
 				"fgcolor_override"		"softred"
 			}
 

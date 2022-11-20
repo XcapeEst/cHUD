@@ -1,6 +1,6 @@
 #base "MatchMakingDashboardSidePanel.res"
 
-"Resource/UI/MatchMakingDashboardPlayList.res" // Find a game side panel size and bg
+"Resource/UI/MatchMakingDashboardPlayList.res"	// Find a game side panel size and bg
 {
 
 	// MatchMakingDashboardSidePanel.res
@@ -19,7 +19,7 @@
 
 	// Mode Selection title
 
-	"Title" // Hidden
+	"Title"	// Hidden
 	{
 		"ControlName"			"Label"
 		"fieldName"				"Title"
@@ -65,7 +65,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
 	}
-	"DashboardDimmer" // Hidden
+	"DashboardDimmer"	// Hidden
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"DashboardDimmer"

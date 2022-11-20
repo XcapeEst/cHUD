@@ -39,7 +39,7 @@
 			"xpos"						"rs1-2"
 			"ypos"						"3"
 			"tall"						"f6"
-			"wide"						"3" // This gets slammed from client schme.  GG.
+			"wide"						"3"	// This gets slammed from client schme.  GG.
 			"zpos"						"1000"
 			"nobuttons"					"1"
 			"proportionaltoparent"		"1"

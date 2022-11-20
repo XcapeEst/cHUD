@@ -57,7 +57,7 @@
 		"assister"	"short"		// user ID of assister
 		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
-		"death_flags"	"short" //death flags.
+		"death_flags"	"short"	//death flags.
 		"silent_kill"	"bool"
 		"playerpenetratecount"	"short"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
@@ -65,10 +65,10 @@
 		"kill_streak_wep"		"short"	// Kill streak for killing weapon
 		"kill_streak_assist"	"short"	// Kill streak for assister count
 		"kill_streak_victim"	"short"	// Victims kill streak
-				"ducks_streaked"	"short" // Duck streak increment from this kill
-		"duck_streak_total"	"short" // Duck streak count for attacker
-		"duck_streak_assist"	"short" // Duck streak count for assister
-		"duck_streak_victim"	"short" // (former) duck streak count for victim
+				"ducks_streaked"	"short"	// Duck streak increment from this kill
+		"duck_streak_total"	"short"	// Duck streak count for attacker
+		"duck_streak_assist"	"short"	// Duck streak count for assister
+		"duck_streak_victim"	"short"	// (former) duck streak count for victim
 		"rocket_jump"		"bool"		// was the victim rocket jumping
 
 		"weapon_def_index"	"long"		// item def index of weapon killer used
@@ -842,8 +842,8 @@
 		"id"	"long"
 		"text"		"string"	// name (unlocalized)
 		"lifetime"	"float"
-		"visibilityBitfield"	"long" // bitfield of the players that can see this
-		"follow_entindex"	"long" // if this is set, follow this entity
+		"visibilityBitfield"	"long"	// bitfield of the players that can see this
+		"follow_entindex"	"long"	// if this is set, follow this entity
 		"show_distance"		"bool"
 		"play_sound"		"string"
 		"show_effect"		"bool"
@@ -1057,7 +1057,7 @@
 		"assister"	"short"		// user ID of assister
 		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
-		"death_flags"	"short" //death flags.
+		"death_flags"	"short"	//death flags.
 		"silent_kill"	"bool"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 	}
@@ -1076,7 +1076,7 @@
 		"assister"	"short"		// user ID of assister
 		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
-		"death_flags"	"short" //death flags.
+		"death_flags"	"short"	//death flags.
 		"silent_kill"	"bool"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 	}
@@ -1094,7 +1094,7 @@
 		"assister"	"short"		// user ID of assister
 		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
-		"death_flags"	"short" //death flags.
+		"death_flags"	"short"	//death flags.
 		"silent_kill"	"bool"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 	}
@@ -1113,7 +1113,7 @@
 		"assister"	"short"		// user ID of assister
 		"weapon_logclassname"	"string"		// weapon name that should be printed on the log
 		"stun_flags"	"short"	// victim's stun flags at the moment of death
-		"death_flags"	"short" //death flags.
+		"death_flags"	"short"	//death flags.
 		"silent_kill"	"bool"
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 		"totalhits"		"short"	// Number of hits his player has done
@@ -1269,20 +1269,20 @@
 
 	"party_chat"
 	{
-		"steamid"	"string" // steamID (64-bit value converted to string) of user who said or did the thing.  May be
+		"steamid"	"string"	// steamID (64-bit value converted to string) of user who said or did the thing.  May be
 						   // empty-string for system actor.
-		"text"	"string" // The message.  May have different meaning for some types
+		"text"	"string"	// The message.  May have different meaning for some types
 		"type"	"short"  // What sort of message?  ETFPartyChatType enum
 	}
 
 	"party_member_join"
 	{
-		"steamid"	"string" // steamID (64-bit value converted to string) of joined
+		"steamid"	"string"	// steamID (64-bit value converted to string) of joined
 	}
 
 	"party_member_leave"
 	{
-		"steamid"	"string" // steamID (64-bit value converted to string) of leaver
+		"steamid"	"string"	// steamID (64-bit value converted to string) of leaver
 	}
 
 	"lobby_updated"
@@ -1603,10 +1603,10 @@
 
 	"demoman_det_stickies"
 	{
-		"player"	"short" // entindex of the detonating player
+		"player"	"short"	// entindex of the detonating player
 	}
 
-	"quest_objective_completed" // For prediction
+	"quest_objective_completed"	// For prediction
 	{
 		"quest_item_id_low"			"long"
 		"quest_item_id_hi"			"long"
@@ -1895,26 +1895,26 @@
 	{
 		"dominator"	"short"	// userID of who gained domination
 		"dominated"	"short"	// userID of who got dominated
-		"dominations"	"short" // Number of dominations this dominator has
+		"dominations"	"short"	// Number of dominations this dominator has
 	}
 
 	"player_rocketpack_pushed"
 	{
-		"pusher"	"short" // userID of who pushed
+		"pusher"	"short"	// userID of who pushed
 		"pushed"	"short"	// userID of who got pushed
 	}
 
 	"quest_request"
 	{
 		"request"	"long"
-		"msg"		"string" // Protobuf serialized to a string
+		"msg"		"string"	// Protobuf serialized to a string
 	}
 
 	"quest_response"
 	{
 		"request"	"long"
 		"success"	"bool"
-		"msg"		"string" // Protobuf serialized to a string
+		"msg"		"string"	// Protobuf serialized to a string
 	}
 
 	"quest_progress"

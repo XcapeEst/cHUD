@@ -1,6 +1,6 @@
 #base "huditemeffectmeter.res"
 
-"Resource/UI/HudItemEffectMeter_Spy.res" // Spycicle
+"Resource/UI/HudItemEffectMeter_Spy.res"	// Spycicle
 {
 	HudItemEffectMeter
 	{

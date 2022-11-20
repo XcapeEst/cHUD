@@ -4,7 +4,7 @@
 
 "Resource/UI/MatchMakingDashboardCasualCriteria.res"	// CasualCriteria
 {
-	"CasualCriteria" // Main Element
+	"CasualCriteria"	// Main Element
 	{
 		"fieldName"				"CasualCriteria"
 		"xpos"					"r0"
@@ -108,7 +108,7 @@
 		"bgcolor_override"				"cHUD7"
 
 		"pin_to_sibling"				"QueueButton"
-		"pin_corner_to_sibling"			"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"			"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"			"PIN_TOPLEFT"
+		"pin_to_sibling_corner"			"PIN_TOPLEFT"
 	}
 }

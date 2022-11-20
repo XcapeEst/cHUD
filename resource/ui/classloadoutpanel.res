@@ -25,7 +25,7 @@
 		"item_xpos_offcenter_b"				"218"
 		"item_ypos"							"88"
 		"item_ydelta"						"54"
-		"item_xdelta"						"0" //58
+		"item_xdelta"						"0"	//58
 		"item_mod_wide"						"120"
 
 		"item_backpack_offcenter_x"			"0"
@@ -70,7 +70,7 @@
 				{
 				"use_item_rendertarget"		"0"
 				"allow_rot"					"0"
-				"inventory_image_type"		"0" // HQ images
+				"inventory_image_type"		"0"	// HQ images
 				"zpos"						"1"
 			}
 
@@ -88,7 +88,7 @@
 				"zpos"						"-100"
 				"wide"						"100"
 				"tall"						"100"
-				"visible"					"1" // RBSS
+				"visible"					"1"	// RBSS
 				"enabled"					"1"
 				"scaleImage"				"1"
 				"fillcolor"					"0 0 0 0"
@@ -124,7 +124,7 @@
 		}
 	}
 
-	"CaratLabel" // Just ">>" to indicate that you are editing loadouts
+	"CaratLabel"	// Just ">>" to indicate that you are editing loadouts
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"CaratLabel"

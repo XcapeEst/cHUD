@@ -20,7 +20,7 @@
 		"bgcolor_override"		"0 0 0 255"
 	}
 
-	"TitleGradient" // Hidden
+	"TitleGradient"	// Hidden
 	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"TitleGradient"
@@ -40,7 +40,7 @@
 		"image"					"replay\thumbnails\bg_blank"
 	}
 
-	"InnerGradient" // Hidden
+	"InnerGradient"	// Hidden
 	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"InnerGradient"
@@ -67,7 +67,7 @@
 		"image"					"replay\thumbnails\bg_blank"
 	}
 
-	"OuterGradient" // Hidden
+	"OuterGradient"	// Hidden
 	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"OuterGradient"
@@ -145,7 +145,7 @@
 
 	// Back button which appears when gamemode panel is open
 
-	"ReturnButton" // Hidden
+	"ReturnButton"	// Hidden
 	{
 		"ControlName"				"CExButton"
 		"fieldName"					"ReturnButton"
@@ -177,7 +177,7 @@
 	}
 
 
-	"BGPanel" // Hidden
+	"BGPanel"	// Hidden
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"BGPanel"

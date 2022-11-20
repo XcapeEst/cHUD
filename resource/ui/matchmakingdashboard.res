@@ -399,15 +399,15 @@
 				{
 					"0"
 					{
-						"font"	"product8" // TF2 Build 11
+						"font"	"product8"	// TF2 Build 11
 					}
 					"1"
 					{
-						"font"	"product8" // TF2 Build 10
+						"font"	"product8"	// TF2 Build 10
 					}
 					"2"
 					{
-						"font"	"product8" // TF2 Build 9
+						"font"	"product8"	// TF2 Build 9
 					}
 				}
 			}

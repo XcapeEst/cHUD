@@ -79,7 +79,7 @@
 		"tall"			"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"cHUD3" //use cHUD3 for green buffs
+		"fillcolor"		"cHUD3"	//use cHUD3 for green buffs
 	}
 
 	"PlayerStatusHealthValueMain2"

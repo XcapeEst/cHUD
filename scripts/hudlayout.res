@@ -1324,7 +1324,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"bgcolor_override"		"0 0 0 0"
-		"PaintBackgroundType"	"0" // rounded corners
+		"PaintBackgroundType"	"0"	// rounded corners
 	}
 
 	"HudAlert"
@@ -1348,7 +1348,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"bgcolor_override"		"0 0 0 0"
-		"PaintBackgroundType"	"0" // rounded corners
+		"PaintBackgroundType"	"0"	// rounded corners
 	}
 
 	CTFFlagCalloutPanel

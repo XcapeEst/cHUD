@@ -6,7 +6,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"PositiveColor"			"139 213 170 255"
-		"NegativeColor"			"164 74 63 255" // Controlled by hud_combattext_red/green/blue
+		"NegativeColor"			"164 74 63 255"	// Controlled by hud_combattext_red/green/blue
 		"delta_lifetime"		"2"
 		"delta_item_font"		"Damage18"
 		"delta_item_font_big"	"Damage18"

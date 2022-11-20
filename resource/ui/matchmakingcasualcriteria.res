@@ -188,7 +188,7 @@
 			"mouseinputenabled"	"0"
 		}
 
-		"SelectedCount" // Hidden
+		"SelectedCount"	// Hidden
 		{
 			"ControlName"			"Label"
 			"fieldName"				"SelectedCount"
@@ -247,7 +247,7 @@
 				"xpos"			"9999"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"3" // This gets slammed from client schme.  GG.
+				"wide"			"3"	// This gets slammed from client schme.  GG.
 				"zpos"			"1001"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"

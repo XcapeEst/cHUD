@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"		"vgui\replay\thumbnails\xhairs\xhair1" // Crosshair3 shape
+	"$basetexture"		"vgui\replay\thumbnails\xhairs\xhair1"	// Crosshair3 shape
 	"$startAngle"		"0"	// Crosshair3 angle
 	"$rotateSpeedDir"	"0"	// Crosshair3 rotate speed
 	"$rotateSpeed"		"0"

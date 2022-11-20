@@ -880,7 +880,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 0" //29 31 38 230
+		"fillcolor"		"0 0 0 0"	//29 31 38 230
 
 		if_mvm
 		{

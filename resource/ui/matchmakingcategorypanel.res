@@ -1,6 +1,6 @@
 "Resource/UI/MatchmakingCategoryPanel.res"
 {
-	"MatchmakingCategoryPanel" // Element containing all maps and gamemodes (pl_upward, Payload)
+	"MatchmakingCategoryPanel"	// Element containing all maps and gamemodes (pl_upward, Payload)
 	{
 		"fieldName"				"MatchmakingCategoryPanel"
 		"xpos"					"0"
@@ -27,7 +27,7 @@
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
-		"BGColor" // Not visible
+		"BGColor"	// Not visible
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGColor"
@@ -43,7 +43,7 @@
 			"proportionaltoparent"	"1"
 			"bgcolor_override"	"0 0 0 0"
 		}
-		"FGColor" // BG behind gamemode description
+		"FGColor"	// BG behind gamemode description
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"FGColor"

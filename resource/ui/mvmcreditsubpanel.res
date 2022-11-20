@@ -58,8 +58,8 @@
 		"fgcolor"		"cHUD3"
 
 		"pin_to_sibling"			"CreditCollectedTextLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"CreditMissedTextLabel"
@@ -76,8 +76,8 @@
 		"fgcolor"		"tanlight"
 
 		"pin_to_sibling"			"CreditCollectedTextLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"CreditMissedCountLabel"
@@ -94,8 +94,8 @@
 		"fgcolor"		"RedSolid"
 
 		"pin_to_sibling"			"CreditMissedTextLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"CreditBonusTextLabel"
@@ -112,8 +112,8 @@
 		"fgcolor"		"tanlight"
 
 		"pin_to_sibling"			"CreditMissedTextLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"CreditBonusCountLabel"
@@ -130,8 +130,8 @@
 		"fgcolor"		"cHUD3"
 
 		"pin_to_sibling"			"CreditBonusTextLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"CreditRatingLabelShadow"

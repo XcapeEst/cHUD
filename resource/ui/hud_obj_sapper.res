@@ -31,7 +31,7 @@
 		"iconColor"		"255 255 255 255"
 	}
 
-	"Icon" // Sapper Icon
+	"Icon"	// Sapper Icon
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Icon"
@@ -152,7 +152,7 @@
 			}
 		}
 
-		"RunningPanel" // Building icons and HP meter
+		"RunningPanel"	// Building icons and HP meter
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RunningPanel"

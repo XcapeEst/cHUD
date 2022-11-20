@@ -5,7 +5,7 @@
 		"fieldName"				"MatchmakingCategoryMapPanel"
 		"xpos"					"r0"
 		"ypos"					"0"
-		"wide"					"p0.5" // 0.502, otherwise there will be 1 pixel gap on the edge
+		"wide"					"p0.5"	// 0.502, otherwise there will be 1 pixel gap on the edge
 		"tall"					"16"
 		"proportionaltoparent"	"1"
 
@@ -26,7 +26,7 @@
 		"button_activation_type"	"1"
 	}
 
-	"MapNameLabel" // Casual map panel map titles
+	"MapNameLabel"	// Casual map panel map titles
 	{
 		"ControlName"			"Label"
 		"fieldName"				"MapNameLabel"

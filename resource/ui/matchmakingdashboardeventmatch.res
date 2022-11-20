@@ -150,7 +150,7 @@
 			"xpos"			"rs1-5"
 			"ypos"			"0"
 			"tall"			"f0"
-			"wide"			"5" // This gets slammed from client schme.  GG.
+			"wide"			"5"	// This gets slammed from client schme.  GG.
 			"zpos"			"1000"
 			"nobuttons"		"1"
 			"proportionaltoparent"	"1"

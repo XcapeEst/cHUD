@@ -44,8 +44,8 @@
 		"iconColor"		"255 255 255 255"
 
 		"pin_to_sibling"			"TitleLabel"
-		"pin_corner_to_sibling"	"PIN_CENTER_RIGHT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_CENTER_LEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_CENTER_RIGHT"
+		"pin_to_sibling_corner"	"PIN_CENTER_LEFT"
 	}
 
 	"TitleLabelDropshadow"
@@ -71,8 +71,8 @@
 		"bgcolor_override"		"0 0 0 230"
 
 		"pin_to_sibling"			"TitleLabel"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"TitleLabel"
@@ -101,8 +101,8 @@
 		"bgcolor_override"		"0 0 0 230"
 
 		"pin_to_sibling"			"active_item_1"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"CancelLabel"
 	{
@@ -128,8 +128,8 @@
 		"fgcolor_override"	"216 216 216 255"
 
 		"pin_to_sibling"			"active_item_4"
-		"pin_corner_to_sibling"	"PIN_CENTER_TOP" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 	}
 
 	"active_item_1"
@@ -144,8 +144,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_2"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"active_item_2"
@@ -160,8 +160,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_3"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"active_item_3"
@@ -176,8 +176,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_4"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"active_item_4"
@@ -204,8 +204,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"inactive_item_2"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"inactive_item_2"
@@ -220,8 +220,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"inactive_item_3"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"inactive_item_3"
@@ -236,8 +236,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"inactive_item_4"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"inactive_item_4"
@@ -264,8 +264,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_2"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"unavailable_item_2"
@@ -280,8 +280,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_3"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"unavailable_item_3"
@@ -296,8 +296,8 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_4"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"unavailable_item_4"
@@ -312,7 +312,7 @@
 		"visible"		"1"
 
 		"pin_to_sibling"			"active_item_4"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 }

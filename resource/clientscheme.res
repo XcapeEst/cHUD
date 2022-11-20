@@ -469,7 +469,7 @@ Scheme
 		"TeamRed"										"255 64 64 255"
 		"TeamBlue"										"153 204 255 255"
 
-		"MapDescriptionText"							"Gray" // the text used in the map description window
+		"MapDescriptionText"							"Gray"	// the text used in the map description window
 		"HudIcon_Green"									"0 160 0 255"
 		"HudIcon_Red"									"160 0 0 255"
 
@@ -540,7 +540,7 @@ Scheme
 				"tall"		"12"
 				"weight"	"500"
 				"underline"	"1"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"2"
 			{
@@ -612,7 +612,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
@@ -620,7 +620,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
@@ -628,7 +628,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
@@ -637,7 +637,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
@@ -646,7 +646,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
@@ -658,7 +658,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
@@ -666,7 +666,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"21"
 				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
@@ -674,7 +674,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
@@ -683,7 +683,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"28"
 				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
@@ -692,7 +692,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
@@ -1256,7 +1256,7 @@ Scheme
 				"weight"	"700"
 				"antialias"	"1"
 				"yres"		"1 599"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"additive"	"1"
 			}
 			"2"
@@ -1267,7 +1267,7 @@ Scheme
 				"weight"	"700"
 				"antialias"	"1"
 				"yres"		"600 767"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"additive"	"1"
 			}
 			"3"
@@ -1277,7 +1277,7 @@ Scheme
 				"weight"	"900"
 				"antialias"	"1"
 				"yres"		"768 1023"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"4"
 			{
@@ -1286,7 +1286,7 @@ Scheme
 				"weight"	"900"
 				"antialias"	"1"
 				"yres"		"1024 1199"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"5"
 			{
@@ -1295,7 +1295,7 @@ Scheme
 				"weight"	"1000"
 				"antialias"	"1"
 				"yres"		"1200 10000"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		DebugOverlay
@@ -1306,7 +1306,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
-				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	// Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"1"	[$X360]
 			{
@@ -1320,7 +1320,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"  	"tfd" // tfd.ttf
+				"name"  	"tfd"	// tfd.ttf
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"0"
@@ -1332,7 +1332,7 @@ Scheme
 		{
 			"1"
 			 {
-				"name"  	"Team Fortress" // tf.ttf
+				"name"  	"Team Fortress"	// tf.ttf
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
@@ -1356,7 +1356,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"  	"Team Fortress" // tf.ttf
+				"name"  	"Team Fortress"	// tf.ttf
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
@@ -1379,7 +1379,7 @@ Scheme
 				"tall"			"24"
 				"tall_hidef"	"32"
 				"weight"		"500"
-				"range"			"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"			"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_Italic"
@@ -1391,7 +1391,7 @@ Scheme
 				"tall_hidef"	"32"
 				"weight"		"500"
 				"italic"		"1"
-				"range"			"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"			"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_Bold"
@@ -1402,7 +1402,7 @@ Scheme
 				"tall"			"24"
 				"tall_hidef"	"32"
 				"weight"		"900"
-				"range"			"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"			"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -1414,7 +1414,7 @@ Scheme
 				"tall_hidef"	"32"
 				"weight"		"900"
 				"italic"		"1"
-				"range"			"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"			"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_Small"
@@ -1425,7 +1425,7 @@ Scheme
 				"tall"			"16"
 				"tall_hidef"	"24"
 				"weight"		"900"
-				"range"			"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"			"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 
@@ -1964,7 +1964,7 @@ Scheme
 				"name"		"TF2"
 				"tall"		"12"
 				"weight"	"500"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
 				"antialias"	"1"
 			}
@@ -1976,7 +1976,7 @@ Scheme
 				"name"		"TF2"
 				"tall"		"8"
 				"weight"	"500"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
 				"antialias"	"1"
 			}
@@ -2200,7 +2200,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 				"antialias"	"1"
 			}
@@ -2209,7 +2209,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 1199"
 				"antialias"	"1"
 			}
@@ -2218,7 +2218,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
@@ -2671,7 +2671,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
@@ -2679,7 +2679,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
@@ -2687,7 +2687,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
@@ -2696,7 +2696,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
@@ -2705,7 +2705,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"range"		"0x0000 0x017F"	//	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}

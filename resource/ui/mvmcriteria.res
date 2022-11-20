@@ -284,8 +284,8 @@
 			"mouseinputenabled"	"0"
 
 			"pin_to_sibling"			"MannUpTicketAd"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT" // Corner of this Element
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
 		"SquadSurplusTicketAd"
@@ -333,8 +333,8 @@
 			"mouseinputenabled"	"0"
 
 			"pin_to_sibling"			"SquadSurplusTicketAd"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT" // Corner of this Element
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
 		"SquadSurplusCheckButton"
@@ -480,8 +480,8 @@
 			"drawcolor"	"255 255 255 255"
 
 			"pin_to_sibling"			"MissingTicketsLabel"
-			"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-			"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
 	}
 

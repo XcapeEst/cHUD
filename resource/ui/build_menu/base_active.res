@@ -49,8 +49,8 @@
 		"textinsetx"		"12"
 
 		"pin_to_sibling"			"NumberLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"CostLabel"
@@ -75,8 +75,8 @@
 		"bgcolor_override"	"0 0 0 165"
 
 		"pin_to_sibling"			"ItemNameLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 
