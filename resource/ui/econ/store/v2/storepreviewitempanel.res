@@ -77,7 +77,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override" "0 0 0 128"
+		"bgcolor_override"	"0 0 0 128"
 	}
 
 	// Rounded dialog border
@@ -127,7 +127,7 @@
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
-			"bgcolor_override" "50 46 41 255"
+			"bgcolor_override"	"50 46 41 255"
 		}
 
 		// Rounded corners on the bottom of the footer
@@ -145,7 +145,7 @@
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
-			"bgcolor_override" "50 46 41 255"
+			"bgcolor_override"	"50 46 41 255"
 		}
 
 		"ItemNameLabel"
@@ -541,24 +541,24 @@
 		"fov"			"40"
 		"allow_rot"		"1"
 
-		"paintbackground" "1"
-		"paintbackgroundenabled" "1"
-		"bgcolor_override" "255 255 255 0"
+		"paintbackground"	"1"
+		"paintbackgroundenabled"	"1"
+		"bgcolor_override"	"255 255 255 0"
 
 		"model"
 		{
 			"force_pos"	"1"
 
-			"angles_x" "0"
-			"angles_y" "170"
-			"angles_z" "0"
-			"origin_x" "190"
-			"origin_y" "0"
-			"origin_z" "-36"
+			"angles_x"	"0"
+			"angles_y"	"170"
+			"angles_z"	"0"
+			"origin_x"	"190"
+			"origin_y"	"0"
+			"origin_z"	"-36"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "1"
+			"spotlight"	"1"
 
 			"modelname"		""
 		}
@@ -607,8 +607,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -624,7 +624,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "51 47 46 255"
+			"bgcolor_override"	"51 47 46 255"
 		}
 
 		"itempanel"
@@ -645,7 +645,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 		}
@@ -661,8 +661,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -678,7 +678,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "51 47 46 255"
+			"bgcolor_override"	"51 47 46 255"
 		}
 
 		"itempanel"
@@ -699,7 +699,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 		}
@@ -715,8 +715,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -732,7 +732,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "51 47 46 255"
+			"bgcolor_override"	"51 47 46 255"
 		}
 
 		"itempanel"
@@ -753,7 +753,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 		}
@@ -769,8 +769,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -786,7 +786,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "51 47 46 255"
+			"bgcolor_override"	"51 47 46 255"
 		}
 
 		"itempanel"
@@ -807,7 +807,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 		}
@@ -823,8 +823,8 @@
 		"wide"			"30"
 		"tall"			"20"
 		"visible"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -840,7 +840,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "51 47 46 255"
+			"bgcolor_override"	"51 47 46 255"
 		}
 
 		"itempanel"
@@ -861,7 +861,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 		}
@@ -878,8 +878,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -894,8 +894,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -910,8 +910,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -926,8 +926,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -942,8 +942,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -958,8 +958,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -1292,9 +1292,9 @@
 			"scaleImage"		"1"
 
 			"fgcolor"			"TanDark"
-			"defaultFgColor_override" "TanDark"
-			"armedFgColor_override" "TanDark"
-			"depressedFgColor_override" "TanDark"
+			"defaultFgColor_override"	"TanDark"
+			"armedFgColor_override"	"TanDark"
+			"depressedFgColor_override"	"TanDark"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1539,7 +1539,7 @@
 		"fgcolor"		"34 30 31 255"
 		"defaultBgColor_override"	"76 107 34 255"
 		"ArmedBgColor_override"	"86 117 44 255"
-		"depressedBgColor_override" "66 97 24 255"
+		"depressedBgColor_override"	"66 97 24 255"
 	}
 
 	"mouseoveritempanel"
@@ -1564,7 +1564,7 @@
 		"model_wide"	"150"
 		"model_tall"	"100"
 
-		"hide_collection_panel" "1"
+		"hide_collection_panel"	"1"
 		"model_center_x"	"1"
 
 		"name_only"			"1"

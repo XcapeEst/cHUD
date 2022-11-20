@@ -80,11 +80,11 @@
 		"font"			"product8"
 		"bgcolor_override"			"0 0 0 165"
 		"border"			"noborder"
-		"auto_wide_tocontents" "1"
+		"auto_wide_tocontents"	"1"
 
-		"pin_to_sibling" "ExampleAnchor"
-		"pin_corner_to_sibling" "4"
-		"pin_to_sibling_corner" "4"
+		"pin_to_sibling"	"ExampleAnchor"
+		"pin_corner_to_sibling"	"4"
+		"pin_to_sibling_corner"	"4"
 	}
 	"BuyBackLabel"
 	{
@@ -181,7 +181,7 @@
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
-			"use_item_rendertarget" "0"
+			"use_item_rendertarget"	"0"
 			"useparentbg"		"1"
 		}
 

@@ -23,7 +23,7 @@
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"
 		"command"	"prev"
-		"actionsignallevel" "2"
+		"actionsignallevel"	"2"
 
 		"defaultBgColor_override"	"0 0 0 150"
 		"armedBgColor_override"		"Orange"
@@ -58,7 +58,7 @@
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"
 		"command"	"next"
-		"actionsignallevel" "2"
+		"actionsignallevel"	"2"
 
 		"defaultBgColor_override"	"0 0 0 150"
 		"armedBgColor_override"		"Orange"

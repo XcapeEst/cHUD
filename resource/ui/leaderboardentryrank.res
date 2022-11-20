@@ -102,7 +102,7 @@
 			"scaleImage"	"1"
 			"labelText"		""
 			"proportionaltoparent"	"1"
-			"actionsignallevel" "4"
+			"actionsignallevel"	"4"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

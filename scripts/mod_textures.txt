@@ -1718,7 +1718,7 @@
 			"x"   "32"
 			"y"   "0"
 			"width"  "32"
-			"height" "32"
+			"height"	"32"
 		}
 
 		"obj_status_alert_background"
@@ -1869,7 +1869,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_soldier_red"
@@ -1878,7 +1878,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_pyro_red"
@@ -1887,7 +1887,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_demoman_red"
@@ -1896,7 +1896,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_heavy_red"
@@ -1905,7 +1905,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_engineer_red"
@@ -1914,7 +1914,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_medic_red"
@@ -1923,7 +1923,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_sniper_red"
@@ -1932,7 +1932,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_spy_red"
@@ -1941,7 +1941,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_scout_blu"
@@ -1950,7 +1950,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_soldier_blu"
@@ -1959,7 +1959,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_pyro_blu"
@@ -1968,7 +1968,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_demoman_blu"
@@ -1977,7 +1977,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_heavy_blu"
@@ -1986,7 +1986,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_engineer_blu"
@@ -1995,7 +1995,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_medic_blu"
@@ -2004,7 +2004,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_sniper_blu"
@@ -2013,7 +2013,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_spy_blu"
@@ -2022,7 +2022,7 @@
 			"x"		"0"
 			"y"		"0"
 			"width"	"128"
-			"height" "256"
+			"height"	"256"
 		}
 
 		"hud_menu_sentry_build"

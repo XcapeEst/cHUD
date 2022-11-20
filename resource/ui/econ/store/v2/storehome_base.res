@@ -16,8 +16,8 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"		"CollyHudDarkGrey"
-		"infocus_bgcolor_override" "CollyHudDarkGrey"
-		"outoffocus_bgcolor_override" "CollyHudDarkGrey"
+		"infocus_bgcolor_override"	"CollyHudDarkGrey"
+		"outoffocus_bgcolor_override"	"CollyHudDarkGrey"
 
 		"item_controls_xoffset"	"2"
 		"item_controls_yoffset"	"2"
@@ -73,20 +73,20 @@
 			"text_ypos"		"80"
 			"text_center"	"0"
 			"name_only"		"1"
-			"resize_to_text" "0"
-			"name_label_alignment" "3"
+			"resize_to_text"	"0"
+			"name_label_alignment"	"3"
 
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
-				"inventory_image_type" "1"
+				"inventory_image_type"	"1"
 			}
 
-			"use_item_sounds" "1"
+			"use_item_sounds"	"1"
 		}
 
 		"modelpanel_labels_kv"
@@ -103,7 +103,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 
-			"use_item_sounds" "1"
+			"use_item_sounds"	"1"
 		}
 
 		"cart_modelpanels_kv"
@@ -133,11 +133,11 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 
-			"use_item_sounds" "1"
+			"use_item_sounds"	"1"
 		}
 
 		"cart_labels_kv"
@@ -153,7 +153,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
-			"use_item_sounds" "1"
+			"use_item_sounds"	"1"
 		}
 	}
 
@@ -315,11 +315,11 @@
 			"font"			"HudFontSmallestBold"
 
 			"fgcolor"	"124 114 99 255"
-			"defaultBgColor_override" "38 35 33 255"
-			"defaultFgColor_override" "124 114 99 255"
-			"armedBgColor_override" "30 30 30 255"
-			"armedFgColor_override" "124 114 99 255"
-			"selectedBgColor_override" "10 10 10 255"
+			"defaultBgColor_override"	"38 35 33 255"
+			"defaultFgColor_override"	"124 114 99 255"
+			"armedBgColor_override"	"30 30 30 255"
+			"armedFgColor_override"	"124 114 99 255"
+			"selectedBgColor_override"	"10 10 10 255"
 			"selectedFgColor_override"	"235 227 203 255"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -376,7 +376,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override"	"200 80 60 255"
 	}
 
 	"NextPageButton"
@@ -506,7 +506,7 @@
 		"default"		"1"
 		"Command"		"marketplace"
 		"paintbackground"	"1"
-		"defaultBgColor_override" "46 43 42 255"
+		"defaultBgColor_override"	"46 43 42 255"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

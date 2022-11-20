@@ -7,7 +7,7 @@
 		"is_mouseover"			"1"
 		"text_xpos_collection"	"0"
 		"text_ypos"			"15"
-		"text_forcesize" "0"
+		"text_forcesize"	"0"
 		"text_xpos"		"15"
 		"text_wide"		"270"
 		//"model_xpos_collection"	"77"
@@ -74,7 +74,7 @@
 				"angles_x"		"10"
 				"angles_y"		"130"
 				"angles_z"		"0"
-				"spotlight" "1"
+				"spotlight"	"1"
 			}
 		}
 
@@ -151,10 +151,10 @@
 			"armedfgcolor_override"		"235 235 235 180"
 			"armedfgcolor"		"235 235 235 180"
 
-			"pin_to_sibling" "EquipPin"
+			"pin_to_sibling"	"EquipPin"
 
-			"pin_corner_to_sibling" "2"
-			"pin_to_sibling_corner" "3"
+			"pin_corner_to_sibling"	"2"
+			"pin_to_sibling_corner"	"3"
 		}
 		"EquipPin"
 		{
@@ -204,10 +204,10 @@
 			"visible"		"0"
 			"enabled"		"1"
 
-			"pin_to_sibling" "PaintPin"
+			"pin_to_sibling"	"PaintPin"
 
-			"pin_corner_to_sibling" "2"
-			"pin_to_sibling_corner" "3"
+			"pin_corner_to_sibling"	"2"
+			"pin_to_sibling_corner"	"3"
 
 		}
 
@@ -368,7 +368,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 

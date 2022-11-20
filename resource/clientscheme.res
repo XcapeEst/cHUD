@@ -539,7 +539,7 @@ Scheme
 				"name"		"Tahoma"
 				"tall"		"12"
 				"weight"	"500"
-				"underline" "1"
+				"underline"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"2"
@@ -719,7 +719,7 @@ Scheme
 				"name"		"product sans" 
 				"tall"		"13"
 				"weight"	"250"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"1"
 			}
 		}
@@ -732,7 +732,7 @@ Scheme
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		HudHintText
@@ -802,7 +802,7 @@ Scheme
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"768 1023"
 			}
 			"4"
@@ -811,7 +811,7 @@ Scheme
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1024 1199"
 			}
 			"5"
@@ -820,7 +820,7 @@ Scheme
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1200 10000"
 			}
 		}
@@ -858,7 +858,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumBig"
@@ -869,7 +869,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumBigBold"
@@ -880,7 +880,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMedium"
@@ -891,7 +891,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumSecondary"
@@ -902,7 +902,7 @@ Scheme
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumBold"
@@ -913,7 +913,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumSmallBold"
@@ -924,7 +924,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumSmall"
@@ -935,7 +935,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontMediumSmallSecondary"
@@ -946,7 +946,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontSmall"
@@ -957,7 +957,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontSmallishBold"
@@ -968,7 +968,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontSmallBold"
@@ -979,7 +979,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontSmallBoldShadow"
@@ -990,7 +990,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontSmallest"
@@ -1010,7 +1010,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudFontSmallestBold"
@@ -1021,7 +1021,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"PerformanceModeSmall"
@@ -1032,7 +1032,7 @@ Scheme
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"StorePromotionsTitle"
@@ -1043,7 +1043,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"FontCartPrice"
@@ -1054,7 +1054,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"FontStorePrice"
@@ -1065,7 +1065,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"FontStoreOriginalPrice"
@@ -1076,7 +1076,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"FontStorePriceSmall"
@@ -1087,7 +1087,7 @@ Scheme
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"FontStorePromotion"
@@ -1098,7 +1098,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"TextTooltipFont"
@@ -1109,7 +1109,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		GameUIButtons
@@ -1184,7 +1184,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"HudClassHealth"
@@ -1208,7 +1208,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ClockSubText"
@@ -1219,7 +1219,7 @@ Scheme
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ClockSubTextSuddenDeath"
@@ -1254,7 +1254,7 @@ Scheme
 				"name"		"TF2"
 				"tall"		"15"
 				"weight"	"700"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1 599"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"additive"	"1"
@@ -1265,7 +1265,7 @@ Scheme
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"600 767"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"additive"	"1"
@@ -1275,7 +1275,7 @@ Scheme
 				"name"		"TF2"
 				"tall"		"18"
 				"weight"	"900"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"768 1023"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1284,7 +1284,7 @@ Scheme
 				"name"		"TF2"
 				"tall"		"21"
 				"weight"	"900"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1024 1199"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1293,7 +1293,7 @@ Scheme
 				"name"		"TF2"
 				"tall"		"24"
 				"weight"	"1000"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1200 10000"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1324,7 +1324,7 @@ Scheme
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -1336,7 +1336,7 @@ Scheme
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"BetaFont"
@@ -1347,7 +1347,7 @@ Scheme
 				"tall"		"90"
 				"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
 			}
 		}
@@ -1360,7 +1360,7 @@ Scheme
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 			"2"
 			{
@@ -1368,7 +1368,7 @@ Scheme
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -1460,7 +1460,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"24"
-				"antialias" "1"
+				"antialias"	"1"
 				"weight"	"500"
 			}
 		}
@@ -1472,7 +1472,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"MenuKeys"
@@ -1481,7 +1481,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"12"
-				"antialias" "1"
+				"antialias"	"1"
 				"weight"	"500"
 			}
 		}
@@ -1494,7 +1494,7 @@ Scheme
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -1563,7 +1563,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardVerySmall"
@@ -1574,7 +1574,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardSmall"
@@ -1585,7 +1585,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardMediumSmall"
@@ -1596,7 +1596,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
 			}
 		}
@@ -1608,7 +1608,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardTeamName"
@@ -1619,7 +1619,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardTeamCountNew"
@@ -1630,7 +1630,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardTeamNameNew"
@@ -1641,7 +1641,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ScoreboardTeamNameLarge"
@@ -1700,7 +1700,7 @@ Scheme
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"768 1023"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 			"4"
 			{
@@ -1709,7 +1709,7 @@ Scheme
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"1024 1199"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 			"5"
 			{
@@ -1718,7 +1718,7 @@ Scheme
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"1200 10000"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"MatchSummaryTeamScores"
@@ -1729,7 +1729,7 @@ Scheme
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
 			}
 		}
@@ -1741,7 +1741,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"MatchSummaryWinner"
@@ -1752,7 +1752,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"CompMatchStartTeamNames"
@@ -1763,7 +1763,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ControlPointTimer"
@@ -1774,7 +1774,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ControlPointTimerSmaller"
@@ -1785,7 +1785,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -1797,7 +1797,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"300"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -1966,7 +1966,7 @@ Scheme
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		CapPlayerFontSmall
@@ -1978,7 +1978,7 @@ Scheme
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2003,7 +2003,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2016,7 +2016,7 @@ Scheme
 				"tall"		"9"  [$OSX]
 				"weight"	"800"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2124,7 +2124,7 @@ Scheme
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"TeamMenu"
@@ -2135,7 +2135,7 @@ Scheme
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"IntroMenuCaption"
@@ -2146,7 +2146,7 @@ Scheme
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"AchievementNotification"
@@ -2156,7 +2156,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"14"
 				"weight"	"900"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ImportToolSmallestBold"
@@ -2167,7 +2167,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"600"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ImportToolSmallest"
@@ -2178,7 +2178,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"SpectatorVerySmall"
@@ -2189,7 +2189,7 @@ Scheme
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
@@ -2232,7 +2232,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontNameSmall"
@@ -2243,7 +2243,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontNameLarge"
@@ -2254,7 +2254,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontNameLarger"
@@ -2265,7 +2265,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontAttribSmallest"
@@ -2275,7 +2275,7 @@ Scheme
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		ItemFontAttribSmallv2
@@ -2285,7 +2285,7 @@ Scheme
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontAttribSmall"
@@ -2295,7 +2295,7 @@ Scheme
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontAttribLarge"
@@ -2305,7 +2305,7 @@ Scheme
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontAttribLarger"
@@ -2315,7 +2315,7 @@ Scheme
 				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2327,7 +2327,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"AchievementTracker_NameGlow"
@@ -2338,7 +2338,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"AchievementTracker_Desc"
@@ -2349,7 +2349,7 @@ Scheme
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"QuestObjectiveTracker_Desc"
@@ -2360,7 +2360,7 @@ Scheme
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"QuestObjectiveTracker_DescGlow"
@@ -2370,7 +2370,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"QuestObjectiveTracker_DescBlur"
@@ -2382,7 +2382,7 @@ Scheme
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemTrackerScore_InGame"
@@ -2392,7 +2392,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2466,7 +2466,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2476,7 +2476,7 @@ Scheme
 			{
 				"name"		"TF2 Professor"
 				"tall"		"20"
-				"antialias" "1"
+				"antialias"	"1"
 				"custom"	"1" [$OSX]
 				"weight"	"500"
 			}
@@ -2586,7 +2586,7 @@ Scheme
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2598,7 +2598,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2610,7 +2610,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2622,7 +2622,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"AdFont_PurchaseButton"
@@ -2632,7 +2632,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2643,7 +2643,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"400"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
 			}
 		}
@@ -2655,7 +2655,7 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"9"
 				"weight"	"400"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
 				"italic"	"1"
 			}
@@ -2718,7 +2718,7 @@ Scheme
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ReplaySmaller"
@@ -2782,7 +2782,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ReplayMedium"
@@ -2793,7 +2793,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ReplayMediumBig"
@@ -2804,7 +2804,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ReplayBrowserTab"
@@ -2815,7 +2815,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ReplayLarger"
@@ -2826,7 +2826,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2841,7 +2841,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"EconFontMedium"
@@ -2852,7 +2852,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2864,7 +2864,7 @@ Scheme
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
 			}
 		}
@@ -2877,7 +2877,7 @@ Scheme
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2889,7 +2889,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2901,7 +2901,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2913,7 +2913,7 @@ Scheme
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2926,7 +2926,7 @@ Scheme
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2938,7 +2938,7 @@ Scheme
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2950,7 +2950,7 @@ Scheme
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2962,7 +2962,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -2974,7 +2974,7 @@ Scheme
 				"tall"		"30"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"Damage18"
@@ -2983,7 +2983,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"18"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"Damage18Outline"
@@ -2992,7 +2992,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"18"
-				"antialias" "1"
+				"antialias"	"1"
 				"outline"	"1"
 			}
 		}
@@ -3002,7 +3002,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"19"
-				"antialias" "1"
+				"antialias"	"1"
 				"outline"	"1"
 			}
 		}
@@ -3012,7 +3012,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"20"
-				"antialias" "1"
+				"antialias"	"1"
 				"outline"	"1"
 			}
 		}
@@ -3022,7 +3022,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"21"
-				"antialias" "1"
+				"antialias"	"1"
 				"outline"	"1"
 			}
 		}
@@ -3032,7 +3032,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"22"
-				"antialias" "1"
+				"antialias"	"1"
 				"outline"	"1"
 			}
 		}
@@ -3042,7 +3042,7 @@ Scheme
 			{
 				"name"		"Product Sans Bold"
 				"tall"		"23"
-				"antialias" "1"
+				"antialias"	"1"
 				"outline"	"1"
 			}
 		}
@@ -3053,9 +3053,9 @@ Scheme
 			{
 				"name"		"BlankSerif"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"icons8"
@@ -3064,9 +3064,9 @@ Scheme
 			{
 				"name"		"Segoe MDL2 Assets"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"blocks"
@@ -3075,9 +3075,9 @@ Scheme
 			{
 				"name"		"blocks blocks"
 				"tall"		"200"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product8"
@@ -3086,9 +3086,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product6"
@@ -3097,9 +3097,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"6"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product7"
@@ -3108,9 +3108,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"7"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product8ds"
@@ -3119,9 +3119,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"dropshadow" "1"
+				"dropshadow"	"1"
 			}
 		}
 		"productsans8"
@@ -3130,9 +3130,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product9"
@@ -3141,9 +3141,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"9"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product10"
@@ -3152,9 +3152,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"10"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product11"
@@ -3163,9 +3163,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"11"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -3176,9 +3176,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"7"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs8"
@@ -3187,9 +3187,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs9"
@@ -3198,9 +3198,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"9"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs10"
@@ -3209,9 +3209,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"10"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs11"
@@ -3220,9 +3220,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"11"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs12"
@@ -3231,9 +3231,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"12"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs13"
@@ -3242,9 +3242,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"13"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs14"
@@ -3253,9 +3253,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"14"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs16"
@@ -3264,9 +3264,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"16"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs18"
@@ -3275,9 +3275,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"18"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs20"
@@ -3286,9 +3286,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"20"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs22"
@@ -3297,9 +3297,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"22"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"qs24"
@@ -3308,9 +3308,9 @@ Scheme
 		  {
 				"name"		"Product Sans"
 				"tall"		"24"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 
@@ -3321,9 +3321,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"10"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product12blur"
@@ -3332,10 +3332,10 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"10"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur" 		"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product13"
@@ -3344,9 +3344,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"13"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product14"
@@ -3355,9 +3355,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"14"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product16"
@@ -3366,9 +3366,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"16"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product18"
@@ -3377,9 +3377,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"18"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product20"
@@ -3388,9 +3388,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"20"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product22"
@@ -3399,9 +3399,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"22"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product24"
@@ -3410,9 +3410,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"24"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product26"
@@ -3421,9 +3421,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"26"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product26DS"
@@ -3443,9 +3443,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"28"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"product30"
@@ -3454,9 +3454,9 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"30"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 
@@ -3466,9 +3466,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3478,9 +3478,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3490,9 +3490,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"8"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"2"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3502,9 +3502,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"9"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3514,9 +3514,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"10"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3526,10 +3526,10 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"10"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur" 		"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3539,9 +3539,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"11"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3551,9 +3551,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"12"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold13"
@@ -3562,9 +3562,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"13"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3574,9 +3574,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"14"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3586,9 +3586,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"15"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold16"
@@ -3597,9 +3597,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"16"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 
 		}
@@ -3609,9 +3609,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"16"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
 		  }
 		}
@@ -3621,9 +3621,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"18"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold18blur"
@@ -3632,9 +3632,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"18"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
 		  }
 		}
@@ -3644,9 +3644,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"20"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold20blur"
@@ -3655,9 +3655,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"20"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
 		  }
 		}
@@ -3667,9 +3667,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"22"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold22blur"
@@ -3678,9 +3678,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"22"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
 		  }
 		}
@@ -3690,9 +3690,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"24"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
 		  }
 		}
@@ -3702,9 +3702,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"24"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold26"
@@ -3713,9 +3713,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"26"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold26blur"
@@ -3724,9 +3724,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"26"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
 		  }
 		}
@@ -3736,9 +3736,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"28"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold32"
@@ -3747,9 +3747,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"32"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold32Blur"
@@ -3758,9 +3758,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"32"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold34"
@@ -3769,9 +3769,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"34"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold34Blur"
@@ -3780,9 +3780,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"34"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold36"
@@ -3791,9 +3791,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"36"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold36Blur"
@@ -3802,9 +3802,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"36"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold38"
@@ -3813,9 +3813,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"38"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold38Blur"
@@ -3824,9 +3824,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"38"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold40"
@@ -3835,9 +3835,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"40"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold40Blur"
@@ -3846,9 +3846,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"40"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold42"
@@ -3857,9 +3857,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"42"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold42Blur"
@@ -3868,9 +3868,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"42"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold44"
@@ -3879,9 +3879,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"44"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold44Blur"
@@ -3890,9 +3890,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"44"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold46"
@@ -3901,9 +3901,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"46"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold46Blur"
@@ -3912,9 +3912,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"46"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold48"
@@ -3923,9 +3923,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"48"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold48Blur"
@@ -3934,9 +3934,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"48"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold50"
@@ -3945,9 +3945,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"50"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold50Blur"
@@ -3956,9 +3956,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"50"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold52"
@@ -3967,9 +3967,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"52"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold52Blur"
@@ -3978,9 +3978,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"52"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold54"
@@ -3989,9 +3989,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"54"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold54Blur"
@@ -4000,9 +4000,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"54"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold56"
@@ -4011,9 +4011,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"56"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold56Blur"
@@ -4022,9 +4022,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"56"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold58"
@@ -4033,9 +4033,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"58"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold58Blur"
@@ -4044,9 +4044,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"58"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold60"
@@ -4055,9 +4055,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"60"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold60Blur"
@@ -4066,9 +4066,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"60"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold62"
@@ -4077,9 +4077,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"57"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold62Blur"
@@ -4088,9 +4088,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"62"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold64"
@@ -4099,9 +4099,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"64"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold64Blur"
@@ -4110,9 +4110,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"64"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold66"
@@ -4121,9 +4121,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"66"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold66Blur"
@@ -4132,9 +4132,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"66"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold68"
@@ -4143,9 +4143,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"68"
-				"antialias" "1"
+				"antialias"	"1"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 		"ProductBold68Blur"
@@ -4154,9 +4154,9 @@ Scheme
 		  {
 				"name"		"Product Sans Bold"
 				"tall"		"68"
-				"antialias" "1"
+				"antialias"	"1"
 				"blur"		"1"
-				"antialias" "1"
+				"antialias"	"1"
 		  }
 		}
 	}
@@ -4169,7 +4169,7 @@ Scheme
 	{
 		NoBorder
 		{
-			"inset" "0 0 0 0"
+			"inset"	"0 0 0 0"
 			Left
 			{
 				"1"
@@ -7448,19 +7448,19 @@ Scheme
 	// For TF2: Any special character will need to be added to our font file
 	CustomFontFiles
 	{
-		"1" "resource/tf.ttf"
-		"2" "resource/tfd.ttf"
+		"1"	"resource/tf.ttf"
+		"2"	"resource/tfd.ttf"
 		"3"
 		{
 			"font" 		"resource/TF2.ttf"
 			"name" 		"TF2"
 			"russian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 			"polish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 		}
 		"4" 
@@ -7469,11 +7469,11 @@ Scheme
 			"name" 		"TF2 Secondary"
 			"russian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 			"polish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 		}
 		"5" 
@@ -7482,11 +7482,11 @@ Scheme
 			"name"		"TF2 Professor"
 			"russian"
 			{
-				"range" "0x0000 0x00FF"
+				"range"	"0x0000 0x00FF"
 			}
 			"polish"
 			{
-				"range" "0x0000 0x00FF"
+				"range"	"0x0000 0x00FF"
 			}
 		}
 		"6" 
@@ -7495,37 +7495,37 @@ Scheme
 			"name" 		"TF2 Build"
 			"russian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 			"polish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 			"turkish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range"	"0x0000 0xFFFF"
 			}
 		}
-		"7" "resource/ocra.ttf"
+		"7"	"resource/ocra.ttf"
 		"12"
 		{
-			"font" "resource/fonts/Blank.ttf"
-			"name" "BlankSerif"
+			"font"	"resource/fonts/Blank.ttf"
+			"name"	"BlankSerif"
 		}
 		"13"
 		{
-			"font" "resource/fonts/Product Sans.ttf"
-			"name" "Product Sans"
+			"font"	"resource/fonts/Product Sans.ttf"
+			"name"	"Product Sans"
 		}
 		"14"
 		{
-			"font" "resource/fonts/ProductSansBold.ttf"
-			"name" "Product Sans Bold"
+			"font"	"resource/fonts/ProductSansBold.ttf"
+			"name"	"Product Sans Bold"
 		}
 		"15"
 		{
-			"font" "resource/fonts/Blocks-Blocks.ttf"
-			"name" "blocks"
+			"font"	"resource/fonts/Blocks-Blocks.ttf"
+			"name"	"blocks"
 		}
 	}
 }

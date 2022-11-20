@@ -155,9 +155,9 @@
 		"default"		"1"
 		"font"			"product8"
 
-		"pin_to_sibling" "Anchor"
-		"pin_corner_to_sibling" "3"
-		"pin_to_sibling_corner" "2"
+		"pin_to_sibling"	"Anchor"
+		"pin_corner_to_sibling"	"3"
+		"pin_to_sibling_corner"	"2"
 	}
 	"ok2"
 	{
@@ -192,12 +192,12 @@
 		{
 			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
 			"skin"		"0"
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "290"
-			"origin_y" "0"
-			"origin_z" "-39"
+			"angles_x"	"0"
+			"angles_y"	"180"
+			"angles_z"	"0"
+			"origin_x"	"290"
+			"origin_y"	"0"
+			"origin_z"	"-39"
 		}
 	}
 

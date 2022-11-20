@@ -30,7 +30,7 @@
 		"enabled"		"1"
 		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override" "0 0 0 128"
+		"bgcolor_override"	"0 0 0 128"
 	}
 
 	// Rounded dialog border
@@ -81,7 +81,7 @@
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
-			"bgcolor_override" "50 46 41 255"
+			"bgcolor_override"	"50 46 41 255"
 		}
 
 		// Rounded corners on the bottom of the footer
@@ -99,7 +99,7 @@
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
-			"bgcolor_override" "50 46 41 255"
+			"bgcolor_override"	"50 46 41 255"
 		}
 
 		"MapsDescLabel"

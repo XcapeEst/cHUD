@@ -76,7 +76,7 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"Command"		"toggle_hide"
-				"proportionaltoparent" "1"
+				"proportionaltoparent"	"1"
 				"actionsignallevel"	"2"
 
 				"paintbackground"	"0"
@@ -99,7 +99,7 @@
 					"enabled"		"1"
 					"image"			"glyph_store"
 					"scaleImage"	"1"
-					"proportionaltoparent" "1"
+					"proportionaltoparent"	"1"
 				}
 			} // HideButton
 
@@ -126,7 +126,7 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"Command"		"toggle_hide"
-				"proportionaltoparent" "1"
+				"proportionaltoparent"	"1"
 				"actionsignallevel"	"2"
 
 				"paintbackground"	"0"
@@ -149,7 +149,7 @@
 					"enabled"		"1"
 					"image"			"glyph_store"
 					"scaleImage"	"1"
-					"proportionaltoparent" "1"
+					"proportionaltoparent"	"1"
 				}
 			} // HideButton
 

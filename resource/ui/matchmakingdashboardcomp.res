@@ -102,7 +102,7 @@
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"
 		"showtooltipswhenmousedisabled"	"1"
-		"proportionaltoparent" "1"
+		"proportionaltoparent"	"1"
 	}
 
 	"QueueButton"

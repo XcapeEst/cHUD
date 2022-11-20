@@ -92,7 +92,7 @@
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"
 		"showtooltipswhenmousedisabled"	"1"
-		"proportionaltoparent" "1"
+		"proportionaltoparent"	"1"
 	}
 
 	"ModeButton"
@@ -108,14 +108,14 @@
 		"enabled"		"1"
 		"labelText"		"%button_token%"
 		"textinsetx"	"6"
-		"use_proportional_insets" "1"
+		"use_proportional_insets"	"1"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"command"		"%button_command%"
-		"proportionaltoparent" "1"
+		"proportionaltoparent"	"1"
 		"actionsignallevel"	"2"
 
 		//"border_default"		"MainMenuMiniButtonDefault"
@@ -175,7 +175,7 @@
 		"ypos"			"76"
 		"textinsetx"			"6"
 		"textinsety"			"6"
-		"use_proportional_insets" "1"
+		"use_proportional_insets"	"1"
 		"zpos"			"2"
 		"wide"			"120"
 		"tall"			"50"
@@ -184,9 +184,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "TanLight60"
-		"bgcolor_override" "0 0 0 165"
-		"proportionaltoparent" "1"
+		"fgcolor_override"	"TanLight60"
+		"bgcolor_override"	"0 0 0 165"
+		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 	}
 
@@ -207,8 +207,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "0 0 0 0"
-		"proportionaltoparent" "1"
+		"fgcolor_override"	"0 0 0 0"
+		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 	}
 
@@ -232,12 +232,12 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
-		"defaultBgColor_override" "0 0 0 0"
-		"armedBgColor_override" "0 0 0 0"
-		"depressedBgColor_override" "0 0 0 0"
+		"defaultFgColor_override"	"46 43 42 255"
+		"armedFgColor_override"	"235 226 202 255"
+		"depressedFgColor_override"	"46 43 42 255"
+		"defaultBgColor_override"	"0 0 0 0"
+		"armedBgColor_override"	"0 0 0 0"
+		"depressedBgColor_override"	"0 0 0 0"
 
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"235 140 140 255"
@@ -254,7 +254,7 @@
 			"enabled"		"1"
 			"image"			"locked_icon"
 			"scaleImage"	"1"
-			"proportionaltoparent" "1"
+			"proportionaltoparent"	"1"
 		}
 	}
 }

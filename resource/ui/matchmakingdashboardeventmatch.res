@@ -125,7 +125,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"enabled"		"1"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -188,7 +188,7 @@
 			"zpos"			"2"
 			"wide"			"f0"
 			"tall"			"300"
-			"wrap" "1"
+			"wrap"	"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 			"auto_tall_tocontents"	"1"
@@ -209,7 +209,7 @@
 		"mouseinputenabled"	"1"
 		"eatmouseinput"	"0"
 		"showtooltipswhenmousedisabled"	"1"
-		"proportionaltoparent" "1"
+		"proportionaltoparent"	"1"
 	}
 
 	"QueueButton"

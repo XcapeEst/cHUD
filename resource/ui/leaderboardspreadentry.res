@@ -125,7 +125,7 @@
 				"enabled"			"1"
 				"fgcolor_override"	"89 81 71 255"
 				"bgcolor_override"	"196 145 38 255"
-				"proportionaltoparent" "1"
+				"proportionaltoparent"	"1"
 
 				"variable"			"var_progress"
 			}

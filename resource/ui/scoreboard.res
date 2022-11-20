@@ -1339,7 +1339,7 @@
 		"labelText"		"%spectators%"
 		"textAlignment"		"center"
 
-		"auto_wide_tocontents" "1"
+		"auto_wide_tocontents"	"1"
 		"textinsetx"		"12"
 		"xpos"			"6"
 		"ypos"			"r25"	[$WIN32]

@@ -121,11 +121,11 @@
 		{
 			"0"
 				{
-				"particle_xpos" "c0"
-				"particle_ypos" "c0"
+				"particle_xpos"	"c0"
+				"particle_ypos"	"c0"
 				"particle_scale"	"2"
 				"particleName"	"versus_door_slam"
-				"start_activated" "0"
+				"start_activated"	"0"
 				"loop"	"0"
 			}
 		}
@@ -276,11 +276,11 @@
 		"6v6_gap"	"2"
 		"12v12_gap"	"2"
 
-		"team1_grow_dir" "west"
+		"team1_grow_dir"	"west"
 		"team1_base_x"	"c-35"
 		"team1_max_expand"	"140"
 
-		"team2_grow_dir" "east"
+		"team2_grow_dir"	"east"
 		"team2_base_x"	"c35"
 		"team2_max_expand"	"140"
 
@@ -302,7 +302,7 @@
 			"color_bar_health_low"			"softred"
 			"percentage_health_low"			"0.5"
 			"color_portrait_blend_dead_red"	"255 255 255 255"
-			"color_portrait_blend_dead_blue" "255 255 255 255"
+			"color_portrait_blend_dead_blue"	"255 255 255 255"
 
 			"playername"
 				{

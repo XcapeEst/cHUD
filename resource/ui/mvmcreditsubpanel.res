@@ -6,7 +6,7 @@
 		"fieldName"		"HeaderLabel"
 		"font"			"product8"
 		"labelText"		"%header%"
-		"textAlignment" "west"
+		"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"300"
@@ -36,7 +36,7 @@
 		"fieldName"		"CreditCollectedTextLabel"
 		"font"			"HudFontSmall"
 		"labelText"		"#TF_PVE_Collected"
-		"textAlignment" "west"
+		"textAlignment"	"west"
 		"xpos"			"6"
 		"ypos"			"20"
 		"wide"			"85"
@@ -50,7 +50,7 @@
 		"fieldName"		"CreditCollectedCountLabel"
 		"font"			"HudFontSmall"
 		"labelText"		"%creditscollected%"
-		"textAlignment" "east"
+		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"
@@ -58,8 +58,8 @@
 		"fgcolor"		"cHUD3"
 
 		"pin_to_sibling"			"CreditCollectedTextLabel"
-		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
 
 	"CreditMissedTextLabel"
@@ -68,7 +68,7 @@
 		"fieldName"		"CreditMissedTextLabel"
 		"font"			"HudFontSmall"
 		"labelText"		"#TF_PVE_Missed"
-		"textAlignment" "west"
+		"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"-10"
 		"wide"			"85"
@@ -76,8 +76,8 @@
 		"fgcolor"		"tanlight"
 
 		"pin_to_sibling"			"CreditCollectedTextLabel"
-		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
 
 	"CreditMissedCountLabel"
@@ -86,7 +86,7 @@
 		"fieldName"		"CreditMissedCountLabel"
 		"font"			"HudFontSmall"
 		"labelText"		"%creditsmissed%"
-		"textAlignment" "east"
+		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"
@@ -94,8 +94,8 @@
 		"fgcolor"		"RedSolid"
 
 		"pin_to_sibling"			"CreditMissedTextLabel"
-		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
 
 	"CreditBonusTextLabel"
@@ -104,7 +104,7 @@
 		"fieldName"		"CreditBonusTextLabel"
 		"font"			"HudFontSmall"
 		"labelText"		"#TF_PVE_Bonus"
-		"textAlignment" "west"
+		"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"-10"
 		"wide"			"85"
@@ -112,8 +112,8 @@
 		"fgcolor"		"tanlight"
 
 		"pin_to_sibling"			"CreditMissedTextLabel"
-		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT" // Corner of Element you are pinning to
 	}
 
 	"CreditBonusCountLabel"
@@ -122,7 +122,7 @@
 		"fieldName"		"CreditBonusCountLabel"
 		"font"			"HudFontSmall"
 		"labelText"		"%creditbonus%"
-		"textAlignment" "east"
+		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"
@@ -130,8 +130,8 @@
 		"fgcolor"		"cHUD3"
 
 		"pin_to_sibling"			"CreditBonusTextLabel"
-		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-		"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+		"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 	}
 
 	"CreditRatingLabelShadow"
@@ -140,7 +140,7 @@
 		"fieldName"		"CreditRatingLabelShadow"
 		"font"			"HudFontMediumBold"
 		"labelText"		"%ratingshadow%"
-		"textAlignment" "center"
+		"textAlignment"	"center"
 		"xpos"			"126"
 		"ypos"			"26"
 		"wide"			"70"
@@ -154,7 +154,7 @@
 		"fieldName"		"CreditRatingLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"%rating%"
-		"textAlignment" "center"
+		"textAlignment"	"center"
 		"xpos"			"125"
 		"ypos"			"25"
 		"wide"			"70"

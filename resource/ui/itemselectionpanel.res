@@ -70,7 +70,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 
@@ -106,7 +106,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override"	"200 80 60 255"
 	}
 	"ClassLabel"
 	{
@@ -188,11 +188,11 @@
 		"unicode"		"1"
 		"fgcolor_override"	"245 245 245 80"
 		"bgcolor_override"	"0 0 0 165"
-		"paintbackgroundtype" "0"
+		"paintbackgroundtype"	"0"
 		"font"		"product8"
-		"pin_to_sibling" "NameFilterLabel"
-		"pin_corner_to_sibling" "2"
-		"pin_to_sibling_corner" "3"
+		"pin_to_sibling"	"NameFilterLabel"
+		"pin_corner_to_sibling"	"2"
+		"pin_to_sibling_corner"	"3"
 	}
 
 	"TopLine"
@@ -208,7 +208,7 @@
 		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		"tileVertically"	"0"
 	}
 	"BottomLine"
 	{
@@ -223,7 +223,7 @@
 		"enabled"		"1"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
-		"tileVertically" "0"
+		"tileVertically"	"0"
 	}
 
 	"ItemSlotLabel"
@@ -260,7 +260,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override"	"200 80 60 255"
 	}
 
 	"CancelButton"
@@ -330,9 +330,9 @@
 		"Command"		"show_backpack"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"pin_to_sibling" "NameFilterTextEntry"
-		"pin_corner_to_sibling" "2"
-		"pin_to_sibling_corner" "3"
+		"pin_to_sibling"	"NameFilterTextEntry"
+		"pin_corner_to_sibling"	"2"
+		"pin_to_sibling_corner"	"3"
 	}
 	"ShowSelection"
 	{
@@ -408,9 +408,9 @@
 			"image"			"replay/thumbnails/softicons/back"
 		}
 
-		"pin_to_sibling" "CurPageLabel"
-		"pin_corner_to_sibling" "3"
-		"pin_to_sibling_corner" "2"
+		"pin_to_sibling"	"CurPageLabel"
+		"pin_corner_to_sibling"	"3"
+		"pin_to_sibling_corner"	"2"
 	}
 
 	"CurPageLabel"
@@ -429,10 +429,10 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "245 245 245 80"
-		"pin_to_sibling" "NextPageButton"
-		"pin_corner_to_sibling" "3"
-		"pin_to_sibling_corner" "2"
+		"fgcolor_override"	"245 245 245 80"
+		"pin_to_sibling"	"NextPageButton"
+		"pin_corner_to_sibling"	"3"
+		"pin_to_sibling_corner"	"2"
 	}
 
 	"NextPageButton"
@@ -504,7 +504,7 @@
 
 
 		"text_xpos"			"0"
-		"text_xpos_collection" "0"
+		"text_xpos_collection"	"0"
 		"text_ypos"			"0"
 		"text_center"		"1"
 		"model_hide"		"1"

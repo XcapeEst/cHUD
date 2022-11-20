@@ -86,11 +86,11 @@
 		"editable"		"0"
 		"bgcolor_override"	"0 0 0 255"
 		"fgcolor_override"	"235 226 202 255"
-		"disabledFgColor_override" "235 226 202 255"
-		"disabledBgColor_override" "0 0 0 0"
-		"selectionColor_override" "0 0 0 0"
-		"selectionTextColor_override" "235 226 202 255"
-		"defaultSelectionBG2Color_override" "0 0 0 0"
+		"disabledFgColor_override"	"235 226 202 255"
+		"disabledBgColor_override"	"0 0 0 0"
+		"selectionColor_override"	"0 0 0 0"
+		"selectionTextColor_override"	"235 226 202 255"
+		"defaultSelectionBG2Color_override"	"0 0 0 0"
 	}
 
 	"IgnorePartyInvites"
@@ -111,7 +111,7 @@
 		"sound_depressed"	"UI/buttonclickrelease.wav"
 		"button_activation_type"	"1"
 
-		"cvar_name" "tf_party_ignore_invites"
+		"cvar_name"	"tf_party_ignore_invites"
 	}
 
 	"KeepPartyOnSameTeam"
@@ -253,7 +253,7 @@
 		"proportionaltoparent"	"1"
 
 		"cvar_name"	"tf_mm_custom_ping"
-		"use_convar_minmax" "1"
+		"use_convar_minmax"	"1"
 	}
 
 	"DataCenterContainer"
@@ -283,7 +283,7 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
-			"restrict_width" "0"
+			"restrict_width"	"0"
 
 			"ScrollBar"
 				{

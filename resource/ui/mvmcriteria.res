@@ -166,7 +166,7 @@
 			"tall"			"p1"
 			"visible"		"1"
 			"enabled"		"1"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 			"image"			"pve/mvm_loot_image"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
@@ -249,7 +249,7 @@
 			"tall"			"40"
 			"visible"		"1"
 			"enabled"		"1"
-			"mouseinputenabled" "1"
+			"mouseinputenabled"	"1"
 			"paintborder"	"0"
 
 			"bgcolor_override"	"0 0 0 165"
@@ -281,11 +281,11 @@
 			"zpos"			"20"
 			"wide"			"60"
 			"tall"			"28"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 
 			"pin_to_sibling"			"MannUpTicketAd"
-			"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
 
 		"SquadSurplusTicketAd"
@@ -299,7 +299,7 @@
 			"tall"			"40"
 			"visible"		"1"
 			"enabled"		"1"
-			"mouseinputenabled" "1"
+			"mouseinputenabled"	"1"
 			"paintborder"	"0"
 
 			"bgcolor_override"	"0 0 0 165"
@@ -330,11 +330,11 @@
 			"zpos"			"20"
 			"wide"			"60"
 			"tall"			"30"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 
 			"pin_to_sibling"			"SquadSurplusTicketAd"
-			"pin_corner_to_sibling" "PIN_TOPRIGHT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
 
 		"SquadSurplusCheckButton"
@@ -480,8 +480,8 @@
 			"drawcolor"	"255 255 255 255"
 
 			"pin_to_sibling"			"MissingTicketsLabel"
-			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_TOPLEFT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_TOPLEFT" // Corner of Element you are pinning to
 		}
 	}
 
@@ -515,7 +515,7 @@
 			"tall"			"o1"
 			"visible"		"0"
 			"enabled"		"1"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 			"image"			"mvm/mannup"
 			"scaleImage"	"1"
 		}
@@ -544,7 +544,7 @@
 				"tall"			"o1"
 				"visible"		"1"
 				"enabled"		"1"
-				"mouseinputenabled" "0"
+				"mouseinputenabled"	"0"
 				"image"			"mvm/mannup"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -608,7 +608,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"command" "mann_up_now"
+			"command"	"mann_up_now"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"AllCaps"		"1"
@@ -673,7 +673,7 @@
 			"tall"			"60"
 			"visible"		"1"
 			"enabled"		"1"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 			"image"			"../hud/mvm_tours"
 			"scaleImage"	"1"
 		}

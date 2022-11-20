@@ -63,8 +63,8 @@
 		"assister_fallback"	"string"	// contains a string to use if "assister" is -1
 		"kill_streak_total"		"short"	// Kill streak count (level)
 		"kill_streak_wep"		"short"	// Kill streak for killing weapon
-		"kill_streak_assist" "short"	// Kill streak for assister count
-		"kill_streak_victim" "short"	// Victims kill streak
+		"kill_streak_assist"	"short"	// Kill streak for assister count
+		"kill_streak_victim"	"short"	// Victims kill streak
 				"ducks_streaked"	"short" // Duck streak increment from this kill
 		"duck_streak_total"	"short" // Duck streak count for attacker
 		"duck_streak_assist"	"short" // Duck streak count for assister
@@ -75,9 +75,9 @@
 		"crit_type"	"short"		// Crit type of kill.  0: None 1: Mini 2: Full
 
 	//	"dominated"	"short"		// did killer dominate victim with this kill
-	//	"assister_dominated" "short"	// did assister dominate victim with this kill
+	//	"assister_dominated"	"short"	// did assister dominate victim with this kill
 	//	"revenge"	"short"		// did killer get revenge on victim with this kill
-	//	"assister_revenge" "short"	// did assister get revenge on victim with this kill
+	//	"assister_revenge"	"short"	// did assister get revenge on victim with this kill
 	//	"first_blood"	"bool"		// was this a first blood kill
 	//	"feign_death"	"bool"	// the victim is feign death
 	}
@@ -200,7 +200,7 @@
 		"full_round"	"short"		// was this a full round or a mini-round
 		"round_time"	"float"		// elapsed time of this round
 		"losing_team_num_caps"	"short"	// # of caps this round by losing team
-		"was_sudden_death" "byte"	// did a team win this after entering sudden death
+		"was_sudden_death"	"byte"	// did a team win this after entering sudden death
 	}
 
 	"teamplay_update_timer"
@@ -296,7 +296,7 @@
 	{
 		"cp"		"byte"
 		"cpname"	"string"
-		"time_remaining" "float"
+		"time_remaining"	"float"
 	}
 
 	"teamplay_capture_blocked"
@@ -641,17 +641,17 @@
 
 	"player_hurt"
 	{
-		"userid" "short"
-		"health" "short"
-		"attacker" "short"
-		"damageamount" "short"
+		"userid"	"short"
+		"health"	"short"
+		"attacker"	"short"
+		"damageamount"	"short"
 		"custom"	"short"
-		"showdisguisedcrit" "bool"	// if our attribute specifically crits disguised enemies we need to show it on the client
-		"crit" "bool"
-		"minicrit" "bool"
-		"allseecrit" "bool"
-		"weaponid" "short"
-		"bonuseffect" "byte"
+		"showdisguisedcrit"	"bool"	// if our attribute specifically crits disguised enemies we need to show it on the client
+		"crit"	"bool"
+		"minicrit"	"bool"
+		"allseecrit"	"bool"
+		"weaponid"	"short"
+		"bonuseffect"	"byte"
 	}
 
 	"arena_player_notification"
@@ -752,7 +752,7 @@
 
 	"scout_slamdoll_landed"
 	{
-		"target_index" "short"
+		"target_index"	"short"
 		"x"	"float"
 		"y"	"float"
 		"z"	"float"
@@ -760,7 +760,7 @@
 
 	"scout_slamdoll_landed"
 	{
-		"target_index" "short"
+		"target_index"	"short"
 		"x"	"float"
 		"y"	"float"
 		"z"	"float"
@@ -768,16 +768,16 @@
 
 	"arrow_impact"
 	{
-		"attachedEntity" "short"
-		"shooter" "short"
-		"boneIndexAttached" "short"
-		"bonePositionX" "float"
-		"bonePositionY" "float"
-		"bonePositionZ" "float"
-		"boneAnglesX" "float"
-		"boneAnglesY" "float"
-		"boneAnglesZ" "float"
-		"projectileType" "short"
+		"attachedEntity"	"short"
+		"shooter"	"short"
+		"boneIndexAttached"	"short"
+		"bonePositionX"	"float"
+		"bonePositionY"	"float"
+		"bonePositionZ"	"float"
+		"boneAnglesX"	"float"
+		"boneAnglesY"	"float"
+		"boneAnglesZ"	"float"
+		"projectileType"	"short"
 		"isCrit"		"bool"
 	}
 
@@ -833,13 +833,13 @@
 
 	"show_annotation"
 	{
-		"worldPosX" "float"
-		"worldPosY" "float"
-		"worldPosZ" "float"
-		"worldNormalX" "float"
-		"worldNormalY" "float"
-		"worldNormalZ" "float"
-		"id" "long"
+		"worldPosX"	"float"
+		"worldPosY"	"float"
+		"worldPosZ"	"float"
+		"worldNormalX"	"float"
+		"worldNormalY"	"float"
+		"worldNormalZ"	"float"
+		"id"	"long"
 		"text"		"string"	// name (unlocalized)
 		"lifetime"	"float"
 		"visibilityBitfield"	"long" // bitfield of the players that can see this
@@ -851,7 +851,7 @@
 
 	"hide_annotation"
 	{
-		"id" "long"
+		"id"	"long"
 	}
 
 	"post_inventory_application"	// sent when a player gets a whole new set of items
@@ -953,7 +953,7 @@
 		"userid"	"short"		// player who deflected the object
 		"ownerid"	"short"		// owner of the object
 		"weaponid"	"short"		// weapon id (0 means the player in ownerid was pushed)
-		"object_entindex" "short"	// entindex of the object that got deflected
+		"object_entindex"	"short"	// entindex of the object that got deflected
 	}
 
 	"player_mvp"
@@ -1129,66 +1129,66 @@
 
 	"merasmus_summoned"
 	{
-		"level" "short"
+		"level"	"short"
 	}
 
 	"merasmus_killed"
 	{
-		"level" "short"
+		"level"	"short"
 	}
 
 	"merasmus_escape_warning"
 	{
-		"level" "short"
+		"level"	"short"
 		"time_remaining"	"byte"
 	}
 
 	"merasmus_escaped"
 	{
-		"level" "short"
+		"level"	"short"
 	}
 
 	"eyeball_boss_summoned"
 	{
-		"level" "short"
+		"level"	"short"
 	}
 
 	"eyeball_boss_stunned"
 	{
-		"level" "short"
+		"level"	"short"
 		"player_entindex"	"byte"
 	}
 
 	"eyeball_boss_killed"
 	{
-		"level" "short"
+		"level"	"short"
 	}
 
 	"eyeball_boss_killer"
 	{
-		"level" "short"
+		"level"	"short"
 		"player_entindex"	"byte"
 	}
 
 	"eyeball_boss_escape_imminent"
 	{
-		"level" "short"
+		"level"	"short"
 		"time_remaining"	"byte"
 	}
 
 	"eyeball_boss_escaped"
 	{
-		"level" "short"
+		"level"	"short"
 	}
 
 	"npc_hurt"
 	{
-		"entindex" "short"
-		"health" "short"
-		"attacker_player" "short"
-		"weaponid" "short"
-		"damageamount" "short"
-		"crit" "bool"
+		"entindex"	"short"
+		"health"	"short"
+		"attacker_player"	"short"
+		"weaponid"	"short"
+		"damageamount"	"short"
+		"crit"	"bool"
 		"boss"	"short"		// 1=HHH 2=Monoculus 3=Merasmus
 	}
 
@@ -1269,7 +1269,7 @@
 
 	"party_chat"
 	{
-		"steamid" "string" // steamID (64-bit value converted to string) of user who said or did the thing.  May be
+		"steamid"	"string" // steamID (64-bit value converted to string) of user who said or did the thing.  May be
 						   // empty-string for system actor.
 		"text"	"string" // The message.  May have different meaning for some types
 		"type"	"short"  // What sort of message?  ETFPartyChatType enum
@@ -1277,12 +1277,12 @@
 
 	"party_member_join"
 	{
-		"steamid" "string" // steamID (64-bit value converted to string) of joined
+		"steamid"	"string" // steamID (64-bit value converted to string) of joined
 	}
 
 	"party_member_leave"
 	{
-		"steamid" "string" // steamID (64-bit value converted to string) of leaver
+		"steamid"	"string" // steamID (64-bit value converted to string) of leaver
 	}
 
 	"lobby_updated"
@@ -1506,8 +1506,8 @@
 
 	"rd_robot_impact"
 	{
-		"entindex" "short"
-		"impulse_x" "float"
+		"entindex"	"short"
+		"impulse_x"	"float"
 		"impulse_y"	"float"
 		"impulse_z"	"float"
 	}
@@ -1645,40 +1645,40 @@
 
 	"pass_get" 
 	{
-		"owner" "short"
+		"owner"	"short"
 	}
 
 	"pass_score"
 	{
-		"scorer" "short"
-		"assister" "short"
-		"points" "byte"
+		"scorer"	"short"
+		"assister"	"short"
+		"points"	"byte"
 	}
 
 	"pass_free"
 	{
-		"owner" "short"
-		"attacker" "short"
+		"owner"	"short"
+		"attacker"	"short"
 	}
 
 	"pass_pass_caught"
 	{
-		"passer" "short"
-		"catcher" "short"
-		"dist" "float"
-		"duration" "float"
+		"passer"	"short"
+		"catcher"	"short"
+		"dist"	"float"
+		"duration"	"float"
 	}
 
 	"pass_ball_stolen"
 	{
-		"victim" "short"
-		"attacker" "short"
+		"victim"	"short"
+		"attacker"	"short"
 	}
 
 	"pass_ball_blocked"
 	{
-		"owner" "short"
-		"blocker" "short"
+		"owner"	"short"
+		"blocker"	"short"
 	}
 
 	"damage_prevented"
@@ -1888,14 +1888,14 @@
 		"defindex"	"long"
 		"created"	"bool"
 		"deleted"	"bool"
-		"erase_history" "bool"
+		"erase_history"	"bool"
 	}
 
 	"player_domination"
 	{
 		"dominator"	"short"	// userID of who gained domination
-		"dominated" "short"	// userID of who got dominated
-		"dominations" "short" // Number of dominations this dominator has
+		"dominated"	"short"	// userID of who got dominated
+		"dominations"	"short" // Number of dominations this dominator has
 	}
 
 	"player_rocketpack_pushed"

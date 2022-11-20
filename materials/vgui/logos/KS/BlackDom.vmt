@@ -1,9 +1,9 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "vgui/logos/KS/BlackDom"
+	"$baseTexture"	"vgui/logos/KS/BlackDom"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
-	"%keywords" "tf"
+	"%keywords"	"tf"
 	"$translucent" 1
 }

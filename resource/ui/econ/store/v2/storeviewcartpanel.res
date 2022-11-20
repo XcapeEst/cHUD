@@ -60,13 +60,13 @@
 				"text_ypos"		"24"
 				"text_wide"		"250"
 				"text_center"	"0"
-				"text_forcesize" "1"
+				"text_forcesize"	"1"
 
 				"name_only"		"1"
 
 				"itemmodelpanel"
 					{
-					"use_item_rendertarget" "0"
+					"use_item_rendertarget"	"0"
 					"allow_rot"				"0"
 					"inventory_image_type"	"1"
 				}
@@ -146,7 +146,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%price%"
-				"fgcolor_override" "130 120 104 255"
+				"fgcolor_override"	"130 120 104 255"
 			}
 
 			"PreviewItemLabel"
@@ -165,7 +165,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%preview_item%"
-				"fgcolor_override" "130 120 104 255"
+				"fgcolor_override"	"130 120 104 255"
 			}
 		}
 	}
@@ -301,7 +301,7 @@
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"	"118 107 94 255"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
 			"bgcolor_override"	"51 47 46 255"
-			"autohide_buttons" "1"
+			"autohide_buttons"	"1"
 
 			"Scrollbar"
 				{
@@ -403,7 +403,7 @@
 						"pinCorner"		"0"
 						"visible"		"1"
 						"enabled"		"1"
-						"fgcolor_override" "130 120 104 255"
+						"fgcolor_override"	"130 120 104 255"
 					}
 					"TotalSubtextLabelB"
 						{
@@ -421,7 +421,7 @@
 						"pinCorner"		"0"
 						"visible"		"1"
 						"enabled"		"1"
-						"fgcolor_override" "130 120 104 255"
+						"fgcolor_override"	"130 120 104 255"
 					}
 
 					"TotalPriceLabel"
@@ -440,7 +440,7 @@
 						"visible"		"1"
 						"enabled"		"1"
 						"labelText"		"%totalprice%"
-						"fgcolor_override" "130 120 104 255"
+						"fgcolor_override"	"130 120 104 255"
 					}
 
 				}

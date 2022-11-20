@@ -89,7 +89,7 @@
 		"src_corner_height"	 "10"
 		"src_corner_width"	 "10"
 		"draw_corner_width"	 "0"
-		"draw_corner_height" "0"
+		"draw_corner_height"	"0"
 	}
 
 	"classmodelpanelBG"
@@ -138,16 +138,16 @@
 		{
 			"force_pos"	"1"
 
-			"angles_x" "0"
-			"angles_y" "270"
-			"angles_z" "0"
-			"origin_x" "200"
-			"origin_y" "28"
-			"origin_z" "-60"
+			"angles_x"	"0"
+			"angles_y"	"270"
+			"angles_z"	"0"
+			"origin_x"	"200"
+			"origin_y"	"28"
+			"origin_z"	"-60"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "1"
+			"spotlight"	"1"
 
 			"modelname"		""
 

@@ -17,8 +17,8 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"CollyHudDarkGrey"
-		"infocus_bgcolor_override" "CollyHudDarkGrey"
-		"outoffocus_bgcolor_override" "CollyHudDarkGrey"
+		"infocus_bgcolor_override"	"CollyHudDarkGrey"
+		"outoffocus_bgcolor_override"	"CollyHudDarkGrey"
 
 		"item_ypos"						"88"
 		"output_item_ypos"				"255"
@@ -49,8 +49,8 @@
 			"name_only"		"1"
 			"text_ypos"		"100"
 			"text_xpos"		"100"
-			"text_forcesize" "3"
-			"noitem_use_fullpanel" "1"
+			"text_forcesize"	"3"
+			"noitem_use_fullpanel"	"1"
 
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
@@ -68,7 +68,7 @@
 
 				"itemmodelpanel"
 					{
-					"use_item_rendertarget" "0"
+					"use_item_rendertarget"	"0"
 					"allow_rot"				"0"
 				}
 
@@ -107,7 +107,7 @@
 			"visible"		"1"
 			"wrap"			"0"
 			"centerwrap"	"0"
-			"textAlignment" "west"
+			"textAlignment"	"west"
 			"textinsetx"	"0"
 			"paintbackground"		"0"
 		}
@@ -154,7 +154,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "tanlight"
+		"fgcolor_override"	"tanlight"
 	}
 
 	"selectedrecipecontainer"
@@ -333,7 +333,7 @@
 		"PaintBackgroundType"	"2"
 		"fgcolor_override"	"255 255 255 16"
 		"bgcolor_override"	"200 187 161 0"
-		"autohide_buttons" "1"
+		"autohide_buttons"	"1"
 	}
 	"recipecontainer"
 	{
@@ -412,7 +412,7 @@
 
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" "0"
+			"use_item_rendertarget"	"0"
 			"allow_rot"				"0"
 		}
 	}

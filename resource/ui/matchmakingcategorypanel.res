@@ -189,13 +189,13 @@
 			"enabled"		"1"
 			"labelText"		"%title_token%"
 			"textinsetx"	"0"
-			"use_proportional_insets" "1"
+			"use_proportional_insets"	"1"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
-			"proportionaltoparent" "1"
+			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
 			"fgcolor"		"TanLight"
@@ -214,13 +214,13 @@
 			"enabled"		"1"
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
-			"use_proportional_insets" "1"
+			"use_proportional_insets"	"1"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"east"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
-			"proportionaltoparent" "1"
+			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
 			"fgcolor_override"		"0 0 0 0"
@@ -244,8 +244,8 @@
 			"enabled"		"1"
 
 			"wrap"			"1"
-			"fgcolor_override" "TanLight120"
-			"proportionaltoparent" "1"
+			"fgcolor_override"	"TanLight120"
+			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 		}
 
@@ -267,8 +267,8 @@
 			"enabled"		"1"
 
 			"wrap"			"1"
-			"fgcolor_override" "0 0 0 0"
-			"proportionaltoparent" "1"
+			"fgcolor_override"	"0 0 0 0"
+			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 		}
 	}

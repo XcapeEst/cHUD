@@ -1456,7 +1456,7 @@
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
 		"font"			"HudFontSmallBold"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override"	"200 80 60 255"
 	}
 
 	"EditLoadoutButton"
@@ -1504,9 +1504,9 @@
 		"image_armed"		"class_sel_sm_random_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1579,10 +1579,10 @@
 		"image_armed"		"class_sel_sm_scout_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
+		"selectedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1636,10 +1636,10 @@
 		"image_armed"		"class_sel_sm_soldier_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
+		"selectedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1693,9 +1693,9 @@
 		"image_armed"		"class_sel_sm_pyro_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1768,9 +1768,9 @@
 		"image_armed"		"class_sel_sm_demo_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1824,9 +1824,9 @@
 		"image_armed"		"class_sel_sm_heavy_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1880,9 +1880,9 @@
 		"image_armed"		"class_sel_sm_engineer_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1955,9 +1955,9 @@
 		"image_armed"		"class_sel_sm_medic_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2011,9 +2011,9 @@
 		"image_armed"		"class_sel_sm_sniper_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2067,9 +2067,9 @@
 		"image_armed"		"class_sel_sm_spy_inactive"
 
 		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"TanDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2144,14 +2144,14 @@
 		{
 			"modelname"	"models/vgui/UI_class01.mdl"
 			"skin"		"0"
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "365"
-			"origin_x_lodef" "415"
-			"origin_x_hidef" "380"
-			"origin_y" "0"
-			"origin_z" "-40"
+			"angles_x"	"0"
+			"angles_y"	"180"
+			"angles_z"	"0"
+			"origin_x"	"365"
+			"origin_x_lodef"	"415"
+			"origin_x_hidef"	"380"
+			"origin_y"	"0"
+			"origin_z"	"-40"
 		}
 	}
 
@@ -2474,8 +2474,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"ScoutButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageSolider"
@@ -2495,8 +2495,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"SoldierButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImagePyro" 
@@ -2516,8 +2516,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"PyroButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageDemoman" 
@@ -2537,8 +2537,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"DemoButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageHeavy"
@@ -2558,8 +2558,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"HeavyButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageEngineer"
@@ -2579,8 +2579,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"EngineerButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageMedic"
@@ -2600,8 +2600,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"MedicButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageSniper"
@@ -2621,8 +2621,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"SniperButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"MvMUpgradeImageSpy"
@@ -2642,8 +2642,8 @@
 		"alpha"			"165"
 
 		"pin_to_sibling"			"SpyButtonPanel"
-		"pin_corner_to_sibling" "PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"StartExplanation"
@@ -2657,7 +2657,7 @@
 		"tall"			"0"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"paintbackground" "0"
+		"paintbackground"	"0"
 		"border"		"MainMenuHighlightBorder"
 
 		"force_close"	"1"
@@ -2685,7 +2685,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override"	"46 43 42 255"
 		}
 
 		"TextLabel"
@@ -2704,7 +2704,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override"	"46 43 42 255"
 		}
 
 		"CloseButton"
@@ -2733,9 +2733,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override"	"46 43 42 255"
+			"armedFgColor_override"	"200 80 60 255"
+			"depressedFgColor_override"	"46 43 42 255"
 
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
@@ -2776,24 +2776,24 @@
 		"fov"			"25"
 		"allow_rot"		"0"
 
-		"paintbackground" "1"
-		"paintbackgroundenabled" "1"
-		"bgcolor_override" "255 255 255 0"
+		"paintbackground"	"1"
+		"paintbackgroundenabled"	"1"
+		"bgcolor_override"	"255 255 255 0"
 
 		"model"
 		{
 			"force_pos"	"1"
 
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "320"
-			"origin_y" "10"
-			"origin_z" "-49"
+			"angles_x"	"0"
+			"angles_y"	"180"
+			"angles_z"	"0"
+			"origin_x"	"320"
+			"origin_y"	"10"
+			"origin_z"	"-49"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "1"
+			"spotlight"	"1"
 
 			"modelname"		""
 			"vcd"		"class_select.vcd"
@@ -2827,7 +2827,7 @@
 		"tall"			"0"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"paintbackground" "0"
+		"paintbackground"	"0"
 		"border"		"MainMenuHighlightBorder"
 
 		"start_x"		"c-238"
@@ -2857,7 +2857,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override"	"46 43 42 255"
 		}
 
 		"ClassHighlightText"
@@ -2876,7 +2876,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override"	"46 43 42 255"
 		}
 
 		"CloseButton"
@@ -2905,9 +2905,9 @@
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override"	"46 43 42 255"
+			"armedFgColor_override"	"235 226 202 255"
+			"depressedFgColor_override"	"46 43 42 255"
 
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"

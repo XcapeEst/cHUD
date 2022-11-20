@@ -124,9 +124,9 @@
 			"scaleImage"	"1"
 		}
 
-		"pin_to_sibling" "DeleteButton"
-		"pin_corner_to_sibling" "0"
-		"pin_to_sibling_corner" "1"
+		"pin_to_sibling"	"DeleteButton"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"1"
 	}
 
 	"AcceptButton"
@@ -159,8 +159,8 @@
 
 		"defaultBgColor_override"	"100 90 85 255"
 		"defaultFgColor_override"	"255 255 255 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"armedFgColor_override"	"235 226 202 255"
+		"depressedFgColor_override"	"46 43 42 255"
 
 		"image_drawcolor"	"255 255 255 255"
 		"image_armedcolor"	"200 80 60 255"

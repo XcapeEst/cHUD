@@ -43,7 +43,7 @@
 
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" "0"
+			"use_item_rendertarget"	"0"
 			"allow_rot"				"0"
 			"inventory_image_type"	"1"
 			"continued_velocity"	"1"
@@ -63,7 +63,7 @@
 		"proportionaltoparent"	"1"
 
 		"force_use_model"		"1"
-		"use_item_rendertarget" "0"
+		"use_item_rendertarget"	"0"
 		"allow_rot"				"1"
 		"allow_pitch"			"1"
 		"max_pitch"				"30"
@@ -75,16 +75,16 @@
 		{
 			"force_pos"	"1"
 
-			"angles_x" "7"
-			"angles_y" "130"
-			"angles_z" "0"
-			"origin_x" "175"
-			"origin_y" "0"
-			"origin_z" "0"
+			"angles_x"	"7"
+			"angles_y"	"130"
+			"angles_z"	"0"
+			"origin_x"	"175"
+			"origin_y"	"0"
+			"origin_z"	"0"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "1"
+			"spotlight"	"1"
 
 			"modelname"		""
 		}
@@ -156,9 +156,9 @@
 			"scaleImage"		"1"
 
 			"fgcolor"			"TanDark"
-			"defaultFgColor_override" "TanDark"
-			"armedFgColor_override" "TanDark"
-			"depressedFgColor_override" "TanDark"
+			"defaultFgColor_override"	"TanDark"
+			"armedFgColor_override"	"TanDark"
+			"depressedFgColor_override"	"TanDark"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -276,14 +276,14 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"debug_menu"
-			"proportionaltoparent" "1"
+			"proportionaltoparent"	"1"
 			"actionsignallevel"	"2"
 
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "0 0 0 0"
-			"armedFgColor_override" "200 80 60 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override"	"0 0 0 0"
+			"armedFgColor_override"	"200 80 60 255"
+			"depressedFgColor_override"	"46 43 42 255"
 
 			"image_drawcolor"	"TanDark"
 			"image_armedcolor"	"200 80 60 255"
@@ -322,7 +322,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override" "0 0 0 80"
+			"bgcolor_override"	"0 0 0 80"
 		}
 
 
@@ -384,11 +384,11 @@
 
 			"fgcolor_override"	"menutext"
 			"bgcolor_override"	"0 0 0 165"
-			"disabledFgColor_override" "235 226 202 255"
-			"disabledBgColor_override" "0 0 0 0"
-			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "menutext"
-			"defaultSelectionBG2Color_override" "255 255 255 16"
+			"disabledFgColor_override"	"235 226 202 255"
+			"disabledBgColor_override"	"0 0 0 0"
+			"selectionColor_override"	"0 0 0 0"
+			"selectionTextColor_override"	"menutext"
+			"defaultSelectionBG2Color_override"	"255 255 255 16"
 		}
 
 		"ItemLabel"
@@ -463,11 +463,11 @@
 
 			"fgcolor_override"	"menutext"
 			"bgcolor_override"	"0 0 0 165"
-			"disabledFgColor_override" "235 226 202 255"
-			"disabledBgColor_override" "0 0 0 0"
-			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "menutext"
-			"defaultSelectionBG2Color_override" "255 255 255 16"
+			"disabledFgColor_override"	"235 226 202 255"
+			"disabledBgColor_override"	"0 0 0 0"
+			"selectionColor_override"	"0 0 0 0"
+			"selectionTextColor_override"	"menutext"
+			"defaultSelectionBG2Color_override"	"255 255 255 16"
 		}
 
 		"WearLabel"
@@ -558,8 +558,8 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_ItemPreview_PaintkitSeed"
-			"actionsignallevel" "2"
-			"use_proportional_insets" "1"
+			"actionsignallevel"	"2"
+			"use_proportional_insets"	"1"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -599,7 +599,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"actionsignallevel" "2"
+			"actionsignallevel"	"2"
 			"default"		"1"
 			"NumericInputOnly"	"1"
 			"bgcolor_override"	"0 0 0 200"
@@ -639,7 +639,7 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"	"1"
 			"command"	"market"
-			"actionsignallevel" "2"
+			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
 
 			"defaultFgColor_override"	"White"

@@ -1,9 +1,9 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "vgui/replay/thumbnails/pizzarolls"
+	"$baseTexture"	"vgui/replay/thumbnails/pizzarolls"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
-	"%keywords" "tf"
+	"%keywords"	"tf"
 	"$translucent" 1
 }

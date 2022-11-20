@@ -217,10 +217,10 @@
 		"font"			"product8"
 
 
-		"pin_to_sibling" "teambutton3"
+		"pin_to_sibling"	"teambutton3"
 
-		"pin_corner_to_sibling" "2"
-		"pin_to_sibling_corner" "3"
+		"pin_corner_to_sibling"	"2"
+		"pin_to_sibling_corner"	"3"
 	}
 
 	"teambutton3"
@@ -303,7 +303,7 @@
 		"brighttext"	"0"
 		"command"		"cancelmenu"
 		"font"			"product8"
-		"pin_to_sibling" "teambutton2"
+		"pin_to_sibling"	"teambutton2"
 		"defaultbgcolor"		"0 0 0 165"
 		"defaultbgcolor_override"		"0 0 0 165"
 		"bgcolor"		"0 0 0 165"
@@ -312,8 +312,8 @@
 		"fgcolor_override"		"tanlight120"
 		"defaultfgcolor_override"		"tanlight120"
 
-		"pin_corner_to_sibling" "2"
-		"pin_to_sibling_corner" "3"
+		"pin_corner_to_sibling"	"2"
+		"pin_to_sibling_corner"	"3"
 	}
 
 	"TeamMenuSelect"

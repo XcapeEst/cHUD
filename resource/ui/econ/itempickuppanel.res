@@ -17,8 +17,8 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"CollyHudDarkGrey"
-		"infocus_bgcolor_override" "CollyHudDarkGrey"
-		"outoffocus_bgcolor_override" "CollyHudDarkGrey"
+		"infocus_bgcolor_override"	"CollyHudDarkGrey"
+		"outoffocus_bgcolor_override"	"CollyHudDarkGrey"
 
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -42,12 +42,12 @@
 			"text_wide"		"225"
 			"text_center"	"1"
 			"is_mouseover"		"1"
-			"hide_collection_panel" "1"
+			"hide_collection_panel"	"1"
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
-				"inventory_image_type" "1"
+				"use_item_rendertarget"	"0"
+				"inventory_image_type"	"1"
 			}
 		}
 	}
@@ -62,7 +62,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"1"
-		"bgcolor_override" "0 0 0 0"
+		"bgcolor_override"	"0 0 0 0"
 	}
 
 	"classimage"
@@ -269,9 +269,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultBgColor_override" "117 107 94 255"
-		"armedBgColor_override" "145 73 59 255"
-		"depressedBgColor_override" "117 107 94 255"
+		"defaultBgColor_override"	"117 107 94 255"
+		"armedBgColor_override"	"145 73 59 255"
+		"depressedBgColor_override"	"117 107 94 255"
 
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"235 226 202 255"
@@ -289,7 +289,7 @@
 			"enabled"		"1"
 			"image"			"icon_trash_on"
 			"scaleImage"	"1"
-			"paintbackgroundtype" "0"
+			"paintbackgroundtype"	"0"
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -342,7 +342,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override"	"200 80 60 255"
 		"bgcolor_override"	"CollyHudDarkGrey"
 	}
 

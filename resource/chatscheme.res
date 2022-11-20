@@ -564,7 +564,7 @@ Scheme
 
 		TabBorder
 		{
-			"inset" "0 0 0 0"
+			"inset"	"0 0 0 0"
 
 			Left
 			{
@@ -597,7 +597,7 @@ Scheme
 
 		TabActiveBorder
 		{
-			"inset" "0 0 0 0"
+			"inset"	"0 0 0 0"
 
 			Left
 			{
@@ -631,7 +631,7 @@ Scheme
 
 		ToolTipBorder
 		{
-			"inset" "0 0 0 0"
+			"inset"	"0 0 0 0"
 
 			Left
 			{
@@ -672,7 +672,7 @@ Scheme
 
 		ButtonKeyFocusBorder
 		{
-			"inset" "0 0 0 0"
+			"inset"	"0 0 0 0"
 
 			Left
 			{
@@ -737,7 +737,7 @@ Scheme
 
 		ButtonDepressedBorder
 		{
-			"inset" "0 0 0 0"
+			"inset"	"0 0 0 0"
 
 			Left
 			{
@@ -783,8 +783,8 @@ Scheme
 		"2"	"resource/HL2EP2.ttf"
 		"3"
 		{
-			"font" "resource/fonts/Product Sans.ttf"
-			"name" "Product Sans"
+			"font"	"resource/fonts/Product Sans.ttf"
+			"name"	"Product Sans"
 		}
 	}
 }

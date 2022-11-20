@@ -50,15 +50,15 @@
 			"model_tall"	"35"
 			"text_center"	"1"
 			"name_only"		"1"
-			"text_forcesize" "3"
-			"noitem_use_fullpanel" "1"
+			"text_forcesize"	"3"
+			"noitem_use_fullpanel"	"1"
 
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 		}
@@ -350,9 +350,9 @@
 				"image"			"replay/thumbnails/softicons/back"
 			}
 
-			"pin_to_sibling" "CurInputPageLabel"
-			"pin_corner_to_sibling" "3"
-			"pin_to_sibling_corner" "2"
+			"pin_to_sibling"	"CurInputPageLabel"
+			"pin_corner_to_sibling"	"3"
+			"pin_to_sibling_corner"	"2"
 		}
 		"CurInputPageLabel"
 		{
@@ -370,11 +370,11 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "245 245 245 80"
+			"fgcolor_override"	"245 245 245 80"
 
-			"pin_to_sibling" "NextInputPageButton"
-			"pin_corner_to_sibling" "3"
-			"pin_to_sibling_corner" "2"
+			"pin_to_sibling"	"NextInputPageButton"
+			"pin_corner_to_sibling"	"3"
+			"pin_to_sibling_corner"	"2"
 		}
 		"NextInputPageButton"
 		{
@@ -598,9 +598,9 @@
 				"image"			"replay/thumbnails/softicons/back"
 			}
 
-			"pin_to_sibling" "CurPageLabel"
-			"pin_corner_to_sibling" "3"
-			"pin_to_sibling_corner" "2"
+			"pin_to_sibling"	"CurPageLabel"
+			"pin_corner_to_sibling"	"3"
+			"pin_to_sibling_corner"	"2"
 		}
 		"CurPageLabel"
 		{
@@ -618,11 +618,11 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "245 245 245 80"
+			"fgcolor_override"	"245 245 245 80"
 
-			"pin_to_sibling" "NextPageButton"
-			"pin_corner_to_sibling" "3"
-			"pin_to_sibling_corner" "2"
+			"pin_to_sibling"	"NextPageButton"
+			"pin_corner_to_sibling"	"3"
+			"pin_to_sibling_corner"	"2"
 		}
 		"NextPageButton"
 		{
@@ -737,7 +737,7 @@
 
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" "0"
+			"use_item_rendertarget"	"0"
 			"allow_rot"				"0"
 		}
 	}

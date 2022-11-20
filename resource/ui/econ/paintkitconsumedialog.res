@@ -46,7 +46,7 @@
 
 		"AllCaps"	"1"
 
-		"bgcolor_override" "0 0 0 80"
+		"bgcolor_override"	"0 0 0 80"
 	}
 
 	"ConfirmButton"
@@ -79,9 +79,9 @@
 
 		"AllCaps"			"1"
 
-		"pin_to_sibling" "Title"
-		"pin_corner_to_sibling" "0"
-		"pin_to_sibling_corner" "2"
+		"pin_to_sibling"	"Title"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"2"
 	}
 
 	"CancelButton"
@@ -113,9 +113,9 @@
 
 		"AllCaps"			"1"
 
-		"pin_to_sibling" "ConfirmButton"
-		"pin_corner_to_sibling" "0"
-		"pin_to_sibling_corner" "2"
+		"pin_to_sibling"	"ConfirmButton"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"2"
 	}
 
 	"DescText"
@@ -132,7 +132,7 @@
 		"tall"			"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "Orange"
+		"fgcolor_override"	"Orange"
 		"proportionaltoparent"	"1"
 	}
 
@@ -206,7 +206,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override"	"TanLight"
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -253,7 +253,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "cHUD3"
+			"fgcolor_override"	"cHUD3"
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -300,7 +300,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "RedSolid"
+			"fgcolor_override"	"RedSolid"
 			"proportionaltoparent"	"1"
 			"centerwrap"	"1"
 		}

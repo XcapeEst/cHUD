@@ -29,7 +29,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override" "0 0 0 128"
+		"bgcolor_override"	"0 0 0 128"
 	}
 
 	// Rounded dialog border
@@ -79,7 +79,7 @@
 			"paintborder"	"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"1"
-			"bgcolor_override" "50 46 41 255"
+			"bgcolor_override"	"50 46 41 255"
 		}
 
 		// Rounded corners on the bottom of the footer
@@ -97,7 +97,7 @@
 			"paintborder"	"0"
 			"PaintBackgroundType"	"2"
 			"paintbackground"	"1"
-			"bgcolor_override" "50 46 41 255"
+			"bgcolor_override"	"50 46 41 255"
 		}
 	}
 
@@ -120,24 +120,24 @@
 		"fov"			"40"
 		"allow_rot"		"0"
 
-		"paintbackground" "1"
-		"paintbackgroundenabled" "1"
-		"bgcolor_override" "255 255 255 0"
+		"paintbackground"	"1"
+		"paintbackgroundenabled"	"1"
+		"bgcolor_override"	"255 255 255 0"
 
 		"model"
 		{
 			"force_pos"	"1"
 
-			"angles_x" "0"
-			"angles_y" "170"
-			"angles_z" "0"
-			"origin_x" "190"
-			"origin_y" "0"
-			"origin_z" "-36"
+			"angles_x"	"0"
+			"angles_y"	"170"
+			"angles_z"	"0"
+			"origin_x"	"190"
+			"origin_y"	"0"
+			"origin_z"	"-36"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
-			"spotlight" "1"
+			"spotlight"	"1"
 
 			"modelname"		""
 		}
@@ -169,7 +169,7 @@
 
 		"itemmodelpanel"
 		{
-			"inventory_image_type" "2"
+			"inventory_image_type"	"2"
 			"allow_rot"				"0"
 			"force_square_image"	"1"
 		}
@@ -205,8 +205,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -221,8 +221,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -237,8 +237,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -253,8 +253,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -269,8 +269,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -285,8 +285,8 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"panel_bgcolor" "117 107 94 255"
-		"panel_bgcolor_mouseover" "255 255 255 255"
+		"panel_bgcolor"	"117 107 94 255"
+		"panel_bgcolor_mouseover"	"255 255 255 255"
 		"image_indent"	"2"
 		"PaintBackgroundType"	"2"
 	}
@@ -615,6 +615,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"fgcolor"		"34 30 31 255"
-		"defaultBgColor_override" "StoreGreen"
+		"defaultBgColor_override"	"StoreGreen"
 	}
 }

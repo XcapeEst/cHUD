@@ -147,7 +147,7 @@
 			"fieldName"		"CreditsLabel"
 			"font"			"HudFontMediumSmall"
 			"labelText"		"#TF_PVE_Currency"
-			"textAlignment" "north-west"
+			"textAlignment"	"north-west"
 			"xpos"			"8"
 			"ypos"			"999"
 			"wide"			"100"
@@ -189,8 +189,8 @@
 			"visible"		"1"
 
 			"pin_to_sibling"			"PreviousWaveCreditInfoPanel"
-			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
 
 		"TotalGameCreditSpendPanel"
@@ -204,8 +204,8 @@
 			"visible"		"1"
 
 			"pin_to_sibling"			"TotalGameCreditInfoPanel"
-			"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_TOPRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_TOPLEFT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT" // Corner of Element you are pinning to
 		}
 
 		"HorizontalLineCover1"
@@ -226,8 +226,8 @@
 			"border"		"LightWhiteLeft"
 
 			"pin_to_sibling"			"PreviousWaveCreditInfoPanel"
-			"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
 		}
 
 		"HorizontalLineCover2"
@@ -248,8 +248,8 @@
 			"border"		"LightWhiteLeft"
 
 			"pin_to_sibling"			"TotalGameCreditInfoPanel"
-			"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
-			"pin_to_sibling_corner" "PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
+			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT" // Corner of this Element
+			"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT" // Corner of Element you are pinning to
 		}
 
 		"RespecStatusLabel"
@@ -258,7 +258,7 @@
 			"fieldName"		"RespecStatusLabel"
 			"font"			"HudFontSmall"
 			"labelText"		"%respecstatus%"
-			"textAlignment" "north-east"
+			"textAlignment"	"north-east"
 			"xpos"			"115"
 			"ypos"			"8"
 			"wide"			"275"

@@ -11,7 +11,7 @@
 		"model_ypos"	"10"
 		"model_wide"	"180"
 		"model_tall"	"120"
-		"text_forcesize" "2"
+		"text_forcesize"	"2"
 	}
 
 	"LoadingSpinner"
@@ -72,7 +72,7 @@
 				"angles_x"		"10"
 				"angles_y"		"130"
 				"angles_z"		"0"
-				"spotlight" "1"
+				"spotlight"	"1"
 			}
 		}
 
@@ -358,7 +358,7 @@
 
 			"itemmodelpanel"
 				{
-				"use_item_rendertarget" "0"
+				"use_item_rendertarget"	"0"
 				"allow_rot"				"0"
 			}
 

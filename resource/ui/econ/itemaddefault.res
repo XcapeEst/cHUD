@@ -58,7 +58,7 @@
 		"tall"					"p1"
 		"proportionaltoparent"	"1"
 
-		"allow_mouse_wheel_to_scroll" "0"
+		"allow_mouse_wheel_to_scroll"	"0"
 		"mouseinputenabled"		"1"
 		"bottom_buffer"			"0"
 
@@ -163,12 +163,12 @@
 		"font"			"product8"
 		"textAlignment"		"west"
 		"textinsetx"		"6"
-		"use_proportional_insets" "1"
+		"use_proportional_insets"	"1"
 
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"
 		"command"	"purchase"
-		"actionsignallevel" "2"
+		"actionsignallevel"	"2"
 
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"
@@ -200,7 +200,7 @@
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"
 		"command"	"market"
-		"actionsignallevel" "2"
+		"actionsignallevel"	"2"
 
 		"defaultFgColor_override"	"White"
 		"armedFgColor_override"		"White"

@@ -54,7 +54,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "tanlight60"
+		"fgcolor_override"	"tanlight60"
 	}
 	"MapInfo"
 	{
@@ -177,7 +177,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "255 181 50 255"
+			"fgcolor_override"	"255 181 50 255"
 		}
 		"MapAuthors"
 		{
@@ -214,7 +214,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "137 191 60 255"
+			"fgcolor_override"	"137 191 60 255"
 		}
 	}
 
@@ -234,7 +234,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "245 245 245 80"
+		"fgcolor_override"	"245 245 245 80"
 	}
 	"MapLabel"
 	{

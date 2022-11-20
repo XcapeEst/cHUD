@@ -11,7 +11,7 @@
 		"tall"			"375"
 		"visible"		"0"
 		"enabled"		"1"
-		"proportionaltoparent" "1"
+		"proportionaltoparent"	"1"
 	}
 
 	"MainContainer"
@@ -39,7 +39,7 @@
 			"tall"			"p0.7"
 			"visible"		"1"
 			"enabled"		"1"
-			"mouseinputenabled" "0"
+			"mouseinputenabled"	"0"
 			"image"			"competitive/comp_background_tier001a"
 			"scaleImage"	"1"
 		}
@@ -137,11 +137,11 @@
 
 				"fgcolor_override"	"235 226 202 255"
 				"bgcolor_override"	"0 0 0 0"
-				"disabledFgColor_override" "235 226 202 255"
-				"disabledBgColor_override" "0 0 0 0"
-				"selectionColor_override" "0 0 0 0"
-				"selectionTextColor_override" "235 226 202 255"
-				"defaultSelectionBG2Color_override" "0 0 0 0"
+				"disabledFgColor_override"	"235 226 202 255"
+				"disabledBgColor_override"	"0 0 0 0"
+				"selectionColor_override"	"0 0 0 0"
+				"selectionTextColor_override"	"235 226 202 255"
+				"defaultSelectionBG2Color_override"	"0 0 0 0"
 			}
 
 			"SearchButton"
@@ -553,7 +553,7 @@
 					"tall"			"50"
 					"visible"		"1"
 					"enabled"		"1"
-					"mouseinputenabled" "0"
+					"mouseinputenabled"	"0"
 					"image"			"pve/mvm_timeout_active_large"
 					"scaleImage"	"1"
 				}
