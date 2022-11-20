@@ -96,7 +96,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"AmmoInReserve"
 		"font"					"ProductBold20"
-		"fgcolor"				"43 195 123 255"
+		"fgcolor"				"cHUD3"
 		"xpos"					"c2"
 		"ypos"					"r110"
 		"zpos"					"5"

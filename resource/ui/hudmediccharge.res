@@ -23,7 +23,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"IndividualChargesLabel"
 		"font"			"ProductBold10"
-		"fgcolor"		"brightgray"
+		"fgcolor"		"236 236 236 255"
 		"xpos"			"cs-0.5"
 		"ypos"			"c5"
 		"zpos"			"5"

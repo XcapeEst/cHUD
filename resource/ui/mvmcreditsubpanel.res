@@ -55,7 +55,7 @@
 		"ypos"			"0"
 		"wide"			"30"
 		"tall"			"20"
-		"fgcolor"		"CreditsGreen"
+		"fgcolor"		"cHUD3"
 
 		"pin_to_sibling"			"CreditCollectedTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element
@@ -127,7 +127,7 @@
 		"ypos"			"0"
 		"wide"			"30"
 		"tall"			"20"
-		"fgcolor"		"CreditsGreen"
+		"fgcolor"		"cHUD3"
 
 		"pin_to_sibling"			"CreditBonusTextLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element

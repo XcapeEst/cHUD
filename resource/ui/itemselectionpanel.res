@@ -186,7 +186,7 @@
 		"textHidden"		"0"
 		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"245 245 245 60"
+		"fgcolor_override"	"245 245 245 80"
 		"bgcolor_override"	"0 0 0 165"
 		"paintbackgroundtype" "0"
 		"font"		"product8"
@@ -389,7 +389,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"	"245 245 245 60"
+		"image_drawcolor"	"245 245 245 80"
 		"image_armedcolor"	"245 245 245 180"
 		"image_disabledcolor"	"brightgray0"
 
@@ -429,7 +429,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "245 245 245 60"
+		"fgcolor_override" "245 245 245 80"
 		"pin_to_sibling" "NextPageButton"
 		"pin_corner_to_sibling" "3"
 		"pin_to_sibling_corner" "2"
@@ -465,7 +465,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"	"245 245 245 60"
+		"image_drawcolor"	"245 245 245 80"
 		"image_armedcolor"	"245 245 245 180"
 		"image_disabledcolor"	"brightgray0"
 

@@ -27,6 +27,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"east"
 		"font"			"ProductBold20"
-		"fgcolor"		"200 52 52 255"
+		"fgcolor"		"cHUD1"
 	}
 }

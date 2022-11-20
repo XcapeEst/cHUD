@@ -301,7 +301,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"softgreen160"
+			"armedBgColor_override"		"cHUD3160"
 		}
 
 		"PrevInputPageButton"
@@ -331,7 +331,7 @@
 
 			"paintbackground"	"0"
 
-			"image_drawcolor"		"245 245 245 60"
+			"image_drawcolor"				"brightgray160"
 			"image_armedcolor"		"245 245 245 180"
 			"image_disabledcolor"	"brightgray0"
 
@@ -370,7 +370,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "245 245 245 60"
+			"fgcolor_override" "245 245 245 80"
 
 			"pin_to_sibling" "NextInputPageButton"
 			"pin_corner_to_sibling" "3"
@@ -404,7 +404,7 @@
 
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"245 245 245 60"
+			"image_drawcolor"	"245 245 245 80"
 			"image_armedcolor"	"245 245 245 180"
 			"image_disabledcolor"	"brightgray0"
 
@@ -529,8 +529,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"image_drawcolor"					"245 245 245 60"
-			"image_armedcolor"					"245 245 245 200"
+			"image_drawcolor"				"brightgray160"
+			"image_armedcolor"				"brightgray"
 
 			"defaultBgColor_override"			"0 0 0 0"
 			"armedBgColor_override"				"softred160"
@@ -579,7 +579,7 @@
 
 			"paintbackground"	"0"
 
-			"image_drawcolor"		"245 245 245 60"
+			"image_drawcolor"				"brightgray160"
 			"image_armedcolor"		"245 245 245 180"
 			"image_disabledcolor"	"brightgray0"
 
@@ -618,7 +618,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "245 245 245 60"
+			"fgcolor_override" "245 245 245 80"
 
 			"pin_to_sibling" "NextPageButton"
 			"pin_corner_to_sibling" "3"
@@ -652,7 +652,7 @@
 
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"245 245 245 60"
+			"image_drawcolor"	"245 245 245 80"
 			"image_armedcolor"	"245 245 245 180"
 			"image_disabledcolor"	"brightgray0"
 

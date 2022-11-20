@@ -75,7 +75,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"softgreen160"
+		"armedBgColor_override"		"cHUD3160"
 
 		"AllCaps"			"1"
 
@@ -237,7 +237,7 @@
 			"proportionaltoparent"	"1"
 			"velocity"		"0"
 			"radius"		"30"
-			"fgcolor_override"	"CreditsGreen"
+			"fgcolor_override"	"cHUD3"
 		}
 
 		"SuccessText"
@@ -253,7 +253,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "CreditsGreen"
+			"fgcolor_override" "cHUD3"
 			"proportionaltoparent"	"1"
 		}
 	}

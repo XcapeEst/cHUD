@@ -14,9 +14,9 @@
 		"tabPosition"						"0"
 		"settitlebarvisible"				"0"
 		"PaintBackgroundType"				"0"
-		"bgcolor_override"					"blank"
-		"infocus_bgcolor_override"				"blank"
-		"outoffocus_bgcolor_override"		"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"infocus_bgcolor_override"				"0 0 0 0"
+		"outoffocus_bgcolor_override"		"0 0 0 0"
 
 		"thumbnail_bgcolor"					"0 0 0 165"
 		"thumbnail_bgcolor_mouseover"		"255 255 255 16"
@@ -137,7 +137,7 @@
 		"NumericInputOnly"					"0"
 		"unicode"							"0"
 
-		"fgcolor_override"					"245 245 245 60"
+		"fgcolor_override"					"245 245 245 80"
 		"bgcolor_override"					"0 0 0 165"
 		"disabledFgColor_override"			"184 184 184 255"
 		"disabledBgColor_override"				"0 0 0 0"
@@ -309,7 +309,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"					"245 245 245 60"
+		"image_drawcolor"				"brightgray160"
 		"image_armedcolor"					"245 245 245 180"
 		"image_disabledcolor"				"brightgray0"
 
@@ -349,7 +349,7 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override"						"245 245 245 60"
+		"fgcolor_override"						"245 245 245 80"
 
 		"pin_to_sibling"						"NextPageButton"
 		"pin_corner_to_sibling"				"3"
@@ -386,7 +386,7 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"					"245 245 245 60"
+		"image_drawcolor"				"brightgray160"
 		"image_armedcolor"					"245 245 245 180"
 		"image_disabledcolor"				"brightgray0"
 

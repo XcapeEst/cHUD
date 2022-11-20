@@ -9,7 +9,7 @@
 		"zpos"					"2"
 		"tall"					"64"
 		"wide"					"64"
-		"bgcolor_override"		"collyhuddarkgray"
+		"bgcolor_override"		"CollyHudDarkGrey"
 	}
 	"EventEntry"
 	{

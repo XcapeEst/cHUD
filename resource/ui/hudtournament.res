@@ -130,8 +130,8 @@
 				"visible"					"1"
 				"enabled"					"1"
 				"border"					"blurborder"
-				"bgcolor"					"blank"
-				"bgcolor_override"			"blank"
+				"bgcolor"					"0 0 0 0"
+				"bgcolor_override"			"0 0 0 0"
 				"PaintBackgroundType"		"0"
 			}
 			"HealthIcon"
@@ -148,7 +148,7 @@
 				"HealthBonusPosAdj"				"10"
 				"HealthDeathWarning"			"0.9"
 				"TFFont"						"HudFontSmallest"
-				"HealthDeathWarningColor"		"HUDDeathWarning"
+				"HealthDeathWarningColor"		"cHUD7"
 				"TextColor"						"HudOffWhite"
 				"if_competitive"
 				{
@@ -207,7 +207,7 @@
 				"pinCorner"			"0"
 				"visible"			"1"
 				"enabled"			"1"
-				"fillcolor"			"softgreen"
+				"fillcolor"			"cHUD3"
 				"scaleImage"		"1"
 			}
 			"respawntime"

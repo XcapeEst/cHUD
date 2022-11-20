@@ -207,7 +207,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "blank"
+		"fgcolor_override" "0 0 0 0"
 		"proportionaltoparent" "1"
 		"mouseinputenabled"	"0"
 	}

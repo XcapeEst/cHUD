@@ -23,7 +23,7 @@
 		"zpos"					"1001"
 		"tall"					"f0"
 		"wide"					"f0"
-		"bgcolor_override"		"collyhuddarkgray"
+		"bgcolor_override"		"CollyHudDarkGrey"
 	}
 
 	"MvMLogoImage"
@@ -69,7 +69,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
-			"bgcolor"		"collyhuddarkgray"
+			"bgcolor"		"CollyHudDarkGrey"
 		}
 
 		"MannUpImage"

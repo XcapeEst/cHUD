@@ -294,8 +294,8 @@
 
 			"color_portrait_bg_red"			"215 215 215 255"
 			"color_portrait_bg_blue"		"215 215 215 255"
-			"color_portrait_bg_red_dead"	"collyhuddarkgray"
-			"color_portrait_bg_blue_dead"	"collyhuddarkgray"
+			"color_portrait_bg_red_dead"	"CollyHudDarkGrey"
+			"color_portrait_bg_blue_dead"	"CollyHudDarkGrey"
 			"color_bar_health_high"			"215 215 215 255"
 			"color_bar_health_med"			"191 183 58 255"
 			"percentage_health_med"			"0.9"
@@ -365,7 +365,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"				"collyhuddarkgray"
+				"bgcolor_override"				"CollyHudDarkGrey"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -386,7 +386,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	 		"0 0 0 0"
-				"fgcolor_override"				"softgreen"
+				"fgcolor_override"				"cHUD3"
 				"proportionaltoparent"	"1"
 			}
 			"respawntime"
@@ -423,7 +423,7 @@
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.9"
 				"TFFont"					"HudFontSmallest"
-				"HealthDeathWarningColor"	"HUDDeathWarning"
+				"HealthDeathWarningColor"	"cHUD7"
 				"TextColor"					"HudOffWhite"
 			}
 			"ReadyBG"
@@ -476,7 +476,7 @@
 				"visible"				"1"
 				"labelText"				"%chargeamount%"
 				"textAlignment"			"north"
-				"fgcolor"				"softgreen"
+				"fgcolor"				"cHUD3"
 			}
 			"specindex"
 				{

@@ -161,8 +161,8 @@
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
-				"armedBgColor_override"		"CreditsGreen"
-				"defaultBgColor_override"	"SaleGreen"
+				"armedBgColor_override"		"cHUD3"
+				"defaultBgColor_override"	"cHUD4"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -194,8 +194,8 @@
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
-				"armedBgColor_override"		"CreditsGreen"
-				"defaultBgColor_override"	"SaleGreen"
+				"armedBgColor_override"		"cHUD3"
+				"defaultBgColor_override"	"cHUD4"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

@@ -35,19 +35,19 @@
 	}
 	"HPReal"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"HPReal"
-		"xpos"			"0"//-9
-		"ypos"			"5"//11
-		"zpos"			"28"
-		"wide"			"85"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"labeltext"		"%Health%"
-		"textAlignment"		"east"
-		"font"			"productbold10"//"DefaultVerySmall"
-		"fgcolor_override"		"220 220 220 250"
+		"ControlName"			"Label"
+		"fieldName"				"HPReal"
+		"xpos"					"0"				//	-9
+		"ypos"					"5"				//	11
+		"zpos"					"28"
+		"wide"					"85"
+		"tall"					"10"
+		"visible"				"1"
+		"enabled"				"1"
+		"labeltext"				"%Health%"
+		"textAlignment"			"east"
+		"font"					"productbold10"	//	DefaultVerySmall
+		"fgcolor_override"		"TanLight"
 	}
 
 
@@ -113,7 +113,7 @@
 		"alpha"			"255"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"			"collyhuddarkgray"
+		"fillcolor"			"CollyHudDarkGrey"
 		"scaleImage"	"1"
 
 	}

@@ -46,7 +46,7 @@
 		"enabled"					"1"
 		"image"						"replay/thumbnails/hp/buffbg"
 		"scaleImage"				"1"
-		"fillcolor"					"blank"
+		"fillcolor"					"0 0 0 0"
 	}
 
 	"PlayerStatusHealthBonusImage"
@@ -80,6 +80,8 @@
 		"font"						"ProductBold40"
 		"fgcolor"					"brightgray"
 	}
+
+// Player status effect images
 
 	"PlayerStatusAnchor"
 	{

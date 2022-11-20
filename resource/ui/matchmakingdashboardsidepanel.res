@@ -116,14 +116,14 @@
 		"textAlignment"				"center"
 		"font"						"HudFontSmallBold"
 
-		"armedBgColor_override"		"255 255 255 10"
+		"armedBgColor_override"		"cHUD7"
 		"defaultBgColor_override"	"0 0 0 165"
 
-		"armedFgColor_override"		"blank"
-		"FgColor_override"			"blank"
+		"armedFgColor_override"		"0 0 0 0"
+		"FgColor_override"			"0 0 0 0"
 
-		"image_drawcolor"			"245 245 245 60"
-		"image_armedcolor"			"245 245 245 200"
+		"image_drawcolor"				"brightgray160"
+		"image_armedcolor"				"brightgray"
 		"image_disabledcolor"		"brightgray0"
 
 		"SubImage"
@@ -170,8 +170,8 @@
 		"textAlignment"				"west"
 		"font"						"product22"
 
-		"armedBgColor_override"		"collyhuddarkgray"
-		"defaultBgColor_override"	"collyhuddarkgray"
+		"armedBgColor_override"		"CollyHudDarkGrey"
+		"defaultBgColor_override"	"CollyHudDarkGrey"
 
 		"armedFgColor_override"		"Orange"
 	}

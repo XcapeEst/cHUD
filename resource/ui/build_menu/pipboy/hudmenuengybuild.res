@@ -4,11 +4,11 @@
 {
 	"TitleLabel"
 	{
-		"bgcolor_override"		"softgreen160"
+		"bgcolor_override"		"cHUD3160"
 	}
 
 	"TitleLabelDropshadow"
 	{
-		"bgcolor_override"		"softgreen160"
+		"bgcolor_override"		"cHUD3160"
 	}
 }

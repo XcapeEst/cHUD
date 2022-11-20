@@ -53,7 +53,7 @@
 		"proportionaltoparent"	"1"
 		"wide"					"f0"
 		"tall"					"f0"
-		"bgcolor_override"		"collyhuddarkgray"
+		"bgcolor_override"		"CollyHudDarkGrey"
 	}
 
 	"HealthProgressBar"	// Amount of players playing the map.

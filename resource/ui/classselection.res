@@ -60,7 +60,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"SoldierButtonPanel"
@@ -74,7 +74,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -151,7 +151,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"PyroButtonPanel"
@@ -165,7 +165,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -242,7 +242,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"DemoButtonPanel"
@@ -256,7 +256,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -333,7 +333,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"HeavyButtonPanel"
@@ -347,7 +347,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -424,7 +424,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"EngineerButtonPanel"
@@ -438,7 +438,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -515,7 +515,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"TeamButtonNumber"
@@ -525,7 +525,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -602,7 +602,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"EngineerButtonPanel"
@@ -616,7 +616,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -693,7 +693,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"MedicButtonPanel"
@@ -707,7 +707,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -784,7 +784,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"SniperButtonPanel"
@@ -798,7 +798,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -875,7 +875,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"SpyButtonPanel"
@@ -889,7 +889,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -972,7 +972,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"ScoutButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -999,7 +999,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"SoldierButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1026,7 +1026,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"PyroButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1053,7 +1053,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"DemoButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1080,7 +1080,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"HeavyButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1107,7 +1107,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"EngineerButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1134,7 +1134,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"MedicButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1161,7 +1161,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"SniperButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1188,7 +1188,7 @@
 		"font"								"product8"
 		"fgcolor"							"tanlight120"
 
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 
 		"pin_to_sibling"					"SpyButtonPanel"
 		"pin_corner_to_sibling"				"2"
@@ -1209,7 +1209,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"RandomButtonPanel"
@@ -1223,7 +1223,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			"armedBgColor_override"			"0 0 0 165Mid"
 
@@ -1300,7 +1300,7 @@
 		"visible"							"1"
 		"enabled"							"1"
 		"alpha"								"255"
-		"bgcolor_override"					"blank"
+		"bgcolor_override"					"0 0 0 0"
 		"PaintBackgroundType"				"0"
 
 		"pin_to_sibling"					"RandomButtonPanel"
@@ -1315,7 +1315,7 @@
 
 			"fgcolor"						"tanlight60"
 			"defaultFgColor_override"			"tanlight60"
-			"armedFgColor_override"			"245 245 245 160"
+			"armedfgcolor_override"			"TanLight"
 			"defaultBgColor_override"			"0 0 0 165"
 			//"armedBgColor_override"			"0 0 0 165"
 
@@ -2122,7 +2122,7 @@
 		"labelText"		"#TF_SelectAClass"
 		"textAlignment"	"west"
 		"font"			"MenuMainTitle"
-		"fgcolor"		"blank"
+		"fgcolor"		"0 0 0 0"
 	}
 
 	"MenuBG"
@@ -2454,7 +2454,7 @@
 		"labelText"		"#TF_TeamCount"
 		"textAlignment"	"left"
 		"font"			"blankfont"
-		"fgcolor"		"blank"
+		"fgcolor"		"0 0 0 0"
 	}
 
 	"MvMUpgradeImageScout"
@@ -2470,7 +2470,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"ScoutButtonPanel"
@@ -2491,7 +2491,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"SoldierButtonPanel"
@@ -2512,7 +2512,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"PyroButtonPanel"
@@ -2533,7 +2533,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"DemoButtonPanel"
@@ -2554,7 +2554,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"HeavyButtonPanel"
@@ -2575,7 +2575,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"EngineerButtonPanel"
@@ -2596,7 +2596,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"MedicButtonPanel"
@@ -2617,7 +2617,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"SniperButtonPanel"
@@ -2638,7 +2638,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/softicons/gear"
 		"scaleImage"	"1"
-		"fillcolor"		"softgreen160"
+		"fillcolor"		"cHUD3160"
 		"alpha"			"165"
 
 		"pin_to_sibling"			"SpyButtonPanel"

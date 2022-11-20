@@ -11,10 +11,10 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor"			"blank"
-		"bgcolor_override"			"blank"
-		"defaultBgColor_override"			"blank"
-		"defaultBgColor"			"blank"
+		"bgcolor"			"0 0 0 0"
+		"bgcolor_override"			"0 0 0 0"
+		"defaultBgColor_override"			"0 0 0 0"
+		"defaultBgColor"			"0 0 0 0"
 		"scaleImage"	"1"
 	}
 
@@ -33,10 +33,10 @@
 		"alpha"	"120"
 		"image"			"replay/thumbnails/silhouette"
 		"mouseinputenabled"	"0"
-		"bgcolor"			"blank"
-		"bgcolor_override"			"blank"
-		"defaultBgColor_override"			"blank"
-		"defaultBgColor"			"blank"
+		"bgcolor"			"0 0 0 0"
+		"bgcolor_override"			"0 0 0 0"
+		"defaultBgColor_override"			"0 0 0 0"
+		"defaultBgColor"			"0 0 0 0"
 	}
 
 	"LeaderIcon"

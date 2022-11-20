@@ -233,7 +233,7 @@
 			}
 			"colors"
 			{
-				"1"		"CreditsGreen"
+				"1"		"cHUD3"
 				"2"		"245 245 245 180"
 			}
 		}
@@ -325,7 +325,7 @@
 						"tall"						"2"
 						"proportionaltoparent"		"1"
 						"progress"					"0"
-						"fgcolor_override"			"CreditsGreen"
+						"fgcolor_override"			"cHUD3"
 						"bgcolor_override"			"245 245 245 16"
 					}
 					"Frame"

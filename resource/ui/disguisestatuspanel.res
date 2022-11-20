@@ -119,26 +119,26 @@
 
 		"textinsetx"	"20"
 
-		"pin_to_sibling"			"DisguiseNameLabel"
+		"pin_to_sibling"		"DisguiseNameLabel"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
 
 	"SpectatorGUIHealth"
 	{
-		"ControlName"		"EditablePanel"
-		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"6"
-		"ypos"			"rs1-6"
-		"wide"			"32"
-		"tall"			"16"
-		"visible"		"1"
-		"enabled"		"1"
-		"HealthBonusPosAdj"	"10"
-		"HealthDeathWarning"	"0.9"
-		"TFFont"		"HudFontSmall"
-		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"TextColor"		"HudOffWhite"
+		"ControlName"				"EditablePanel"
+		"fieldName"					"SpectatorGUIHealth"
+		"xpos"						"6"
+		"ypos"						"rs1-6"
+		"wide"						"32"
+		"tall"						"16"
+		"visible"					"1"
+		"enabled"					"1"
+		"HealthBonusPosAdj"			"10"
+		"HealthDeathWarning"		"0.9"
+		"TFFont"					"HudFontSmall"
+		"HealthDeathWarningColor"	"cHUD7"
+		"TextColor"					"HudOffWhite"
 	}
 
 }

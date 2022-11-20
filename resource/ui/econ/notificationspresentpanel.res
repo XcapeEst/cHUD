@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"245 245 245 60"
+		"fgcolor"		"245 245 245 80"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"

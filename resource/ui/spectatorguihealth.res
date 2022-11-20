@@ -9,8 +9,8 @@
 		"zpos"			"3"
 		"wide"			"0"
 		"tall"			"0"
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"		"1"
+		"enabled"		"1"
 		"scaleImage"	"1"
 	}
 	"PlayerStatusHealthImageBG"
@@ -79,7 +79,7 @@
 		"tall"			"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"softgreen" //use softgreen for green buffs
+		"fillcolor"		"cHUD3" //use cHUD3 for green buffs
 	}
 
 	"PlayerStatusHealthValueMain2"

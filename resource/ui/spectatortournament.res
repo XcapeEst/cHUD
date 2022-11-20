@@ -163,7 +163,7 @@
 				"tall"			"28"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"		"blank"
+				"bgcolor_override"		"0 0 0 0"
 				"PaintBackgroundType"	"0"
 
 				if_aids
@@ -182,7 +182,7 @@
 				"tall"			"28"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"		"blank"
+				"bgcolor_override"		"0 0 0 0"
 				"PaintBackgroundType"	"0"
 
 				if_aids
@@ -201,7 +201,7 @@
 				"tall"			"28"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"		"blank"
+				"bgcolor_override"		"0 0 0 0"
 				"PaintBackgroundType"	"0"
 
 				if_aids

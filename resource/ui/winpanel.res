@@ -458,7 +458,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline"				"blank"
+		"color_outline"				"0 0 0 0"
 	}
 	"Player1Name"
 	{
@@ -541,7 +541,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline"				"blank"
+		"color_outline"				"0 0 0 0"
 	}
 	"Player2Name"
 	{
@@ -624,7 +624,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline"				"blank"
+		"color_outline"				"0 0 0 0"
 	}
 	"Player3Name"
 	{
@@ -764,7 +764,7 @@
 		"enabled"					"0"
 		"image"						""
 		"scaleImage"				"1"
-		"color_outline"				"blank"
+		"color_outline"				"0 0 0 0"
 	}
 	"KillStreakPlayer1Name"
 	{

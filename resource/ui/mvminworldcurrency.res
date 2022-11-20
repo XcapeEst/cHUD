@@ -50,7 +50,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
 		"font"			"productbold18"
-		"fgcolor"		"softgreen"
+		"fgcolor"		"cHUD3"
 		"xpos"			"c-50"
 		"ypos"			"c80"
 		"zpos"			"4"

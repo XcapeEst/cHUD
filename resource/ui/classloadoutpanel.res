@@ -47,7 +47,7 @@
 			"wide"							"50"
 			"tall"							"50"
 			"visible"						"0"
-			"noitem_textcolor"				"245 245 245 60"
+			"noitem_textcolor"				"245 245 245 80"
 			"PaintBackgroundType"			"0"
 			"paintborder"					"1"
 			"paintbackground"				"1"

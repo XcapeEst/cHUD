@@ -96,7 +96,7 @@
 		"tall"			"f0"
 		"zpos"			"5"
 		"proportionaltoparent"	"1"
-		"border"		"blank"
+		"border"		"0 0 0 0"
 		"mouseinputenabled"	"0"
 	}
 

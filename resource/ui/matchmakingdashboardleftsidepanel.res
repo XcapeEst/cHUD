@@ -96,10 +96,10 @@
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"
 
-		"armedFgColor_override"	"blank"
-		"FgColor_override"	"blank"
+		"armedFgColor_override"	"0 0 0 0"
+		"FgColor_override"	"0 0 0 0"
 
-		"image_drawcolor"	"245 245 245 60"
+		"image_drawcolor"	"245 245 245 80"
 		"image_armedcolor"	"245 245 245 180"
 		"image_disabledcolor"	"brightgray0"
 
@@ -142,7 +142,7 @@
 
 		"armedFgColor_override"	"Orange"
 
-		"image_drawcolor"	"245 245 245 60"
+		"image_drawcolor"	"245 245 245 80"
 		"image_armedcolor"	"245 245 245 180"
 		"image_disabledcolor"	"brightgray0"
 
@@ -175,7 +175,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
-		"bgcolor_override"		"collyhuddarkgray"
+		"bgcolor_override"		"CollyHudDarkGrey"
 	}
 	"DashboardDimmer"
 	{

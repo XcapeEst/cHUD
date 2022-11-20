@@ -22,7 +22,7 @@
 		"zpos"					"1001"
 		"tall"					"f0"
 		"wide"					"f0"
-		"bgcolor_override"		"collyhuddarkgray"
+		"bgcolor_override"		"CollyHudDarkGrey"
 	}
 
 	"criteria"
@@ -117,7 +117,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"softgreen160"
+		"armedBgColor_override"		"cHUD4"
 	}
 
 	"BootCampToolTipButtonHack"
@@ -167,7 +167,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"softgreen160"
+		"armedBgColor_override"		"cHUD4"
 	}
 
 	"NextButton"

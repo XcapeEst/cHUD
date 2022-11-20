@@ -880,7 +880,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"blank" //29 31 38 230
+		"fillcolor"		"0 0 0 0" //29 31 38 230
 
 		if_mvm
 		{
@@ -906,7 +906,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"blank"
+		"fillcolor"		"0 0 0 0"
 
 		if_mvm
 		{
@@ -1757,7 +1757,7 @@
 			"border"		"LightWhiteLine"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"			"blank"
+			"fillcolor"			"0 0 0 0"
 
 			if_mvm
 				{

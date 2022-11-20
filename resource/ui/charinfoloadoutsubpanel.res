@@ -16,9 +16,9 @@
 		"tabPosition"						"0"
 		"settitlebarvisible"				"1"
 		"PaintBackgroundType"				"0"
-		"bgcolor_override"					"blank"
-		"infocus_bgcolor_override"				"blank"
-		"outoffocus_bgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"infocus_bgcolor_override"				"0 0 0 0"
+		"outoffocus_bgcolor_override"			"0 0 0 0"
 
 		"selectlabely_default"				"55"
 		"selectlabely_onchanges"			"45"
@@ -267,8 +267,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"LoadoutLabel"
 		"pin_corner_to_sibling"				"0"
@@ -301,8 +301,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"customscout"
 		"pin_corner_to_sibling"				"0"
@@ -335,8 +335,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"customsoldier"
 		"pin_corner_to_sibling"				"0"
@@ -369,8 +369,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"custompyro"
 		"pin_corner_to_sibling"				"0"
@@ -403,8 +403,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"customdemo"
 		"pin_corner_to_sibling"				"0"
@@ -437,8 +437,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"customheavy"
 		"pin_corner_to_sibling"				"0"
@@ -471,8 +471,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"customengi"
 		"pin_corner_to_sibling"				"0"
@@ -505,8 +505,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"custommedic"
 		"pin_corner_to_sibling"				"0"
@@ -539,8 +539,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 
 		"pin_to_sibling"						"customSniper"
 		"pin_corner_to_sibling"				"0"
@@ -811,8 +811,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 		"armedbgcolor_override"				"255 255 255 16"
 
 		"pin_to_sibling"					"INVENTORYLabel"
@@ -864,8 +864,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 		"armedbgcolor_override"				"255 255 255 16"
 
 		"pin_to_sibling"						"ShowBackpackButton"
@@ -917,8 +917,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 		"armedbgcolor_override"				"255 255 255 16"
 
 		"pin_to_sibling"						"ShowCraftingButton"
@@ -969,8 +969,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 		"armedbgcolor_override"				"255 255 255 16"
 
 		"pin_to_sibling"						"ShowArmoryButton"
@@ -1023,8 +1023,8 @@
 		"border_default"					"noborder"
 		"border_armed"						"noborder"
 		"paintborder"						"1"
-		"bgcolor_override"					"blank"
-		"defaultbgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"defaultbgcolor_override"			"0 0 0 0"
 		"armedbgcolor_override"				"255 255 255 16"
 
 		"pin_to_sibling"						"ShowTradeButton"
@@ -1147,8 +1147,8 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override"						"245 245 245 60"
-		"bgcolor_override"					"blank"
+		"fgcolor_override"						"245 245 245 80"
+		"bgcolor_override"					"0 0 0 0"
 	}
 
 	"SelectLabel"
@@ -1168,8 +1168,8 @@
 		"pinCorner"							"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fgcolor_override"						"245 245 245 60"
-		"bgcolor_override"						"blank"
+		"fgcolor_override"						"245 245 245 80"
+		"bgcolor_override"						"0 0 0 0"
 	}
 
 	"LoadoutChangesLabel"
@@ -1363,7 +1363,7 @@
 			"pinCorner"						"0"
 			"visible"						"1"
 			"enabled"						"1"
-			"fillcolor"						"darkestgray"
+			"fillcolor"						"brightgray"
 		}
 		"NextButton"
 		{

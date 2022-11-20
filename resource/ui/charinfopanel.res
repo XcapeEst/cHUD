@@ -16,8 +16,8 @@
 		"tabPosition"						"0"
 		"settitlebarvisible"				"0"
 		"PaintBackgroundType"				"0"
-		"bgcolor_override"					"blank"
-		"infocus_bgcolor_override"			"blank"
+		"bgcolor_override"					"0 0 0 0"
+		"infocus_bgcolor_override"			"0 0 0 0"
 		"outoffocus_bgcolor_override"		"MainBG"
 
 		"title"								"#CharInfoAndSetup"
@@ -155,10 +155,10 @@
 		"Command"							"back"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		"fgcolor_override"					"blank"
-		"armedfgcolor_override"				"blank"
-		"defaultfgcolor_override"			"blank"
-		"image_drawcolor"					"245 245 245 60"
+		"fgcolor_override"					"0 0 0 0"
+		"armedfgcolor_override"				"0 0 0 0"
+		"defaultfgcolor_override"			"0 0 0 0"
+		"image_drawcolor"				"brightgray160"
 		"image_armedcolor"					"245 245 245 235"
 
 		"SubImage"
@@ -210,8 +210,8 @@
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"					"245 245 245 60"
-		"image_armedcolor"					"245 245 245 200"
+		"image_drawcolor"				"brightgray160"
+		"image_armedcolor"				"brightgray"
 
 		"SubImage"
 		{

@@ -37,7 +37,7 @@
 		"pinCorner"			"0"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"blank"
+		"fillcolor"			"0 0 0 0"
 		"border"			"TFFatLineBorderBlueBGSpec"
 	}
 	"TargetIDBG_Black_Bar"
@@ -69,7 +69,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"blank"
+		"fillcolor"			"0 0 0 0"
 		"PaintBackgroundType"	"0"
 	}
 	"TargetIDBG_Spec_Red"
@@ -85,7 +85,7 @@
 		"pinCorner"			"0"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"blank"
+		"fillcolor"			"0 0 0 0"
 		"border"			"TFFatLineBorderRedBGSpec"
 	}
 
@@ -133,19 +133,19 @@
 	}
 	"SpectatorGUIHealth"
 	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"SpectatorGUIHealth"
-		"xpos"				"0"
-		"zpos"				"1"
-		"ypos"				"12"
-		"wide"				"32"
-		"tall"				"24"
-		"visible"			"1"
-		"enabled"			"1"
-		"HealthBonusPosAdj"	"18"
+		"ControlName"				"EditablePanel"
+		"fieldName"					"SpectatorGUIHealth"
+		"xpos"						"0"
+		"zpos"						"1"
+		"ypos"						"12"
+		"wide"						"32"
+		"tall"						"24"
+		"visible"					"1"
+		"enabled"					"1"
+		"HealthBonusPosAdj"			"18"
 		"HealthDeathWarning"		"0.9"
 		"TFFont"					"HudFontSmall"
-		"HealthDeathWarningColor"	"HUDDeathWarning"
+		"HealthDeathWarningColor"	"cHUD7"
 		"TextColor"					"Hudoffwhite"
 	}
 	"AmmoIcon"
@@ -267,7 +267,7 @@
 			"enabled"			"1"
 			"labelText"			"pick up"
 			"bgcolor"			"softred"
-			"fgcolor_override"			"tanlight"
+			"fgcolor_override"	"tanlight"
 			"textAlignment"		"CENTER"
 			"dulltext"			"0"
 			"brighttext"		"0"
@@ -290,7 +290,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"labelText"			"pick up"
-			"fgcolor_override"			"tanlight"
+			"fgcolor_override"	"tanlight"
 			"textAlignment"		"CENTER"
 			"dulltext"			"0"
 			"brighttext"		"0"
@@ -310,7 +310,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"blank"
+			"fillcolor"			"0 0 0 0"
 		}
 
 	}

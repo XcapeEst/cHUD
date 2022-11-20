@@ -57,7 +57,7 @@
 			"mouseinputenabled"	"0"
 
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"collyhuddarkgray"
+			"bgcolor_override"	"CollyHudDarkGrey"
 		}
 		"FGColor2"
 		{
@@ -113,7 +113,7 @@
 			"border_default"			"NoBorder"
 
 			"border_armed"				"NoBorder"
-			"selectedBGColor_override"	"softgreen"
+			"selectedBGColor_override"	"cHUD3"
 
 			"sound_armed"				"ui/item_info_mouseover.wav"
 			"sound_depressed"			"UI/buttonclick.wav"
@@ -223,7 +223,7 @@
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 
-			"fgcolor_override"		"blank"
+			"fgcolor_override"		"0 0 0 0"
 		}
 
 		"DescLabel"
@@ -267,7 +267,7 @@
 			"enabled"		"1"
 
 			"wrap"			"1"
-			"fgcolor_override" "blank"
+			"fgcolor_override" "0 0 0 0"
 			"proportionaltoparent" "1"
 			"mouseinputenabled"	"0"
 		}

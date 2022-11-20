@@ -295,7 +295,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"
-				"meterfgcolor"	"softgreen"
+				"meterfgcolor"	"cHUD3"
 				"dulltext"		"0"
 				"brighttext"	"0"
 			}

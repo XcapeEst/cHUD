@@ -234,7 +234,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "245 245 245 60"
+		"fgcolor_override" "245 245 245 80"
 	}
 	"MapLabel"
 	{

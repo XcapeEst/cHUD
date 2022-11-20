@@ -133,7 +133,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"CreditsGreen"
+		"armedBgColor_override"		"cHUD4"
 		"defaultBgColor_override"	"GreenSolid"
 	}
 }

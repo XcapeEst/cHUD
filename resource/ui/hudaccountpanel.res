@@ -5,7 +5,7 @@
 		"delta_item_x"			"18"
 		"delta_item_start_y"	"18"
 		"delta_item_end_y"		"40"
-		"PositiveColor"			"43 195 123 255"
+		"PositiveColor"			"cHUD3"
 		"NegativeColor"			"softred"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"productbold14"
