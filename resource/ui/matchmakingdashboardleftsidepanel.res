@@ -33,7 +33,7 @@
 		"mouseinputenabled"	"0"
 		"alpha"		"180"
 
-		"image"		"replay\thumbnails\bg_blank"
+		"image"		"replay/thumbnails/bg_blank"
 	}
 
 	"Gradient"
@@ -52,7 +52,7 @@
 		"scaleimage"	"1"
 		"mouseinputenabled"	"0"
 
-		"image"		"replay\thumbnails\bg_blank"
+		"image"		"replay/thumbnails/bg_blank"
 	}
 
 	"GradientRight"
@@ -72,7 +72,7 @@
 		"mouseinputenabled"	"0"
 		"alpha"		"255"
 
-		"image"		"replay\thumbnails\bg_blank"
+		"image"		"replay/thumbnails/bg_blank"
 	}
 
 	"CloseButton"

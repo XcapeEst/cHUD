@@ -37,7 +37,7 @@
 		"mouseinputenabled"		"0"
 		"alpha"					"180"
 
-		"image"					"replay\thumbnails\bg_blank"
+		"image"					"replay/thumbnails/bg_blank"
 	}
 
 	"InnerGradient"	// Hidden
@@ -64,7 +64,7 @@
 		"scaleimage"			"1"
 		"mouseinputenabled"		"0"
 
-		"image"					"replay\thumbnails\bg_blank"
+		"image"					"replay/thumbnails/bg_blank"
 	}
 
 	"OuterGradient"	// Hidden
@@ -93,7 +93,7 @@
 		"mouseinputenabled"		"0"
 		"alpha"					"255"
 
-		"image"					"replay\thumbnails\bg_blank"
+		"image"					"replay/thumbnails/bg_blank"
 	}
 
 	// Matchmaking category CloseButton
