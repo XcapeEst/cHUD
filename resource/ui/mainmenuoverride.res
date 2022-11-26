@@ -1263,6 +1263,8 @@
 			"row_gap"					"0"
 			"column_gap"				"10"
 			"restrict_width"			"0"
+			"bgcolor_override"			"0 0 0 165"
+			"armedFgColor_override"		"245 245 245 80"
 			"friendpanel_kv"
 			{
 				"wide"		"265"
@@ -1310,7 +1312,7 @@
 			"PaintBackgroundType"		"0"
 			"proportionaltoparent"		"1"
 			"mouseinputenabled"			"0"
-			"bgcolor_override"			"0 0 0 165"
+			"bgcolor_override"			"0 0 0 0"
 		}
 		"BelowDarken2"
 		{
@@ -1325,7 +1327,7 @@
 			"PaintBackgroundType"		"0"
 			"proportionaltoparent"		"1"
 			"mouseinputenabled"			"0"
-			"bgcolor_override"			"0 0 0 80"
+			"bgcolor_override"			"0 0 0 165"
 		}
 		"pin_to_sibling"			"SettingsButtonR"
 		"pin_corner_to_sibling"		"0"
@@ -1924,9 +1926,8 @@
 		"brighttext"					"0"
 		"default"						"1"
 		"Command"						"OpenOptionsDialog"
-		"navUp"							"Notifications_Panel"
-		"navLeft"						"ReportBugButton"
-		"navRight"						"TF2SettingsButton"
+		"navUp"							"TF2SettingsButton"
+		"navLeft"						"ServerBrowserButton"
 		"defaultfgcolor_override"		"TanLight"
 		"armedfgcolor_override"			"TanLight"
 		"armedbgcolor_override"			"255 255 255 16"
